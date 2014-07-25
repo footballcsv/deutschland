@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2012-08-24,Dortmund,Werder Bremen,2-1,1-0
+2012-08-25,Augsburg,Fortuna Dusseldorf,0-2,0-0
+2012-08-25,Ein Frankfurt,Leverkusen,2-1,0-1
+2012-08-25,Freiburg,Mainz,1-1,0-0
+2012-08-25,Greuther Furth,Bayern Munich,0-3,0-1
+2012-08-25,Hamburg,Nurnberg,0-1,0-0
+2012-08-25,M'gladbach,Hoffenheim,2-1,1-0
+2012-08-26,Hannover,Schalke 04,2-2,1-0
+2012-08-26,Stuttgart,Wolfsburg,0-1,0-0
+2012-08-31,Mainz,Greuther Furth,0-1,0-0
+2012-09-01,Fortuna Dusseldorf,M'gladbach,0-0,0-0
+2012-09-01,Hoffenheim,Ein Frankfurt,0-4,0-2
+2012-09-01,Leverkusen,Freiburg,2-0,1-0
+2012-09-01,Nurnberg,Dortmund,1-1,1-1
+2012-09-01,Schalke 04,Augsburg,3-1,1-0
+2012-09-01,Werder Bremen,Hamburg,2-0,0-0
+2012-09-02,Bayern Munich,Stuttgart,6-1,3-1
+2012-09-02,Wolfsburg,Hannover,0-4,0-2
+2012-09-14,Augsburg,Wolfsburg,0-0,0-0
+2012-09-15,Bayern Munich,Mainz,3-1,2-0
+2012-09-15,Dortmund,Leverkusen,3-0,2-0
+2012-09-15,Greuther Furth,Schalke 04,0-2,0-0
+2012-09-15,Hannover,Werder Bremen,3-2,2-1
+2012-09-15,M'gladbach,Nurnberg,2-3,1-2
+2012-09-15,Stuttgart,Fortuna Dusseldorf,0-0,0-0
+2012-09-16,Ein Frankfurt,Hamburg,3-2,2-1
+2012-09-16,Freiburg,Hoffenheim,5-3,2-1
+2012-09-21,Nurnberg,Ein Frankfurt,1-2,0-1
+2012-09-22,Fortuna Dusseldorf,Freiburg,0-0,0-0
+2012-09-22,Hamburg,Dortmund,3-2,1-0
+2012-09-22,Mainz,Augsburg,2-0,2-0
+2012-09-22,Schalke 04,Bayern Munich,0-2,0-0
+2012-09-22,Wolfsburg,Greuther Furth,1-1,1-1
+2012-09-23,Hoffenheim,Hannover,3-1,1-1
+2012-09-23,Leverkusen,M'gladbach,1-1,1-1
+2012-09-23,Werder Bremen,Stuttgart,2-2,2-0
+2012-09-25,Bayern Munich,Wolfsburg,3-0,1-0
+2012-09-25,Ein Frankfurt,Dortmund,3-3,0-2
+2012-09-25,Greuther Furth,Fortuna Dusseldorf,0-2,0-2
+2012-09-25,Schalke 04,Mainz,3-0,1-0
+2012-09-26,Augsburg,Leverkusen,1-3,0-3
+2012-09-26,Freiburg,Werder Bremen,1-2,1-0
+2012-09-26,Hannover,Nurnberg,4-1,2-0
+2012-09-26,M'gladbach,Hamburg,2-2,1-2
+2012-09-26,Stuttgart,Hoffenheim,0-3,0-1
+2012-09-28,Fortuna Dusseldorf,Schalke 04,2-2,0-2
+2012-09-29,Dortmund,M'gladbach,5-0,2-0
+2012-09-29,Hamburg,Hannover,1-0,1-0
+2012-09-29,Hoffenheim,Augsburg,0-0,0-0
+2012-09-29,Leverkusen,Greuther Furth,2-0,0-0
+2012-09-29,Nurnberg,Stuttgart,0-2,0-1
+2012-09-29,Werder Bremen,Bayern Munich,0-2,0-0
+2012-09-30,Ein Frankfurt,Freiburg,2-1,0-0
+2012-09-30,Wolfsburg,Mainz,0-2,0-2
+2012-10-05,Augsburg,Werder Bremen,3-1,2-1
+2012-10-06,Bayern Munich,Hoffenheim,2-0,1-0
+2012-10-06,Freiburg,Nurnberg,3-0,1-0
+2012-10-06,Greuther Furth,Hamburg,0-1,0-1
+2012-10-06,Mainz,Fortuna Dusseldorf,1-0,0-0
+2012-10-06,Schalke 04,Wolfsburg,3-0,1-0
+2012-10-07,Hannover,Dortmund,1-1,0-1
+2012-10-07,M'gladbach,Ein Frankfurt,2-0,2-0
+2012-10-07,Stuttgart,Leverkusen,2-2,1-1
+2012-10-19,Hoffenheim,Greuther Furth,3-3,1-1
+2012-10-20,Dortmund,Schalke 04,1-2,0-1
+2012-10-20,Ein Frankfurt,Hannover,3-1,2-1
+2012-10-20,Fortuna Dusseldorf,Bayern Munich,0-5,0-2
+2012-10-20,Leverkusen,Mainz,2-2,1-0
+2012-10-20,Werder Bremen,M'gladbach,4-0,2-0
+2012-10-20,Wolfsburg,Freiburg,0-2,0-1
+2012-10-21,Hamburg,Stuttgart,0-1,0-1
+2012-10-21,Nurnberg,Augsburg,0-0,0-0
+2012-10-26,Augsburg,Hamburg,0-2,0-1
+2012-10-27,Fortuna Dusseldorf,Wolfsburg,1-4,0-0
+2012-10-27,Freiburg,Dortmund,0-2,0-0
+2012-10-27,Greuther Furth,Werder Bremen,1-1,1-1
+2012-10-27,Mainz,Hoffenheim,3-0,1-0
+2012-10-27,Schalke 04,Nurnberg,1-0,0-0
+2012-10-28,Bayern Munich,Leverkusen,1-2,0-1
+2012-10-28,Hannover,M'gladbach,2-3,0-0
+2012-10-28,Stuttgart,Ein Frankfurt,2-1,1-0
+2012-11-02,Ein Frankfurt,Greuther Furth,1-1,1-0
+2012-11-03,Dortmund,Stuttgart,0-0,0-0
+2012-11-03,Hamburg,Bayern Munich,0-3,0-1
+2012-11-03,Hannover,Augsburg,2-0,1-0
+2012-11-03,Hoffenheim,Schalke 04,3-2,1-1
+2012-11-03,M'gladbach,Freiburg,1-1,0-0
+2012-11-03,Nurnberg,Wolfsburg,1-0,0-0
+2012-11-04,Leverkusen,Fortuna Dusseldorf,3-2,2-1
+2012-11-04,Werder Bremen,Mainz,2-1,1-0
+2012-11-09,Mainz,Nurnberg,2-1,2-1
+2012-11-10,Augsburg,Dortmund,1-3,0-1
+2012-11-10,Bayern Munich,Ein Frankfurt,2-0,1-0
+2012-11-10,Fortuna Dusseldorf,Hoffenheim,1-1,1-1
+2012-11-10,Freiburg,Hamburg,0-0,0-0
+2012-11-10,Schalke 04,Werder Bremen,2-1,0-1
+2012-11-11,Greuther Furth,M'gladbach,2-4,2-1
+2012-11-11,Stuttgart,Hannover,2-4,2-0
+2012-11-11,Wolfsburg,Leverkusen,3-1,3-0
+2012-11-17,Dortmund,Greuther Furth,3-1,3-1
+2012-11-17,Ein Frankfurt,Augsburg,4-2,2-1
+2012-11-17,Hamburg,Mainz,1-0,0-0
+2012-11-17,Hannover,Freiburg,1-2,1-1
+2012-11-17,Leverkusen,Schalke 04,2-0,1-0
+2012-11-17,M'gladbach,Stuttgart,1-2,1-1
+2012-11-17,Nurnberg,Bayern Munich,1-1,0-1
+2012-11-18,Hoffenheim,Wolfsburg,1-3,0-2
+2012-11-18,Werder Bremen,Fortuna Dusseldorf,2-1,0-1
+2012-11-23,Fortuna Dusseldorf,Hamburg,2-0,1-0
+2012-11-24,Bayern Munich,Hannover,5-0,3-0
+2012-11-24,Greuther Furth,Nurnberg,0-0,0-0
+2012-11-24,Mainz,Dortmund,1-2,1-2
+2012-11-24,Schalke 04,Ein Frankfurt,1-1,1-1
+2012-11-24,Wolfsburg,Werder Bremen,1-1,0-1
+2012-11-25,Augsburg,M'gladbach,1-1,1-0
+2012-11-25,Freiburg,Stuttgart,3-0,1-0
+2012-11-25,Hoffenheim,Leverkusen,1-2,0-2
+2012-11-27,Dortmund,Fortuna Dusseldorf,1-1,1-0
+2012-11-27,Ein Frankfurt,Mainz,1-3,0-2
+2012-11-27,Hamburg,Schalke 04,3-1,0-0
+2012-11-27,Hannover,Greuther Furth,2-0,1-0
+2012-11-28,Freiburg,Bayern Munich,0-2,0-1
+2012-11-28,M'gladbach,Wolfsburg,2-0,2-0
+2012-11-28,Nurnberg,Hoffenheim,4-2,2-1
+2012-11-28,Stuttgart,Augsburg,2-1,1-1
+2012-11-28,Werder Bremen,Leverkusen,1-4,0-1
+2012-11-30,Fortuna Dusseldorf,Ein Frankfurt,4-0,2-0
+2012-12-01,Augsburg,Freiburg,1-1,1-1
+2012-12-01,Bayern Munich,Dortmund,1-1,0-0
+2012-12-01,Greuther Furth,Stuttgart,0-1,0-1
+2012-12-01,Leverkusen,Nurnberg,1-0,1-0
+2012-12-01,Mainz,Hannover,2-1,1-1
+2012-12-01,Schalke 04,M'gladbach,1-1,0-0
+2012-12-02,Hoffenheim,Werder Bremen,1-4,0-2
+2012-12-02,Wolfsburg,Hamburg,1-1,0-1
+2012-12-07,Hamburg,Hoffenheim,2-0,1-0
+2012-12-08,Augsburg,Bayern Munich,0-2,0-1
+2012-12-08,Dortmund,Wolfsburg,2-3,1-2
+2012-12-08,Ein Frankfurt,Werder Bremen,4-1,0-0
+2012-12-08,Freiburg,Greuther Furth,1-0,1-0
+2012-12-08,Nurnberg,Fortuna Dusseldorf,2-0,1-0
+2012-12-08,Stuttgart,Schalke 04,3-1,2-1
+2012-12-09,Hannover,Leverkusen,3-2,1-1
+2012-12-09,M'gladbach,Mainz,2-0,0-0
+2012-12-14,Bayern Munich,M'gladbach,1-1,0-1
+2012-12-15,Fortuna Dusseldorf,Hannover,2-1,1-0
+2012-12-15,Greuther Furth,Augsburg,1-1,0-1
+2012-12-15,Leverkusen,Hamburg,3-0,2-0
+2012-12-15,Mainz,Stuttgart,3-1,0-0
+2012-12-15,Schalke 04,Freiburg,1-3,1-2
+2012-12-15,Wolfsburg,Ein Frankfurt,0-2,0-2
+2012-12-16,Hoffenheim,Dortmund,1-3,1-1
+2012-12-16,Werder Bremen,Nurnberg,1-1,0-0
+2013-01-18,Schalke 04,Hannover,5-4,1-0
+2013-01-19,Bayern Munich,Greuther Furth,2-0,1-0
+2013-01-19,Hoffenheim,M'gladbach,0-0,0-0
+2013-01-19,Leverkusen,Ein Frankfurt,3-1,2-0
+2013-01-19,Mainz,Freiburg,0-0,0-0
+2013-01-19,Werder Bremen,Dortmund,0-5,0-2
+2013-01-19,Wolfsburg,Stuttgart,2-0,0-0
+2013-01-20,Fortuna Dusseldorf,Augsburg,2-3,0-2
+2013-01-20,Nurnberg,Hamburg,1-1,0-0
+2013-01-25,Dortmund,Nurnberg,3-0,2-0
+2013-01-26,Augsburg,Schalke 04,0-0,0-0
+2013-01-26,Ein Frankfurt,Hoffenheim,2-1,1-0
+2013-01-26,Freiburg,Leverkusen,0-0,0-0
+2013-01-26,Greuther Furth,Mainz,0-3,0-0
+2013-01-26,Hannover,Wolfsburg,2-1,2-0
+2013-01-26,M'gladbach,Fortuna Dusseldorf,2-1,2-0
+2013-01-27,Hamburg,Werder Bremen,3-2,1-1
+2013-01-27,Stuttgart,Bayern Munich,0-2,0-0
+2013-02-01,Werder Bremen,Hannover,2-0,0-0
+2013-02-02,Fortuna Dusseldorf,Stuttgart,3-1,2-0
+2013-02-02,Hamburg,Ein Frankfurt,0-2,0-2
+2013-02-02,Hoffenheim,Freiburg,2-1,2-1
+2013-02-02,Mainz,Bayern Munich,0-3,0-1
+2013-02-02,Schalke 04,Greuther Furth,1-2,0-0
+2013-02-02,Wolfsburg,Augsburg,1-1,1-1
+2013-02-03,Leverkusen,Dortmund,2-3,0-2
+2013-02-03,Nurnberg,M'gladbach,2-1,2-0
+2013-02-09,Bayern Munich,Schalke 04,4-0,2-0
+2013-02-09,Dortmund,Hamburg,1-4,1-2
+2013-02-09,Ein Frankfurt,Nurnberg,0-0,0-0
+2013-02-09,Greuther Furth,Wolfsburg,0-1,0-1
+2013-02-09,Hannover,Hoffenheim,1-0,1-0
+2013-02-09,M'gladbach,Leverkusen,3-3,1-0
+2013-02-09,Stuttgart,Werder Bremen,1-4,0-1
+2013-02-10,Augsburg,Mainz,1-1,0-1
+2013-02-10,Freiburg,Fortuna Dusseldorf,1-0,0-0
+2013-02-15,Wolfsburg,Bayern Munich,0-2,0-1
+2013-02-16,Dortmund,Ein Frankfurt,3-0,2-0
+2013-02-16,Fortuna Dusseldorf,Greuther Furth,1-0,1-0
+2013-02-16,Hamburg,M'gladbach,1-0,1-0
+2013-02-16,Leverkusen,Augsburg,2-1,1-0
+2013-02-16,Mainz,Schalke 04,2-2,1-1
+2013-02-16,Werder Bremen,Freiburg,2-3,1-1
+2013-02-17,Hoffenheim,Stuttgart,0-1,0-1
+2013-02-17,Nurnberg,Hannover,2-2,0-1
+2013-02-22,Freiburg,Ein Frankfurt,0-0,0-0
+2013-02-23,Augsburg,Hoffenheim,2-1,1-0
+2013-02-23,Bayern Munich,Werder Bremen,6-1,2-0
+2013-02-23,Hannover,Hamburg,5-1,3-1
+2013-02-23,Mainz,Wolfsburg,1-1,1-1
+2013-02-23,Schalke 04,Fortuna Dusseldorf,2-1,1-0
+2013-02-23,Stuttgart,Nurnberg,1-1,0-0
+2013-02-24,Greuther Furth,Leverkusen,0-0,0-0
+2013-02-24,M'gladbach,Dortmund,1-1,0-1
+2013-03-01,Ein Frankfurt,M'gladbach,0-1,0-1
+2013-03-02,Dortmund,Hannover,3-1,2-1
+2013-03-02,Hamburg,Greuther Furth,1-1,1-1
+2013-03-02,Leverkusen,Stuttgart,2-1,0-1
+2013-03-02,Nurnberg,Freiburg,1-1,1-0
+2013-03-02,Werder Bremen,Augsburg,0-1,0-1
+2013-03-02,Wolfsburg,Schalke 04,1-4,0-1
+2013-03-03,Fortuna Dusseldorf,Mainz,1-1,1-1
+2013-03-03,Hoffenheim,Bayern Munich,0-1,0-1
+2013-03-08,Augsburg,Nurnberg,1-2,1-1
+2013-03-09,Bayern Munich,Fortuna Dusseldorf,3-2,1-1
+2013-03-09,Freiburg,Wolfsburg,2-5,1-3
+2013-03-09,Greuther Furth,Hoffenheim,0-3,0-2
+2013-03-09,Mainz,Leverkusen,1-0,0-0
+2013-03-09,M'gladbach,Werder Bremen,1-1,0-0
+2013-03-09,Schalke 04,Dortmund,2-1,2-0
+2013-03-10,Hannover,Ein Frankfurt,0-0,0-0
+2013-03-10,Stuttgart,Hamburg,0-1,0-0
+2013-03-15,Wolfsburg,Fortuna Dusseldorf,1-1,0-1
+2013-03-16,Dortmund,Freiburg,5-1,3-1
+2013-03-16,Hamburg,Augsburg,0-1,0-1
+2013-03-16,Hoffenheim,Mainz,0-0,0-0
+2013-03-16,Leverkusen,Bayern Munich,1-2,0-1
+2013-03-16,Nurnberg,Schalke 04,3-0,1-0
+2013-03-16,Werder Bremen,Greuther Furth,2-2,0-0
+2013-03-17,Ein Frankfurt,Stuttgart,1-2,1-0
+2013-03-17,M'gladbach,Hannover,1-0,1-0
+2013-03-30,Augsburg,Hannover,0-2,0-0
+2013-03-30,Bayern Munich,Hamburg,9-2,5-0
+2013-03-30,Fortuna Dusseldorf,Leverkusen,1-4,1-1
+2013-03-30,Freiburg,M'gladbach,2-0,0-0
+2013-03-30,Mainz,Werder Bremen,1-1,1-0
+2013-03-30,Schalke 04,Hoffenheim,3-0,0-0
+2013-03-30,Stuttgart,Dortmund,1-2,0-1
+2013-03-31,Greuther Furth,Ein Frankfurt,2-3,1-1
+2013-03-31,Wolfsburg,Nurnberg,2-2,2-0
+2013-04-05,Hoffenheim,Fortuna Dusseldorf,3-0,1-0
+2013-04-06,Dortmund,Augsburg,4-2,1-2
+2013-04-06,Ein Frankfurt,Bayern Munich,0-1,0-0
+2013-04-06,Hamburg,Freiburg,0-1,0-0
+2013-04-06,Leverkusen,Wolfsburg,1-1,1-0
+2013-04-06,M'gladbach,Greuther Furth,1-0,0-0
+2013-04-06,Werder Bremen,Schalke 04,0-2,0-0
+2013-04-07,Hannover,Stuttgart,0-0,0-0
+2013-04-07,Nurnberg,Mainz,2-1,0-0
+2013-04-12,Freiburg,Hannover,3-1,2-1
+2013-04-13,Bayern Munich,Nurnberg,4-0,3-0
+2013-04-13,Fortuna Dusseldorf,Werder Bremen,2-2,1-1
+2013-04-13,Greuther Furth,Dortmund,1-6,0-5
+2013-04-13,Mainz,Hamburg,1-2,0-0
+2013-04-13,Schalke 04,Leverkusen,2-2,0-1
+2013-04-13,Wolfsburg,Hoffenheim,2-2,1-1
+2013-04-14,Augsburg,Ein Frankfurt,2-0,1-0
+2013-04-14,Stuttgart,M'gladbach,2-0,2-0
+2013-04-19,M'gladbach,Augsburg,1-0,1-0
+2013-04-20,Dortmund,Mainz,2-0,1-0
+2013-04-20,Ein Frankfurt,Schalke 04,1-0,1-0
+2013-04-20,Hamburg,Fortuna Dusseldorf,2-1,2-1
+2013-04-20,Hannover,Bayern Munich,1-6,0-3
+2013-04-20,Leverkusen,Hoffenheim,5-0,2-0
+2013-04-20,Werder Bremen,Wolfsburg,0-3,0-2
+2013-04-21,Nurnberg,Greuther Furth,0-1,0-1
+2013-04-21,Stuttgart,Freiburg,2-1,2-0
+2013-04-26,Greuther Furth,Hannover,2-3,1-1
+2013-04-27,Augsburg,Stuttgart,3-0,0-0
+2013-04-27,Bayern Munich,Freiburg,1-0,1-0
+2013-04-27,Fortuna Dusseldorf,Dortmund,1-2,0-1
+2013-04-27,Hoffenheim,Nurnberg,2-1,2-0
+2013-04-27,Leverkusen,Werder Bremen,1-0,1-0
+2013-04-27,Wolfsburg,M'gladbach,3-1,1-0
+2013-04-28,Mainz,Ein Frankfurt,0-0,0-0
+2013-04-28,Schalke 04,Hamburg,4-1,2-1
+2013-05-03,M'gladbach,Schalke 04,0-1,0-0
+2013-05-04,Dortmund,Bayern Munich,1-1,1-1
+2013-05-04,Ein Frankfurt,Fortuna Dusseldorf,3-1,1-0
+2013-05-04,Hannover,Mainz,2-2,1-1
+2013-05-04,Nurnberg,Leverkusen,0-2,0-1
+2013-05-04,Stuttgart,Greuther Furth,0-2,0-0
+2013-05-04,Werder Bremen,Hoffenheim,2-2,2-0
+2013-05-05,Freiburg,Augsburg,2-0,1-0
+2013-05-05,Hamburg,Wolfsburg,1-1,1-0
+2013-05-11,Bayern Munich,Augsburg,3-0,0-0
+2013-05-11,Fortuna Dusseldorf,Nurnberg,1-2,1-0
+2013-05-11,Greuther Furth,Freiburg,1-2,1-0
+2013-05-11,Hoffenheim,Hamburg,1-4,0-2
+2013-05-11,Leverkusen,Hannover,3-1,2-0
+2013-05-11,Mainz,M'gladbach,2-4,1-1
+2013-05-11,Schalke 04,Stuttgart,1-2,0-1
+2013-05-11,Werder Bremen,Ein Frankfurt,1-1,1-0
+2013-05-11,Wolfsburg,Dortmund,3-3,3-1
+2013-05-18,Augsburg,Greuther Furth,3-1,1-0
+2013-05-18,Dortmund,Hoffenheim,1-2,1-0
+2013-05-18,Ein Frankfurt,Wolfsburg,2-2,1-2
+2013-05-18,Freiburg,Schalke 04,1-2,0-1
+2013-05-18,Hamburg,Leverkusen,0-1,0-0
+2013-05-18,Hannover,Fortuna Dusseldorf,3-0,1-0
+2013-05-18,M'gladbach,Bayern Munich,3-4,3-2
+2013-05-18,Nurnberg,Werder Bremen,3-2,0-1
+2013-05-18,Stuttgart,Mainz,2-2,2-2

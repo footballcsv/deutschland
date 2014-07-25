@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2009-08-07,Wolfsburg,Stuttgart,2-0,0-0
+2009-08-08,Dortmund,FC Koln,1-0,0-0
+2009-08-08,Hertha,Hannover,1-0,0-0
+2009-08-08,Hoffenheim,Bayern Munich,1-1,1-1
+2009-08-08,Mainz,Leverkusen,2-2,1-2
+2009-08-08,Nurnberg,Schalke 04,1-2,0-1
+2009-08-08,Werder Bremen,Ein Frankfurt,2-3,2-2
+2009-08-09,Bochum,M'gladbach,3-3,0-3
+2009-08-09,Freiburg,Hamburg,1-1,0-1
+2009-08-15,Bayern Munich,Werder Bremen,1-1,0-1
+2009-08-15,Ein Frankfurt,Nurnberg,1-1,1-0
+2009-08-15,FC Koln,Wolfsburg,1-3,0-0
+2009-08-15,Hamburg,Dortmund,4-1,3-1
+2009-08-15,Hannover,Mainz,1-1,0-0
+2009-08-15,Leverkusen,Hoffenheim,1-0,0-0
+2009-08-15,Stuttgart,Freiburg,4-2,0-0
+2009-08-16,M'gladbach,Hertha,2-1,1-0
+2009-08-16,Schalke 04,Bochum,3-0,2-0
+2009-08-21,Hoffenheim,Schalke 04,0-0,0-0
+2009-08-22,Dortmund,Stuttgart,1-1,1-0
+2009-08-22,FC Koln,Ein Frankfurt,0-0,0-0
+2009-08-22,Freiburg,Leverkusen,0-5,0-1
+2009-08-22,Mainz,Bayern Munich,2-1,2-0
+2009-08-22,Nurnberg,Hannover,0-2,0-1
+2009-08-23,Bochum,Hertha,1-0,0-0
+2009-08-23,Werder Bremen,M'gladbach,3-0,2-0
+2009-08-23,Wolfsburg,Hamburg,2-4,0-2
+2009-08-28,M'gladbach,Mainz,2-0,1-0
+2009-08-29,Bayern Munich,Wolfsburg,3-0,1-0
+2009-08-29,Ein Frankfurt,Dortmund,1-1,0-0
+2009-08-29,Hannover,Hoffenheim,0-1,0-1
+2009-08-29,Leverkusen,Bochum,2-1,1-1
+2009-08-29,Schalke 04,Freiburg,0-1,0-1
+2009-08-29,Stuttgart,Nurnberg,0-0,0-0
+2009-08-30,Hamburg,FC Koln,3-1,1-0
+2009-08-30,Hertha,Werder Bremen,2-3,0-0
+2009-09-12,Dortmund,Bayern Munich,1-5,1-1
+2009-09-12,Freiburg,Ein Frankfurt,0-2,0-0
+2009-09-12,Hamburg,Stuttgart,3-1,1-0
+2009-09-12,Hoffenheim,Bochum,3-0,1-0
+2009-09-12,Mainz,Hertha,2-1,0-0
+2009-09-12,Nurnberg,M'gladbach,1-0,1-0
+2009-09-12,Wolfsburg,Leverkusen,2-3,0-1
+2009-09-13,FC Koln,Schalke 04,1-2,1-1
+2009-09-13,Werder Bremen,Hannover,0-0,0-0
+2009-09-18,Schalke 04,Wolfsburg,1-2,0-0
+2009-09-19,Bayern Munich,Nurnberg,2-1,0-0
+2009-09-19,Bochum,Mainz,2-3,2-1
+2009-09-19,Hannover,Dortmund,1-1,0-1
+2009-09-19,M'gladbach,Hoffenheim,2-4,2-1
+2009-09-19,Stuttgart,FC Koln,0-2,0-1
+2009-09-20,Ein Frankfurt,Hamburg,1-1,1-1
+2009-09-20,Hertha,Freiburg,0-4,0-3
+2009-09-20,Leverkusen,Werder Bremen,0-0,0-0
+2009-09-25,Nurnberg,Bochum,0-1,0-1
+2009-09-26,Dortmund,Schalke 04,0-1,0-1
+2009-09-26,Ein Frankfurt,Stuttgart,0-3,0-2
+2009-09-26,FC Koln,Leverkusen,0-1,0-0
+2009-09-26,Hamburg,Bayern Munich,1-0,0-0
+2009-09-26,Werder Bremen,Mainz,3-0,1-0
+2009-09-26,Wolfsburg,Hannover,4-2,2-1
+2009-09-27,Freiburg,M'gladbach,3-0,0-0
+2009-09-27,Hoffenheim,Hertha,5-1,3-1
+2009-10-02,Schalke 04,Ein Frankfurt,2-0,0-0
+2009-10-03,Bayern Munich,FC Koln,0-0,0-0
+2009-10-03,Bochum,Wolfsburg,1-1,0-0
+2009-10-03,Hannover,Freiburg,5-2,3-1
+2009-10-03,Leverkusen,Nurnberg,4-0,3-0
+2009-10-03,Mainz,Hoffenheim,2-1,2-0
+2009-10-03,M'gladbach,Dortmund,0-1,0-1
+2009-10-04,Hertha,Hamburg,1-3,1-3
+2009-10-04,Stuttgart,Werder Bremen,0-2,0-1
+2009-10-17,Ein Frankfurt,Hannover,2-1,1-0
+2009-10-17,FC Koln,Mainz,1-0,1-0
+2009-10-17,Freiburg,Bayern Munich,1-2,0-1
+2009-10-17,Hamburg,Leverkusen,0-0,0-0
+2009-10-17,Nurnberg,Hertha,3-0,2-0
+2009-10-17,Stuttgart,Schalke 04,1-2,0-1
+2009-10-17,Werder Bremen,Hoffenheim,2-0,2-0
+2009-10-18,Dortmund,Bochum,2-0,1-0
+2009-10-18,Wolfsburg,M'gladbach,2-1,1-0
+2009-10-23,Leverkusen,Dortmund,1-1,0-1
+2009-10-24,Bayern Munich,Ein Frankfurt,2-1,0-0
+2009-10-24,Hannover,Stuttgart,1-0,1-0
+2009-10-24,Hoffenheim,Nurnberg,3-0,2-0
+2009-10-24,Mainz,Freiburg,3-0,1-0
+2009-10-24,M'gladbach,FC Koln,0-0,0-0
+2009-10-25,Bochum,Werder Bremen,1-4,1-2
+2009-10-25,Hertha,Wolfsburg,0-0,0-0
+2009-10-25,Schalke 04,Hamburg,3-3,0-2
+2009-10-30,Dortmund,Hertha,2-0,0-0
+2009-10-31,FC Koln,Hannover,0-1,0-1
+2009-10-31,Hamburg,M'gladbach,2-3,1-1
+2009-10-31,Nurnberg,Werder Bremen,2-2,2-0
+2009-10-31,Schalke 04,Leverkusen,2-2,0-2
+2009-10-31,Stuttgart,Bayern Munich,0-0,0-0
+2009-10-31,Wolfsburg,Mainz,3-3,2-2
+2009-11-01,Ein Frankfurt,Bochum,2-1,1-1
+2009-11-01,Freiburg,Hoffenheim,0-1,0-1
+2009-11-06,Leverkusen,Ein Frankfurt,4-0,3-0
+2009-11-07,Bayern Munich,Schalke 04,1-1,1-1
+2009-11-07,Bochum,Freiburg,1-2,0-1
+2009-11-07,Hoffenheim,Wolfsburg,1-2,1-0
+2009-11-07,Mainz,Nurnberg,1-0,1-0
+2009-11-07,M'gladbach,Stuttgart,0-0,0-0
+2009-11-08,Hannover,Hamburg,2-2,1-2
+2009-11-08,Hertha,FC Koln,0-1,0-0
+2009-11-08,Werder Bremen,Dortmund,1-1,1-0
+2009-11-21,Dortmund,Mainz,0-0,0-0
+2009-11-21,Ein Frankfurt,M'gladbach,1-2,0-0
+2009-11-21,FC Koln,Hoffenheim,0-4,0-2
+2009-11-21,Freiburg,Werder Bremen,0-6,0-1
+2009-11-21,Schalke 04,Hannover,2-0,0-0
+2009-11-21,Stuttgart,Hertha,1-1,0-0
+2009-11-21,Wolfsburg,Nurnberg,2-3,0-0
+2009-11-22,Bayern Munich,Leverkusen,1-1,1-1
+2009-11-22,Hamburg,Bochum,0-1,0-0
+2009-11-27,Bochum,FC Koln,0-0,0-0
+2009-11-28,Hertha,Ein Frankfurt,1-3,0-1
+2009-11-28,Hoffenheim,Dortmund,1-2,0-1
+2009-11-28,Mainz,Hamburg,1-1,0-1
+2009-11-28,M'gladbach,Schalke 04,1-0,1-0
+2009-11-28,Nurnberg,Freiburg,0-1,0-1
+2009-11-28,Werder Bremen,Wolfsburg,2-2,0-1
+2009-11-29,Hannover,Bayern Munich,0-3,0-1
+2009-11-29,Leverkusen,Stuttgart,4-0,2-0
+2009-12-04,Bayern Munich,M'gladbach,2-1,1-1
+2009-12-05,Dortmund,Nurnberg,4-0,3-0
+2009-12-05,Ein Frankfurt,Mainz,2-0,1-0
+2009-12-05,Hamburg,Hoffenheim,0-0,0-0
+2009-12-05,Hannover,Leverkusen,0-0,0-0
+2009-12-05,Stuttgart,Bochum,1-1,0-0
+2009-12-05,Wolfsburg,Freiburg,2-2,1-1
+2009-12-06,FC Koln,Werder Bremen,0-0,0-0
+2009-12-06,Schalke 04,Hertha,2-0,0-0
+2009-12-11,Hertha,Leverkusen,2-2,1-0
+2009-12-12,Bochum,Bayern Munich,1-5,0-3
+2009-12-12,Freiburg,FC Koln,0-0,0-0
+2009-12-12,Hoffenheim,Ein Frankfurt,1-1,1-0
+2009-12-12,M'gladbach,Hannover,5-3,2-1
+2009-12-12,Nurnberg,Hamburg,0-4,0-0
+2009-12-12,Werder Bremen,Schalke 04,0-2,0-0
+2009-12-13,Mainz,Stuttgart,1-1,0-1
+2009-12-13,Wolfsburg,Dortmund,1-3,0-3
+2009-12-18,Schalke 04,Mainz,1-0,1-0
+2009-12-19,Bayern Munich,Hertha,5-2,3-0
+2009-12-19,Dortmund,Freiburg,1-0,1-0
+2009-12-19,Ein Frankfurt,Wolfsburg,2-2,1-1
+2009-12-19,Hannover,Bochum,2-3,2-0
+2009-12-19,Leverkusen,M'gladbach,3-2,1-1
+2009-12-19,Stuttgart,Hoffenheim,3-1,1-1
+2009-12-20,FC Koln,Nurnberg,3-0,1-0
+2009-12-20,Hamburg,Werder Bremen,2-1,2-0
+2010-01-15,Bayern Munich,Hoffenheim,2-0,1-0
+2010-01-16,Ein Frankfurt,Werder Bremen,1-0,0-0
+2010-01-16,Hamburg,Freiburg,2-0,1-0
+2010-01-16,Hannover,Hertha,0-3,0-2
+2010-01-16,Leverkusen,Mainz,4-2,3-1
+2010-01-16,M'gladbach,Bochum,1-2,0-2
+2010-01-16,Stuttgart,Wolfsburg,3-1,1-0
+2010-01-17,FC Koln,Dortmund,2-3,0-2
+2010-01-17,Schalke 04,Nurnberg,1-0,0-0
+2010-01-22,Freiburg,Stuttgart,0-1,0-1
+2010-01-23,Bochum,Schalke 04,2-2,0-2
+2010-01-23,Dortmund,Hamburg,1-0,1-0
+2010-01-23,Hertha,M'gladbach,0-0,0-0
+2010-01-23,Mainz,Hannover,1-0,1-0
+2010-01-23,Nurnberg,Ein Frankfurt,1-1,1-1
+2010-01-23,Werder Bremen,Bayern Munich,2-3,1-2
+2010-01-24,Hoffenheim,Leverkusen,0-3,0-1
+2010-01-24,Wolfsburg,FC Koln,2-3,1-1
+2010-01-29,Hamburg,Wolfsburg,1-1,0-1
+2010-01-30,Bayern Munich,Mainz,3-0,0-0
+2010-01-30,Ein Frankfurt,FC Koln,1-2,0-0
+2010-01-30,Hannover,Nurnberg,1-3,0-1
+2010-01-30,Hertha,Bochum,0-0,0-0
+2010-01-30,M'gladbach,Werder Bremen,4-3,4-2
+2010-01-30,Schalke 04,Hoffenheim,2-0,1-0
+2010-01-31,Leverkusen,Freiburg,3-1,3-0
+2010-01-31,Stuttgart,Dortmund,4-1,1-0
+2010-02-05,Werder Bremen,Hertha,2-1,0-0
+2010-02-06,Bochum,Leverkusen,1-1,0-1
+2010-02-06,FC Koln,Hamburg,3-3,1-2
+2010-02-06,Freiburg,Schalke 04,0-0,0-0
+2010-02-06,Hoffenheim,Hannover,2-1,2-0
+2010-02-06,Nurnberg,Stuttgart,1-2,0-1
+2010-02-06,Wolfsburg,Bayern Munich,1-3,0-2
+2010-02-07,Dortmund,Ein Frankfurt,2-3,1-1
+2010-02-07,Mainz,M'gladbach,1-0,1-0
+2010-02-12,M'gladbach,Nurnberg,2-1,1-0
+2010-02-13,Bayern Munich,Dortmund,3-1,1-1
+2010-02-13,Bochum,Hoffenheim,2-1,1-0
+2010-02-13,Hannover,Werder Bremen,1-5,0-4
+2010-02-13,Hertha,Mainz,1-1,0-1
+2010-02-13,Leverkusen,Wolfsburg,2-1,0-0
+2010-02-13,Stuttgart,Hamburg,1-3,0-1
+2010-02-14,Ein Frankfurt,Freiburg,2-1,1-1
+2010-02-14,Schalke 04,FC Koln,2-0,1-0
+2010-02-19,Hoffenheim,M'gladbach,2-2,0-1
+2010-02-20,Dortmund,Hannover,4-1,1-0
+2010-02-20,FC Koln,Stuttgart,1-5,1-3
+2010-02-20,Hamburg,Ein Frankfurt,0-0,0-0
+2010-02-20,Mainz,Bochum,0-0,0-0
+2010-02-20,Nurnberg,Bayern Munich,1-1,0-1
+2010-02-21,Freiburg,Hertha,0-3,0-2
+2010-02-21,Werder Bremen,Leverkusen,2-2,1-1
+2010-02-21,Wolfsburg,Schalke 04,2-1,0-1
+2010-02-26,Schalke 04,Dortmund,2-1,0-0
+2010-02-27,Bochum,Nurnberg,0-0,0-0
+2010-02-27,Hertha,Hoffenheim,0-2,0-1
+2010-02-27,Leverkusen,FC Koln,0-0,0-0
+2010-02-27,Mainz,Werder Bremen,1-2,1-1
+2010-02-27,M'gladbach,Freiburg,1-1,0-0
+2010-02-27,Stuttgart,Ein Frankfurt,2-1,2-1
+2010-02-28,Bayern Munich,Hamburg,1-0,0-0
+2010-02-28,Hannover,Wolfsburg,0-1,0-0
+2010-03-06,Dortmund,M'gladbach,3-0,1-0
+2010-03-06,Ein Frankfurt,Schalke 04,1-4,0-2
+2010-03-06,FC Koln,Bayern Munich,1-1,1-0
+2010-03-06,Freiburg,Hannover,1-2,0-0
+2010-03-06,Hamburg,Hertha,1-0,1-0
+2010-03-06,Werder Bremen,Stuttgart,2-2,0-2
+2010-03-06,Wolfsburg,Bochum,4-1,0-1
+2010-03-07,Hoffenheim,Mainz,0-1,0-0
+2010-03-07,Nurnberg,Leverkusen,3-2,2-0
+2010-03-12,Schalke 04,Stuttgart,2-1,0-0
+2010-03-13,Bayern Munich,Freiburg,2-1,0-1
+2010-03-13,Bochum,Dortmund,1-4,0-2
+2010-03-13,Hannover,Ein Frankfurt,2-1,1-1
+2010-03-13,Hertha,Nurnberg,1-2,1-0
+2010-03-13,Mainz,FC Koln,1-0,0-0
+2010-03-13,M'gladbach,Wolfsburg,0-4,0-1
+2010-03-14,Hoffenheim,Werder Bremen,0-1,0-0
+2010-03-14,Leverkusen,Hamburg,4-2,1-1
+2010-03-19,FC Koln,M'gladbach,1-1,0-0
+2010-03-20,Dortmund,Leverkusen,3-0,0-0
+2010-03-20,Ein Frankfurt,Bayern Munich,2-1,0-1
+2010-03-20,Freiburg,Mainz,1-0,1-0
+2010-03-20,Nurnberg,Hoffenheim,0-0,0-0
+2010-03-20,Stuttgart,Hannover,2-0,1-0
+2010-03-20,Werder Bremen,Bochum,3-2,0-1
+2010-03-21,Hamburg,Schalke 04,2-2,1-0
+2010-03-21,Wolfsburg,Hertha,1-5,1-3
+2010-03-26,Bochum,Ein Frankfurt,1-2,1-1
+2010-03-27,Bayern Munich,Stuttgart,1-2,1-1
+2010-03-27,Hannover,FC Koln,1-4,0-3
+2010-03-27,Hertha,Dortmund,0-0,0-0
+2010-03-27,Leverkusen,Schalke 04,0-2,0-2
+2010-03-27,Mainz,Wolfsburg,0-2,0-0
+2010-03-27,Werder Bremen,Nurnberg,4-2,3-0
+2010-03-28,Hoffenheim,Freiburg,1-1,0-0
+2010-03-28,M'gladbach,Hamburg,1-0,1-0
+2010-04-03,Dortmund,Werder Bremen,2-1,2-0
+2010-04-03,Ein Frankfurt,Leverkusen,3-2,1-1
+2010-04-03,FC Koln,Hertha,0-3,0-2
+2010-04-03,Freiburg,Bochum,1-1,1-1
+2010-04-03,Nurnberg,Mainz,2-0,2-0
+2010-04-03,Schalke 04,Bayern Munich,1-2,1-2
+2010-04-03,Stuttgart,M'gladbach,2-1,0-1
+2010-04-04,Hamburg,Hannover,0-0,0-0
+2010-04-04,Wolfsburg,Hoffenheim,4-0,1-0
+2010-04-09,M'gladbach,Ein Frankfurt,2-0,1-0
+2010-04-10,Hannover,Schalke 04,4-2,2-0
+2010-04-10,Hertha,Stuttgart,0-1,0-0
+2010-04-10,Hoffenheim,FC Koln,0-2,0-0
+2010-04-10,Leverkusen,Bayern Munich,1-1,0-0
+2010-04-10,Mainz,Dortmund,1-0,1-0
+2010-04-10,Werder Bremen,Freiburg,4-0,1-0
+2010-04-11,Bochum,Hamburg,1-2,1-1
+2010-04-11,Nurnberg,Wolfsburg,0-2,0-0
+2010-04-16,FC Koln,Bochum,2-0,1-0
+2010-04-17,Bayern Munich,Hannover,7-0,3-0
+2010-04-17,Freiburg,Nurnberg,2-1,1-0
+2010-04-17,Hamburg,Mainz,0-1,0-1
+2010-04-17,Schalke 04,M'gladbach,3-1,2-1
+2010-04-17,Stuttgart,Leverkusen,2-1,1-1
+2010-04-17,Wolfsburg,Werder Bremen,2-4,2-1
+2010-04-18,Dortmund,Hoffenheim,1-1,0-0
+2010-04-18,Ein Frankfurt,Hertha,2-2,1-2
+2010-04-23,Bochum,Stuttgart,0-2,0-2
+2010-04-24,Hertha,Schalke 04,0-1,0-0
+2010-04-24,Leverkusen,Hannover,3-0,1-0
+2010-04-24,Mainz,Ein Frankfurt,3-3,1-2
+2010-04-24,M'gladbach,Bayern Munich,1-1,0-0
+2010-04-24,Nurnberg,Dortmund,2-3,1-1
+2010-04-24,Werder Bremen,FC Koln,1-0,0-0
+2010-04-25,Freiburg,Wolfsburg,1-0,1-0
+2010-04-25,Hoffenheim,Hamburg,5-1,3-0
+2010-05-01,Bayern Munich,Bochum,3-1,2-0
+2010-05-01,Dortmund,Wolfsburg,1-1,0-0
+2010-05-01,Ein Frankfurt,Hoffenheim,1-2,1-0
+2010-05-01,FC Koln,Freiburg,2-2,1-1
+2010-05-01,Hamburg,Nurnberg,4-0,3-0
+2010-05-01,Hannover,M'gladbach,6-1,4-0
+2010-05-01,Leverkusen,Hertha,1-1,0-1
+2010-05-01,Schalke 04,Werder Bremen,0-2,0-0
+2010-05-01,Stuttgart,Mainz,2-2,0-0
+2010-05-08,Bochum,Hannover,0-3,0-3
+2010-05-08,Freiburg,Dortmund,3-1,0-0
+2010-05-08,Hertha,Bayern Munich,1-3,0-1
+2010-05-08,Hoffenheim,Stuttgart,1-1,1-1
+2010-05-08,Mainz,Schalke 04,0-0,0-0
+2010-05-08,M'gladbach,Leverkusen,1-1,0-1
+2010-05-08,Nurnberg,FC Koln,1-0,0-0
+2010-05-08,Werder Bremen,Hamburg,1-1,0-0
+2010-05-08,Wolfsburg,Ein Frankfurt,3-1,3-0

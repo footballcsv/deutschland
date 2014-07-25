@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2007-08-10,Aachen,CZ Jena,2-2,2-1
+2007-08-10,Osnabruck,Freiburg,2-1,1-0
+2007-08-10,St Pauli,FC Koln,0-2,0-0
+2007-08-12,Augsburg,Munich 1860,2-6,1-3
+2007-08-12,Erzgebirge Aue,Greuther Furth,1-1,0-0
+2007-08-12,Hoffenheim,Wehen,2-3,2-1
+2007-08-12,Mainz,Koblenz,4-1,1-1
+2007-08-12,Paderborn,Offenbach,0-2,0-0
+2007-08-13,Kaiserslautern,M'gladbach,1-1,0-0
+2007-08-17,Freiburg,Paderborn,1-0,0-0
+2007-08-17,Koblenz,Augsburg,2-1,1-0
+2007-08-17,Wehen,Osnabruck,1-1,0-1
+2007-08-19,CZ Jena,St Pauli,0-1,0-1
+2007-08-19,Greuther Furth,Mainz,3-0,1-0
+2007-08-19,M'gladbach,Hoffenheim,0-0,0-0
+2007-08-19,Munich 1860,Kaiserslautern,3-1,0-1
+2007-08-19,Offenbach,Erzgebirge Aue,3-2,2-1
+2007-08-20,FC Koln,Aachen,0-1,0-1
+2007-08-24,FC Koln,CZ Jena,4-3,1-2
+2007-08-24,Mainz,M'gladbach,4-1,2-0
+2007-08-24,Osnabruck,Paderborn,0-0,0-0
+2007-08-26,Aachen,Offenbach,4-0,0-0
+2007-08-26,Erzgebirge Aue,Wehen,3-0,0-0
+2007-08-26,Hoffenheim,Munich 1860,0-3,0-2
+2007-08-26,Kaiserslautern,Greuther Furth,0-1,0-1
+2007-08-26,St Pauli,Koblenz,1-0,0-0
+2007-08-27,Augsburg,Freiburg,1-1,1-0
+2007-08-31,Koblenz,Kaiserslautern,2-2,1-1
+2007-08-31,Munich 1860,FC Koln,1-1,0-0
+2007-08-31,Offenbach,Augsburg,1-0,0-0
+2007-09-02,CZ Jena,Mainz,1-2,0-1
+2007-09-02,Greuther Furth,St Pauli,2-1,1-1
+2007-09-02,M'gladbach,Osnabruck,2-1,2-0
+2007-09-02,Paderborn,Erzgebirge Aue,0-1,0-0
+2007-09-02,Wehen,Aachen,3-0,0-0
+2007-09-03,Freiburg,Hoffenheim,3-2,2-1
+2007-09-14,CZ Jena,Koblenz,1-2,1-2
+2007-09-14,Kaiserslautern,Paderborn,0-0,0-0
+2007-09-14,St Pauli,Offenbach,3-1,2-1
+2007-09-16,Aachen,Munich 1860,0-0,0-0
+2007-09-16,Augsburg,Wehen,5-1,3-0
+2007-09-16,FC Koln,Greuther Furth,0-0,0-0
+2007-09-16,Hoffenheim,Osnabruck,3-1,0-1
+2007-09-16,Mainz,Freiburg,1-1,0-0
+2007-09-17,Erzgebirge Aue,M'gladbach,2-3,0-2
+2007-09-21,Greuther Furth,Aachen,2-0,1-0
+2007-09-21,M'gladbach,Augsburg,4-2,1-0
+2007-09-21,Munich 1860,St Pauli,2-1,2-1
+2007-09-21,Osnabruck,Erzgebirge Aue,2-1,1-0
+2007-09-21,Paderborn,Hoffenheim,0-2,0-2
+2007-09-23,Freiburg,Kaiserslautern ,1-0,0-0
+2007-09-23,Koblenz,FC Koln,1-2,1-1
+2007-09-23,Offenbach,Mainz,2-0,1-0
+2007-09-23,Wehen,CZ Jena,5-1,4-0
+2007-09-25,Aachen,Paderborn,3-1,2-1
+2007-09-25,Augsburg,Osnabruck,2-0,1-0
+2007-09-25,Erzgebirge Aue,Hoffenheim,2-2,1-1
+2007-09-25,St Pauli,M'gladbach,0-3,0-1
+2007-09-26,CZ Jena,Offenbach,2-0,1-0
+2007-09-26,FC Koln,Freiburg,1-3,1-1
+2007-09-26,Kaiserslautern,Wehen,0-2,0-0
+2007-09-26,Koblenz,Greuther Furth,3-0,2-0
+2007-09-27,Mainz,Munich 1860,3-0,1-0
+2007-09-28,M'gladbach,Aachen,2-1,2-0
+2007-09-28,Osnabruck,St Pauli,3-1,1-0
+2007-09-28,Paderborn,Augsburg,1-1,0-1
+2007-09-30,Freiburg,Erzgebirge Aue,2-0,0-0
+2007-09-30,Greuther Furth,CZ Jena,2-2,1-1
+2007-09-30,Hoffenheim,Mainz,1-0,1-0
+2007-09-30,Munich 1860,Koblenz,2-2,1-1
+2007-09-30,Wehen,FC Koln,4-3,3-2
+2007-10-01,Offenbach,Kaiserslautern ,0-0,0-0
+2007-10-05,CZ Jena,Munich 1860,0-2,0-0
+2007-10-05,FC Koln,Offenbach,4-1,2-1
+2007-10-05,Greuther Furth,Wehen,1-1,1-1
+2007-10-07,Augsburg,Hoffenheim,2-2,2-0
+2007-10-07,Kaiserslautern,Osnabruck,3-0,1-0
+2007-10-07,Koblenz,M'gladbach,0-5,0-2
+2007-10-07,Mainz,Erzgebirge Aue,4-1,0-1
+2007-10-07,St Pauli,Paderborn,2-1,2-0
+2007-10-08,Aachen,Freiburg,2-0,1-0
+2007-10-19,Hoffenheim,Kaiserslautern ,1-0,0-0
+2007-10-19,Offenbach,Koblenz,1-1,0-1
+2007-10-19,Osnabruck,Aachen,2-2,1-2
+2007-10-21,Erzgebirge Aue,Augsburg,3-0,0-0
+2007-10-21,Freiburg,St Pauli,2-0,1-0
+2007-10-21,Munich 1860,Greuther Furth,0-3,0-1
+2007-10-21,Paderborn,CZ Jena,2-2,2-2
+2007-10-21,Wehen,Mainz,1-3,0-1
+2007-10-22,M'gladbach,FC Koln,2-2,0-0
+2007-10-26,Aachen,Hoffenheim,2-2,1-0
+2007-10-26,Greuther Furth,M'gladbach,1-3,0-2
+2007-10-26,Mainz,Augsburg,1-1,1-0
+2007-10-26,Munich 1860,Offenbach,3-0,1-0
+2007-10-26,St Pauli,Wehen,1-1,0-1
+2007-10-28,CZ Jena,Freiburg,1-2,0-1
+2007-10-28,FC Koln,Paderborn,2-1,1-0
+2007-10-28,Kaiserslautern,Erzgebirge Aue,2-0,2-0
+2007-10-28,Koblenz,Osnabruck,1-0,0-0
+2007-11-01,Osnabruck,FC Koln,2-1,2-0
+2007-11-02,Erzgebirge Aue,Aachen,2-1,1-1
+2007-11-02,Hoffenheim,St Pauli,1-1,0-1
+2007-11-02,Offenbach,Greuther Furth,1-2,1-0
+2007-11-04,Augsburg,Kaiserslautern ,0-0,0-0
+2007-11-04,Freiburg,Koblenz,4-2,0-0
+2007-11-04,Paderborn,Mainz,1-1,1-1
+2007-11-04,Wehen,Munich 1860,0-0,0-0
+2007-11-05,M'gladbach,CZ Jena,2-1,1-1
+2007-11-09,FC Koln,Erzgebirge Aue,3-2,2-2
+2007-11-09,Mainz,Osnabruck,4-1,1-1
+2007-11-09,Offenbach,Wehen,0-0,0-0
+2007-11-11,Aachen,Kaiserslautern ,2-1,1-0
+2007-11-11,CZ Jena,Hoffenheim,0-1,0-0
+2007-11-11,Greuther Furth,Freiburg,1-1,0-0
+2007-11-11,St Pauli,Augsburg,2-0,1-0
+2007-11-12,Munich 1860,M'gladbach,0-0,0-0
+2007-11-13,Koblenz,Paderborn,0-0,0-0
+2007-11-23,M'gladbach,Offenbach,3-0,1-0
+2007-11-23,Osnabruck,CZ Jena,1-1,1-0
+2007-11-23,Paderborn,Greuther Furth,1-0,0-0
+2007-11-23,Wehen,Koblenz,0-2,0-0
+2007-11-25,Augsburg,Aachen,1-0,0-0
+2007-11-25,Erzgebirge Aue,St Pauli,0-0,0-0
+2007-11-25,Freiburg,Munich 1860,2-2,1-0
+2007-11-25,Hoffenheim,FC Koln,0-2,0-1
+2007-11-26,Kaiserslautern,Mainz,0-0,0-0
+2007-11-30,CZ Jena,Erzgebirge Aue,2-1,0-1
+2007-11-30,St Pauli,Kaiserslautern ,3-4,2-3
+2007-11-30,Wehen,M'gladbach,1-1,1-0
+2007-12-02,FC Koln,Augsburg,3-0,1-0
+2007-12-02,Greuther Furth,Osnabruck,6-3,3-1
+2007-12-02,Koblenz,Hoffenheim,2-2,1-1
+2007-12-02,Munich 1860,Paderborn,0-0,0-0
+2007-12-02,Offenbach,Freiburg,0-0,0-0
+2007-12-03,Aachen,Mainz,0-3,0-1
+2007-12-07,Aachen,St Pauli,2-2,0-1
+2007-12-07,Erzgebirge Aue,Koblenz,0-0,0-0
+2007-12-07,Mainz,FC Koln,1-0,0-0
+2007-12-09,Augsburg,Greuther Furth,3-0,1-0
+2007-12-09,Hoffenheim,Offenbach,2-2,2-0
+2007-12-09,Kaiserslautern,CZ Jena,2-3,2-0
+2007-12-09,Osnabruck,Munich 1860,3-0,2-0
+2007-12-09,Paderborn,Wehen,1-1,1-0
+2007-12-10,Freiburg,M'gladbach,1-3,0-1
+2007-12-14,Koblenz,Aachen,0-0,0-0
+2007-12-14,Offenbach,Osnabruck,3-3,1-1
+2007-12-14,St Pauli,Mainz,1-0,1-0
+2007-12-16,CZ Jena,Augsburg,1-2,0-2
+2007-12-16,Greuther Furth,Hoffenheim,4-1,1-1
+2007-12-16,M'gladbach,Paderborn,1-1,0-0
+2007-12-16,Munich 1860,Erzgebirge Aue,5-0,2-0
+2007-12-16,Wehen,Freiburg,2-2,2-1
+2007-12-17,FC Koln,Kaiserslautern ,2-1,1-1
+2008-02-01,FC Koln,St Pauli,1-1,0-1
+2008-02-01,M'gladbach,Kaiserslautern ,1-1,1-0
+2008-02-01,Wehen,Hoffenheim,0-2,0-2
+2008-02-03,Freiburg,Osnabruck,1-1,1-1
+2008-02-03,Greuther Furth,Erzgebirge Aue,2-0,2-0
+2008-02-03,Koblenz,Mainz,1-1,1-1
+2008-02-03,Munich 1860,Augsburg,0-3,0-1
+2008-02-03,Offenbach,Paderborn,2-1,2-1
+2008-02-04,CZ Jena,Aachen,2-3,1-1
+2008-02-08,Erzgebirge Aue,Offenbach,3-1,2-0
+2008-02-08,Kaiserslautern,Munich 1860,1-2,1-0
+2008-02-08,St Pauli,CZ Jena,2-2,1-0
+2008-02-10,Augsburg,Koblenz,1-0,1-0
+2008-02-10,Hoffenheim,M'gladbach,4-2,0-2
+2008-02-10,Mainz,Greuther Furth,1-2,0-0
+2008-02-10,Osnabruck,Wehen,0-2,0-1
+2008-02-10,Paderborn,Freiburg,3-2,1-1
+2008-02-11,Aachen,FC Koln,3-2,1-1
+2008-02-15,CZ Jena,FC Koln,1-3,0-1
+2008-02-15,Koblenz,St Pauli,1-1,0-0
+2008-02-15,Wehen,Erzgebirge Aue,3-0,2-0
+2008-02-17,Freiburg,Augsburg,1-0,1-0
+2008-02-17,Greuther Furth,Kaiserslautern ,0-1,0-0
+2008-02-17,Munich 1860,Hoffenheim,0-1,0-1
+2008-02-17,Offenbach,Aachen,1-1,1-1
+2008-02-17,Paderborn,Osnabruck,1-3,0-0
+2008-02-18,M'gladbach,Mainz,0-1,0-1
+2008-02-22,FC Koln,Munich 1860,0-0,0-0
+2008-02-22,Hoffenheim,Freiburg,2-0,1-0
+2008-02-22,Mainz,CZ Jena,2-2,1-0
+2008-02-24,Aachen,Wehen,2-3,1-2
+2008-02-24,Augsburg,Offenbach,1-1,0-0
+2008-02-24,Erzgebirge Aue,Paderborn,6-0,3-0
+2008-02-24,Osnabruck,M'gladbach,2-2,1-2
+2008-02-24,St Pauli,Greuther Furth,1-1,0-1
+2008-02-25,Kaiserslautern,Koblenz,2-3,1-2
+2008-02-29,Greuther Furth,FC Koln,2-2,1-2
+2008-02-29,M'gladbach,Erzgebirge Aue,2-0,1-0
+2008-02-29,Wehen,Augsburg,2-1,1-0
+2008-03-02,Koblenz,CZ Jena,2-0,1-0
+2008-03-02,Munich 1860,Aachen,0-0,0-0
+2008-03-02,Offenbach,St Pauli,4-3,1-2
+2008-03-02,Osnabruck,Hoffenheim,0-3,0-2
+2008-03-02,Paderborn,Kaiserslautern ,0-0,0-0
+2008-03-03,Freiburg,Mainz,1-1,0-0
+2008-03-07,Aachen,Greuther Furth,2-5,1-3
+2008-03-07,Augsburg,M'gladbach,0-2,0-1
+2008-03-07,Kaiserslautern,Freiburg,0-0,0-0
+2008-03-09,CZ Jena,Wehen,2-2,2-0
+2008-03-09,Erzgebirge Aue,Osnabruck,0-1,0-0
+2008-03-09,FC Koln,Koblenz,1-0,0-0
+2008-03-09,Hoffenheim,Paderborn,1-0,0-0
+2008-03-09,Mainz,Offenbach,1-0,0-0
+2008-03-10,St Pauli,Munich 1860,0-0,0-0
+2008-03-14,Offenbach,CZ Jena,2-1,1-0
+2008-03-14,Paderborn,Aachen,0-1,0-1
+2008-03-14,Wehen,Kaiserslautern ,0-2,0-2
+2008-03-16,Greuther Furth,Koblenz,0-1,0-0
+2008-03-16,Hoffenheim,Erzgebirge Aue,1-0,0-0
+2008-03-16,M'gladbach,St Pauli,1-0,0-0
+2008-03-16,Munich 1860,Mainz,1-1,0-0
+2008-03-16,Osnabruck,Augsburg,0-2,0-1
+2008-03-17,Freiburg,FC Koln,1-0,0-0
+2008-03-20,Augsburg,Paderborn,0-1,0-0
+2008-03-20,Kaiserslautern,Offenbach,1-1,0-1
+2008-03-20,St Pauli,Osnabruck,2-1,1-0
+2008-03-23,CZ Jena,Greuther Furth,1-0,1-0
+2008-03-23,Erzgebirge Aue,Freiburg,2-2,1-0
+2008-03-23,FC Koln,Wehen,2-1,2-1
+2008-03-23,Koblenz,Munich 1860,3-1,2-1
+2008-03-23,Mainz,Hoffenheim,1-1,0-0
+2008-03-24,Aachen,M'gladbach,1-1,1-0
+2008-03-28,Erzgebirge Aue,Mainz,3-3,2-1
+2008-03-28,Freiburg,Aachen,1-0,1-0
+2008-03-28,Hoffenheim,Augsburg,2-0,0-0
+2008-03-30,M'gladbach,Koblenz,1-0,0-0
+2008-03-30,Munich 1860,CZ Jena,1-2,0-0
+2008-03-30,Offenbach,FC Koln,1-3,1-1
+2008-03-30,Paderborn,St Pauli,4-1,1-1
+2008-03-30,Wehen,Greuther Furth,1-1,1-0
+2008-03-31,Osnabruck,Kaiserslautern ,2-0,0-0
+2008-04-04,Greuther Furth,Munich 1860,3-1,1-1
+2008-04-04,Kaiserslautern,Hoffenheim,0-2,0-0
+2008-04-04,Koblenz,Offenbach,1-1,0-1
+2008-04-06,Aachen,Osnabruck,3-0,0-0
+2008-04-06,Augsburg,Erzgebirge Aue,1-1,0-1
+2008-04-06,CZ Jena,Paderborn,3-0,1-0
+2008-04-06,Mainz,Wehen,3-0,2-0
+2008-04-06,St Pauli,Freiburg,5-0,3-0
+2008-04-07,FC Koln,M'gladbach,1-1,0-1
+2008-04-11,Augsburg,Mainz,2-1,1-1
+2008-04-11,Erzgebirge Aue,Kaiserslautern ,0-0,0-0
+2008-04-11,Osnabruck,Koblenz,2-0,1-0
+2008-04-11,Paderborn,FC Koln,2-2,1-1
+2008-04-13,Freiburg,CZ Jena,2-0,1-0
+2008-04-13,Hoffenheim,Aachen,1-2,0-0
+2008-04-13,M'gladbach,Greuther Furth,3-0,1-0
+2008-04-13,Offenbach,Munich 1860,2-0,1-0
+2008-04-13,Wehen,St Pauli,1-3,0-0
+2008-04-15,FC Koln,Osnabruck,2-0,2-0
+2008-04-15,Kaiserslautern,Augsburg,2-0,2-0
+2008-04-15,Mainz,Paderborn,6-1,2-0
+2008-04-16,Aachen,Erzgebirge Aue,1-0,0-0
+2008-04-16,CZ Jena,M'gladbach,2-2,2-0
+2008-04-16,Greuther Furth,Offenbach,2-1,1-0
+2008-04-16,Koblenz,Freiburg,3-2,1-1
+2008-04-16,St Pauli,Hoffenheim,3-1,1-1
+2008-04-17,Munich 1860,Wehen,2-1,1-0
+2008-04-25,Erzgebirge Aue,FC Koln,3-3,2-2
+2008-04-25,Kaiserslautern,Aachen,2-1,1-1
+2008-04-25,Paderborn,Koblenz,3-2,3-1
+2008-04-27,Augsburg,St Pauli,1-0,0-0
+2008-04-27,Hoffenheim,CZ Jena,5-0,4-0
+2008-04-27,M'gladbach,Munich 1860,2-2,1-2
+2008-04-27,Osnabruck,Mainz,1-2,1-2
+2008-04-27,Wehen,Offenbach,2-1,0-1
+2008-04-28,Freiburg,Greuther Furth,3-2,1-1
+2008-05-02,CZ Jena,Osnabruck,1-1,0-0
+2008-05-02,Greuther Furth,Paderborn,1-1,0-0
+2008-05-02,Mainz,Kaiserslautern ,2-1,1-1
+2008-05-02,Munich 1860,Freiburg,0-3,0-2
+2008-05-02,St Pauli,Erzgebirge Aue,4-2,2-2
+2008-05-04,Aachen,Augsburg,3-0,1-0
+2008-05-04,FC Koln,Hoffenheim,3-1,1-1
+2008-05-04,Koblenz,Wehen,2-0,1-0
+2008-05-04,Offenbach,M'gladbach,1-7,0-1
+2008-05-06,Erzgebirge Aue,CZ Jena,5-0,2-0
+2008-05-06,Kaiserslautern,St Pauli,2-0,1-0
+2008-05-06,Osnabruck,Greuther Furth,0-0,0-0
+2008-05-06,Paderborn,Munich 1860,3-1,1-0
+2008-05-07,Augsburg,FC Koln,1-3,0-2
+2008-05-07,Freiburg,Offenbach,0-1,0-0
+2008-05-07,Hoffenheim,Koblenz,3-1,1-0
+2008-05-07,Mainz,Aachen,0-1,0-0
+2008-05-07,M'gladbach,Wehen,3-0,1-0
+2008-05-11,CZ Jena,Kaiserslautern ,2-2,1-0
+2008-05-11,FC Koln,Mainz,2-0,1-0
+2008-05-11,Greuther Furth,Augsburg,3-2,1-0
+2008-05-11,Koblenz,Erzgebirge Aue,2-2,0-0
+2008-05-11,M'gladbach,Freiburg,2-3,0-2
+2008-05-11,Munich 1860,Osnabruck,1-1,0-1
+2008-05-11,Offenbach,Hoffenheim,1-1,0-0
+2008-05-11,St Pauli,Aachen,0-2,0-2
+2008-05-11,Wehen,Paderborn,1-1,1-0
+2008-05-18,Aachen,Koblenz,1-3,0-0
+2008-05-18,Augsburg,CZ Jena,1-1,0-0
+2008-05-18,Erzgebirge Aue,Munich 1860,1-1,0-0
+2008-05-18,Freiburg,Wehen,0-2,0-2
+2008-05-18,Hoffenheim,Greuther Furth,5-0,1-0
+2008-05-18,Kaiserslautern,FC Koln,3-0,0-0
+2008-05-18,Mainz,St Pauli,5-1,3-0
+2008-05-18,Osnabruck,Offenbach,3-0,1-0
+2008-05-18,Paderborn,M'gladbach,2-3,2-1

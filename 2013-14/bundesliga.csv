@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2013-08-09,Bayern Munich,M'gladbach,3-1,2-1
+2013-08-10,Augsburg,Dortmund,0-4,0-1
+2013-08-10,Braunschweig,Werder Bremen,0-1,0-0
+2013-08-10,Hannover,Wolfsburg,2-0,1-0
+2013-08-10,Hertha,Ein Frankfurt,6-1,2-1
+2013-08-10,Hoffenheim,Nurnberg,2-2,1-0
+2013-08-10,Leverkusen,Freiburg,3-1,1-1
+2013-08-11,Mainz,Stuttgart,3-2,1-1
+2013-08-11,Schalke 04,Hamburg,3-3,2-2
+2013-08-17,Ein Frankfurt,Bayern Munich,0-1,0-1
+2013-08-17,Freiburg,Mainz,1-2,0-0
+2013-08-17,Hamburg,Hoffenheim,1-5,1-1
+2013-08-17,M'gladbach,Hannover,3-0,1-0
+2013-08-17,Stuttgart,Leverkusen,0-1,0-1
+2013-08-17,Werder Bremen,Augsburg,1-0,1-0
+2013-08-17,Wolfsburg,Schalke 04,4-0,0-0
+2013-08-18,Dortmund,Braunschweig,2-1,0-0
+2013-08-18,Nurnberg,Hertha,2-2,1-0
+2013-08-23,Dortmund,Werder Bremen,1-0,0-0
+2013-08-24,Bayern Munich,Nurnberg,2-0,0-0
+2013-08-24,Hannover,Schalke 04,2-1,2-0
+2013-08-24,Hertha,Hamburg,1-0,0-0
+2013-08-24,Hoffenheim,Freiburg,3-3,2-2
+2013-08-24,Leverkusen,M'gladbach,4-2,2-0
+2013-08-24,Mainz,Wolfsburg,2-0,0-0
+2013-08-25,Augsburg,Stuttgart,2-1,2-1
+2013-08-25,Braunschweig,Ein Frankfurt,0-2,0-0
+2013-08-27,Freiburg,Bayern Munich,1-1,0-1
+2013-08-31,Hamburg,Braunschweig,4-0,2-0
+2013-08-31,Hannover,Mainz,4-1,2-1
+2013-08-31,M'gladbach,Werder Bremen,4-1,1-0
+2013-08-31,Nurnberg,Augsburg,0-1,0-0
+2013-08-31,Schalke 04,Leverkusen,2-0,1-0
+2013-08-31,Wolfsburg,Hertha,2-0,2-0
+2013-09-01,Ein Frankfurt,Dortmund,1-2,1-1
+2013-09-01,Stuttgart,Hoffenheim,6-2,3-1
+2013-09-13,Hertha,Stuttgart,0-1,0-0
+2013-09-14,Augsburg,Freiburg,2-1,0-0
+2013-09-14,Bayern Munich,Hannover,2-0,0-0
+2013-09-14,Dortmund,Hamburg,6-2,2-1
+2013-09-14,Leverkusen,Wolfsburg,3-1,1-1
+2013-09-14,Mainz,Schalke 04,0-1,0-1
+2013-09-14,Werder Bremen,Ein Frankfurt,0-3,0-2
+2013-09-15,Braunschweig,Nurnberg,1-1,0-1
+2013-09-15,Hoffenheim,M'gladbach,2-1,1-0
+2013-09-20,M'gladbach,Braunschweig,4-1,2-0
+2013-09-21,Hamburg,Werder Bremen,0-2,0-1
+2013-09-21,Hannover,Augsburg,2-1,0-0
+2013-09-21,Mainz,Leverkusen,1-4,0-3
+2013-09-21,Nurnberg,Dortmund,1-1,0-1
+2013-09-21,Schalke 04,Bayern Munich,0-4,0-2
+2013-09-21,Wolfsburg,Hoffenheim,2-1,1-1
+2013-09-22,Freiburg,Hertha,1-1,1-1
+2013-09-22,Stuttgart,Ein Frankfurt,1-1,1-1
+2013-09-27,Augsburg,M'gladbach,2-2,1-1
+2013-09-28,Bayern Munich,Wolfsburg,1-0,0-0
+2013-09-28,Dortmund,Freiburg,5-0,2-0
+2013-09-28,Ein Frankfurt,Hamburg,2-2,1-1
+2013-09-28,Hertha,Mainz,3-1,0-1
+2013-09-28,Hoffenheim,Schalke 04,3-3,1-3
+2013-09-28,Leverkusen,Hannover,2-0,2-0
+2013-09-29,Braunschweig,Stuttgart,0-4,0-1
+2013-09-29,Werder Bremen,Nurnberg,3-3,2-1
+2013-10-06,Freiburg,Ein Frankfurt,1-1,0-0
+2013-10-06,Nurnberg,Hamburg,0-5,0-1
+2013-10-05,Leverkusen,Bayern Munich,1-1,1-1
+2013-10-05,Mainz,Hoffenheim,2-2,0-2
+2013-10-05,M'gladbach,Dortmund,2-0,0-0
+2013-10-05,Schalke 04,Augsburg,4-1,2-1
+2013-10-05,Stuttgart,Werder Bremen,1-1,1-1
+2013-10-05,Wolfsburg,Braunschweig,0-2,0-1
+2013-10-04,Hannover,Hertha,1-1,1-0
+2013-10-18,Hoffenheim,Leverkusen,1-2,0-1
+2013-10-19,Bayern Munich,Mainz,4-1,0-1
+2013-10-19,Braunschweig,Schalke 04,2-3,1-1
+2013-10-19,Dortmund,Hannover,1-0,1-0
+2013-10-19,Ein Frankfurt,Nurnberg,1-1,0-0
+2013-10-19,Hertha,M'gladbach,1-0,1-0
+2013-10-19,Werder Bremen,Freiburg,0-0,0-0
+2013-10-20,Augsburg,Wolfsburg,1-2,1-2
+2013-10-20,Hamburg,Stuttgart,3-3,1-2
+2013-10-25,Stuttgart,Nurnberg,1-1,1-1
+2013-10-26,Bayern Munich,Hertha,3-2,1-1
+2013-10-26,Hannover,Hoffenheim,1-4,0-2
+2013-10-26,Leverkusen,Augsburg,2-1,1-1
+2013-10-26,Mainz,Braunschweig,2-0,1-0
+2013-10-26,Schalke 04,Dortmund,1-3,0-1
+2013-10-26,Wolfsburg,Werder Bremen,3-0,1-0
+2013-10-27,Freiburg,Hamburg,0-3,0-1
+2013-10-27,M'gladbach,Ein Frankfurt,4-1,2-1
+2013-11-01,Dortmund,Stuttgart,6-1,2-1
+2013-11-02,Braunschweig,Leverkusen,1-0,0-0
+2013-11-02,Ein Frankfurt,Wolfsburg,1-2,1-1
+2013-11-02,Hamburg,M'gladbach,0-2,0-1
+2013-11-02,Hertha,Schalke 04,0-2,0-1
+2013-11-02,Hoffenheim,Bayern Munich,1-2,1-1
+2013-11-02,Nurnberg,Freiburg,0-3,0-0
+2013-11-03,Augsburg,Mainz,2-1,1-0
+2013-11-03,Werder Bremen,Hannover,3-2,2-2
+2013-11-08,Hannover,Braunschweig,0-0,0-0
+2013-11-09,Bayern Munich,Augsburg,3-0,2-0
+2013-11-09,Hoffenheim,Hertha,2-3,0-1
+2013-11-09,Leverkusen,Hamburg,5-3,2-1
+2013-11-09,M'gladbach,Nurnberg,3-1,0-1
+2013-11-09,Schalke 04,Werder Bremen,3-1,0-1
+2013-11-09,Wolfsburg,Dortmund,2-1,0-1
+2013-11-10,Freiburg,Stuttgart,1-3,0-2
+2013-11-10,Mainz,Ein Frankfurt,1-0,0-0
+2013-11-22,Stuttgart,M'gladbach,0-2,0-1
+2013-11-23,Augsburg,Hoffenheim,2-0,2-0
+2013-11-23,Braunschweig,Freiburg,0-1,0-0
+2013-11-23,Dortmund,Bayern Munich,0-3,0-0
+2013-11-23,Ein Frankfurt,Schalke 04,3-3,0-2
+2013-11-23,Hertha,Leverkusen,0-1,0-1
+2013-11-23,Nurnberg,Wolfsburg,1-1,0-1
+2013-11-24,Hamburg,Hannover,3-1,1-1
+2013-11-24,Werder Bremen,Mainz,2-3,0-2
+2013-11-29,Wolfsburg,Hamburg,1-1,1-1
+2013-11-30,Bayern Munich,Braunschweig,2-0,2-0
+2013-11-30,Hertha,Augsburg,0-0,0-0
+2013-11-30,Hoffenheim,Werder Bremen,4-4,2-2
+2013-11-30,Leverkusen,Nurnberg,3-0,1-0
+2013-11-30,Mainz,Dortmund,1-3,0-0
+2013-11-30,Schalke 04,Stuttgart,3-0,1-0
+2013-12-01,Hannover,Ein Frankfurt,2-0,1-0
+2013-12-01,M'gladbach,Freiburg,1-0,0-0
+2013-12-06,Nurnberg,Mainz,1-1,1-0
+2013-12-07,Dortmund,Leverkusen,0-1,0-1
+2013-12-07,Ein Frankfurt,Hoffenheim,1-2,0-0
+2013-12-07,Hamburg,Augsburg,0-1,0-1
+2013-12-07,M'gladbach,Schalke 04,2-1,2-1
+2013-12-07,Stuttgart,Hannover,4-2,2-2
+2013-12-07,Werder Bremen,Bayern Munich,0-7,0-3
+2013-12-08,Braunschweig,Hertha,0-2,0-1
+2013-12-08,Freiburg,Wolfsburg,0-3,0-2
+2013-12-13,Hertha,Werder Bremen,3-2,2-2
+2013-12-14,Augsburg,Braunschweig,4-1,3-0
+2013-12-14,Bayern Munich,Hamburg,3-1,1-0
+2013-12-14,Hannover,Nurnberg,3-3,0-3
+2013-12-14,Hoffenheim,Dortmund,2-2,2-1
+2013-12-14,Mainz,M'gladbach,0-0,0-0
+2013-12-14,Wolfsburg,Stuttgart,3-1,1-0
+2013-12-15,Leverkusen,Ein Frankfurt,0-1,0-0
+2013-12-15,Schalke 04,Freiburg,2-0,1-0
+2013-12-20,Ein Frankfurt,Augsburg,1-1,1-1
+2013-12-21,Braunschweig,Hoffenheim,1-0,1-0
+2013-12-21,Dortmund,Hertha,1-2,1-2
+2013-12-21,Freiburg,Hannover,2-1,2-0
+2013-12-21,Hamburg,Mainz,2-3,1-0
+2013-12-21,Nurnberg,Schalke 04,0-0,0-0
+2013-12-21,Werder Bremen,Leverkusen,1-0,0-0
+2013-12-22,M'gladbach,Wolfsburg,2-2,0-0
+2014-01-24,M'gladbach,Bayern Munich,0-2,0-1
+2014-01-25,Dortmund,Augsburg,2-2,1-0
+2014-01-25,Ein Frankfurt,Hertha,1-0,1-0
+2014-01-25,Freiburg,Leverkusen,3-2,1-2
+2014-01-25,Nurnberg,Hoffenheim,4-0,2-0
+2014-01-25,Stuttgart,Mainz,1-2,1-1
+2014-01-25,Wolfsburg,Hannover,1-3,1-1
+2014-01-26,Hamburg,Schalke 04,0-3,0-1
+2014-01-26,Werder Bremen,Braunschweig,0-0,0-0
+2014-01-29,Stuttgart,Bayern Munich,1-2,1-0
+2014-01-31,Braunschweig,Dortmund,1-2,0-1
+2014-02-01,Augsburg,Werder Bremen,3-1,1-1
+2014-02-01,Hannover,M'gladbach,3-1,0-0
+2014-02-01,Hoffenheim,Hamburg,3-0,2-0
+2014-02-01,Leverkusen,Stuttgart,2-1,1-1
+2014-02-01,Mainz,Freiburg,2-0,1-0
+2014-02-01,Schalke 04,Wolfsburg,2-1,1-0
+2014-02-02,Bayern Munich,Ein Frankfurt,5-0,2-0
+2014-02-02,Hertha,Nurnberg,1-3,1-1
+2014-02-07,M'gladbach,Leverkusen,0-1,0-0
+2014-02-08,Ein Frankfurt,Braunschweig,3-0,3-0
+2014-02-08,Freiburg,Hoffenheim,1-1,0-0
+2014-02-08,Hamburg,Hertha,0-3,0-3
+2014-02-08,Nurnberg,Bayern Munich,0-2,0-1
+2014-02-08,Werder Bremen,Dortmund,1-5,0-2
+2014-02-08,Wolfsburg,Mainz,3-0,0-0
+2014-02-09,Schalke 04,Hannover,2-0,2-0
+2014-02-09,Stuttgart,Augsburg,1-4,0-2
+2014-02-14,Mainz,Hannover,2-0,0-0
+2014-02-15,Bayern Munich,Freiburg,4-0,3-0
+2014-02-15,Braunschweig,Hamburg,4-2,0-1
+2014-02-15,Dortmund,Ein Frankfurt,4-0,2-0
+2014-02-15,Hoffenheim,Stuttgart,4-1,1-0
+2014-02-15,Leverkusen,Schalke 04,1-2,0-1
+2014-02-15,Werder Bremen,M'gladbach,1-1,0-1
+2014-02-16,Augsburg,Nurnberg,0-1,0-0
+2014-02-16,Hertha,Wolfsburg,1-2,1-0
+2014-02-21,Schalke 04,Mainz,0-0,0-0
+2014-02-22,Freiburg,Augsburg,2-4,1-1
+2014-02-22,Hamburg,Dortmund,3-0,1-0
+2014-02-22,M'gladbach,Hoffenheim,2-2,2-0
+2014-02-22,Nurnberg,Braunschweig,2-1,0-1
+2014-02-22,Stuttgart,Hertha,1-2,1-1
+2014-02-22,Wolfsburg,Leverkusen,3-1,1-1
+2014-02-23,Ein Frankfurt,Werder Bremen,0-0,0-0
+2014-02-23,Hannover,Bayern Munich,0-4,0-2
+2014-02-28,Hertha,Freiburg,0-0,0-0
+2014-03-01,Augsburg,Hannover,1-1,0-1
+2014-03-01,Bayern Munich,Schalke 04,5-1,4-0
+2014-03-01,Braunschweig,M'gladbach,1-1,0-1
+2014-03-01,Dortmund,Nurnberg,3-0,0-0
+2014-03-01,Leverkusen,Mainz,0-1,0-1
+2014-03-01,Werder Bremen,Hamburg,1-0,1-0
+2014-03-02,Ein Frankfurt,Stuttgart,2-1,0-1
+2014-03-02,Hoffenheim,Wolfsburg,6-2,4-1
+2014-03-08,Hamburg,Ein Frankfurt,1-1,0-1
+2014-03-08,Hannover,Leverkusen,1-1,1-1
+2014-03-08,M'gladbach,Augsburg,1-2,1-1
+2014-03-08,Nurnberg,Werder Bremen,0-2,0-1
+2014-03-08,Schalke 04,Hoffenheim,4-0,2-0
+2014-03-08,Stuttgart,Braunschweig,2-2,2-1
+2014-03-08,Wolfsburg,Bayern Munich,1-6,1-1
+2014-03-09,Freiburg,Dortmund,0-1,0-0
+2014-03-09,Mainz,Hertha,1-1,0-0
+2014-03-14,Augsburg,Schalke 04,1-2,1-1
+2014-03-15,Bayern Munich,Leverkusen,2-1,1-0
+2014-03-15,Braunschweig,Wolfsburg,1-1,0-1
+2014-03-15,Dortmund,M'gladbach,1-2,0-2
+2014-03-15,Hertha,Hannover,0-3,0-0
+2014-03-15,Hoffenheim,Mainz,2-4,0-0
+2014-03-15,Werder Bremen,Stuttgart,1-1,0-0
+2014-03-16,Ein Frankfurt,Freiburg,1-4,0-1
+2014-03-16,Hamburg,Nurnberg,2-1,0-0
+2014-03-21,Freiburg,Werder Bremen,3-1,1-0
+2014-03-22,Hannover,Dortmund,0-3,0-1
+2014-03-22,Mainz,Bayern Munich,0-2,0-0
+2014-03-22,M'gladbach,Hertha,3-0,3-0
+2014-03-22,Schalke 04,Braunschweig,3-1,1-0
+2014-03-22,Stuttgart,Hamburg,1-0,0-0
+2014-03-22,Wolfsburg,Augsburg,1-1,0-1
+2014-03-23,Leverkusen,Hoffenheim,2-3,1-2
+2014-03-23,Nurnberg,Ein Frankfurt,2-5,0-1
+2014-03-25,Braunschweig,Mainz,3-1,2-1
+2014-03-25,Dortmund,Schalke 04,0-0,0-0
+2014-03-25,Hertha,Bayern Munich,1-3,0-2
+2014-03-25,Werder Bremen,Wolfsburg,1-3,1-2
+2014-03-26,Augsburg,Leverkusen,1-3,0-1
+2014-03-26,Ein Frankfurt,M'gladbach,1-0,1-0
+2014-03-26,Hamburg,Freiburg,1-1,0-0
+2014-03-26,Hoffenheim,Hannover,3-1,1-1
+2014-03-26,Nurnberg,Stuttgart,2-0,1-0
+2014-03-28,Schalke 04,Hertha,2-0,1-0
+2014-03-29,Bayern Munich,Hoffenheim,3-3,3-2
+2014-03-29,Freiburg,Nurnberg,3-2,1-2
+2014-03-29,Leverkusen,Braunschweig,1-1,0-0
+2014-03-29,Mainz,Augsburg,3-0,2-0
+2014-03-29,Stuttgart,Dortmund,2-3,2-1
+2014-03-29,Wolfsburg,Ein Frankfurt,2-1,0-1
+2014-03-30,Hannover,Werder Bremen,1-2,1-0
+2014-03-30,M'gladbach,Hamburg,3-1,1-1
+2014-04-04,Hamburg,Leverkusen,2-1,1-0
+2014-04-05,Augsburg,Bayern Munich,1-0,1-0
+2014-04-05,Dortmund,Wolfsburg,2-1,0-1
+2014-04-05,Ein Frankfurt,Mainz,2-0,0-0
+2014-04-05,Nurnberg,M'gladbach,0-2,0-1
+2014-04-05,Stuttgart,Freiburg,2-0,0-0
+2014-04-05,Werder Bremen,Schalke 04,1-1,1-1
+2014-04-06,Braunschweig,Hannover,3-0,2-0
+2014-04-06,Hertha,Hoffenheim,1-1,1-1
+2014-04-11,Schalke 04,Ein Frankfurt,2-0,0-0
+2014-04-12,Bayern Munich,Dortmund,0-3,0-1
+2014-04-12,Freiburg,Braunschweig,2-0,1-0
+2014-04-12,Hannover,Hamburg,2-1,1-0
+2014-04-12,Mainz,Werder Bremen,3-0,3-0
+2014-04-12,M'gladbach,Stuttgart,1-1,0-1
+2014-04-12,Wolfsburg,Nurnberg,4-1,2-1
+2014-04-13,Hoffenheim,Augsburg,2-0,2-0
+2014-04-13,Leverkusen,Hertha,2-1,2-1
+2014-04-17,Ein Frankfurt,Hannover,2-3,1-3
+2014-04-19,Augsburg,Hertha,0-0,0-0
+2014-04-19,Braunschweig,Bayern Munich,0-2,0-0
+2014-04-19,Dortmund,Mainz,4-2,2-1
+2014-04-19,Freiburg,M'gladbach,4-2,0-1
+2014-04-19,Hamburg,Wolfsburg,1-3,0-2
+2014-04-19,Werder Bremen,Hoffenheim,3-1,1-1
+2014-04-20,Nurnberg,Leverkusen,1-4,1-1
+2014-04-20,Stuttgart,Schalke 04,3-1,1-0
+2014-04-25,Hannover,Stuttgart,0-0,0-0
+2014-04-26,Bayern Munich,Werder Bremen,5-2,1-2
+2014-04-26,Hertha,Braunschweig,2-0,0-0
+2014-04-26,Hoffenheim,Ein Frankfurt,0-0,0-0
+2014-04-26,Leverkusen,Dortmund,2-2,2-2
+2014-04-26,Mainz,Nurnberg,2-0,2-0
+2014-04-26,Wolfsburg,Freiburg,2-2,1-0
+2014-04-27,Augsburg,Hamburg,3-1,3-1
+2014-04-27,Schalke 04,M'gladbach,0-1,0-1
+2014-05-03,Braunschweig,Augsburg,0-1,0-0
+2014-05-03,Dortmund,Hoffenheim,3-2,3-1
+2014-05-03,Ein Frankfurt,Leverkusen,0-2,0-2
+2014-05-03,Freiburg,Schalke 04,0-2,0-1
+2014-05-03,Hamburg,Bayern Munich,1-4,0-1
+2014-05-03,M'gladbach,Mainz,3-1,1-0
+2014-05-03,Nurnberg,Hannover,0-2,0-1
+2014-05-03,Stuttgart,Wolfsburg,1-2,0-1
+2014-05-03,Werder Bremen,Hertha,2-0,0-0
+2014-05-10,Augsburg,Ein Frankfurt,2-1,1-1
+2014-05-10,Bayern Munich,Stuttgart,1-0,0-0
+2014-05-10,Hannover,Freiburg,3-2,1-0
+2014-05-10,Hertha,Dortmund,0-4,0-2
+2014-05-10,Hoffenheim,Braunschweig,3-1,1-0
+2014-05-10,Leverkusen,Werder Bremen,2-1,1-1
+2014-05-10,Mainz,Hamburg,3-2,1-1
+2014-05-10,Schalke 04,Nurnberg,4-1,2-0
+2014-05-10,Wolfsburg,M'gladbach,3-1,1-0

@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2013-07-19,Ingolstadt,Erzgebirge Aue,1-2,0-1
+2013-07-19,Sandhausen,Aalen,0-0,0-0
+2013-07-19,St Pauli,Munich 1860,1-0,0-0
+2013-07-20,Dresden,FC Koln,1-1,0-0
+2013-07-20,Paderborn,Kaiserslautern,0-1,0-0
+2013-07-21,Frankfurt FSV,Karlsruhe,0-1,0-0
+2013-07-21,Greuther Furth,Bielefeld,2-0,2-0
+2013-07-21,Union Berlin,Bochum,1-2,0-0
+2013-07-22,Fortuna Dusseldorf,Cottbus,1-0,0-0
+2013-07-26,Aalen,Greuther Furth,0-2,0-1
+2013-07-26,Bielefeld,Union Berlin,1-1,0-1
+2013-07-26,Kaiserslautern,Ingolstadt,3-1,1-0
+2013-07-27,Erzgebirge Aue,Sandhausen,1-0,0-0
+2013-07-27,Karlsruhe,St Pauli,0-0,0-0
+2013-07-28,Cottbus,Paderborn,4-0,4-0
+2013-07-28,FC Koln,Fortuna Dusseldorf,1-1,0-1
+2013-07-28,Munich 1860,Frankfurt FSV,2-1,0-0
+2013-07-29,Bochum,Dresden,1-1,1-0
+2013-08-09,Dresden,Union Berlin,1-3,0-3
+2013-08-09,Fortuna Dusseldorf,Munich 1860,1-2,1-1
+2013-08-09,Frankfurt FSV,Bochum,1-0,1-0
+2013-08-10,Ingolstadt,Karlsruhe,0-2,0-0
+2013-08-10,Paderborn,FC Koln,1-1,1-0
+2013-08-11,Erzgebirge Aue,Aalen,0-1,0-1
+2013-08-11,Sandhausen,Cottbus,2-2,2-1
+2013-08-11,St Pauli,Bielefeld,0-1,0-0
+2013-08-12,Greuther Furth,Kaiserslautern,2-1,1-1
+2013-08-16,Bielefeld,Paderborn,3-3,0-1
+2013-08-16,Bochum,St Pauli,2-2,1-2
+2013-08-16,Karlsruhe,Greuther Furth,1-2,1-0
+2013-08-17,FC Koln,Sandhausen,2-0,0-0
+2013-08-17,Kaiserslautern,Erzgebirge Aue,2-1,1-0
+2013-08-18,Cottbus,Aalen,5-1,3-1
+2013-08-18,Dresden,Frankfurt FSV,0-3,0-1
+2013-08-18,Munich 1860,Ingolstadt,1-0,0-0
+2013-08-19,Union Berlin,Fortuna Dusseldorf,2-1,1-0
+2013-08-23,Erzgebirge Aue,Cottbus,2-1,0-1
+2013-08-23,Ingolstadt,Bielefeld,3-2,1-1
+2013-08-23,Sandhausen,Karlsruhe,1-1,0-0
+2013-08-24,Aalen,Kaiserslautern,4-0,1-0
+2013-08-24,Greuther Furth,FC Koln,0-0,0-0
+2013-08-25,Fortuna Dusseldorf,Bochum,1-0,1-0
+2013-08-25,Frankfurt FSV,Union Berlin,1-1,1-0
+2013-08-25,Paderborn,Munich 1860,1-0,0-0
+2013-08-26,St Pauli,Dresden,2-1,0-0
+2013-08-30,Bielefeld,Fortuna Dusseldorf,4-2,1-2
+2013-08-30,Frankfurt FSV,Greuther Furth,1-1,1-0
+2013-08-30,Munich 1860,Sandhausen,0-2,0-2
+2013-08-31,Bochum,Paderborn,4-2,0-2
+2013-08-31,Union Berlin,St Pauli,3-2,1-2
+2013-09-01,Dresden,Ingolstadt,1-1,1-1
+2013-09-01,FC Koln,Erzgebirge Aue,4-1,3-1
+2013-09-01,Karlsruhe,Aalen,1-1,1-1
+2013-09-02,Kaiserslautern,Cottbus,2-2,1-2
+2013-09-13,Aalen,Munich 1860,0-0,0-0
+2013-09-13,Erzgebirge Aue,Bielefeld,0-2,0-0
+2013-09-13,Paderborn,Karlsruhe,1-0,0-0
+2013-09-14,Sandhausen,Kaiserslautern,1-0,0-0
+2013-09-14,St Pauli,Frankfurt FSV,2-1,1-0
+2013-09-15,Fortuna Dusseldorf,Dresden,1-1,1-0
+2013-09-15,Greuther Furth,Bochum,0-2,0-2
+2013-09-15,Ingolstadt,Union Berlin,0-1,0-0
+2013-09-16,Cottbus,FC Koln,0-4,0-3
+2013-09-20,FC Koln,Kaiserslautern,0-0,0-0
+2013-09-20,Karlsruhe,Cottbus,2-0,2-0
+2013-09-20,Union Berlin,Greuther Furth,2-4,1-0
+2013-09-21,Bielefeld,Sandhausen,2-1,0-0
+2013-09-21,Bochum,Aalen,1-2,1-1
+2013-09-21,Munich 1860,Erzgebirge Aue,3-1,2-0
+2013-09-22,Dresden,Paderborn,2-2,0-0
+2013-09-22,Frankfurt FSV,Ingolstadt,4-1,2-0
+2013-09-23,St Pauli,Fortuna Dusseldorf,1-1,0-0
+2013-09-27,Aalen,FC Koln,0-1,0-1
+2013-09-27,Cottbus,Bielefeld,4-2,2-0
+2013-09-27,Erzgebirge Aue,Karlsruhe,3-0,2-0
+2013-09-28,Fortuna Dusseldorf,Frankfurt FSV,0-0,0-0
+2013-09-28,Paderborn,Union Berlin,0-3,0-1
+2013-09-29,Ingolstadt,St Pauli,1-2,0-1
+2013-09-29,Kaiserslautern,Munich 1860,3-0,0-0
+2013-09-29,Sandhausen,Bochum,1-0,0-0
+2013-09-30,Greuther Furth,Dresden,4-0,1-0
+2013-10-04,Bielefeld,Kaiserslautern,0-3,0-2
+2013-10-04,St Pauli,Paderborn,1-2,0-0
+2013-10-04,Union Berlin,Sandhausen,3-0,1-0
+2013-10-05,Dresden,Aalen,2-0,2-0
+2013-10-05,Karlsruhe,FC Koln,1-2,0-0
+2013-10-06,Bochum,Ingolstadt,0-1,0-0
+2013-10-06,Frankfurt FSV,Erzgebirge Aue,3-1,3-0
+2013-10-06,Munich 1860,Cottbus,0-0,0-0
+2013-10-07,Fortuna Dusseldorf,Greuther Furth,2-1,0-1
+2013-10-18,Aalen,Bielefeld,3-0,0-0
+2013-10-18,Cottbus,Union Berlin,0-0,0-0
+2013-10-18,Paderborn,Frankfurt FSV,4-2,1-1
+2013-10-19,Erzgebirge Aue,Bochum,2-1,0-1
+2013-10-19,Sandhausen,Dresden,0-0,0-0
+2013-10-20,Greuther Furth,St Pauli,2-4,1-1
+2013-10-20,Ingolstadt,Fortuna Dusseldorf,1-2,0-0
+2013-10-20,Kaiserslautern,Karlsruhe,2-2,1-1
+2013-10-21,FC Koln,Munich 1860,0-0,0-0
+2013-10-25,Bielefeld,FC Koln,0-1,0-0
+2013-10-25,Greuther Furth,Ingolstadt,0-1,0-1
+2013-10-25,St Pauli,Sandhausen,0-0,0-0
+2013-10-26,Fortuna Dusseldorf,Paderborn,1-6,1-2
+2013-10-26,Frankfurt FSV,Aalen,0-0,0-0
+2013-10-27,Dresden,Cottbus,1-0,0-0
+2013-10-27,Karlsruhe,Munich 1860,2-1,2-0
+2013-10-27,Union Berlin,Erzgebirge Aue,1-0,0-0
+2013-10-28,Bochum,Kaiserslautern,0-0,0-0
+2013-11-01,Aalen,Fortuna Dusseldorf,1-0,1-0
+2013-11-01,Cottbus,Bochum,0-1,0-1
+2013-11-01,Paderborn,Ingolstadt,1-1,0-1
+2013-11-02,Erzgebirge Aue,Greuther Furth,2-6,1-3
+2013-11-02,Kaiserslautern,St Pauli,4-1,1-1
+2013-11-03,Karlsruhe,Bielefeld,3-1,0-0
+2013-11-03,Munich 1860,Dresden,1-3,1-2
+2013-11-03,Sandhausen,Frankfurt FSV,2-0,1-0
+2013-11-04,FC Koln,Union Berlin,4-0,2-0
+2013-11-08,Frankfurt FSV,Kaiserslautern,0-4,0-3
+2013-11-08,Greuther Furth,Paderborn,3-0,2-0
+2013-11-08,Ingolstadt,Aalen,2-0,1-0
+2013-11-09,Bielefeld,Munich 1860,0-1,0-0
+2013-11-09,Union Berlin,Karlsruhe,0-0,0-0
+2013-11-10,Bochum,FC Koln,1-0,0-0
+2013-11-10,Dresden,Erzgebirge Aue,1-1,0-0
+2013-11-10,Fortuna Dusseldorf,Sandhausen,1-0,0-0
+2013-11-11,St Pauli,Cottbus,3-0,1-0
+2013-11-22,Bielefeld,Bochum,0-2,0-1
+2013-11-22,Cottbus,Frankfurt FSV,1-4,0-1
+2013-11-22,Sandhausen,Paderborn,3-2,1-1
+2013-11-23,FC Koln,Ingolstadt,0-1,0-0
+2013-11-23,Kaiserslautern,Union Berlin,3-0,0-0
+2013-11-24,Aalen,St Pauli,0-1,0-1
+2013-11-24,Erzgebirge Aue,Fortuna Dusseldorf,3-0,2-0
+2013-11-24,Karlsruhe,Dresden,3-0,2-0
+2013-11-25,Munich 1860,Greuther Furth,1-0,0-0
+2013-11-29,Fortuna Dusseldorf,Karlsruhe,0-2,0-1
+2013-11-29,St Pauli,FC Koln,0-3,0-2
+2013-11-29,Union Berlin,Aalen,1-3,0-0
+2013-11-30,Dresden,Kaiserslautern,3-2,1-1
+2013-11-30,Ingolstadt,Sandhausen,0-2,0-2
+2013-12-01,Bochum,Munich 1860,1-2,1-1
+2013-12-01,Greuther Furth,Cottbus,1-0,1-0
+2013-12-01,Paderborn,Erzgebirge Aue,1-1,1-0
+2013-12-02,Frankfurt FSV,Bielefeld,1-2,1-2
+2013-12-06,Bielefeld,Dresden,1-1,0-0
+2013-12-06,Erzgebirge Aue,St Pauli,0-2,0-2
+2013-12-06,Karlsruhe,Bochum,0-0,0-0
+2013-12-07,FC Koln,Frankfurt FSV,2-0,0-0
+2013-12-07,Munich 1860,Union Berlin,2-1,0-0
+2013-12-08,Aalen,Paderborn,2-4,2-2
+2013-12-08,Cottbus,Ingolstadt,1-2,1-1
+2013-12-08,Sandhausen,Greuther Furth,1-3,1-1
+2013-12-09,Kaiserslautern,Fortuna Dusseldorf,0-1,0-1
+2013-12-13,Aalen,Sandhausen,0-0,0-0
+2013-12-13,FC Koln,Dresden,3-1,2-0
+2013-12-13,Kaiserslautern,Paderborn,0-1,0-0
+2013-12-14,Bochum,Union Berlin,0-4,0-2
+2013-12-14,Cottbus,Fortuna Dusseldorf,1-3,1-1
+2013-12-15,Bielefeld,Greuther Furth,4-1,1-1
+2013-12-15,Erzgebirge Aue,Ingolstadt,0-0,0-0
+2013-12-15,Karlsruhe,Frankfurt FSV,3-3,3-0
+2013-12-16,Munich 1860,St Pauli,0-2,0-1
+2013-12-20,Dresden,Bochum,0-0,0-0
+2013-12-20,Sandhausen,Erzgebirge Aue,1-0,1-0
+2013-12-20,St Pauli,Karlsruhe,0-2,0-0
+2013-12-21,Frankfurt FSV,Munich 1860,2-2,1-1
+2013-12-21,Union Berlin,Bielefeld,4-2,3-1
+2013-12-22,Fortuna Dusseldorf,FC Koln,2-3,0-2
+2013-12-22,Greuther Furth,Aalen,1-0,0-0
+2013-12-22,Paderborn,Cottbus,1-0,0-0
+2013-12-23,Ingolstadt,Kaiserslautern,1-2,1-1
+2014-02-07,Aalen,Erzgebirge Aue,2-2,1-1
+2014-02-07,Bochum,Frankfurt FSV,1-2,0-0
+2014-02-07,Cottbus,Sandhausen,0-1,0-0
+2014-02-08,Kaiserslautern,Greuther Furth,2-1,1-0
+2014-02-08,Union Berlin,Dresden,0-0,0-0
+2014-02-09,Bielefeld,St Pauli,2-2,0-1
+2014-02-09,FC Koln,Paderborn,0-1,0-0
+2014-02-09,Karlsruhe,Ingolstadt,1-1,1-1
+2014-02-10,Munich 1860,Fortuna Dusseldorf,1-1,0-0
+2014-02-14,Fortuna Dusseldorf,Union Berlin,1-1,1-0
+2014-02-14,Greuther Furth,Karlsruhe,1-1,0-1
+2014-02-14,Ingolstadt,Munich 1860,2-0,1-0
+2014-02-15,Frankfurt FSV,Dresden,3-2,0-1
+2014-02-15,St Pauli,Bochum,0-1,0-1
+2014-02-16,Aalen,Cottbus,2-2,1-1
+2014-02-16,Paderborn,Bielefeld,4-0,1-0
+2014-02-16,Sandhausen,FC Koln,0-1,0-0
+2014-02-17,Erzgebirge Aue,Kaiserslautern,1-0,1-0
+2014-02-21,Bielefeld,Ingolstadt,0-2,0-0
+2014-02-21,Cottbus,Erzgebirge Aue,2-3,0-3
+2014-02-21,Union Berlin,Frankfurt FSV,2-0,1-0
+2014-02-22,Karlsruhe,Sandhausen,2-1,0-0
+2014-02-22,Munich 1860,Paderborn,2-2,0-2
+2014-02-23,Bochum,Fortuna Dusseldorf,0-0,0-0
+2014-02-23,Dresden,St Pauli,1-2,1-1
+2014-02-23,Kaiserslautern,Aalen,1-2,0-1
+2014-02-24,FC Koln,Greuther Furth,1-1,1-0
+2014-02-28,Cottbus,Kaiserslautern,1-0,1-0
+2014-02-28,Fortuna Dusseldorf,Bielefeld,2-0,1-0
+2014-02-28,Paderborn,Bochum,4-1,0-1
+2014-03-01,Erzgebirge Aue,FC Koln,2-2,1-0
+2014-03-01,Sandhausen,Munich 1860,0-0,0-0
+2014-03-02,Aalen,Karlsruhe,1-0,0-0
+2014-03-02,Greuther Furth,Frankfurt FSV,3-2,1-2
+2014-03-02,Ingolstadt,Dresden,1-1,1-1
+2014-03-03,St Pauli,Union Berlin,2-1,0-0
+2014-03-07,FC Koln,Cottbus,2-1,0-0
+2014-03-07,Kaiserslautern,Sandhausen,2-1,0-1
+2014-03-07,Munich 1860,Aalen,4-0,3-0
+2014-03-08,Bielefeld,Erzgebirge Aue,1-0,1-0
+2014-03-08,Union Berlin,Ingolstadt,1-1,0-1
+2014-03-09,Dresden,Fortuna Dusseldorf,1-1,0-0
+2014-03-09,Frankfurt FSV,St Pauli,1-0,1-0
+2014-03-09,Karlsruhe,Paderborn,4-0,1-0
+2014-03-10,Bochum,Greuther Furth,0-2,0-1
+2014-03-14,Aalen,Bochum,0-2,0-1
+2014-03-14,Ingolstadt,Frankfurt FSV,0-1,0-1
+2014-03-14,Paderborn,Dresden,2-1,2-0
+2014-03-15,Cottbus,Karlsruhe,1-0,0-0
+2014-03-15,Erzgebirge Aue,Munich 1860,2-2,0-1
+2014-03-16,Fortuna Dusseldorf,St Pauli,0-2,0-1
+2014-03-16,Greuther Furth,Union Berlin,1-1,0-1
+2014-03-16,Sandhausen,Bielefeld,1-0,1-0
+2014-03-17,Kaiserslautern,FC Koln,0-0,0-0
+2014-03-21,Bochum,Sandhausen,0-1,0-1
+2014-03-21,Dresden,Greuther Furth,1-1,0-0
+2014-03-21,Union Berlin,Paderborn,1-1,0-0
+2014-03-22,FC Koln,Aalen,0-0,0-0
+2014-03-22,Frankfurt FSV,Fortuna Dusseldorf,0-0,0-0
+2014-03-22,St Pauli,Ingolstadt,0-0,0-0
+2014-03-23,Bielefeld,Cottbus,1-3,0-1
+2014-03-23,Karlsruhe,Erzgebirge Aue,1-1,1-0
+2014-03-23,Munich 1860,Kaiserslautern,0-1,0-0
+2014-03-25,Aalen,Dresden,1-1,0-0
+2014-03-25,Greuther Furth,Fortuna Dusseldorf,4-1,1-0
+2014-03-25,Ingolstadt,Bochum,3-0,1-0
+2014-03-25,Paderborn,St Pauli,3-0,1-0
+2014-03-25,Sandhausen,Union Berlin,2-1,1-1
+2014-03-26,Cottbus,Munich 1860,1-2,1-0
+2014-03-26,Erzgebirge Aue,Frankfurt FSV,2-1,0-1
+2014-03-26,FC Koln,Karlsruhe,2-0,1-0
+2014-03-26,Kaiserslautern,Bielefeld,1-1,1-1
+2014-03-28,Dresden,Sandhausen,0-0,0-0
+2014-03-28,Fortuna Dusseldorf,Ingolstadt,0-0,0-0
+2014-03-28,St Pauli,Greuther Furth,2-2,0-0
+2014-03-29,Bochum,Erzgebirge Aue,1-0,0-0
+2014-03-29,Karlsruhe,Kaiserslautern,2-2,1-0
+2014-03-30,Bielefeld,Aalen,0-0,0-0
+2014-03-30,Frankfurt FSV,Paderborn,1-3,0-1
+2014-03-30,Munich 1860,FC Koln,0-1,0-0
+2014-03-31,Union Berlin,Cottbus,2-0,1-0
+2014-04-04,Aalen,Frankfurt FSV,2-1,1-0
+2014-04-04,Cottbus,Dresden,0-0,0-0
+2014-04-04,Paderborn,Fortuna Dusseldorf,1-2,0-1
+2014-04-05,FC Koln,Bielefeld,2-0,1-0
+2014-04-05,Sandhausen,St Pauli,2-3,0-0
+2014-04-06,Erzgebirge Aue,Union Berlin,3-2,2-2
+2014-04-06,Kaiserslautern,Bochum,1-1,1-1
+2014-04-06,Munich 1860,Karlsruhe,0-3,0-2
+2014-04-07,Ingolstadt,Greuther Furth,0-0,0-0
+2014-04-11,Ingolstadt,Paderborn,1-2,1-1
+2014-04-11,St Pauli,Kaiserslautern,2-3,1-1
+2014-04-11,Union Berlin,FC Koln,1-2,1-1
+2014-04-12,Bielefeld,Karlsruhe,0-0,0-0
+2014-04-12,Greuther Furth,Erzgebirge Aue,2-1,1-1
+2014-04-13,Bochum,Cottbus,2-1,0-1
+2014-04-13,Fortuna Dusseldorf,Aalen,3-1,1-0
+2014-04-13,Frankfurt FSV,Sandhausen,0-3,0-2
+2014-04-14,Dresden,Munich 1860,4-2,4-1
+2014-04-17,Cottbus,St Pauli,1-1,0-0
+2014-04-17,Erzgebirge Aue,Dresden,2-0,2-0
+2014-04-17,Sandhausen,Fortuna Dusseldorf,0-3,0-2
+2014-04-19,Karlsruhe,Union Berlin,3-2,0-0
+2014-04-19,Munich 1860,Bielefeld,2-1,1-1
+2014-04-20,Aalen,Ingolstadt,0-0,0-0
+2014-04-20,Kaiserslautern,Frankfurt FSV,3-2,3-2
+2014-04-20,Paderborn,Greuther Furth,2-2,1-0
+2014-04-21,FC Koln,Bochum,3-1,0-1
+2014-04-25,Bochum,Bielefeld,1-4,0-3
+2014-04-25,Greuther Furth,Munich 1860,1-2,1-1
+2014-04-25,Ingolstadt,FC Koln,1-1,1-0
+2014-04-26,Fortuna Dusseldorf,Erzgebirge Aue,4-0,2-0
+2014-04-26,Frankfurt FSV,Cottbus,3-1,2-0
+2014-04-27,Dresden,Karlsruhe,2-2,1-1
+2014-04-27,Paderborn,Sandhausen,2-0,0-0
+2014-04-27,St Pauli,Aalen,0-3,0-1
+2014-04-28,Union Berlin,Kaiserslautern,1-1,1-1
+2014-05-04,Aalen,Union Berlin,3-0,1-0
+2014-05-04,Bielefeld,Frankfurt FSV,0-0,0-0
+2014-05-04,Cottbus,Greuther Furth,0-6,0-2
+2014-05-04,Erzgebirge Aue,Paderborn,0-2,0-1
+2014-05-04,FC Koln,St Pauli,4-0,3-0
+2014-05-04,Kaiserslautern,Dresden,4-0,1-0
+2014-05-04,Karlsruhe,Fortuna Dusseldorf,2-2,1-2
+2014-05-04,Munich 1860,Bochum,2-0,1-0
+2014-05-04,Sandhausen,Ingolstadt,0-2,0-2
+2014-05-11,Bochum,Karlsruhe,1-0,0-0
+2014-05-11,Dresden,Bielefeld,2-3,0-1
+2014-05-11,Fortuna Dusseldorf,Kaiserslautern,4-2,2-2
+2014-05-11,Frankfurt FSV,FC Koln,2-0,0-0
+2014-05-11,Greuther Furth,Sandhausen,2-0,0-0
+2014-05-11,Ingolstadt,Cottbus,2-0,1-0
+2014-05-11,Paderborn,Aalen,2-1,2-1
+2014-05-11,St Pauli,Erzgebirge Aue,2-2,2-1
+2014-05-11,Union Berlin,Munich 1860,1-1,0-1

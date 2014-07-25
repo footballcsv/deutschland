@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2003-08-03,Ahlen,Osnabruck,0-1,0-1
+2003-08-03,Bielefeld,Oberhausen,1-3,0-1
+2003-08-03,Burghausen,Aachen,1-1,1-1
+2003-08-03,Cottbus,Ein Trier,2-3,2-1
+2003-08-03,Duisburg,Lubeck,2-1,0-0
+2003-08-03,Erzgebirge Aue,Regensburg,0-1,0-1
+2003-08-03,Greuther Furth,Unterhaching,2-4,1-2
+2003-08-03,Mainz,Union Berlin,2-1,1-1
+2003-08-04,Karlsruhe,Nurnberg,2-3,0-0
+2003-08-08,Ein Trier,Erzgebirge Aue,2-1,2-0
+2003-08-08,Lubeck,Bielefeld,0-0,0-0
+2003-08-08,Regensburg,Greuther Furth,0-0,0-0
+2003-08-10,Nurnberg,Burghausen,2-0,1-0
+2003-08-10,Oberhausen,Ahlen,1-3,1-0
+2003-08-10,Osnabruck,Karlsruhe,1-2,0-1
+2003-08-10,Union Berlin,Cottbus,0-1,0-1
+2003-08-10,Unterhaching,Duisburg,1-0,0-0
+2003-08-11,Aachen,Mainz,2-2,1-1
+2003-08-15,Erzgebirge Aue,Union Berlin,2-1,2-1
+2003-08-15,Karlsruhe,Oberhausen,1-2,0-2
+2003-08-15,Lubeck,Unterhaching,0-2,0-0
+2003-08-17,Bielefeld,Ahlen,3-0,2-0
+2003-08-17,Burghausen,Osnabruck,4-1,2-0
+2003-08-17,Cottbus,Aachen,3-1,1-0
+2003-08-17,Duisburg,Regensburg,2-2,1-1
+2003-08-17,Greuther Furth,Ein Trier,4-2,2-1
+2003-08-18,Mainz,Nurnberg,2-1,1-0
+2003-08-22,Ahlen,Karlsruhe,1-2,1-1
+2003-08-22,Ein Trier,Duisburg,1-1,1-1
+2003-08-22,Regensburg,Lubeck,0-4,0-2
+2003-08-24,Aachen,Erzgebirge Aue,1-0,1-0
+2003-08-24,Oberhausen,Burghausen,1-2,0-0
+2003-08-24,Osnabruck,Mainz,2-2,2-1
+2003-08-24,Union Berlin,Greuther Furth,3-0,1-0
+2003-08-24,Unterhaching,Bielefeld,1-0,1-0
+2003-08-25,Nurnberg,Cottbus,2-2,1-2
+2003-09-12,Burghausen,Ahlen,0-1,0-0
+2003-09-12,Duisburg,Union Berlin,1-0,1-0
+2003-09-12,Mainz,Oberhausen,2-0,1-0
+2003-09-14,Cottbus,Osnabruck,3-0,2-0
+2003-09-14,Erzgebirge Aue,Nurnberg,3-3,1-2
+2003-09-14,Greuther Furth,Aachen,7-1,4-1
+2003-09-14,Lubeck,Ein Trier,2-2,0-1
+2003-09-14,Unterhaching,Regensburg,2-2,1-2
+2003-09-15,Bielefeld,Karlsruhe,3-1,2-0
+2003-09-19,Aachen,Duisburg,2-1,2-0
+2003-09-19,Regensburg,Bielefeld,1-2,1-2
+2003-09-19,Union Berlin,Lubeck,1-2,0-0
+2003-09-21,Ahlen,Mainz,1-3,0-1
+2003-09-21,Ein Trier,Unterhaching,2-1,1-0
+2003-09-21,Karlsruhe,Burghausen,0-0,0-0
+2003-09-21,Oberhausen,Cottbus,0-0,0-0
+2003-09-21,Osnabruck,Erzgebirge Aue,0-1,0-0
+2003-09-22,Nurnberg,Greuther Furth,1-1,1-0
+2003-09-26,Cottbus,Ahlen,3-2,2-0
+2003-09-26,Lubeck,Aachen,3-5,1-3
+2003-09-26,Unterhaching,Union Berlin,1-1,1-0
+2003-09-28,Bielefeld,Burghausen,3-1,1-1
+2003-09-28,Duisburg,Nurnberg,2-1,1-0
+2003-09-28,Erzgebirge Aue,Oberhausen,1-1,1-1
+2003-09-28,Greuther Furth,Osnabruck,1-1,0-0
+2003-09-28,Regensburg,Ein Trier,2-1,1-1
+2003-09-29,Mainz,Karlsruhe,1-1,0-0
+2003-10-03,Ein Trier,Bielefeld,2-3,1-2
+2003-10-03,Karlsruhe,Cottbus,3-1,0-1
+2003-10-03,Osnabruck,Duisburg,2-2,1-1
+2003-10-05,Ahlen,Erzgebirge Aue,1-0,0-0
+2003-10-05,Burghausen,Mainz,2-0,1-0
+2003-10-05,Nurnberg,Lubeck,1-2,1-0
+2003-10-05,Oberhausen,Greuther Furth,3-1,2-0
+2003-10-05,Union Berlin,Regensburg,2-2,1-0
+2003-10-06,Aachen,Unterhaching,5-1,2-1
+2003-10-17,Duisburg,Oberhausen,1-1,0-1
+2003-10-17,Ein Trier,Union Berlin,1-1,0-1
+2003-10-17,Lubeck,Osnabruck,1-1,1-1
+2003-10-19,Bielefeld,Mainz,1-0,1-0
+2003-10-19,Cottbus,Burghausen,2-1,0-1
+2003-10-19,Erzgebirge Aue,Karlsruhe,2-0,1-0
+2003-10-19,Greuther Furth,Ahlen,2-0,2-0
+2003-10-19,Regensburg,Aachen,1-2,1-1
+2003-10-20,Unterhaching,Nurnberg,1-1,0-0
+2003-10-24,Burghausen,Erzgebirge Aue,2-0,0-0
+2003-10-24,Nurnberg,Regensburg,3-2,2-0
+2003-10-24,Oberhausen,Lubeck,3-3,2-2
+2003-10-26,Aachen,Ein Trier,2-0,1-0
+2003-10-26,Ahlen,Duisburg,2-3,1-0
+2003-10-26,Karlsruhe,Greuther Furth,1-0,0-0
+2003-10-26,Osnabruck,Unterhaching,2-1,1-1
+2003-10-26,Union Berlin,Bielefeld,1-0,1-0
+2003-10-27,Mainz,Cottbus,4-1,2-1
+2003-10-31,Bielefeld,Cottbus,1-3,1-0
+2003-10-31,Erzgebirge Aue,Mainz,1-1,1-0
+2003-10-31,Lubeck,Ahlen,4-1,2-0
+2003-11-02,Duisburg,Karlsruhe,0-2,0-0
+2003-11-02,Ein Trier,Nurnberg,0-2,0-0
+2003-11-02,Greuther Furth,Burghausen,2-2,1-1
+2003-11-02,Regensburg,Osnabruck,1-0,0-0
+2003-11-02,Unterhaching,Oberhausen,1-4,1-1
+2003-11-03,Union Berlin,Aachen,2-1,0-1
+2003-11-07,Mainz,Greuther Furth,1-3,1-1
+2003-11-07,Oberhausen,Regensburg,2-1,1-1
+2003-11-07,Osnabruck,Ein Trier,3-0,1-0
+2003-11-09,Aachen,Bielefeld,2-0,1-0
+2003-11-09,Ahlen,Unterhaching,2-2,0-0
+2003-11-09,Burghausen,Duisburg,1-2,1-1
+2003-11-09,Karlsruhe,Lubeck,1-0,1-0
+2003-11-09,Nurnberg,Union Berlin,3-0,1-0
+2003-11-10,Cottbus,Erzgebirge Aue,2-1,0-1
+2003-11-21,Bielefeld,Erzgebirge Aue,1-1,1-1
+2003-11-21,Duisburg,Mainz,0-1,0-0
+2003-11-21,Lubeck,Burghausen,2-2,0-0
+2003-11-21,Union Berlin,Osnabruck,2-0,1-0
+2003-11-23,Ein Trier,Oberhausen,0-3,0-2
+2003-11-23,Greuther Furth,Cottbus,2-1,2-1
+2003-11-23,Regensburg,Ahlen,3-0,0-0
+2003-11-23,Unterhaching,Karlsruhe,3-0,2-0
+2003-11-28,Cottbus,Duisburg,1-1,0-0
+2003-11-28,Karlsruhe,Regensburg,0-3,0-1
+2003-11-28,Osnabruck,Aachen,3-1,1-0
+2003-11-30,Ahlen,Ein Trier,2-0,0-0
+2003-11-30,Burghausen,Unterhaching,0-2,0-2
+2003-11-30,Erzgebirge Aue,Greuther Furth,1-1,1-1
+2003-11-30,Mainz,Lubeck,3-1,1-1
+2003-11-30,Oberhausen,Union Berlin,0-0,0-0
+2003-12-01,Nurnberg,Bielefeld,1-0,1-0
+2003-12-05,Duisburg,Erzgebirge Aue,2-2,2-1
+2003-12-05,Ein Trier,Karlsruhe,1-1,0-0
+2003-12-05,Regensburg,Burghausen,0-2,0-1
+2003-12-07,Aachen,Oberhausen,1-0,0-0
+2003-12-07,Bielefeld,Greuther Furth,1-1,1-0
+2003-12-07,Lubeck,Cottbus,1-1,0-0
+2003-12-07,Nurnberg,Osnabruck,2-0,1-0
+2003-12-07,Union Berlin,Ahlen,0-2,0-0
+2003-12-08,Unterhaching,Mainz,1-1,0-1
+2003-12-12,Ahlen,Aachen,0-0,0-0
+2003-12-12,Bielefeld,Osnabruck,5-0,3-0
+2003-12-12,Greuther Furth,Duisburg,3-3,2-2
+2003-12-12,Oberhausen,Nurnberg,3-1,1-1
+2003-12-14,Burghausen,Ein Trier,1-1,1-0
+2003-12-14,Cottbus,Unterhaching,3-1,1-1
+2003-12-14,Erzgebirge Aue,Lubeck,0-0,0-0
+2003-12-14,Karlsruhe,Union Berlin,2-1,2-1
+2003-12-14,Mainz,Regensburg,1-1,0-0
+2003-12-16,Duisburg,Bielefeld,0-2,0-0
+2003-12-16,Nurnberg,Ahlen,2-0,1-0
+2003-12-16,Osnabruck,Oberhausen,0-2,0-1
+2003-12-17,Aachen,Karlsruhe,0-0,0-0
+2003-12-17,Ein Trier,Mainz,1-0,1-0
+2003-12-17,Lubeck,Greuther Furth,1-0,0-0
+2003-12-17,Union Berlin,Burghausen,1-2,1-1
+2003-12-17,Unterhaching,Erzgebirge Aue,1-2,1-1
+2003-12-18,Regensburg,Cottbus,0-0,0-0
+2004-01-26,Aachen,Nurnberg,3-2,2-2
+2004-01-31,Aachen,Burghausen,0-1,0-1
+2004-01-31,Unterhaching,Greuther Furth,3-1,1-1
+2004-02-01,Ein Trier,Cottbus,2-0,1-0
+2004-02-01,Nurnberg,Karlsruhe,2-0,2-0
+2004-02-01,Osnabruck,Ahlen,1-2,1-1
+2004-02-01,Regensburg,Erzgebirge Aue,1-1,1-0
+2004-02-01,Union Berlin,Mainz,1-1,1-0
+2004-02-02,Oberhausen,Bielefeld,3-2,0-1
+2004-02-06,Ahlen,Oberhausen,0-2,0-2
+2004-02-06,Burghausen,Nurnberg,0-0,0-0
+2004-02-06,Karlsruhe,Osnabruck,3-0,3-0
+2004-02-08,Bielefeld,Lubeck,1-3,0-1
+2004-02-08,Duisburg,Unterhaching,0-1,0-1
+2004-02-08,Erzgebirge Aue,Ein Trier,2-1,1-1
+2004-02-08,Greuther Furth,Regensburg,2-2,1-2
+2004-02-08,Mainz,Aachen,3-2,0-2
+2004-02-09,Cottbus,Union Berlin,2-1,1-0
+2004-02-11,Lubeck,Duisburg,1-1,1-1
+2004-02-13,Ein Trier,Greuther Furth,2-0,0-0
+2004-02-13,Oberhausen,Karlsruhe,1-0,0-0
+2004-02-13,Osnabruck,Burghausen,3-0,1-0
+2004-02-15,Aachen,Cottbus,0-2,0-1
+2004-02-15,Ahlen,Bielefeld,0-0,0-0
+2004-02-15,Regensburg,Duisburg,0-5,0-1
+2004-02-15,Union Berlin,Erzgebirge Aue,3-0,1-0
+2004-02-15,Unterhaching,Lubeck,0-1,0-1
+2004-02-16,Nurnberg,Mainz,2-2,1-1
+2004-02-20,Cottbus,Nurnberg,1-3,1-2
+2004-02-20,Duisburg,Ein Trier,2-0,1-0
+2004-02-20,Mainz,Osnabruck,0-0,0-0
+2004-02-22,Burghausen,Oberhausen,5-0,2-0
+2004-02-22,Erzgebirge Aue,Aachen,0-1,0-1
+2004-02-22,Greuther Furth,Union Berlin,2-2,1-1
+2004-02-22,Karlsruhe,Ahlen,1-0,0-0
+2004-02-22,Lubeck,Regensburg,0-3,0-2
+2004-02-23,Bielefeld,Unterhaching,1-0,1-0
+2004-02-27,Aachen,Greuther Furth,0-0,0-0
+2004-02-27,Karlsruhe,Bielefeld,2-2,0-1
+2004-02-27,Nurnberg,Erzgebirge Aue,2-0,2-0
+2004-02-29,Osnabruck,Cottbus,0-1,0-0
+2004-02-29,Regensburg,Unterhaching,1-0,1-0
+2004-02-29,Union Berlin,Duisburg,2-1,0-1
+2004-03-01,Ein Trier,Lubeck,4-2,2-1
+2004-03-05,Burghausen,Karlsruhe,0-0,0-0
+2004-03-05,Lubeck,Union Berlin,0-2,0-1
+2004-03-05,Unterhaching,Ein Trier,0-0,0-0
+2004-03-07,Bielefeld,Regensburg,0-0,0-0
+2004-03-07,Cottbus,Oberhausen,3-1,1-0
+2004-03-07,Erzgebirge Aue,Osnabruck,1-0,0-0
+2004-03-07,Greuther Furth,Nurnberg,2-2,2-1
+2004-03-07,Mainz,Ahlen,0-0,0-0
+2004-03-08,Duisburg,Aachen,2-1,0-1
+2004-03-10,Oberhausen,Mainz,0-0,0-0
+2004-03-12,Aachen,Lubeck,3-1,1-1
+2004-03-12,Ahlen,Cottbus,0-0,0-0
+2004-03-12,Ein Trier,Regensburg,4-0,1-0
+2004-03-14,Burghausen,Bielefeld,0-1,0-1
+2004-03-14,Nurnberg,Duisburg,2-0,1-0
+2004-03-14,Oberhausen,Erzgebirge Aue,1-4,1-1
+2004-03-14,Osnabruck,Greuther Furth,0-1,0-1
+2004-03-14,Union Berlin,Unterhaching,0-0,0-0
+2004-03-15,Karlsruhe,Mainz,1-1,0-0
+2004-03-17,Ahlen,Burghausen,3-1,3-1
+2004-03-19,Cottbus,Karlsruhe,2-1,0-0
+2004-03-19,Duisburg,Osnabruck,3-1,2-1
+2004-03-19,Greuther Furth,Oberhausen,0-1,0-1
+2004-03-21,Bielefeld,Ein Trier,3-1,2-1
+2004-03-21,Erzgebirge Aue,Ahlen,2-0,1-0
+2004-03-21,Mainz,Burghausen,1-0,0-0
+2004-03-21,Regensburg,Union Berlin,3-1,3-0
+2004-03-21,Unterhaching,Aachen,1-1,0-1
+2004-03-22,Lubeck,Nurnberg,2-1,1-0
+2004-03-26,Burghausen,Cottbus,1-1,1-0
+2004-03-26,Oberhausen,Duisburg,0-3,0-1
+2004-03-26,Osnabruck,Lubeck,3-1,2-1
+2004-03-28,Aachen,Regensburg,1-0,0-0
+2004-03-28,Ahlen,Greuther Furth,3-2,1-0
+2004-03-28,Karlsruhe,Erzgebirge Aue,3-5,1-4
+2004-03-28,Nurnberg,Unterhaching,3-0,2-0
+2004-03-28,Union Berlin,Ein Trier,1-3,1-0
+2004-03-29,Mainz,Bielefeld,0-2,0-1
+2004-04-02,Ein Trier,Aachen,3-3,1-2
+2004-04-02,Lubeck,Oberhausen,1-0,0-0
+2004-04-02,Regensburg,Nurnberg,2-1,1-0
+2004-04-04,Bielefeld,Union Berlin,2-1,1-1
+2004-04-04,Duisburg,Ahlen,1-2,1-0
+2004-04-04,Erzgebirge Aue,Burghausen,3-0,1-0
+2004-04-04,Greuther Furth,Karlsruhe,2-1,0-1
+2004-04-04,Unterhaching,Osnabruck,2-1,1-1
+2004-04-05,Cottbus,Mainz,0-0,0-0
+2004-04-08,Aachen,Union Berlin,4-2,2-2
+2004-04-08,Cottbus,Bielefeld,1-2,0-0
+2004-04-08,Oberhausen,Unterhaching,3-1,1-0
+2004-04-11,Ahlen,Lubeck,1-1,1-1
+2004-04-11,Burghausen,Greuther Furth,0-2,0-1
+2004-04-11,Karlsruhe,Duisburg,1-0,1-0
+2004-04-11,Mainz,Erzgebirge Aue,1-1,0-0
+2004-04-11,Osnabruck,Regensburg,3-0,1-0
+2004-04-12,Nurnberg,Ein Trier,3-1,2-1
+2004-04-16,Erzgebirge Aue,Cottbus,1-0,0-0
+2004-04-16,Lubeck,Karlsruhe,2-2,1-0
+2004-04-16,Regensburg,Oberhausen,1-1,1-1
+2004-04-18,Duisburg,Burghausen,1-0,0-0
+2004-04-18,Ein Trier,Osnabruck,0-0,0-0
+2004-04-18,Greuther Furth,Mainz,3-1,2-0
+2004-04-18,Union Berlin,Nurnberg,3-5,1-3
+2004-04-18,Unterhaching,Ahlen,0-0,0-0
+2004-04-19,Bielefeld,Aachen,3-0,1-0
+2004-04-23,Burghausen,Lubeck,2-1,0-0
+2004-04-23,Mainz,Duisburg,4-1,2-0
+2004-04-23,Osnabruck,Union Berlin,0-2,0-1
+2004-04-25,Ahlen,Regensburg,3-1,0-1
+2004-04-25,Cottbus,Greuther Furth,4-2,0-1
+2004-04-25,Erzgebirge Aue,Bielefeld,1-1,0-1
+2004-04-25,Karlsruhe,Unterhaching,0-1,0-0
+2004-04-25,Oberhausen,Ein Trier,1-2,1-1
+2004-04-26,Nurnberg,Aachen,3-0,0-0
+2004-04-30,Aachen,Osnabruck,2-1,0-0
+2004-04-30,Ein Trier,Ahlen,3-0,2-0
+2004-04-30,Lubeck,Mainz,1-4,1-2
+2004-05-02,Duisburg,Cottbus,4-2,1-0
+2004-05-02,Greuther Furth,Erzgebirge Aue,5-1,3-1
+2004-05-02,Regensburg,Karlsruhe,1-1,0-1
+2004-05-02,Union Berlin,Oberhausen,2-2,1-0
+2004-05-02,Unterhaching,Burghausen,1-2,0-0
+2004-05-03,Bielefeld,Nurnberg,1-3,1-2
+2004-05-07,Burghausen,Regensburg,2-0,2-0
+2004-05-07,Mainz,Unterhaching,2-0,2-0
+2004-05-07,Osnabruck,Nurnberg,3-4,2-1
+2004-05-09,Ahlen,Union Berlin,1-0,0-0
+2004-05-09,Cottbus,Lubeck,1-1,1-0
+2004-05-09,Erzgebirge Aue,Duisburg,2-1,0-1
+2004-05-09,Greuther Furth,Bielefeld,1-2,0-2
+2004-05-09,Karlsruhe,Ein Trier,0-1,0-0
+2004-05-10,Oberhausen,Aachen,1-2,1-0
+2004-05-16,Aachen,Ahlen,1-1,0-1
+2004-05-16,Duisburg,Greuther Furth,1-1,1-1
+2004-05-16,Ein Trier,Burghausen,0-0,0-0
+2004-05-16,Lubeck,Erzgebirge Aue,2-2,0-2
+2004-05-16,Nurnberg,Oberhausen,1-3,0-1
+2004-05-16,Osnabruck,Bielefeld,0-0,0-0
+2004-05-16,Regensburg,Mainz,0-0,0-0
+2004-05-16,Union Berlin,Karlsruhe,2-2,2-1
+2004-05-16,Unterhaching,Cottbus,2-0,2-0
+2004-05-23,Ahlen,Nurnberg,2-0,2-0
+2004-05-23,Bielefeld,Duisburg,1-3,0-1
+2004-05-23,Burghausen,Union Berlin,3-1,2-0
+2004-05-23,Cottbus,Regensburg,3-0,1-0
+2004-05-23,Erzgebirge Aue,Unterhaching,3-3,2-3
+2004-05-23,Greuther Furth,Lubeck,2-0,1-0
+2004-05-23,Karlsruhe,Aachen,1-0,1-0
+2004-05-23,Mainz,Ein Trier,3-0,1-0
+2004-05-23,Oberhausen,Osnabruck,3-2,1-2

@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+1996-08-16,M'gladbach,Bielefeld,0-0,0-0
+1996-08-16,St Pauli,Bayern Munich,1-2,1-2
+1996-08-17,Bochum,Duisburg,1-0,1-0
+1996-08-17,Freiburg,Werder Bremen,3-2,2-0
+1996-08-17,Hansa Rostock,Karlsruhe,2-2,0-1
+1996-08-17,Leverkusen,Dortmund,4-2,2-2
+1996-08-17,Munich 1860,Hamburg,2-1,0-0
+1996-08-17,Stuttgart,Schalke 04,4-0,2-0
+1996-08-18,Dusseldorf,FC Koln,0-3,0-1
+1996-08-20,Bielefeld,St Pauli,1-2,0-1
+1996-08-20,Hamburg,Freiburg,5-1,4-0
+1996-08-20,Schalke 04,M'gladbach,0-0,0-0
+1996-08-20,Werder Bremen,Hansa Rostock,1-1,0-1
+1996-08-21,Bayern Munich,Bochum,1-1,0-0
+1996-08-21,Dortmund,Dusseldorf,4-0,2-0
+1996-08-21,Duisburg,Leverkusen,1-3,0-0
+1996-08-21,FC Koln,Munich 1860,1-0,1-0
+1996-08-23,Hansa Rostock,Hamburg,0-1,0-0
+1996-08-23,St Pauli,Schalke 04,4-4,1-3
+1996-08-24,Bochum,Bielefeld,1-1,0-0
+1996-08-24,Freiburg,FC Koln,1-3,0-1
+1996-08-24,Leverkusen,Dusseldorf,0-1,0-0
+1996-08-24,M'gladbach,Karlsruhe,1-3,1-2
+1996-08-24,Munich 1860,Dortmund,1-3,1-0
+1996-08-24,Stuttgart,Werder Bremen,2-1,0-0
+1996-08-25,Duisburg,Bayern Munich,0-4,0-2
+1996-08-27,Dortmund,Freiburg,3-1,2-0
+1996-08-27,Hamburg,Stuttgart,0-4,0-1
+1996-08-27,Schalke 04,Bochum,1-1,1-0
+1996-08-27,Werder Bremen,M'gladbach,1-0,1-0
+1996-08-28,Bayern Munich,Leverkusen,4-2,3-1
+1996-08-28,Bielefeld,Duisburg,1-1,0-0
+1996-08-28,Dusseldorf,Munich 1860,0-0,0-0
+1996-08-28,FC Koln,Hansa Rostock,0-2,0-1
+1996-08-28,Karlsruhe,St Pauli,4-0,1-0
+1996-09-06,Freiburg,Dusseldorf,1-2,1-1
+1996-09-06,M'gladbach,Hamburg,3-0,3-0
+1996-09-07,Bayern Munich,Bielefeld,1-0,0-0
+1996-09-07,Bochum,Karlsruhe,3-1,1-0
+1996-09-07,Duisburg,Schalke 04,0-1,0-1
+1996-09-07,Hansa Rostock,Dortmund,0-1,0-0
+1996-09-07,Leverkusen,Munich 1860,3-0,2-0
+1996-09-07,St Pauli,Werder Bremen,0-3,0-2
+1996-09-08,Stuttgart,FC Koln,4-0,0-0
+1996-09-13,Dusseldorf,Hansa Rostock,0-2,0-1
+1996-09-13,Werder Bremen,Bochum,5-1,3-0
+1996-09-14,Bielefeld,Leverkusen,0-1,0-1
+1996-09-14,Dortmund,Stuttgart,1-1,0-1
+1996-09-14,FC Koln,M'gladbach,4-0,2-0
+1996-09-14,Karlsruhe,Duisburg,1-0,1-0
+1996-09-14,Munich 1860,Freiburg,4-0,0-0
+1996-09-14,Schalke 04,Bayern Munich,1-1,1-0
+1996-09-15,Hamburg,St Pauli,3-0,1-0
+1996-09-17,Karlsruhe,Stuttgart,0-2,0-1
+1996-09-20,Duisburg,Werder Bremen,3-2,1-0
+1996-09-20,Hansa Rostock,Munich 1860,2-4,2-2
+1996-09-21,Bayern Munich,Karlsruhe,1-0,1-0
+1996-09-21,Bielefeld,Schalke 04,0-1,0-1
+1996-09-21,Bochum,Hamburg,3-1,1-0
+1996-09-21,M'gladbach,Dortmund,5-1,3-1
+1996-09-21,St Pauli,FC Koln,0-0,0-0
+1996-09-21,Stuttgart,Dusseldorf,0-2,0-0
+1996-09-22,Leverkusen,Freiburg,5-3,2-1
+1996-09-27,FC Koln,Bochum,2-0,0-0
+1996-09-27,Karlsruhe,Bielefeld,5-2,2-0
+1996-09-28,Dusseldorf,M'gladbach,1-0,1-0
+1996-09-28,Freiburg,Hansa Rostock,1-0,0-0
+1996-09-28,Hamburg,Duisburg,1-1,0-0
+1996-09-28,Munich 1860,Stuttgart,2-5,1-2
+1996-09-28,Schalke 04,Leverkusen,1-2,1-2
+1996-09-28,Werder Bremen,Bayern Munich,3-0,1-0
+1996-09-29,Dortmund,St Pauli,2-1,1-0
+1996-10-04,Bochum,Dortmund,1-0,0-0
+1996-10-04,Leverkusen,Hansa Rostock,4-1,1-1
+1996-10-04,Stuttgart,Freiburg,4-2,2-1
+1996-10-05,Bayern Munich,Hamburg,2-1,1-0
+1996-10-05,Bielefeld,Werder Bremen,3-1,1-0
+1996-10-05,Duisburg,FC Koln,3-0,2-0
+1996-10-05,M'gladbach,Munich 1860,1-0,0-0
+1996-10-05,Schalke 04,Karlsruhe,0-1,0-1
+1996-10-05,St Pauli,Dusseldorf,3-0,1-0
+1996-10-11,Freiburg,M'gladbach,1-0,0-0
+1996-10-11,Munich 1860,St Pauli,4-2,1-0
+1996-10-12,Dortmund,Duisburg,2-0,0-0
+1996-10-12,FC Koln,Bayern Munich,2-4,0-1
+1996-10-12,Hamburg,Bielefeld,2-2,2-0
+1996-10-12,Hansa Rostock,Stuttgart,2-2,0-2
+1996-10-12,Karlsruhe,Leverkusen,1-1,1-0
+1996-10-12,Werder Bremen,Schalke 04,3-0,1-0
+1996-10-13,Dusseldorf,Bochum,2-2,2-0
+1996-10-18,Bochum,Munich 1860,2-2,0-1
+1996-10-18,Leverkusen,Stuttgart,0-0,0-0
+1996-10-19,Bielefeld,FC Koln,1-4,0-1
+1996-10-19,Duisburg,Dusseldorf,0-0,0-0
+1996-10-19,Karlsruhe,Werder Bremen,1-3,1-0
+1996-10-19,M'gladbach,Hansa Rostock,2-0,0-0
+1996-10-19,Schalke 04,Hamburg,2-0,1-0
+1996-10-19,St Pauli,Freiburg,2-0,1-0
+1996-10-20,Bayern Munich,Dortmund,0-0,0-0
+1996-10-25,Hansa Rostock,St Pauli,3-1,3-0
+1996-10-25,Werder Bremen,Leverkusen,1-1,1-0
+1996-10-26,Dortmund,Bielefeld,5-0,2-0
+1996-10-26,Dusseldorf,Bayern Munich,0-2,0-1
+1996-10-26,FC Koln,Schalke 04,3-1,1-0
+1996-10-26,Hamburg,Karlsruhe,2-0,1-0
+1996-10-26,Munich 1860,Duisburg,1-1,1-1
+1996-10-26,Stuttgart,M'gladbach,5-0,1-0
+1996-10-27,Freiburg,Bochum,0-1,0-1
+1996-11-01,Bayern Munich,Munich 1860,1-1,1-0
+1996-11-01,Bochum,Hansa Rostock,1-0,0-0
+1996-11-02,Bielefeld,Dusseldorf,1-0,0-0
+1996-11-02,Duisburg,Freiburg,1-4,0-1
+1996-11-02,Leverkusen,M'gladbach,3-0,0-0
+1996-11-02,Schalke 04,Dortmund,1-3,0-1
+1996-11-02,St Pauli,Stuttgart,2-1,1-1
+1996-11-02,Werder Bremen,Hamburg,0-0,0-0
+1996-11-03,Karlsruhe,FC Koln,4-1,1-1
+1996-11-15,FC Koln,Werder Bremen,4-1,1-0
+1996-11-15,M'gladbach,St Pauli,0-0,0-0
+1996-11-16,Dortmund,Karlsruhe,1-1,1-1
+1996-11-16,Dusseldorf,Schalke 04,1-3,1-2
+1996-11-16,Freiburg,Bayern Munich,0-0,0-0
+1996-11-16,Hamburg,Leverkusen,0-2,0-0
+1996-11-16,Munich 1860,Bielefeld,1-3,1-1
+1996-11-16,Stuttgart,Bochum,3-1,3-1
+1996-11-17,Hansa Rostock,Duisburg,0-1,0-0
+1996-11-22,Bochum,M'gladbach,2-0,1-0
+1996-11-22,Karlsruhe,Dusseldorf,2-0,0-0
+1996-11-23,Bayern Munich,Hansa Rostock,2-1,2-0
+1996-11-23,Bielefeld,Freiburg,2-0,1-0
+1996-11-23,FC Koln,Hamburg,2-2,1-2
+1996-11-23,Schalke 04,Munich 1860,4-1,2-1
+1996-11-23,St Pauli,Leverkusen,3-1,2-0
+1996-11-23,Werder Bremen,Dortmund,0-4,0-3
+1996-11-24,Duisburg,Stuttgart,3-1,1-1
+1996-11-29,Dortmund,Hamburg,1-1,1-0
+1996-11-30,Dusseldorf,Werder Bremen,4-1,2-0
+1996-11-30,Freiburg,Schalke 04,2-3,1-1
+1996-11-30,Hansa Rostock,Bielefeld,3-1,1-1
+1996-11-30,Leverkusen,FC Koln,4-2,0-0
+1996-11-30,M'gladbach,Duisburg,0-1,0-0
+1996-11-30,Munich 1860,Karlsruhe,1-1,0-0
+1996-12-01,Stuttgart,Bayern Munich,1-1,0-1
+1996-12-06,Bochum,Leverkusen,2-2,1-1
+1996-12-06,Karlsruhe,Freiburg,3-0,2-0
+1996-12-06,Schalke 04,Hansa Rostock,2-0,2-0
+1996-12-06,Werder Bremen,Munich 1860,1-1,0-1
+1996-12-07,Bayern Munich,M'gladbach,1-0,0-0
+1996-12-07,Bielefeld,Stuttgart,2-0,1-0
+1996-12-07,Duisburg,St Pauli,1-0,0-0
+1996-12-07,FC Koln,Dortmund,1-3,1-0
+1996-12-07,Hamburg,Dusseldorf,2-1,0-1
+1997-02-14,Dortmund,Leverkusen,3-1,1-1
+1997-02-14,FC Koln,Dusseldorf,2-0,1-0
+1997-02-15,Bayern Munich,St Pauli,3-0,1-0
+1997-02-15,Duisburg,Bochum,1-1,1-1
+1997-02-15,Hamburg,Munich 1860,2-3,0-0
+1997-02-15,Karlsruhe,Hansa Rostock,1-1,1-0
+1997-02-15,Schalke 04,Stuttgart,1-0,1-0
+1997-02-15,Werder Bremen,Freiburg,1-0,0-0
+1997-02-16,Bielefeld,M'gladbach,0-2,0-1
+1997-02-21,Dusseldorf,Dortmund,2-0,0-0
+1997-02-21,Freiburg,Hamburg,0-4,0-2
+1997-02-21,St Pauli,Bielefeld,2-3,1-2
+1997-02-22,Bochum,Bayern Munich,1-1,0-0
+1997-02-22,Hansa Rostock,Werder Bremen,0-1,0-1
+1997-02-22,Leverkusen,Duisburg,1-0,1-0
+1997-02-22,M'gladbach,Schalke 04,0-0,0-0
+1997-02-22,Munich 1860,FC Koln,2-1,0-0
+1997-02-22,Stuttgart,Karlsruhe,1-0,0-0
+1997-02-28,Bielefeld,Bochum,3-1,2-0
+1997-02-28,Schalke 04,St Pauli,0-0,0-0
+1997-03-01,Bayern Munich,Duisburg,5-2,2-0
+1997-03-01,Dortmund,Munich 1860,4-1,3-1
+1997-03-01,Dusseldorf,Leverkusen,0-0,0-0
+1997-03-01,FC Koln,Freiburg,1-0,0-0
+1997-03-01,Karlsruhe,M'gladbach,1-1,0-0
+1997-03-01,Werder Bremen,Stuttgart,2-2,2-1
+1997-03-02,Hamburg,Hansa Rostock,1-1,1-0
+1997-03-07,Bochum,Schalke 04,0-1,0-0
+1997-03-07,Hansa Rostock,FC Koln,0-0,0-0
+1997-03-08,Duisburg,Bielefeld,0-0,0-0
+1997-03-08,Freiburg,Dortmund,1-2,1-1
+1997-03-08,M'gladbach,Werder Bremen,4-1,1-0
+1997-03-08,Munich 1860,Dusseldorf,3-0,0-0
+1997-03-08,St Pauli,Karlsruhe,2-4,2-2
+1997-03-08,Stuttgart,Hamburg,4-1,3-1
+1997-03-09,Leverkusen,Bayern Munich,5-2,3-0
+1997-03-11,FC Koln,Stuttgart,1-5,1-2
+1997-03-11,Hamburg,M'gladbach,2-1,0-0
+1997-03-11,Karlsruhe,Bochum,2-3,1-2
+1997-03-11,Schalke 04,Duisburg,4-0,1-0
+1997-03-11,Werder Bremen,St Pauli,2-1,1-1
+1997-03-12,Bielefeld,Bayern Munich,2-0,2-0
+1997-03-12,Dortmund,Hansa Rostock,3-0,0-0
+1997-03-12,Dusseldorf,Freiburg,2-1,1-0
+1997-03-12,Munich 1860,Leverkusen,3-0,2-0
+1997-03-14,Duisburg,Karlsruhe,2-2,0-2
+1997-03-14,St Pauli,Hamburg,2-2,0-1
+1997-03-15,Bayern Munich,Schalke 04,3-0,1-0
+1997-03-15,Freiburg,Munich 1860,2-2,0-2
+1997-03-15,Hansa Rostock,Dusseldorf,3-1,3-1
+1997-03-15,Leverkusen,Bielefeld,1-0,0-0
+1997-03-15,M'gladbach,FC Koln,2-1,0-0
+1997-03-15,Stuttgart,Dortmund,4-1,2-1
+1997-03-16,Bochum,Werder Bremen,3-2,1-0
+1997-03-21,Dusseldorf,Stuttgart,0-4,0-0
+1997-03-21,Werder Bremen,Duisburg,0-2,0-1
+1997-03-22,Dortmund,M'gladbach,1-3,0-1
+1997-03-22,FC Koln,St Pauli,0-1,0-1
+1997-03-22,Freiburg,Leverkusen,1-2,0-0
+1997-03-22,Hamburg,Bochum,2-2,1-1
+1997-03-22,Munich 1860,Hansa Rostock,2-0,0-0
+1997-03-22,Schalke 04,Bielefeld,0-0,0-0
+1997-03-23,Karlsruhe,Bayern Munich,0-2,0-1
+1997-03-28,Bochum,FC Koln,2-2,1-1
+1997-03-28,Duisburg,Hamburg,1-1,0-0
+1997-03-28,St Pauli,Dortmund,0-1,0-0
+1997-03-28,Stuttgart,Munich 1860,1-1,1-1
+1997-03-29,Bayern Munich,Werder Bremen,1-0,1-0
+1997-03-29,Bielefeld,Karlsruhe,1-2,0-0
+1997-03-29,Hansa Rostock,Freiburg,3-1,2-1
+1997-03-29,Leverkusen,Schalke 04,2-0,0-0
+1997-03-29,M'gladbach,Dusseldorf,2-0,1-0
+1997-04-04,FC Koln,Duisburg,2-5,2-1
+1997-04-04,Munich 1860,M'gladbach,3-0,0-0
+1997-04-05,Dortmund,Bochum,2-0,1-0
+1997-04-05,Dusseldorf,St Pauli,2-0,1-0
+1997-04-05,Hamburg,Bayern Munich,0-3,0-2
+1997-04-05,Hansa Rostock,Leverkusen,1-0,0-0
+1997-04-05,Karlsruhe,Schalke 04,0-0,0-0
+1997-04-05,Werder Bremen,Bielefeld,2-1,1-1
+1997-04-06,Freiburg,Stuttgart,1-1,0-0
+1997-04-08,St Pauli,Bochum,2-1,2-0
+1997-04-12,Bayern Munich,FC Koln,3-2,1-0
+1997-04-12,Bielefeld,Hamburg,1-1,1-1
+1997-04-12,Bochum,Dusseldorf,3-1,3-0
+1997-04-12,Duisburg,Dortmund,3-2,1-0
+1997-04-12,Leverkusen,Karlsruhe,3-1,1-1
+1997-04-12,M'gladbach,Freiburg,4-3,2-2
+1997-04-12,Schalke 04,Werder Bremen,1-1,1-0
+1997-04-12,St Pauli,Munich 1860,0-0,0-0
+1997-04-12,Stuttgart,Hansa Rostock,5-1,1-0
+1997-04-18,Dusseldorf,Duisburg,1-1,0-1
+1997-04-18,Hansa Rostock,M'gladbach,1-0,1-0
+1997-04-19,Dortmund,Bayern Munich,1-1,1-1
+1997-04-19,FC Koln,Bielefeld,2-5,0-3
+1997-04-19,Freiburg,St Pauli,4-0,2-0
+1997-04-19,Hamburg,Schalke 04,1-0,1-0
+1997-04-19,Munich 1860,Bochum,0-1,0-1
+1997-04-19,Werder Bremen,Karlsruhe,1-0,0-0
+1997-04-20,Stuttgart,Leverkusen,1-2,0-1
+1997-04-24,St Pauli,Hansa Rostock,0-1,0-0
+1997-04-25,Duisburg,Munich 1860,2-3,1-0
+1997-04-25,Leverkusen,Werder Bremen,2-1,1-0
+1997-04-26,Bayern Munich,Dusseldorf,5-0,4-0
+1997-04-26,Bielefeld,Dortmund,2-0,2-0
+1997-04-26,Bochum,Freiburg,3-2,1-1
+1997-04-26,Karlsruhe,Hamburg,3-1,2-1
+1997-04-26,M'gladbach,Stuttgart,0-1,0-0
+1997-04-26,Schalke 04,FC Koln,1-1,1-0
+1997-05-02,Dortmund,Schalke 04,1-0,0-0
+1997-05-02,Hansa Rostock,Bochum,0-0,0-0
+1997-05-03,Dusseldorf,Bielefeld,1-2,1-0
+1997-05-03,FC Koln,Karlsruhe,4-1,1-1
+1997-05-03,Freiburg,Duisburg,2-0,0-0
+1997-05-03,Hamburg,Werder Bremen,3-2,2-0
+1997-05-03,M'gladbach,Leverkusen,2-2,0-2
+1997-05-03,Munich 1860,Bayern Munich,3-3,2-1
+1997-05-03,Stuttgart,St Pauli,3-0,0-0
+1997-05-09,Duisburg,Hansa Rostock,0-1,0-1
+1997-05-09,Werder Bremen,FC Koln,3-2,2-2
+1997-05-10,Bayern Munich,Freiburg,0-0,0-0
+1997-05-10,Bielefeld,Munich 1860,2-3,1-2
+1997-05-10,Bochum,Stuttgart,2-1,0-0
+1997-05-10,Karlsruhe,Dortmund,1-1,1-0
+1997-05-10,Schalke 04,Dusseldorf,0-1,0-1
+1997-05-10,St Pauli,M'gladbach,1-3,0-1
+1997-05-11,Leverkusen,Hamburg,5-0,2-0
+1997-05-16,Dusseldorf,Karlsruhe,0-3,0-0
+1997-05-16,Hansa Rostock,Bayern Munich,0-3,0-1
+1997-05-17,Dortmund,Werder Bremen,2-1,1-0
+1997-05-17,Hamburg,FC Koln,0-4,0-1
+1997-05-17,Leverkusen,St Pauli,3-0,0-0
+1997-05-17,M'gladbach,Bochum,6-2,0-1
+1997-05-17,Munich 1860,Schalke 04,2-1,2-0
+1997-05-17,Stuttgart,Duisburg,0-2,0-0
+1997-05-18,Freiburg,Bielefeld,2-1,1-1
+1997-05-24,Bayern Munich,Stuttgart,4-2,2-1
+1997-05-24,Bielefeld,Hansa Rostock,1-3,0-2
+1997-05-24,Bochum,St Pauli,6-0,1-0
+1997-05-24,Duisburg,M'gladbach,4-2,2-1
+1997-05-24,FC Koln,Leverkusen,4-0,2-0
+1997-05-24,Hamburg,Dortmund,2-1,1-0
+1997-05-24,Karlsruhe,Munich 1860,3-0,2-0
+1997-05-24,Schalke 04,Freiburg,0-2,0-0
+1997-05-24,Werder Bremen,Dusseldorf,1-0,0-0
+1997-05-31,Dortmund,FC Koln,2-1,1-0
+1997-05-31,Dusseldorf,Hamburg,1-1,1-1
+1997-05-31,Freiburg,Karlsruhe,1-1,1-1
+1997-05-31,Hansa Rostock,Schalke 04,0-1,0-0
+1997-05-31,Leverkusen,Bochum,2-0,1-0
+1997-05-31,M'gladbach,Bayern Munich,2-2,1-1
+1997-05-31,Munich 1860,Werder Bremen,0-3,0-1
+1997-05-31,St Pauli,Duisburg,0-2,0-1
+1997-05-31,Stuttgart,Bielefeld,4-2,2-1
