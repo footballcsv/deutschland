@@ -1,5 +1,5 @@
 Date,Team 1,Team 2,FT,HT
-2002-08-10,Duisburg,Greuther Furth,1-0,0-0
+2002-08-10,Duisburg,Greuther Fürth,1-0,0-0
 2002-08-10,Ein Trier,Burghausen,2-1,1-1
 2002-08-10,Union Berlin,Mainz,0-2,0-1
 2002-08-11,Aachen,Freiburg,0-1,0-0
@@ -7,16 +7,16 @@ Date,Team 1,Team 2,FT,HT
 2002-08-11,Braunschweig,Mannheim,4-2,1-1
 2002-08-11,Ein Frankfurt,St Pauli,4-0,1-0
 2002-08-11,Lubeck,Oberhausen,1-0,0-0
-2002-08-12,Karlsruhe,FC Koln,0-1,0-0
-2002-08-16,FC Koln,Duisburg,4-3,2-1
-2002-08-16,Greuther Furth,Aachen,0-0,0-0
+2002-08-12,Karlsruhe,FC Köln,0-1,0-0
+2002-08-16,FC Köln,Duisburg,4-3,2-1
+2002-08-16,Greuther Fürth,Aachen,0-0,0-0
 2002-08-16,Mannheim,Union Berlin,1-2,1-1
 2002-08-18,Burghausen,Karlsruhe,0-0,0-0
 2002-08-18,Oberhausen,Braunschweig,2-0,0-0
 2002-08-18,Reutlingen,Lubeck,1-3,0-2
 2002-08-18,St Pauli,Ahlen,1-4,1-0
 2002-08-19,Freiburg,Ein Frankfurt,0-2,0-0
-2002-08-23,Ein Frankfurt,Greuther Furth,2-0,1-0
+2002-08-23,Ein Frankfurt,Greuther Fürth,2-0,1-0
 2002-08-23,Ein Trier,Karlsruhe,3-0,3-0
 2002-08-23,Lubeck,St Pauli,6-0,2-0
 2002-08-25,Ahlen,Freiburg,1-3,0-1
@@ -24,10 +24,10 @@ Date,Team 1,Team 2,FT,HT
 2002-08-25,Duisburg,Burghausen,0-0,0-0
 2002-08-25,Mainz,Mannheim,2-0,0-0
 2002-08-25,Union Berlin,Oberhausen,0-0,0-0
-2002-08-26,Aachen,FC Koln,0-0,0-0
+2002-08-26,Aachen,FC Köln,0-0,0-0
 2002-09-10,Burghausen,Aachen,2-2,0-1
-2002-09-10,FC Koln,Ein Frankfurt,3-2,1-1
-2002-09-10,Greuther Furth,Ahlen,1-1,1-0
+2002-09-10,FC Köln,Ein Frankfurt,3-2,1-1
+2002-09-10,Greuther Fürth,Ahlen,1-1,1-0
 2002-09-10,Karlsruhe,Duisburg,1-1,1-1
 2002-09-10,Mannheim,Ein Trier,0-2,0-1
 2002-09-11,Freiburg,Lubeck,2-1,1-0
@@ -35,10 +35,10 @@ Date,Team 1,Team 2,FT,HT
 2002-09-11,Reutlingen,Union Berlin,0-1,0-0
 2002-09-11,St Pauli,Braunschweig,7-1,2-1
 2002-09-13,Aachen,Karlsruhe,2-0,0-0
-2002-09-13,Ahlen,FC Koln,0-0,0-0
+2002-09-13,Ahlen,FC Köln,0-0,0-0
 2002-09-13,Ein Trier,Duisburg,3-0,1-0
 2002-09-15,Ein Frankfurt,Burghausen,0-2,0-1
-2002-09-15,Lubeck,Greuther Furth,1-2,0-0
+2002-09-15,Lubeck,Greuther Fürth,1-2,0-0
 2002-09-15,Mainz,Reutlingen,1-3,0-2
 2002-09-15,Mannheim,Oberhausen,1-0,1-0
 2002-09-15,Union Berlin,St Pauli,4-2,0-1
@@ -47,15 +47,15 @@ Date,Team 1,Team 2,FT,HT
 2002-09-20,Burghausen,Ahlen,3-1,0-1
 2002-09-20,Duisburg,Aachen,3-3,1-3
 2002-09-20,Reutlingen,Mannheim,3-2,0-1
-2002-09-22,FC Koln,Lubeck,2-1,1-1
+2002-09-22,FC Köln,Lubeck,2-1,1-1
 2002-09-22,Freiburg,Union Berlin,4-0,1-0
-2002-09-22,Greuther Furth,Braunschweig,3-0,2-0
+2002-09-22,Greuther Fürth,Braunschweig,3-0,2-0
 2002-09-22,Oberhausen,Ein Trier,2-1,0-1
 2002-09-22,St Pauli,Mainz,1-4,0-0
 2002-09-23,Karlsruhe,Ein Frankfurt,0-2,0-1
-2002-09-27,Braunschweig,FC Koln,1-1,1-0
+2002-09-27,Braunschweig,FC Köln,1-1,1-0
 2002-09-27,Mannheim,St Pauli,2-5,1-2
-2002-09-27,Union Berlin,Greuther Furth,2-2,2-2
+2002-09-27,Union Berlin,Greuther Fürth,2-2,2-2
 2002-09-29,Ahlen,Karlsruhe,2-2,0-1
 2002-09-29,Ein Frankfurt,Duisburg,2-1,1-1
 2002-09-29,Ein Trier,Aachen,4-1,2-0
@@ -67,84 +67,84 @@ Date,Team 1,Team 2,FT,HT
 2002-10-04,St Pauli,Oberhausen,0-0,0-0
 2002-10-06,Aachen,Ein Frankfurt,1-0,1-0
 2002-10-06,Duisburg,Ahlen,2-1,1-1
-2002-10-06,Greuther Furth,Mainz,2-0,0-0
+2002-10-06,Greuther Fürth,Mainz,2-0,0-0
 2002-10-06,Karlsruhe,Lubeck,1-2,1-0
 2002-10-06,Reutlingen,Ein Trier,3-2,2-0
-2002-10-07,FC Koln,Union Berlin,7-0,4-0
+2002-10-07,FC Köln,Union Berlin,7-0,4-0
 2002-10-18,Ahlen,Aachen,1-2,0-0
 2002-10-18,Ein Trier,Ein Frankfurt,2-2,2-1
 2002-10-18,Lubeck,Duisburg,1-1,0-1
 2002-10-20,Braunschweig,Karlsruhe,1-2,1-1
-2002-10-20,Mannheim,Greuther Furth,0-0,0-0
+2002-10-20,Mannheim,Greuther Fürth,0-0,0-0
 2002-10-20,Oberhausen,Freiburg,1-0,1-0
 2002-10-20,Reutlingen,St Pauli,2-0,0-0
 2002-10-20,Union Berlin,Burghausen,2-2,0-1
-2002-10-21,Mainz,FC Koln,2-2,2-1
+2002-10-21,Mainz,FC Köln,2-2,2-1
 2002-10-25,Aachen,Lubeck,4-1,1-0
 2002-10-25,Burghausen,Mainz,0-2,0-1
-2002-10-25,FC Koln,Mannheim,3-1,2-1
+2002-10-25,FC Köln,Mannheim,3-1,2-1
 2002-10-27,Ein Frankfurt,Ahlen,4-1,4-1
 2002-10-27,Freiburg,Reutlingen,1-4,1-4
-2002-10-27,Greuther Furth,Oberhausen,2-2,2-0
+2002-10-27,Greuther Fürth,Oberhausen,2-2,2-0
 2002-10-27,Karlsruhe,Union Berlin,3-2,1-0
 2002-10-27,St Pauli,Ein Trier,0-0,0-0
 2002-10-28,Duisburg,Braunschweig,1-1,1-1
 2002-11-01,Lubeck,Ein Frankfurt,1-3,0-2
-2002-11-01,Oberhausen,FC Koln,2-2,0-1
+2002-11-01,Oberhausen,FC Köln,2-2,0-1
 2002-11-01,St Pauli,Freiburg,0-1,0-1
 2002-11-01,Union Berlin,Duisburg,0-0,0-0
 2002-11-03,Braunschweig,Aachen,2-3,2-2
 2002-11-03,Ein Trier,Ahlen,2-1,0-0
 2002-11-03,Mannheim,Burghausen,0-4,0-1
-2002-11-03,Reutlingen,Greuther Furth,2-4,1-1
+2002-11-03,Reutlingen,Greuther Fürth,2-4,1-1
 2002-11-04,Mainz,Karlsruhe,2-2,0-0
 2002-11-08,Aachen,Union Berlin,3-0,2-0
 2002-11-08,Burghausen,Oberhausen,3-0,2-0
 2002-11-08,Ein Frankfurt,Braunschweig,0-0,0-0
 2002-11-10,Ahlen,Lubeck,1-0,1-0
 2002-11-10,Duisburg,Mainz,1-0,1-0
-2002-11-10,FC Koln,Reutlingen,1-1,1-1
-2002-11-10,Greuther Furth,St Pauli,2-1,1-0
+2002-11-10,FC Köln,Reutlingen,1-1,1-1
+2002-11-10,Greuther Fürth,St Pauli,2-1,1-0
 2002-11-10,Karlsruhe,Mannheim,1-1,1-0
 2002-11-11,Freiburg,Ein Trier,1-0,1-0
 2002-11-15,Braunschweig,Ahlen,1-0,1-0
 2002-11-15,Mainz,Aachen,3-1,1-1
 2002-11-15,Union Berlin,Ein Frankfurt,1-1,0-1
 2002-11-17,Ein Trier,Lubeck,1-3,0-2
-2002-11-17,Freiburg,Greuther Furth,1-1,1-1
+2002-11-17,Freiburg,Greuther Fürth,1-1,1-1
 2002-11-17,Mannheim,Duisburg,1-2,0-0
 2002-11-17,Oberhausen,Karlsruhe,3-1,1-1
 2002-11-17,Reutlingen,Burghausen,0-0,0-0
-2002-11-18,St Pauli,FC Koln,2-3,1-1
+2002-11-18,St Pauli,FC Köln,2-3,1-1
 2002-11-22,Aachen,Mannheim,1-2,1-0
 2002-11-22,Ahlen,Union Berlin,1-1,1-0
 2002-11-22,Duisburg,Oberhausen,3-0,1-0
 2002-11-22,Ein Frankfurt,Mainz,1-0,1-0
 2002-11-24,Burghausen,St Pauli,1-1,0-0
-2002-11-24,Greuther Furth,Ein Trier,1-2,0-1
+2002-11-24,Greuther Fürth,Ein Trier,1-2,0-1
 2002-11-24,Karlsruhe,Reutlingen,0-0,0-0
 2002-11-24,Lubeck,Braunschweig,2-1,0-1
-2002-11-25,FC Koln,Freiburg,1-0,1-0
+2002-11-25,FC Köln,Freiburg,1-0,1-0
 2002-11-29,Mannheim,Ein Frankfurt,0-1,0-0
 2002-11-29,Oberhausen,Aachen,1-1,0-1
 2002-11-29,Reutlingen,Duisburg,2-4,1-4
 2002-12-01,Braunschweig,Ein Trier,1-1,0-0
-2002-12-01,FC Koln,Greuther Furth,3-2,1-1
+2002-12-01,FC Köln,Greuther Fürth,3-2,1-1
 2002-12-01,Freiburg,Burghausen,2-1,2-0
 2002-12-01,Mainz,Ahlen,1-0,0-0
 2002-12-01,Union Berlin,Lubeck,3-1,1-1
 2002-12-02,St Pauli,Karlsruhe,1-2,1-1
-2002-12-06,Burghausen,Greuther Furth,1-3,1-1
+2002-12-06,Burghausen,Greuther Fürth,1-3,1-1
 2002-12-06,Duisburg,St Pauli,2-1,0-0
 2002-12-06,Lubeck,Mainz,1-3,1-0
 2002-12-08,Aachen,Reutlingen,3-1,2-0
 2002-12-08,Ahlen,Mannheim,1-4,0-3
 2002-12-08,Braunschweig,Union Berlin,1-2,1-0
 2002-12-08,Ein Frankfurt,Oberhausen,1-0,0-0
-2002-12-08,Ein Trier,FC Koln,2-3,1-1
+2002-12-08,Ein Trier,FC Köln,2-3,1-1
 2002-12-09,Karlsruhe,Freiburg,1-1,1-1
-2002-12-13,FC Koln,Burghausen,1-0,0-0
-2002-12-13,Greuther Furth,Karlsruhe,0-0,0-0
+2002-12-13,FC Köln,Burghausen,1-0,0-0
+2002-12-13,Greuther Fürth,Karlsruhe,0-0,0-0
 2002-12-13,Mainz,Braunschweig,3-1,1-0
 2002-12-13,St Pauli,Aachen,1-4,0-1
 2002-12-15,Freiburg,Duisburg,3-1,0-1
@@ -152,11 +152,11 @@ Date,Team 1,Team 2,FT,HT
 2002-12-15,Oberhausen,Ahlen,2-1,1-1
 2002-12-15,Reutlingen,Ein Frankfurt,1-0,0-0
 2002-12-15,Union Berlin,Ein Trier,1-3,1-0
-2003-01-24,FC Koln,Karlsruhe,3-0,1-0
+2003-01-24,FC Köln,Karlsruhe,3-0,1-0
 2003-01-24,Mannheim,Braunschweig,1-1,0-1
 2003-01-24,St Pauli,Ein Frankfurt,1-1,0-1
 2003-01-26,Burghausen,Ein Trier,1-1,1-0
-2003-01-26,Greuther Furth,Duisburg,1-0,0-0
+2003-01-26,Greuther Fürth,Duisburg,1-0,0-0
 2003-01-26,Mainz,Union Berlin,1-0,1-0
 2003-01-26,Oberhausen,Lubeck,3-1,2-1
 2003-01-26,Reutlingen,Ahlen,1-2,1-2
@@ -170,58 +170,58 @@ Date,Team 1,Team 2,FT,HT
 2003-02-07,Burghausen,Duisburg,1-1,1-1
 2003-02-07,Mannheim,Mainz,1-5,1-1
 2003-02-09,Freiburg,Ahlen,4-0,1-0
-2003-02-09,Greuther Furth,Ein Frankfurt,0-1,0-0
+2003-02-09,Greuther Fürth,Ein Frankfurt,0-1,0-0
 2003-02-09,Karlsruhe,Ein Trier,1-1,1-0
 2003-02-09,Oberhausen,Union Berlin,2-2,1-1
 2003-02-09,St Pauli,Lubeck,2-0,2-0
-2003-02-10,FC Koln,Aachen,3-3,1-0
+2003-02-10,FC Köln,Aachen,3-3,1-0
 2003-02-14,Braunschweig,St Pauli,0-1,0-1
 2003-02-14,Duisburg,Karlsruhe,2-0,2-0
 2003-02-14,Lubeck,Freiburg,2-0,0-0
 2003-02-16,Aachen,Burghausen,2-3,2-2
-2003-02-16,Ahlen,Greuther Furth,3-0,2-0
+2003-02-16,Ahlen,Greuther Fürth,3-0,2-0
 2003-02-16,Ein Trier,Mannheim,2-2,1-1
 2003-02-16,Mainz,Oberhausen,2-1,0-0
-2003-02-17,Ein Frankfurt,FC Koln,1-1,1-0
+2003-02-17,Ein Frankfurt,FC Köln,1-1,1-0
 2003-02-19,Reutlingen,Braunschweig,0-1,0-0
-2003-02-21,FC Koln,Ahlen,2-1,1-1
+2003-02-21,FC Köln,Ahlen,2-1,1-1
 2003-02-21,Karlsruhe,Aachen,1-2,1-0
 2003-02-21,Oberhausen,Mannheim,0-1,0-1
 2003-02-23,Burghausen,Ein Frankfurt,3-3,2-1
 2003-02-23,Duisburg,Ein Trier,2-4,0-3
-2003-02-23,Greuther Furth,Lubeck,2-1,2-0
+2003-02-23,Greuther Fürth,Lubeck,2-1,2-0
 2003-02-23,Reutlingen,Mainz,1-2,0-0
 2003-02-23,St Pauli,Union Berlin,2-2,0-0
 2003-02-24,Freiburg,Braunschweig,2-0,1-0
-2003-02-28,Braunschweig,Greuther Furth,1-1,1-1
+2003-02-28,Braunschweig,Greuther Fürth,1-1,1-1
 2003-02-28,Ein Frankfurt,Karlsruhe,2-1,2-0
 2003-02-28,Mainz,St Pauli,1-1,0-0
 2003-02-28,Mannheim,Reutlingen,0-0,0-0
 2003-03-02,Aachen,Duisburg,1-0,0-0
 2003-03-02,Ahlen,Burghausen,2-4,1-2
 2003-03-02,Ein Trier,Oberhausen,1-0,0-0
-2003-03-02,Lubeck,FC Koln,1-1,0-0
+2003-03-02,Lubeck,FC Köln,1-1,0-0
 2003-03-03,Union Berlin,Freiburg,1-1,1-0
-2003-03-05,Aachen,Greuther Furth,0-0,0-0
+2003-03-05,Aachen,Greuther Fürth,0-0,0-0
 2003-03-05,Braunschweig,Oberhausen,2-1,0-1
-2003-03-05,Duisburg,FC Koln,2-2,2-1
+2003-03-05,Duisburg,FC Köln,2-2,2-1
 2003-03-07,Freiburg,Mainz,1-0,0-0
 2003-03-07,Karlsruhe,Ahlen,2-4,2-1
 2003-03-07,St Pauli,Mannheim,2-1,1-0
 2003-03-09,Aachen,Ein Trier,0-1,0-1
 2003-03-09,Burghausen,Lubeck,0-0,0-0
-2003-03-09,FC Koln,Braunschweig,1-1,1-1
-2003-03-09,Greuther Furth,Union Berlin,1-1,1-0
+2003-03-09,FC Köln,Braunschweig,1-1,1-1
+2003-03-09,Greuther Fürth,Union Berlin,1-1,1-0
 2003-03-09,Reutlingen,Oberhausen,2-0,0-0
 2003-03-10,Duisburg,Ein Frankfurt,0-2,0-1
 2003-03-14,Ahlen,Duisburg,0-0,0-0
 2003-03-14,Ein Trier,Reutlingen,1-2,1-2
-2003-03-14,Mainz,Greuther Furth,1-3,1-1
+2003-03-14,Mainz,Greuther Fürth,1-3,1-1
 2003-03-16,Braunschweig,Burghausen,0-0,0-0
 2003-03-16,Ein Frankfurt,Aachen,1-1,1-1
 2003-03-16,Lubeck,Karlsruhe,2-0,1-0
 2003-03-16,Oberhausen,St Pauli,3-0,1-0
-2003-03-16,Union Berlin,FC Koln,0-3,0-0
+2003-03-16,Union Berlin,FC Köln,0-3,0-0
 2003-03-17,Mannheim,Freiburg,0-3,0-0
 2003-03-21,Aachen,Ahlen,3-0,2-0
 2003-03-21,Ein Frankfurt,Ein Trier,2-3,1-1
@@ -229,17 +229,17 @@ Date,Team 1,Team 2,FT,HT
 2003-03-23,Burghausen,Union Berlin,0-1,0-1
 2003-03-23,Duisburg,Lubeck,1-0,1-0
 2003-03-23,Freiburg,Oberhausen,5-2,4-0
-2003-03-23,Greuther Furth,Mannheim,5-0,2-0
+2003-03-23,Greuther Fürth,Mannheim,5-0,2-0
 2003-03-23,Karlsruhe,Braunschweig,1-0,1-0
-2003-03-24,FC Koln,Mainz,1-4,1-3
+2003-03-24,FC Köln,Mainz,1-4,1-3
 2003-03-26,Union Berlin,Reutlingen,0-0,0-0
 2003-04-04,Braunschweig,Duisburg,0-1,0-0
 2003-04-04,Mainz,Burghausen,2-0,1-0
-2003-04-04,Mannheim,FC Koln,1-2,0-0
+2003-04-04,Mannheim,FC Köln,1-2,0-0
 2003-04-06,Ahlen,Ein Frankfurt,1-1,0-0
 2003-04-06,Ein Trier,St Pauli,1-2,1-1
 2003-04-06,Lubeck,Aachen,2-0,1-0
-2003-04-06,Oberhausen,Greuther Furth,2-3,1-3
+2003-04-06,Oberhausen,Greuther Fürth,2-3,1-3
 2003-04-06,Union Berlin,Karlsruhe,0-0,0-0
 2003-04-07,Reutlingen,Freiburg,0-2,0-1
 2003-04-11,Aachen,Braunschweig,1-3,0-2
@@ -249,36 +249,36 @@ Date,Team 1,Team 2,FT,HT
 2003-04-13,Duisburg,Union Berlin,0-1,0-0
 2003-04-13,Ein Frankfurt,Lubeck,3-1,1-1
 2003-04-13,Freiburg,St Pauli,1-1,1-1
-2003-04-13,Greuther Furth,Reutlingen,2-0,1-0
-2003-04-14,FC Koln,Oberhausen,2-0,2-0
+2003-04-13,Greuther Fürth,Reutlingen,2-0,1-0
+2003-04-14,FC Köln,Oberhausen,2-0,2-0
 2003-04-17,Lubeck,Ahlen,4-1,1-1
 2003-04-17,Mannheim,Karlsruhe,0-2,0-0
-2003-04-17,St Pauli,Greuther Furth,1-1,0-1
+2003-04-17,St Pauli,Greuther Fürth,1-1,0-1
 2003-04-20,Braunschweig,Ein Frankfurt,0-0,0-0
 2003-04-20,Ein Trier,Freiburg,0-1,0-0
 2003-04-20,Oberhausen,Burghausen,0-0,0-0
-2003-04-20,Reutlingen,FC Koln,1-2,1-1
+2003-04-20,Reutlingen,FC Köln,1-2,1-1
 2003-04-20,Union Berlin,Aachen,3-2,0-2
 2003-04-21,Mainz,Duisburg,3-1,3-1
 2003-04-25,Duisburg,Mannheim,0-0,0-0
 2003-04-25,Ein Frankfurt,Union Berlin,0-0,0-0
-2003-04-25,Greuther Furth,Freiburg,4-0,2-0
+2003-04-25,Greuther Fürth,Freiburg,4-0,2-0
 2003-04-27,Aachen,Mainz,3-0,1-0
 2003-04-27,Ahlen,Braunschweig,1-2,0-2
 2003-04-27,Burghausen,Reutlingen,1-0,0-0
 2003-04-27,Karlsruhe,Oberhausen,2-1,0-1
 2003-04-27,Lubeck,Ein Trier,3-1,2-0
-2003-04-28,FC Koln,St Pauli,2-1,2-0
-2003-05-02,Freiburg,FC Koln,3-0,2-0
+2003-04-28,FC Köln,St Pauli,2-1,2-0
+2003-05-02,Freiburg,FC Köln,3-0,2-0
 2003-05-02,St Pauli,Burghausen,2-2,2-1
 2003-05-02,Union Berlin,Ahlen,1-1,1-0
 2003-05-04,Braunschweig,Lubeck,1-1,0-0
-2003-05-04,Ein Trier,Greuther Furth,1-2,0-2
+2003-05-04,Ein Trier,Greuther Fürth,1-2,0-2
 2003-05-04,Mannheim,Aachen,2-1,2-1
 2003-05-04,Oberhausen,Duisburg,3-1,1-0
 2003-05-04,Reutlingen,Karlsruhe,0-3,0-2
 2003-05-05,Mainz,Ein Frankfurt,3-2,1-1
-2003-05-08,Greuther Furth,FC Koln,2-0,1-0
+2003-05-08,Greuther Fürth,FC Köln,2-0,1-0
 2003-05-09,Duisburg,Reutlingen,2-0,0-0
 2003-05-09,Ein Frankfurt,Mannheim,4-1,1-0
 2003-05-09,Lubeck,Union Berlin,0-1,0-0
@@ -287,9 +287,9 @@ Date,Team 1,Team 2,FT,HT
 2003-05-11,Ein Trier,Braunschweig,0-1,0-0
 2003-05-11,Karlsruhe,St Pauli,1-1,0-1
 2003-05-12,Ahlen,Mainz,4-3,2-1
-2003-05-18,FC Koln,Ein Trier,1-3,1-1
+2003-05-18,FC Köln,Ein Trier,1-3,1-1
 2003-05-18,Freiburg,Karlsruhe,3-1,1-0
-2003-05-18,Greuther Furth,Burghausen,2-2,1-0
+2003-05-18,Greuther Fürth,Burghausen,2-2,1-0
 2003-05-18,Mainz,Lubeck,5-1,2-1
 2003-05-18,Mannheim,Ahlen,0-2,0-1
 2003-05-18,Oberhausen,Ein Frankfurt,0-2,0-2
@@ -299,9 +299,9 @@ Date,Team 1,Team 2,FT,HT
 2003-05-25,Aachen,St Pauli,4-1,2-0
 2003-05-25,Ahlen,Oberhausen,2-1,1-1
 2003-05-25,Braunschweig,Mainz,1-4,0-2
-2003-05-25,Burghausen,FC Koln,2-0,1-0
+2003-05-25,Burghausen,FC Köln,2-0,1-0
 2003-05-25,Duisburg,Freiburg,3-2,2-0
 2003-05-25,Ein Frankfurt,Reutlingen,6-3,3-1
 2003-05-25,Ein Trier,Union Berlin,0-1,0-1
-2003-05-25,Karlsruhe,Greuther Furth,2-1,1-0
+2003-05-25,Karlsruhe,Greuther Fürth,2-1,1-0
 2003-05-25,Lubeck,Mannheim,3-1,3-0

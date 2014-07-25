@@ -1,8 +1,8 @@
 Date,Team 1,Team 2,FT,HT
 2005-08-06,Cottbus,Braunschweig,2-1,0-1
-2005-08-06,Greuther Furth,Dresden,3-1,1-0
-2005-08-06,Saarbrucken,Bochum,0-4,0-0
-2005-08-07,Ahlen,Munich 1860,1-2,1-0
+2005-08-06,Greuther Fürth,Dresden,3-1,1-0
+2005-08-06,Saarbrücken,Bochum,0-4,0-0
+2005-08-07,Ahlen,München 1860,1-2,1-0
 2005-08-07,Freiburg,Burghausen,2-1,1-0
 2005-08-07,Hansa Rostock,Offenbach,1-2,1-0
 2005-08-07,Karlsruhe,Siegen,2-0,1-0
@@ -10,11 +10,11 @@ Date,Team 1,Team 2,FT,HT
 2005-08-08,Erzgebirge Aue,Aachen,2-1,1-0
 2005-08-12,Aachen,Karlsruhe,2-1,0-0
 2005-08-12,Dresden,Freiburg,2-0,0-0
-2005-08-12,Munich 1860,Hansa Rostock,4-1,2-0
+2005-08-12,München 1860,Hansa Rostock,4-1,2-0
 2005-08-14,Braunschweig,Ahlen,3-1,3-0
 2005-08-14,Burghausen,Erzgebirge Aue,1-1,0-1
-2005-08-14,Offenbach,Greuther Furth,2-1,1-0
-2005-08-14,Paderborn,Saarbrucken,5-0,3-0
+2005-08-14,Offenbach,Greuther Fürth,2-1,1-0
+2005-08-14,Paderborn,Saarbrücken,5-0,3-0
 2005-08-14,Siegen,Unterhaching,4-0,1-0
 2005-08-15,Bochum,Cottbus,2-2,1-1
 2005-08-26,Ahlen,Bochum,2-2,2-1
@@ -23,13 +23,13 @@ Date,Team 1,Team 2,FT,HT
 2005-08-28,Cottbus,Paderborn,1-2,0-1
 2005-08-28,Freiburg,Erzgebirge Aue,2-0,0-0
 2005-08-28,Karlsruhe,Burghausen,0-1,0-0
-2005-08-28,Saarbrucken,Siegen,0-3,0-0
+2005-08-28,Saarbrücken,Siegen,0-3,0-0
 2005-08-28,Unterhaching,Aachen,1-2,1-0
-2005-08-29,Greuther Furth,Munich 1860,2-2,1-1
-2005-09-09,Aachen,Saarbrucken,4-0,1-0
+2005-08-29,Greuther Fürth,München 1860,2-2,1-1
+2005-09-09,Aachen,Saarbrücken,4-0,1-0
 2005-09-09,Burghausen,Unterhaching,1-1,0-1
-2005-09-09,Munich 1860,Dresden,1-2,0-2
-2005-09-11,Braunschweig,Greuther Furth,3-0,1-0
+2005-09-09,München 1860,Dresden,1-2,0-2
+2005-09-11,Braunschweig,Greuther Fürth,3-0,1-0
 2005-09-11,Erzgebirge Aue,Karlsruhe,0-0,0-0
 2005-09-11,Offenbach,Freiburg,2-1,0-0
 2005-09-11,Paderborn,Ahlen,1-0,0-0
@@ -37,74 +37,74 @@ Date,Team 1,Team 2,FT,HT
 2005-09-12,Bochum,Hansa Rostock,1-0,1-0
 2005-09-16,Dresden,Braunschweig,1-1,0-1
 2005-09-16,Freiburg,Karlsruhe,0-0,0-0
-2005-09-16,Greuther Furth,Bochum,1-3,1-2
-2005-09-16,Offenbach,Munich 1860,2-5,0-3
+2005-09-16,Greuther Fürth,Bochum,1-3,1-2
+2005-09-16,Offenbach,München 1860,2-5,0-3
 2005-09-16,Unterhaching,Erzgebirge Aue,1-1,0-1
 2005-09-18,Ahlen,Siegen,0-1,0-1
 2005-09-18,Cottbus,Aachen,5-1,2-0
 2005-09-18,Hansa Rostock,Paderborn,2-0,1-0
-2005-09-18,Saarbrucken,Burghausen,1-1,0-0
+2005-09-18,Saarbrücken,Burghausen,1-1,0-0
 2005-09-20,Bochum,Dresden,1-0,0-0
 2005-09-20,Braunschweig,Offenbach,2-0,0-0
 2005-09-20,Karlsruhe,Unterhaching,1-0,1-0
-2005-09-20,Munich 1860,Freiburg,0-1,0-0
+2005-09-20,München 1860,Freiburg,0-1,0-0
 2005-09-21,Aachen,Ahlen,6-2,3-0
 2005-09-21,Burghausen,Cottbus,0-1,0-0
-2005-09-21,Erzgebirge Aue,Saarbrucken,2-0,1-0
-2005-09-21,Paderborn,Greuther Furth,1-2,1-0
+2005-09-21,Erzgebirge Aue,Saarbrücken,2-0,1-0
+2005-09-21,Paderborn,Greuther Fürth,1-2,1-0
 2005-09-22,Siegen,Hansa Rostock,1-1,0-1
 2005-09-23,Freiburg,Unterhaching,3-2,1-2
-2005-09-23,Munich 1860,Braunschweig,1-0,0-0
+2005-09-23,München 1860,Braunschweig,1-0,0-0
 2005-09-23,Offenbach,Bochum,0-0,0-0
 2005-09-25,Ahlen,Burghausen,2-2,1-1
 2005-09-25,Cottbus,Erzgebirge Aue,1-0,0-0
 2005-09-25,Dresden,Paderborn,0-2,0-1
-2005-09-25,Greuther Furth,Siegen,1-0,1-0
-2005-09-25,Saarbrucken,Karlsruhe,1-2,1-0
+2005-09-25,Greuther Fürth,Siegen,1-0,1-0
+2005-09-25,Saarbrücken,Karlsruhe,1-2,1-0
 2005-09-26,Hansa Rostock,Aachen,1-0,1-0
-2005-09-30,Aachen,Greuther Furth,0-1,0-1
+2005-09-30,Aachen,Greuther Fürth,0-1,0-1
 2005-09-30,Erzgebirge Aue,Ahlen,0-0,0-0
-2005-09-30,Unterhaching,Saarbrucken,0-1,0-1
+2005-09-30,Unterhaching,Saarbrücken,0-1,0-1
 2005-10-02,Braunschweig,Freiburg,0-0,0-0
 2005-10-02,Burghausen,Hansa Rostock,1-1,1-1
 2005-10-02,Karlsruhe,Cottbus,3-2,0-1
 2005-10-02,Paderborn,Offenbach,4-1,1-1
 2005-10-02,Siegen,Dresden,2-2,1-1
-2005-10-03,Bochum,Munich 1860,1-0,0-0
+2005-10-03,Bochum,München 1860,1-0,0-0
 2005-10-14,Ahlen,Karlsruhe,2-2,2-1
 2005-10-14,Hansa Rostock,Erzgebirge Aue,1-0,1-0
-2005-10-14,Munich 1860,Paderborn,1-0,1-0
+2005-10-14,München 1860,Paderborn,1-0,1-0
 2005-10-16,Braunschweig,Bochum,0-0,0-0
 2005-10-16,Cottbus,Unterhaching,2-0,1-0
-2005-10-16,Freiburg,Saarbrucken,3-1,1-0
-2005-10-16,Greuther Furth,Burghausen,6-2,4-2
+2005-10-16,Freiburg,Saarbrücken,3-1,1-0
+2005-10-16,Greuther Fürth,Burghausen,6-2,4-2
 2005-10-16,Offenbach,Siegen,1-1,0-1
 2005-10-17,Dresden,Aachen,1-3,1-1
 2005-10-21,Aachen,Offenbach,0-1,0-0
 2005-10-21,Bochum,Freiburg,4-0,2-0
 2005-10-21,Burghausen,Dresden,1-0,0-0
 2005-10-21,Paderborn,Braunschweig,3-0,3-0
-2005-10-23,Erzgebirge Aue,Greuther Furth,1-1,0-1
+2005-10-23,Erzgebirge Aue,Greuther Fürth,1-1,0-1
 2005-10-23,Karlsruhe,Hansa Rostock,1-0,1-0
-2005-10-23,Saarbrucken,Cottbus,1-3,0-1
-2005-10-23,Siegen,Munich 1860,1-2,0-2
+2005-10-23,Saarbrücken,Cottbus,1-3,0-1
+2005-10-23,Siegen,München 1860,1-2,0-2
 2005-10-23,Unterhaching,Ahlen,2-0,2-0
-2005-10-28,Ahlen,Saarbrucken,3-1,1-1
+2005-10-28,Ahlen,Saarbrücken,3-1,1-1
 2005-10-28,Bochum,Paderborn,1-1,1-0
 2005-10-28,Braunschweig,Siegen,1-0,1-0
 2005-10-30,Freiburg,Cottbus,4-1,1-0
-2005-10-30,Greuther Furth,Karlsruhe,3-1,1-0
+2005-10-30,Greuther Fürth,Karlsruhe,3-1,1-0
 2005-10-30,Hansa Rostock,Unterhaching,4-2,1-1
 2005-10-30,Offenbach,Burghausen,1-3,0-3
-2005-10-31,Munich 1860,Aachen,0-0,0-0
+2005-10-31,München 1860,Aachen,0-0,0-0
 2005-11-01,Dresden,Erzgebirge Aue,1-4,0-2
 2005-11-04,Cottbus,Ahlen,0-0,0-0
 2005-11-04,Karlsruhe,Dresden,2-1,1-1
 2005-11-06,Erzgebirge Aue,Offenbach,1-0,1-0
 2005-11-06,Paderborn,Freiburg,1-1,1-1
-2005-11-06,Saarbrucken,Hansa Rostock,1-2,0-2
+2005-11-06,Saarbrücken,Hansa Rostock,1-2,0-2
 2005-11-06,Siegen,Bochum,3-0,1-0
-2005-11-06,Unterhaching,Greuther Furth,4-1,0-0
+2005-11-06,Unterhaching,Greuther Fürth,4-1,0-0
 2005-11-07,Aachen,Braunschweig,2-1,0-0
 2005-11-18,Bochum,Aachen,1-4,0-2
 2005-11-18,Braunschweig,Burghausen,1-2,1-1
@@ -112,178 +112,178 @@ Date,Team 1,Team 2,FT,HT
 2005-11-18,Paderborn,Siegen,4-0,3-0
 2005-11-20,Dresden,Unterhaching,2-3,2-2
 2005-11-20,Freiburg,Ahlen,3-0,1-0
-2005-11-20,Greuther Furth,Saarbrucken,0-0,0-0
-2005-11-20,Munich 1860,Erzgebirge Aue,1-1,0-1
+2005-11-20,Greuther Fürth,Saarbrücken,0-0,0-0
+2005-11-20,München 1860,Erzgebirge Aue,1-1,0-1
 2005-11-21,Hansa Rostock,Cottbus,0-0,0-0
 2005-11-25,Burghausen,Bochum,0-4,0-3
 2005-11-25,Erzgebirge Aue,Braunschweig,0-2,0-0
 2005-11-27,Aachen,Paderborn,2-1,1-0
-2005-11-27,Karlsruhe,Munich 1860,1-2,0-2
+2005-11-27,Karlsruhe,München 1860,1-2,0-2
 2005-11-27,Unterhaching,Offenbach,2-0,1-0
-2005-11-28,Cottbus,Greuther Furth,1-2,1-1
+2005-11-28,Cottbus,Greuther Fürth,1-2,1-1
 2005-12-02,Braunschweig,Karlsruhe,1-0,0-0
-2005-12-02,Greuther Furth,Ahlen,2-0,0-0
+2005-12-02,Greuther Fürth,Ahlen,2-0,0-0
 2005-12-02,Siegen,Aachen,2-2,1-1
 2005-12-04,Bochum,Erzgebirge Aue,1-0,0-0
 2005-12-04,Freiburg,Hansa Rostock,2-2,1-1
-2005-12-04,Munich 1860,Unterhaching,1-4,0-2
-2005-12-04,Offenbach,Saarbrucken,2-3,2-1
+2005-12-04,München 1860,Unterhaching,1-4,0-2
+2005-12-04,Offenbach,Saarbrücken,2-3,2-1
 2005-12-04,Paderborn,Burghausen,1-3,1-1
 2005-12-05,Dresden,Cottbus,1-1,1-1
 2005-12-07,Siegen,Freiburg,1-0,0-0
 2005-12-09,Ahlen,Dresden,0-0,0-0
 2005-12-09,Erzgebirge Aue,Paderborn,1-0,1-0
-2005-12-09,Hansa Rostock,Greuther Furth,1-2,0-1
+2005-12-09,Hansa Rostock,Greuther Fürth,1-2,0-1
 2005-12-11,Burghausen,Siegen,1-0,1-0
 2005-12-11,Cottbus,Offenbach,1-2,0-1
 2005-12-11,Karlsruhe,Bochum,4-2,1-1
-2005-12-11,Saarbrucken,Munich 1860,0-0,0-0
+2005-12-11,Saarbrücken,München 1860,0-0,0-0
 2005-12-11,Unterhaching,Braunschweig,1-0,1-0
 2005-12-12,Freiburg,Aachen,0-2,0-2
 2005-12-14,Ahlen,Hansa Rostock,1-3,0-1
-2005-12-14,Saarbrucken,Dresden,5-1,3-1
+2005-12-14,Saarbrücken,Dresden,5-1,3-1
 2005-12-16,Bochum,Unterhaching,1-0,0-0
-2005-12-16,Greuther Furth,Freiburg,1-2,0-2
-2005-12-16,Munich 1860,Cottbus,2-3,1-1
+2005-12-16,Greuther Fürth,Freiburg,1-2,0-2
+2005-12-16,München 1860,Cottbus,2-3,1-1
 2005-12-18,Aachen,Burghausen,2-0,2-0
-2005-12-18,Braunschweig,Saarbrucken,1-2,0-0
+2005-12-18,Braunschweig,Saarbrücken,1-2,0-0
 2005-12-18,Offenbach,Ahlen,0-3,0-1
 2005-12-19,Paderborn,Karlsruhe,2-0,0-0
 2005-12-22,Siegen,Erzgebirge Aue,0-1,0-0
 2006-01-20,Aachen,Erzgebirge Aue,3-1,1-0
 2006-01-20,Burghausen,Freiburg,2-1,1-0
-2006-01-20,Munich 1860,Ahlen,0-0,0-0
-2006-01-22,Bochum,Saarbrucken,3-0,1-0
+2006-01-20,München 1860,Ahlen,0-0,0-0
+2006-01-22,Bochum,Saarbrücken,3-0,1-0
 2006-01-22,Offenbach,Hansa Rostock,1-3,1-1
 2006-01-22,Paderborn,Unterhaching,1-1,0-0
 2006-01-24,Siegen,Karlsruhe,0-0,0-0
 2006-01-28,Erzgebirge Aue,Burghausen,1-1,0-0
 2006-01-28,Freiburg,Dresden,1-0,0-0
-2006-01-28,Saarbrucken,Paderborn,0-0,0-0
+2006-01-28,Saarbrücken,Paderborn,0-0,0-0
 2006-01-29,Ahlen,Braunschweig,3-0,3-0
 2006-01-29,Cottbus,Bochum,0-1,0-0
-2006-01-29,Greuther Furth,Offenbach,2-0,2-0
-2006-01-29,Hansa Rostock,Munich 1860,3-1,1-0
+2006-01-29,Greuther Fürth,Offenbach,2-0,2-0
+2006-01-29,Hansa Rostock,München 1860,3-1,1-0
 2006-01-29,Unterhaching,Siegen,2-1,1-1
 2006-01-30,Karlsruhe,Aachen,2-1,2-0
 2006-02-03,Bochum,Ahlen,3-0,1-0
 2006-02-03,Burghausen,Karlsruhe,1-1,0-1
-2006-02-03,Siegen,Saarbrucken,0-4,0-1
+2006-02-03,Siegen,Saarbrücken,0-4,0-1
 2006-02-05,Aachen,Unterhaching,1-0,0-0
 2006-02-05,Erzgebirge Aue,Freiburg,1-0,1-0
 2006-02-05,Paderborn,Cottbus,0-0,0-0
-2006-02-06,Munich 1860,Greuther Furth,2-2,2-1
-2006-02-10,Dresden,Munich 1860,2-0,1-0
+2006-02-06,München 1860,Greuther Fürth,2-2,2-1
+2006-02-10,Dresden,München 1860,2-0,1-0
 2006-02-10,Karlsruhe,Erzgebirge Aue,5-2,2-0
 2006-02-12,Ahlen,Paderborn,0-2,0-2
 2006-02-12,Cottbus,Siegen,1-0,0-0
 2006-02-12,Freiburg,Offenbach,2-0,0-0
-2006-02-12,Greuther Furth,Braunschweig,0-1,0-0
+2006-02-12,Greuther Fürth,Braunschweig,0-1,0-0
 2006-02-12,Unterhaching,Burghausen,1-1,1-1
 2006-02-13,Hansa Rostock,Bochum,0-2,0-2
 2006-02-17,Braunschweig,Dresden,1-0,0-0
 2006-02-17,Karlsruhe,Freiburg,1-1,0-0
-2006-02-17,Munich 1860,Offenbach,1-1,0-0
-2006-02-19,Bochum,Greuther Furth,1-1,1-0
-2006-02-19,Burghausen,Saarbrucken,2-0,2-0
+2006-02-17,München 1860,Offenbach,1-1,0-0
+2006-02-19,Bochum,Greuther Fürth,1-1,1-0
+2006-02-19,Burghausen,Saarbrücken,2-0,2-0
 2006-02-19,Erzgebirge Aue,Unterhaching,0-1,0-1
 2006-02-19,Paderborn,Hansa Rostock,3-0,3-0
 2006-02-20,Aachen,Cottbus,0-0,0-0
 2006-02-22,Dresden,Hansa Rostock,1-0,0-0
 2006-02-24,Cottbus,Burghausen,4-1,0-1
-2006-02-24,Greuther Furth,Paderborn,1-1,0-0
-2006-02-24,Saarbrucken,Erzgebirge Aue,1-1,1-1
+2006-02-24,Greuther Fürth,Paderborn,1-1,0-0
+2006-02-24,Saarbrücken,Erzgebirge Aue,1-1,1-1
 2006-02-26,Ahlen,Aachen,0-2,0-1
 2006-02-26,Dresden,Bochum,0-0,0-0
 2006-02-26,Hansa Rostock,Siegen,2-0,0-0
 2006-02-26,Offenbach,Braunschweig,2-0,1-0
 2006-02-26,Unterhaching,Karlsruhe,4-1,3-0
-2006-02-27,Freiburg,Munich 1860,2-1,1-1
+2006-02-27,Freiburg,München 1860,2-1,1-1
 2006-03-03,Bochum,Offenbach,0-1,0-0
 2006-03-03,Burghausen,Ahlen,1-3,1-1
 2006-03-03,Erzgebirge Aue,Cottbus,2-2,2-0
-2006-03-05,Braunschweig,Munich 1860,3-3,2-2
+2006-03-05,Braunschweig,München 1860,3-3,2-2
 2006-03-05,Paderborn,Dresden,0-2,0-1
 2006-03-06,Aachen,Hansa Rostock,3-2,3-1
 2006-03-08,Braunschweig,Cottbus,0-1,0-0
-2006-03-08,Dresden,Greuther Furth,1-2,0-1
+2006-03-08,Dresden,Greuther Fürth,1-2,0-1
 2006-03-10,Ahlen,Erzgebirge Aue,3-1,1-1
 2006-03-10,Offenbach,Paderborn,1-1,0-0
-2006-03-10,Saarbrucken,Unterhaching,5-3,3-1
+2006-03-10,Saarbrücken,Unterhaching,5-3,3-1
 2006-03-12,Cottbus,Karlsruhe,0-0,0-0
 2006-03-12,Dresden,Siegen,1-0,1-0
 2006-03-12,Freiburg,Braunschweig,1-0,1-0
 2006-03-12,Hansa Rostock,Burghausen,1-0,1-0
-2006-03-13,Munich 1860,Bochum,0-1,0-0
-2006-03-14,Greuther Furth,Aachen,0-0,0-0
-2006-03-16,Karlsruhe,Saarbrucken,2-1,2-0
+2006-03-13,München 1860,Bochum,0-1,0-0
+2006-03-14,Greuther Fürth,Aachen,0-0,0-0
+2006-03-16,Karlsruhe,Saarbrücken,2-1,2-0
 2006-03-16,Unterhaching,Freiburg,1-0,0-0
 2006-03-17,Aachen,Dresden,2-0,0-0
-2006-03-17,Burghausen,Greuther Furth,2-2,1-1
+2006-03-17,Burghausen,Greuther Fürth,2-2,1-1
 2006-03-17,Siegen,Offenbach,1-1,1-0
 2006-03-19,Bochum,Braunschweig,4-0,2-0
 2006-03-19,Karlsruhe,Ahlen,3-1,1-0
-2006-03-19,Paderborn,Munich 1860,0-1,0-1
-2006-03-19,Saarbrucken,Freiburg,2-1,1-0
+2006-03-19,Paderborn,München 1860,0-1,0-1
+2006-03-19,Saarbrücken,Freiburg,2-1,1-0
 2006-03-19,Unterhaching,Cottbus,0-2,0-1
 2006-03-20,Erzgebirge Aue,Hansa Rostock,2-1,0-1
-2006-03-22,Siegen,Greuther Furth,1-3,1-1
+2006-03-22,Siegen,Greuther Fürth,1-3,1-1
 2006-03-24,Braunschweig,Paderborn,2-0,2-0
 2006-03-24,Dresden,Burghausen,1-2,1-2
 2006-03-24,Offenbach,Aachen,2-4,0-0
 2006-03-26,Ahlen,Unterhaching,1-0,0-0
-2006-03-26,Cottbus,Saarbrucken,0-1,0-1
-2006-03-26,Greuther Furth,Erzgebirge Aue,1-3,0-3
+2006-03-26,Cottbus,Saarbrücken,0-1,0-1
+2006-03-26,Greuther Fürth,Erzgebirge Aue,1-3,0-3
 2006-03-26,Hansa Rostock,Karlsruhe,2-0,0-0
-2006-03-26,Munich 1860,Siegen,3-0,1-0
+2006-03-26,München 1860,Siegen,3-0,1-0
 2006-03-27,Freiburg,Bochum,0-0,0-0
 2006-03-29,Braunschweig,Hansa Rostock,4-1,3-0
-2006-03-29,Burghausen,Munich 1860,1-0,0-0
+2006-03-29,Burghausen,München 1860,1-0,0-0
 2006-03-29,Offenbach,Dresden,0-0,0-0
-2006-03-29,Saarbrucken,Aachen,2-5,2-2
+2006-03-29,Saarbrücken,Aachen,2-5,2-2
 2006-03-29,Siegen,Ahlen,0-3,0-2
 2006-03-31,Cottbus,Freiburg,2-1,2-0
-2006-03-31,Karlsruhe,Greuther Furth,2-1,1-1
+2006-03-31,Karlsruhe,Greuther Fürth,2-1,1-1
 2006-03-31,Paderborn,Bochum,1-3,1-0
 2006-04-02,Burghausen,Offenbach,0-2,0-2
 2006-04-02,Erzgebirge Aue,Dresden,2-0,2-0
-2006-04-02,Saarbrucken,Ahlen,1-0,0-0
+2006-04-02,Saarbrücken,Ahlen,1-0,0-0
 2006-04-02,Siegen,Braunschweig,4-1,3-0
 2006-04-02,Unterhaching,Hansa Rostock,0-1,0-1
-2006-04-03,Aachen,Munich 1860,1-0,1-0
+2006-04-03,Aachen,München 1860,1-0,1-0
 2006-04-07,Bochum,Siegen,3-1,2-0
 2006-04-07,Braunschweig,Aachen,0-1,0-1
 2006-04-07,Offenbach,Erzgebirge Aue,2-1,0-0
 2006-04-09,Ahlen,Cottbus,0-1,0-0
 2006-04-09,Freiburg,Paderborn,1-0,1-0
-2006-04-09,Greuther Furth,Unterhaching,2-0,2-0
-2006-04-09,Hansa Rostock,Saarbrucken,3-0,3-0
-2006-04-09,Munich 1860,Burghausen,1-1,0-0
+2006-04-09,Greuther Fürth,Unterhaching,2-0,2-0
+2006-04-09,Hansa Rostock,Saarbrücken,3-0,3-0
+2006-04-09,München 1860,Burghausen,1-1,0-0
 2006-04-10,Dresden,Karlsruhe,3-2,2-1
 2006-04-13,Cottbus,Hansa Rostock,2-0,1-0
 2006-04-13,Karlsruhe,Offenbach,1-1,0-1
 2006-04-13,Siegen,Paderborn,0-2,0-1
 2006-04-16,Ahlen,Freiburg,0-0,0-0
 2006-04-16,Burghausen,Braunschweig,1-2,0-2
-2006-04-16,Erzgebirge Aue,Munich 1860,3-0,2-0
-2006-04-16,Saarbrucken,Greuther Furth,1-0,1-0
+2006-04-16,Erzgebirge Aue,München 1860,3-0,2-0
+2006-04-16,Saarbrücken,Greuther Fürth,1-0,1-0
 2006-04-16,Unterhaching,Dresden,1-1,0-1
 2006-04-17,Aachen,Bochum,0-2,0-1
 2006-04-21,Bochum,Burghausen,1-2,0-1
-2006-04-21,Munich 1860,Karlsruhe,2-0,2-0
+2006-04-21,München 1860,Karlsruhe,2-0,2-0
 2006-04-21,Paderborn,Aachen,3-1,3-1
 2006-04-23,Braunschweig,Erzgebirge Aue,0-1,0-0
-2006-04-23,Dresden,Saarbrucken,2-0,1-0
+2006-04-23,Dresden,Saarbrücken,2-0,1-0
 2006-04-23,Freiburg,Siegen,2-2,0-1
 2006-04-23,Hansa Rostock,Ahlen,1-2,0-0
 2006-04-23,Offenbach,Unterhaching,4-1,2-1
-2006-04-24,Greuther Furth,Cottbus,1-1,1-0
+2006-04-24,Greuther Fürth,Cottbus,1-1,1-0
 2006-05-01,Erzgebirge Aue,Bochum,0-1,0-0
 2006-05-02,Aachen,Siegen,3-0,2-0
 2006-05-02,Burghausen,Paderborn,5-1,2-1
-2006-05-02,Saarbrucken,Offenbach,0-4,0-2
-2006-05-02,Unterhaching,Munich 1860,1-0,0-0
-2006-05-03,Ahlen,Greuther Furth,1-2,1-1
+2006-05-02,Saarbrücken,Offenbach,0-4,0-2
+2006-05-02,Unterhaching,München 1860,1-0,0-0
+2006-05-03,Ahlen,Greuther Fürth,1-2,1-1
 2006-05-03,Cottbus,Dresden,0-0,0-0
 2006-05-03,Hansa Rostock,Freiburg,1-2,1-2
 2006-05-03,Karlsruhe,Braunschweig,7-0,3-0
@@ -291,17 +291,17 @@ Date,Team 1,Team 2,FT,HT
 2006-05-07,Bochum,Karlsruhe,2-3,1-1
 2006-05-07,Braunschweig,Unterhaching,3-0,1-0
 2006-05-07,Dresden,Ahlen,3-1,2-0
-2006-05-07,Greuther Furth,Hansa Rostock,2-0,2-0
-2006-05-07,Munich 1860,Saarbrucken,1-0,1-0
+2006-05-07,Greuther Fürth,Hansa Rostock,2-0,2-0
+2006-05-07,München 1860,Saarbrücken,1-0,1-0
 2006-05-07,Offenbach,Cottbus,2-0,1-0
 2006-05-07,Paderborn,Erzgebirge Aue,0-2,0-1
 2006-05-07,Siegen,Burghausen,2-1,0-0
 2006-05-14,Ahlen,Offenbach,1-0,0-0
 2006-05-14,Burghausen,Aachen,1-1,1-0
-2006-05-14,Cottbus,Munich 1860,3-1,1-1
+2006-05-14,Cottbus,München 1860,3-1,1-1
 2006-05-14,Erzgebirge Aue,Siegen,0-2,0-0
-2006-05-14,Freiburg,Greuther Furth,1-0,1-0
+2006-05-14,Freiburg,Greuther Fürth,1-0,1-0
 2006-05-14,Hansa Rostock,Dresden,1-3,1-1
 2006-05-14,Karlsruhe,Paderborn,2-3,2-1
-2006-05-14,Saarbrucken,Braunschweig,2-0,1-0
+2006-05-14,Saarbrücken,Braunschweig,2-0,1-0
 2006-05-14,Unterhaching,Bochum,0-0,0-0
