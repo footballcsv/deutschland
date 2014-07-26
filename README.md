@@ -6,7 +6,7 @@ Football data for Deutschland (Germany) includes:
 - 2. Bundesliga
 
 
-Example - [`2013-14/bundesliga.csv`](2013-14/bundesliga.csv):
+Example - [`2013-14/bundesliga.csv`](2013-14/1-bundesliga.csv):
 
 ~~~
 2013-08-09,Bayern München,M'gladbach,3-1,2-1
