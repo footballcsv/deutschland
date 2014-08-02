@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,Team 2,FT,HT
+1,1974-08-24,15:30,FC Schalke 04,1. FC Kaiserslautern,2-1,1-1
+1,1974-08-24,15:30,Wuppertaler SV,MSV Duisburg,1-4,1-2
+1,1974-08-24,15:30,1. FC Köln,Rot-Weiss Essen,0-1,0-1
+1,1974-08-24,15:30,Bor. Mönchengladbach,Hamburger SV,1-3,0-1
+1,1974-08-24,15:30,Kickers Offenbach,Bayern München,6-0,2-0
+1,1974-08-24,15:30,Werder Bremen,Eintracht Frankfurt,0-3,0-2
+1,1974-08-24,15:30,Hertha BSC,Fortuna Duesseldorf,3-3,1-2
+1,1974-08-24,15:30,Eintracht Braunschweig,TeBe Berlin,5-0,3-0
+1,1974-08-24,15:30,VfB Stuttgart,VfL Bochum,1-0,0-0
+2,1974-08-30,20:00,Hamburger SV,Kickers Offenbach,1-0,0-0
+2,1974-08-30,20:00,1. FC Kaiserslautern,Eintracht Braunschweig,2-0,0-0
+2,1974-08-30,20:00,Fortuna Duesseldorf,VfB Stuttgart,4-0,1-0
+2,1974-08-31,15:30,Rot-Weiss Essen,Wuppertaler SV,2-0,0-0
+2,1974-08-31,15:30,TeBe Berlin,Werder Bremen,4-0,2-0
+2,1974-08-31,15:30,Eintracht Frankfurt,Bor. Mönchengladbach,1-1,1-0
+2,1974-08-31,15:30,VfL Bochum,1. FC Köln,3-2,2-2
+2,1974-08-31,15:30,MSV Duisburg,FC Schalke 04,2-0,0-0
+2,1974-08-31,15:30,Bayern München,Hertha BSC,2-1,1-0
+3,1974-09-10,20:00,Bor. Mönchengladbach,TeBe Berlin,3-1,1-1
+3,1974-09-11,20:00,Werder Bremen,1. FC Kaiserslautern,3-1,0-1
+3,1974-09-11,20:00,Hertha BSC,Kickers Offenbach,4-1,1-0
+3,1974-09-11,20:00,Eintracht Frankfurt,Hamburger SV,1-3,0-2
+3,1974-09-11,20:00,VfB Stuttgart,Bayern München,1-2,0-0
+3,1974-09-11,20:00,Wuppertaler SV,VfL Bochum,1-1,0-0
+3,1974-09-11,20:00,Eintracht Braunschweig,MSV Duisburg,4-1,1-0
+3,1974-09-11,20:00,1. FC Köln,Fortuna Duesseldorf,2-2,2-0
+3,1974-09-11,20:00,FC Schalke 04,Rot-Weiss Essen,3-0,0-0
+4,1974-09-14,15:30,Fortuna Duesseldorf,Wuppertaler SV,2-0,1-0
+4,1974-09-14,15:30,Rot-Weiss Essen,Eintracht Braunschweig,1-2,0-1
+4,1974-09-14,15:30,Bayern München,1. FC Köln,6-3,2-3
+4,1974-09-14,15:30,TeBe Berlin,Eintracht Frankfurt,1-4,1-2
+4,1974-09-14,15:30,Hamburger SV,Hertha BSC,1-1,0-1
+4,1974-09-14,15:30,MSV Duisburg,Werder Bremen,4-0,2-0
+4,1974-09-14,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,1-3,1-1
+4,1974-09-14,15:30,Kickers Offenbach,VfB Stuttgart,3-1,1-0
+4,1974-09-14,15:30,VfL Bochum,FC Schalke 04,2-1,1-1
+5,1974-09-21,15:30,Wuppertaler SV,Bayern München,3-1,1-0
+5,1974-09-21,15:30,Eintracht Frankfurt,1. FC Kaiserslautern,5-1,1-0
+5,1974-09-21,15:30,TeBe Berlin,Hamburger SV,0-3,0-1
+5,1974-09-21,15:30,VfB Stuttgart,Hertha BSC,1-2,1-1
+5,1974-09-21,15:30,1. FC Köln,Kickers Offenbach,0-1,0-0
+5,1974-09-21,15:30,Werder Bremen,Rot-Weiss Essen,0-0,0-0
+5,1974-09-21,15:30,Eintracht Braunschweig,VfL Bochum,2-0,1-0
+5,1974-09-21,15:30,FC Schalke 04,Fortuna Duesseldorf,3-0,2-0
+5,1974-09-21,15:30,Bor. Mönchengladbach,MSV Duisburg,4-1,1-0
+6,1974-09-27,20:00,Kickers Offenbach,Wuppertaler SV,3-1,1-0
+6,1974-09-27,20:00,1. FC Kaiserslautern,TeBe Berlin,4-0,1-0
+6,1974-09-28,15:30,Rot-Weiss Essen,Bor. Mönchengladbach,1-3,1-1
+6,1974-09-28,15:30,Hertha BSC,1. FC Köln,1-1,1-0
+6,1974-09-28,15:30,MSV Duisburg,Eintracht Frankfurt,1-3,0-1
+6,1974-09-28,15:30,Fortuna Duesseldorf,Eintracht Braunschweig,2-2,1-0
+6,1974-09-28,15:30,VfL Bochum,Werder Bremen,3-1,1-0
+6,1974-09-28,15:30,Hamburger SV,VfB Stuttgart,1-0,0-0
+6,1974-09-28,15:30,Bayern München,FC Schalke 04,0-2,0-0
+7,1974-10-04,20:00,Werder Bremen,Fortuna Duesseldorf,0-0,0-0
+7,1974-10-05,15:30,Bor. Mönchengladbach,VfL Bochum,3-0,2-0
+7,1974-10-05,15:30,Eintracht Braunschweig,Bayern München,3-1,2-0
+7,1974-10-05,15:30,FC Schalke 04,Kickers Offenbach,2-0,2-0
+7,1974-10-05,15:30,Eintracht Frankfurt,Rot-Weiss Essen,9-1,4-1
+7,1974-10-05,15:30,Wuppertaler SV,Hertha BSC,0-0,0-0
+7,1974-10-05,15:30,TeBe Berlin,MSV Duisburg,2-3,1-1
+7,1974-10-05,15:30,1. FC Köln,VfB Stuttgart,4-2,2-1
+7,1974-10-05,15:30,1. FC Kaiserslautern,Hamburger SV,1-0,1-0
+8,1974-10-09,20:00,Kickers Offenbach,Eintracht Braunschweig,2-1,2-0
+8,1974-10-09,20:00,Hamburger SV,1. FC Köln,3-1,2-0
+8,1974-10-09,20:00,MSV Duisburg,1. FC Kaiserslautern,3-2,2-1
+8,1974-10-09,20:00,VfB Stuttgart,Wuppertaler SV,5-1,3-1
+8,1974-10-09,20:00,Rot-Weiss Essen,TeBe Berlin,3-2,1-0
+8,1974-10-09,20:00,Hertha BSC,FC Schalke 04,1-0,0-0
+8,1974-10-09,20:00,VfL Bochum,Eintracht Frankfurt,3-1,2-0
+8,1974-10-09,20:00,Bayern München,Werder Bremen,2-0,1-0
+8,1974-10-09,20:00,Fortuna Duesseldorf,Bor. Mönchengladbach,3-2,1-1
+9,1974-10-12,15:30,TeBe Berlin,VfL Bochum,2-0,0-0
+9,1974-10-12,15:30,Wuppertaler SV,1. FC Köln,1-4,0-1
+9,1974-10-12,15:30,MSV Duisburg,Hamburger SV,2-0,1-0
+9,1974-10-12,15:30,Eintracht Frankfurt,Fortuna Duesseldorf,4-0,2-0
+9,1974-10-12,15:30,Bor. Mönchengladbach,Bayern München,1-2,1-0
+9,1974-10-12,15:30,Werder Bremen,Kickers Offenbach,3-6,2-0
+9,1974-10-12,15:30,1. FC Kaiserslautern,Rot-Weiss Essen,2-0,0-0
+9,1974-10-12,15:30,Eintracht Braunschweig,Hertha BSC,2-1,1-0
+9,1974-10-12,15:30,FC Schalke 04,VfB Stuttgart,2-0,1-0
+10,1974-10-18,20:00,Kickers Offenbach,Bor. Mönchengladbach,4-3,1-2
+10,1974-10-19,15:30,Hamburger SV,Wuppertaler SV,4-1,1-1
+10,1974-10-19,15:30,Rot-Weiss Essen,MSV Duisburg,3-0,2-0
+10,1974-10-19,15:30,1. FC Köln,FC Schalke 04,4-2,1-2
+10,1974-10-19,15:30,VfB Stuttgart,Eintracht Braunschweig,0-0,0-0
+10,1974-10-19,15:30,Bayern München,Eintracht Frankfurt,2-1,0-1
+10,1974-10-19,15:30,Hertha BSC,Werder Bremen,2-0,0-0
+10,1974-10-19,15:30,Fortuna Duesseldorf,TeBe Berlin,3-2,3-0
+10,1974-10-19,15:30,VfL Bochum,1. FC Kaiserslautern,4-0,4-0
+11,1974-10-31,20:00,1. FC Kaiserslautern,Fortuna Duesseldorf,1-0,1-0
+11,1974-11-02,15:30,Eintracht Frankfurt,Kickers Offenbach,0-0,0-0
+11,1974-11-02,15:30,FC Schalke 04,Wuppertaler SV,1-0,0-0
+11,1974-11-02,15:30,Eintracht Braunschweig,1. FC Köln,1-4,1-2
+11,1974-11-02,15:30,TeBe Berlin,Bayern München,2-2,1-0
+11,1974-11-02,15:30,MSV Duisburg,VfL Bochum,3-1,2-1
+11,1974-11-02,15:30,Bor. Mönchengladbach,Hertha BSC,1-1,0-1
+11,1974-11-02,15:30,Rot-Weiss Essen,Hamburger SV,0-0,0-0
+11,1974-11-26,20:00,Werder Bremen,VfB Stuttgart,5-2,1-1
+12,1974-11-08,20:00,Kickers Offenbach,TeBe Berlin,3-2,3-1
+12,1974-11-09,15:30,VfL Bochum,Rot-Weiss Essen,2-2,2-1
+12,1974-11-09,15:30,Hertha BSC,Eintracht Frankfurt,2-1,1-0
+12,1974-11-09,15:30,Bayern München,1. FC Kaiserslautern,2-5,1-1
+12,1974-11-09,15:30,VfB Stuttgart,Bor. Mönchengladbach,1-2,0-1
+12,1974-11-09,15:30,Fortuna Duesseldorf,MSV Duisburg,1-1,0-1
+12,1974-11-09,15:30,Wuppertaler SV,Eintracht Braunschweig,0-1,0-1
+12,1974-11-09,15:30,1. FC Köln,Werder Bremen,3-1,1-0
+12,1974-11-09,15:30,Hamburger SV,FC Schalke 04,1-1,0-0
+13,1974-11-16,14:30,MSV Duisburg,Bayern München,2-1,2-0
+13,1974-11-16,15:30,Werder Bremen,Wuppertaler SV,2-1,0-1
+13,1974-11-16,15:30,TeBe Berlin,Hertha BSC,0-3,0-0
+13,1974-11-16,15:30,Bor. Mönchengladbach,1. FC Köln,1-1,1-1
+13,1974-11-16,15:30,Rot-Weiss Essen,Fortuna Duesseldorf,1-2,0-0
+13,1974-11-16,15:30,Eintracht Braunschweig,FC Schalke 04,1-0,1-0
+13,1974-11-16,15:30,VfL Bochum,Hamburger SV,4-2,1-1
+13,1974-11-16,15:30,Eintracht Frankfurt,VfB Stuttgart,5-5,3-2
+13,1974-11-17,20:00,1. FC Kaiserslautern,Kickers Offenbach,1-2,0-1
+14,1974-11-22,20:00,Hamburger SV,Eintracht Braunschweig,0-0,0-0
+14,1974-11-23,15:30,VfB Stuttgart,TeBe Berlin,2-1,1-0
+14,1974-11-23,15:30,FC Schalke 04,Werder Bremen,2-0,2-0
+14,1974-11-23,15:30,Kickers Offenbach,MSV Duisburg,3-3,1-2
+14,1974-11-23,15:30,Bayern München,Rot-Weiss Essen,2-2,1-2
+14,1974-11-23,15:30,Wuppertaler SV,Bor. Mönchengladbach,1-5,0-1
+14,1974-11-23,15:30,Fortuna Duesseldorf,VfL Bochum,0-1,0-0
+14,1974-11-23,15:30,1. FC Köln,Eintracht Frankfurt,0-0,0-0
+14,1974-11-23,15:30,Hertha BSC,1. FC Kaiserslautern,2-1,1-0
+15,1974-11-29,20:00,VfL Bochum,Bayern München,3-0,2-0
+15,1974-11-30,15:30,TeBe Berlin,1. FC Köln,2-3,1-1
+15,1974-11-30,15:30,MSV Duisburg,Hertha BSC,1-3,0-2
+15,1974-11-30,15:30,Eintracht Frankfurt,Wuppertaler SV,5-0,4-0
+15,1974-11-30,15:30,Rot-Weiss Essen,Kickers Offenbach,5-1,2-1
+15,1974-11-30,15:30,Eintracht Braunschweig,Werder Bremen,0-0,0-0
+15,1974-11-30,15:30,Hamburger SV,Fortuna Duesseldorf,2-1,1-1
+15,1974-11-30,15:30,1. FC Kaiserslautern,VfB Stuttgart,6-0,2-0
+15,1975-01-22,20:00,Bor. Mönchengladbach,FC Schalke 04,1-0,0-0
+16,1974-12-06,20:00,Kickers Offenbach,VfL Bochum,2-0,1-0
+16,1974-12-07,15:30,VfB Stuttgart,MSV Duisburg,2-1,1-0
+16,1974-12-07,15:30,Bayern München,Fortuna Duesseldorf,4-0,2-0
+16,1974-12-10,20:00,FC Schalke 04,Eintracht Frankfurt,1-1,1-0
+16,1974-12-21,15:30,Hertha BSC,Rot-Weiss Essen,4-2,1-1
+16,1974-12-21,15:30,Wuppertaler SV,TeBe Berlin,2-0,0-0
+16,1974-12-21,15:30,Werder Bremen,Hamburger SV,1-0,0-0
+16,1975-01-18,15:30,1. FC Köln,1. FC Kaiserslautern,2-0,0-0
+16,1975-01-18,15:30,Eintracht Braunschweig,Bor. Mönchengladbach,1-3,1-2
+17,1974-12-14,15:30,Hamburger SV,Bayern München,1-0,1-0
+17,1974-12-14,15:30,Bor. Mönchengladbach,Werder Bremen,4-2,3-1
+17,1974-12-14,15:30,Eintracht Frankfurt,Eintracht Braunschweig,2-0,0-0
+17,1974-12-14,15:30,VfL Bochum,Hertha BSC,4-0,0-0
+17,1974-12-14,15:30,TeBe Berlin,FC Schalke 04,0-2,0-1
+17,1974-12-14,15:30,Rot-Weiss Essen,VfB Stuttgart,3-1,2-1
+17,1974-12-14,15:30,1. FC Kaiserslautern,Wuppertaler SV,2-0,2-0
+17,1975-01-18,15:30,Fortuna Duesseldorf,Kickers Offenbach,3-2,0-0
+17,1975-01-22,20:00,MSV Duisburg,1. FC Köln,1-3,1-0
+18,1975-01-25,15:30,1. FC Kaiserslautern,FC Schalke 04,1-1,1-1
+18,1975-01-25,15:30,MSV Duisburg,Wuppertaler SV,2-2,2-2
+18,1975-01-25,15:30,Rot-Weiss Essen,1. FC Köln,1-1,0-0
+18,1975-01-25,15:30,Hamburger SV,Bor. Mönchengladbach,1-1,0-0
+18,1975-01-25,15:30,Bayern München,Kickers Offenbach,2-3,2-1
+18,1975-01-25,15:30,Eintracht Frankfurt,Werder Bremen,2-1,1-1
+18,1975-01-25,15:30,Fortuna Duesseldorf,Hertha BSC,0-0,0-0
+18,1975-01-25,15:30,TeBe Berlin,Eintracht Braunschweig,2-2,1-2
+18,1975-01-25,15:30,VfL Bochum,VfB Stuttgart,1-0,0-0
+19,1975-02-01,15:30,Kickers Offenbach,Hamburger SV,4-1,1-1
+19,1975-02-01,15:30,Eintracht Braunschweig,1. FC Kaiserslautern,3-2,2-1
+19,1975-02-01,15:30,VfB Stuttgart,Fortuna Duesseldorf,1-1,1-1
+19,1975-02-01,15:30,Wuppertaler SV,Rot-Weiss Essen,0-2,0-1
+19,1975-02-01,15:30,Werder Bremen,TeBe Berlin,1-1,0-1
+19,1975-02-01,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,3-0,3-0
+19,1975-02-01,15:30,1. FC Köln,VfL Bochum,4-1,4-0
+19,1975-02-01,15:30,FC Schalke 04,MSV Duisburg,5-0,2-0
+19,1975-02-01,15:30,Hertha BSC,Bayern München,4-1,1-1
+20,1975-02-15,15:30,TeBe Berlin,Bor. Mönchengladbach,1-4,1-1
+20,1975-02-15,15:30,1. FC Kaiserslautern,Werder Bremen,4-1,4-1
+20,1975-02-15,15:30,Kickers Offenbach,Hertha BSC,3-1,1-1
+20,1975-02-15,15:30,Hamburger SV,Eintracht Frankfurt,3-1,1-0
+20,1975-02-15,15:30,Bayern München,VfB Stuttgart,1-1,0-1
+20,1975-02-15,15:30,VfL Bochum,Wuppertaler SV,4-2,3-2
+20,1975-02-15,15:30,MSV Duisburg,Eintracht Braunschweig,3-2,2-1
+20,1975-02-15,15:30,Fortuna Duesseldorf,1. FC Köln,3-0,1-0
+20,1975-02-15,15:30,Rot-Weiss Essen,FC Schalke 04,4-4,2-3
+21,1975-02-22,15:30,Wuppertaler SV,Fortuna Duesseldorf,2-3,2-1
+21,1975-02-22,15:30,Eintracht Braunschweig,Rot-Weiss Essen,4-2,2-1
+21,1975-02-22,15:30,1. FC Köln,Bayern München,1-0,1-0
+21,1975-02-22,15:30,Eintracht Frankfurt,TeBe Berlin,7-1,3-0
+21,1975-02-22,15:30,Hertha BSC,Hamburger SV,1-0,0-0
+21,1975-02-22,15:30,Werder Bremen,MSV Duisburg,3-1,0-0
+21,1975-02-22,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,3-0,0-0
+21,1975-02-22,15:30,VfB Stuttgart,Kickers Offenbach,3-1,1-0
+21,1975-02-22,15:30,FC Schalke 04,VfL Bochum,1-0,1-0
+22,1975-02-01,15:30,1. FC Kaiserslautern,Eintracht Frankfurt,2-2,2-2
+22,1975-02-01,15:30,Hertha BSC,VfB Stuttgart,4-0,1-0
+22,1975-02-01,15:30,Kickers Offenbach,1. FC Köln,1-4,0-2
+22,1975-02-01,15:30,Rot-Weiss Essen,Werder Bremen,1-1,1-1
+22,1975-02-01,15:30,VfL Bochum,Eintracht Braunschweig,1-0,0-0
+22,1975-02-01,15:30,Fortuna Duesseldorf,FC Schalke 04,2-1,2-0
+22,1975-02-01,15:30,MSV Duisburg,Bor. Mönchengladbach,1-1,0-1
+22,1975-02-28,20:00,Hamburger SV,TeBe Berlin,4-0,2-0
+22,1975-03-01,15:30,Bayern München,Wuppertaler SV,3-1,2-0
+23,1975-03-07,20:00,Wuppertaler SV,Kickers Offenbach,0-0,0-0
+23,1975-03-07,20:00,Eintracht Frankfurt,MSV Duisburg,4-1,4-0
+23,1975-03-08,15:30,TeBe Berlin,1. FC Kaiserslautern,3-2,0-0
+23,1975-03-08,15:30,Bor. Mönchengladbach,Rot-Weiss Essen,1-1,1-1
+23,1975-03-08,15:30,1. FC Köln,Hertha BSC,2-1,1-0
+23,1975-03-08,15:30,Eintracht Braunschweig,Fortuna Duesseldorf,3-0,3-0
+23,1975-03-08,15:30,Werder Bremen,VfL Bochum,3-0,1-0
+23,1975-03-08,15:30,VfB Stuttgart,Hamburger SV,1-2,0-2
+23,1975-03-08,20:00,FC Schalke 04,Bayern München,2-2,2-0
+24,1975-03-21,20:00,MSV Duisburg,TeBe Berlin,2-3,0-2
+24,1975-03-22,15:30,Fortuna Duesseldorf,Werder Bremen,4-1,1-0
+24,1975-03-22,15:30,VfL Bochum,Bor. Mönchengladbach,0-0,0-0
+24,1975-03-22,15:30,Bayern München,Eintracht Braunschweig,1-0,0-0
+24,1975-03-22,15:30,Kickers Offenbach,FC Schalke 04,3-0,3-0
+24,1975-03-22,15:30,Rot-Weiss Essen,Eintracht Frankfurt,0-5,0-1
+24,1975-03-22,15:30,Hertha BSC,Wuppertaler SV,2-0,2-0
+24,1975-03-22,15:30,VfB Stuttgart,1. FC Köln,2-0,2-0
+24,1975-03-22,15:30,Hamburger SV,1. FC Kaiserslautern,2-0,1-0
+25,1975-03-26,15:30,1. FC Köln,Hamburger SV,4-0,1-0
+25,1975-03-26,15:30,Bor. Mönchengladbach,Fortuna Duesseldorf,3-1,2-0
+25,1975-03-27,19:30,TeBe Berlin,Rot-Weiss Essen,1-0,1-0
+25,1975-03-27,20:00,1. FC Kaiserslautern,MSV Duisburg,2-0,1-0
+25,1975-03-27,20:00,FC Schalke 04,Hertha BSC,1-0,0-0
+25,1975-03-27,20:00,Werder Bremen,Bayern München,0-2,0-0
+25,1975-04-12,15:30,Eintracht Braunschweig,Kickers Offenbach,1-0,1-0
+25,1975-04-12,15:30,Wuppertaler SV,VfB Stuttgart,2-2,0-1
+25,1975-04-22,20:00,Eintracht Frankfurt,VfL Bochum,4-1,3-1
+26,1975-04-01,20:00,VfL Bochum,TeBe Berlin,0-0,0-0
+26,1975-04-01,20:00,1. FC Köln,Wuppertaler SV,4-0,1-0
+26,1975-04-01,20:00,Hamburger SV,MSV Duisburg,2-3,1-1
+26,1975-04-01,20:00,Fortuna Duesseldorf,Eintracht Frankfurt,2-2,1-2
+26,1975-04-01,20:00,Kickers Offenbach,Werder Bremen,5-1,3-1
+26,1975-04-01,20:00,Rot-Weiss Essen,1. FC Kaiserslautern,3-1,2-0
+26,1975-04-01,20:00,Hertha BSC,Eintracht Braunschweig,3-1,1-0
+26,1975-04-01,20:00,VfB Stuttgart,FC Schalke 04,3-1,1-0
+26,1975-04-13,15:30,Bayern München,Bor. Mönchengladbach,1-1,0-0
+27,1975-04-05,15:30,Bor. Mönchengladbach,Kickers Offenbach,5-2,3-1
+27,1975-04-05,15:30,Wuppertaler SV,Hamburger SV,0-4,0-1
+27,1975-04-05,15:30,MSV Duisburg,Rot-Weiss Essen,3-3,2-0
+27,1975-04-05,15:30,Eintracht Braunschweig,VfB Stuttgart,6-0,4-0
+27,1975-04-05,15:30,Eintracht Frankfurt,Bayern München,2-0,1-0
+27,1975-04-05,15:30,Werder Bremen,Hertha BSC,4-0,2-0
+27,1975-04-05,15:30,TeBe Berlin,Fortuna Duesseldorf,1-4,0-3
+27,1975-04-05,15:30,1. FC Kaiserslautern,VfL Bochum,1-0,0-0
+27,1975-04-15,20:00,FC Schalke 04,1. FC Köln,1-1,0-0
+28,1975-04-18,20:00,Fortuna Duesseldorf,1. FC Kaiserslautern,2-0,2-0
+28,1975-04-19,15:30,Kickers Offenbach,Eintracht Frankfurt,2-1,0-1
+28,1975-04-19,15:30,Wuppertaler SV,FC Schalke 04,0-1,0-1
+28,1975-04-19,15:30,1. FC Köln,Eintracht Braunschweig,3-0,3-0
+28,1975-04-19,15:30,Bayern München,TeBe Berlin,3-1,3-0
+28,1975-04-19,15:30,VfL Bochum,MSV Duisburg,1-2,0-2
+28,1975-04-19,15:30,Hertha BSC,Bor. Mönchengladbach,2-1,1-1
+28,1975-04-19,15:30,Hamburger SV,Rot-Weiss Essen,2-2,1-0
+28,1975-04-19,15:30,VfB Stuttgart,Werder Bremen,2-2,1-0
+29,1975-05-03,15:30,TeBe Berlin,Kickers Offenbach,0-2,0-1
+29,1975-05-03,15:30,Rot-Weiss Essen,VfL Bochum,1-1,0-0
+29,1975-05-03,15:30,Eintracht Frankfurt,Hertha BSC,1-2,1-0
+29,1975-05-03,15:30,1. FC Kaiserslautern,Bayern München,0-1,0-0
+29,1975-05-03,15:30,Bor. Mönchengladbach,VfB Stuttgart,5-1,2-0
+29,1975-05-03,15:30,MSV Duisburg,Fortuna Duesseldorf,0-3,0-2
+29,1975-05-03,15:30,Eintracht Braunschweig,Wuppertaler SV,1-1,0-0
+29,1975-05-03,15:30,Werder Bremen,1. FC Köln,4-1,2-1
+29,1975-05-03,15:30,FC Schalke 04,Hamburger SV,3-1,2-1
+30,1975-05-09,20:00,Kickers Offenbach,1. FC Kaiserslautern,2-2,2-0
+30,1975-05-10,15:30,Bayern München,MSV Duisburg,2-1,1-0
+30,1975-05-10,15:30,Wuppertaler SV,Werder Bremen,2-4,0-2
+30,1975-05-10,15:30,Hertha BSC,TeBe Berlin,2-1,1-1
+30,1975-05-10,15:30,1. FC Köln,Bor. Mönchengladbach,1-2,1-1
+30,1975-05-10,15:30,Fortuna Duesseldorf,Rot-Weiss Essen,4-0,2-0
+30,1975-05-10,15:30,FC Schalke 04,Eintracht Braunschweig,1-1,1-1
+30,1975-05-10,15:30,Hamburger SV,VfL Bochum,3-2,1-1
+30,1975-05-10,15:30,VfB Stuttgart,Eintracht Frankfurt,3-4,1-1
+31,1975-05-23,20:00,MSV Duisburg,Kickers Offenbach,2-1,0-0
+31,1975-05-23,20:00,Eintracht Frankfurt,1. FC Köln,3-2,3-1
+31,1975-05-23,20:00,1. FC Kaiserslautern,Hertha BSC,3-0,2-0
+31,1975-05-24,15:30,Eintracht Braunschweig,Hamburger SV,1-2,1-2
+31,1975-05-24,15:30,TeBe Berlin,VfB Stuttgart,1-1,0-1
+31,1975-05-24,15:30,Werder Bremen,FC Schalke 04,0-1,0-1
+31,1975-05-24,15:30,Rot-Weiss Essen,Bayern München,2-2,0-1
+31,1975-05-24,15:30,Bor. Mönchengladbach,Wuppertaler SV,6-2,3-1
+31,1975-05-24,15:30,VfL Bochum,Fortuna Duesseldorf,4-2,1-1
+32,1975-05-29,20:00,Kickers Offenbach,Rot-Weiss Essen,1-3,0-0
+32,1975-05-30,20:00,Hertha BSC,MSV Duisburg,3-0,0-0
+32,1975-05-31,15:30,Bayern München,VfL Bochum,2-1,0-1
+32,1975-05-31,15:30,1. FC Köln,TeBe Berlin,7-1,2-0
+32,1975-05-31,15:30,Wuppertaler SV,Eintracht Frankfurt,2-3,0-3
+32,1975-05-31,15:30,Werder Bremen,Eintracht Braunschweig,0-0,0-0
+32,1975-05-31,15:30,Fortuna Duesseldorf,Hamburger SV,0-0,0-0
+32,1975-05-31,15:30,VfB Stuttgart,1. FC Kaiserslautern,0-1,0-0
+32,1975-05-31,15:30,FC Schalke 04,Bor. Mönchengladbach,1-3,0-2
+33,1975-06-07,15:30,VfL Bochum,Kickers Offenbach,3-1,1-1
+33,1975-06-07,15:30,Eintracht Frankfurt,FC Schalke 04,2-1,0-1
+33,1975-06-07,15:30,MSV Duisburg,VfB Stuttgart,3-3,0-1
+33,1975-06-07,15:30,Fortuna Duesseldorf,Bayern München,6-5,2-4
+33,1975-06-07,15:30,Rot-Weiss Essen,Hertha BSC,2-1,0-1
+33,1975-06-07,15:30,TeBe Berlin,Wuppertaler SV,0-0,0-0
+33,1975-06-07,15:30,Hamburger SV,Werder Bremen,2-0,2-0
+33,1975-06-07,15:30,1. FC Kaiserslautern,1. FC Köln,1-1,1-0
+33,1975-06-07,15:30,Bor. Mönchengladbach,Eintracht Braunschweig,2-0,0-0
+34,1975-06-14,15:30,Bayern München,Hamburger SV,0-1,0-1
+34,1975-06-14,15:30,Werder Bremen,Bor. Mönchengladbach,1-4,1-2
+34,1975-06-14,15:30,Eintracht Braunschweig,Eintracht Frankfurt,2-0,0-0
+34,1975-06-14,15:30,Hertha BSC,VfL Bochum,4-2,3-0
+34,1975-06-14,15:30,FC Schalke 04,TeBe Berlin,3-0,1-0
+34,1975-06-14,15:30,VfB Stuttgart,Rot-Weiss Essen,3-2,3-1
+34,1975-06-14,15:30,Wuppertaler SV,1. FC Kaiserslautern,3-3,1-3
+34,1975-06-14,15:30,1. FC Köln,MSV Duisburg,4-2,3-2
+34,1975-06-14,15:30,Kickers Offenbach,Fortuna Duesseldorf,2-3,1-2

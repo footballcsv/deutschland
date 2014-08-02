@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,Team 2,FT,HT
+1,1976-08-14,15:30,Bor. Mönchengladbach,MSV Duisburg,1-1,1-1
+1,1976-08-14,15:30,Karlsruher SC,Hertha BSC,0-3,0-2
+1,1976-08-14,15:30,1. FC Saarbrücken,VfL Bochum,0-1,0-0
+1,1976-08-14,15:30,Hamburger SV,Borussia Dortmund,3-4,0-3
+1,1976-08-14,15:30,FC Schalke 04,Werder Bremen,3-2,2-1
+1,1976-08-14,15:30,1. FC Köln,1. FC Kaiserslautern,3-1,2-0
+1,1976-08-14,15:30,TeBe Berlin,Rot-Weiss Essen,2-2,1-1
+1,1976-08-14,15:30,Eintracht Braunschweig,Eintracht Frankfurt,3-1,1-1
+1,1976-08-14,15:30,Bayern München,Fortuna Duesseldorf,2-1,0-1
+2,1976-08-20,20:00,1. FC Kaiserslautern,FC Schalke 04,2-0,0-0
+2,1976-08-21,15:30,Fortuna Duesseldorf,Eintracht Braunschweig,1-3,1-2
+2,1976-08-21,15:30,Rot-Weiss Essen,1. FC Köln,0-3,0-1
+2,1976-08-21,15:30,Werder Bremen,Hamburger SV,2-2,1-1
+2,1976-08-21,15:30,Borussia Dortmund,1. FC Saarbrücken,2-1,2-0
+2,1976-08-21,15:30,MSV Duisburg,Bayern München,5-2,3-1
+2,1976-08-21,15:30,Hertha BSC,Bor. Mönchengladbach,0-1,0-1
+2,1976-08-21,15:30,Eintracht Frankfurt,TeBe Berlin,7-1,3-0
+2,1976-10-05,20:00,VfL Bochum,Karlsruher SC,1-0,1-0
+3,1976-08-27,20:00,Bayern München,Eintracht Braunschweig,2-2,0-0
+3,1976-08-27,20:00,Hamburger SV,1. FC Kaiserslautern,1-0,0-0
+3,1976-08-28,15:30,Karlsruher SC,Borussia Dortmund,2-1,0-0
+3,1976-08-28,15:30,Bor. Mönchengladbach,VfL Bochum,4-2,1-1
+3,1976-08-28,15:30,FC Schalke 04,Rot-Weiss Essen,3-0,3-0
+3,1976-08-28,15:30,1. FC Köln,Eintracht Frankfurt,2-0,1-0
+3,1976-08-28,15:30,MSV Duisburg,Hertha BSC,1-1,1-0
+3,1976-08-28,15:30,TeBe Berlin,Fortuna Duesseldorf,4-2,2-1
+3,1976-08-28,15:30,1. FC Saarbrücken,Werder Bremen,2-0,1-0
+4,1976-09-03,20:00,Eintracht Frankfurt,FC Schalke 04,6-3,0-2
+4,1976-09-03,20:00,VfL Bochum,MSV Duisburg,2-1,2-1
+4,1976-09-03,20:00,Eintracht Braunschweig,TeBe Berlin,3-1,2-0
+4,1976-09-04,15:30,Fortuna Duesseldorf,1. FC Köln,1-3,0-1
+4,1976-09-04,15:30,Rot-Weiss Essen,Hamburger SV,1-2,1-1
+4,1976-09-04,15:30,1. FC Kaiserslautern,1. FC Saarbrücken,1-0,1-0
+4,1976-09-04,15:30,Borussia Dortmund,Bor. Mönchengladbach,0-0,0-0
+4,1976-09-04,15:30,Hertha BSC,Bayern München,1-1,0-1
+4,1976-09-04,15:30,Werder Bremen,Karlsruher SC,1-1,1-1
+5,1976-09-10,20:00,Bayern München,TeBe Berlin,9-0,4-0
+5,1976-09-10,20:00,MSV Duisburg,Borussia Dortmund,0-0,0-0
+5,1976-09-11,15:30,Karlsruher SC,1. FC Kaiserslautern,1-1,0-0
+5,1976-09-11,15:30,1. FC Saarbrücken,Rot-Weiss Essen,2-1,0-0
+5,1976-09-11,15:30,Hamburger SV,Eintracht Frankfurt,3-1,0-0
+5,1976-09-11,15:30,FC Schalke 04,Fortuna Duesseldorf,2-1,1-1
+5,1976-09-11,15:30,1. FC Köln,Eintracht Braunschweig,3-0,0-0
+5,1976-09-11,15:30,Hertha BSC,VfL Bochum,2-0,1-0
+5,1976-09-11,15:30,Bor. Mönchengladbach,Werder Bremen,3-1,2-0
+6,1976-09-17,20:00,Borussia Dortmund,Hertha BSC,2-1,1-0
+6,1976-09-17,20:00,Werder Bremen,MSV Duisburg,2-2,1-1
+6,1976-09-18,15:30,Rot-Weiss Essen,Karlsruher SC,3-2,0-0
+6,1976-09-18,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,1-2,1-0
+6,1976-09-18,15:30,Fortuna Duesseldorf,Hamburger SV,2-0,0-0
+6,1976-09-18,15:30,VfL Bochum,Bayern München,5-6,3-0
+6,1976-09-18,15:30,TeBe Berlin,1. FC Köln,3-2,2-0
+6,1976-09-18,15:30,Eintracht Braunschweig,FC Schalke 04,1-0,0-0
+6,1976-09-18,15:30,Eintracht Frankfurt,1. FC Saarbrücken,2-1,2-1
+7,1976-09-21,20:00,Hertha BSC,Werder Bremen,2-1,1-0
+7,1976-09-24,20:00,Bor. Mönchengladbach,Rot-Weiss Essen,6-0,3-0
+7,1976-09-24,20:00,MSV Duisburg,1. FC Kaiserslautern,1-0,0-0
+7,1976-09-24,20:00,Hamburger SV,Eintracht Braunschweig,0-2,0-0
+7,1976-09-25,15:30,FC Schalke 04,TeBe Berlin,5-4,3-1
+7,1976-09-25,15:30,VfL Bochum,Borussia Dortmund,2-1,2-0
+7,1976-09-25,15:30,Bayern München,1. FC Köln,4-1,2-0
+7,1976-09-25,15:30,Karlsruher SC,Eintracht Frankfurt,2-0,1-0
+7,1976-09-25,15:30,1. FC Saarbrücken,Fortuna Duesseldorf,0-0,0-0
+8,1976-10-01,20:00,Werder Bremen,VfL Bochum,2-0,1-0
+8,1976-10-01,20:00,1. FC Kaiserslautern,Hertha BSC,0-2,0-1
+8,1976-10-02,15:30,Rot-Weiss Essen,MSV Duisburg,1-5,0-0
+8,1976-10-02,15:30,Fortuna Duesseldorf,Karlsruher SC,3-0,0-0
+8,1976-10-02,15:30,Borussia Dortmund,Bayern München,3-3,0-1
+8,1976-10-02,15:30,1. FC Köln,FC Schalke 04,2-0,0-0
+8,1976-10-02,15:30,TeBe Berlin,Hamburger SV,1-1,0-0
+8,1976-10-02,15:30,Eintracht Braunschweig,1. FC Saarbrücken,1-0,0-0
+8,1976-10-02,15:30,Eintracht Frankfurt,Bor. Mönchengladbach,1-3,1-2
+9,1976-10-08,20:00,Borussia Dortmund,Werder Bremen,2-4,2-2
+9,1976-10-09,15:30,Karlsruher SC,Eintracht Braunschweig,1-1,1-0
+9,1976-10-09,15:30,1. FC Saarbrücken,TeBe Berlin,0-0,0-0
+9,1976-10-09,15:30,Hamburger SV,1. FC Köln,2-1,1-0
+9,1976-10-09,15:30,MSV Duisburg,Eintracht Frankfurt,4-3,2-1
+9,1976-10-09,15:30,VfL Bochum,1. FC Kaiserslautern,1-0,1-0
+9,1976-10-09,15:30,Hertha BSC,Rot-Weiss Essen,2-1,0-0
+9,1976-10-09,15:30,Bor. Mönchengladbach,Fortuna Duesseldorf,3-1,1-1
+9,1976-10-09,15:30,Bayern München,FC Schalke 04,0-7,0-2
+10,1976-10-23,15:30,Fortuna Duesseldorf,MSV Duisburg,2-0,0-0
+10,1976-10-23,15:30,Rot-Weiss Essen,VfL Bochum,3-3,1-2
+10,1976-10-23,15:30,1. FC Kaiserslautern,Borussia Dortmund,2-1,1-0
+10,1976-10-23,15:30,Werder Bremen,Bayern München,2-3,1-1
+10,1976-10-23,15:30,FC Schalke 04,Hamburger SV,1-0,0-0
+10,1976-10-23,15:30,1. FC Köln,1. FC Saarbrücken,5-1,1-0
+10,1976-10-23,15:30,TeBe Berlin,Karlsruher SC,4-2,3-0
+10,1976-10-23,15:30,Eintracht Braunschweig,Bor. Mönchengladbach,1-1,0-0
+10,1976-10-23,15:30,Eintracht Frankfurt,Hertha BSC,3-3,1-2
+11,1976-10-29,20:00,Bor. Mönchengladbach,TeBe Berlin,3-0,1-0
+11,1976-10-29,20:00,Borussia Dortmund,Rot-Weiss Essen,4-2,1-1
+11,1976-10-29,20:00,Werder Bremen,1. FC Kaiserslautern,2-0,0-0
+11,1976-10-30,15:30,Karlsruher SC,1. FC Köln,2-1,0-1
+11,1976-10-30,15:30,VfL Bochum,Eintracht Frankfurt,3-1,1-0
+11,1976-10-30,15:30,MSV Duisburg,Eintracht Braunschweig,1-1,1-0
+11,1976-10-30,15:30,Bayern München,Hamburger SV,6-2,1-1
+11,1976-10-30,15:30,Hertha BSC,Fortuna Duesseldorf,4-0,1-0
+11,1976-10-30,16:00,1. FC Saarbrücken,FC Schalke 04,2-3,2-1
+12,1976-11-06,15:30,Fortuna Duesseldorf,VfL Bochum,1-0,1-0
+12,1976-11-06,15:30,Rot-Weiss Essen,Werder Bremen,0-0,0-0
+12,1976-11-06,15:30,1. FC Kaiserslautern,Bayern München,1-1,0-1
+12,1976-11-06,15:30,Hamburger SV,1. FC Saarbrücken,0-0,0-0
+12,1976-11-06,15:30,FC Schalke 04,Karlsruher SC,2-2,1-0
+12,1976-11-06,15:30,1. FC Köln,Bor. Mönchengladbach,0-3,0-1
+12,1976-11-06,15:30,TeBe Berlin,MSV Duisburg,1-5,0-4
+12,1976-11-06,15:30,Eintracht Frankfurt,Borussia Dortmund,1-4,1-1
+12,1976-11-06,15:30,Eintracht Braunschweig,Hertha BSC,2-2,1-1
+13,1976-11-12,20:00,Borussia Dortmund,Fortuna Duesseldorf,1-2,0-1
+13,1976-11-13,15:30,Bor. Mönchengladbach,FC Schalke 04,2-0,1-0
+13,1976-11-13,15:30,Karlsruher SC,Hamburger SV,2-2,0-0
+13,1976-11-13,15:30,1. FC Kaiserslautern,Rot-Weiss Essen,7-1,1-1
+13,1976-11-13,15:30,Werder Bremen,Eintracht Frankfurt,2-1,1-1
+13,1976-11-13,15:30,VfL Bochum,Eintracht Braunschweig,1-1,0-1
+13,1976-11-13,15:30,Hertha BSC,TeBe Berlin,2-0,0-0
+13,1976-11-13,15:30,MSV Duisburg,1. FC Köln,1-1,1-1
+13,1976-11-13,15:30,Bayern München,1. FC Saarbrücken,5-1,1-1
+14,1976-11-20,15:30,Fortuna Duesseldorf,Werder Bremen,3-2,2-0
+14,1976-11-20,15:30,Rot-Weiss Essen,Bayern München,1-4,0-1
+14,1976-11-20,15:30,1. FC Saarbrücken,Karlsruher SC,1-1,1-0
+14,1976-11-20,15:30,Eintracht Frankfurt,1. FC Kaiserslautern,2-0,1-0
+14,1976-11-20,15:30,Hamburger SV,Bor. Mönchengladbach,4-1,1-0
+14,1976-11-20,15:30,1. FC Köln,Hertha BSC,3-2,2-1
+14,1976-11-20,15:30,TeBe Berlin,VfL Bochum,1-1,0-1
+14,1976-11-20,15:30,Eintracht Braunschweig,Borussia Dortmund,3-1,1-1
+14,1976-11-20,15:30,FC Schalke 04,MSV Duisburg,3-2,2-0
+15,1976-11-27,15:30,Bor. Mönchengladbach,1. FC Saarbrücken,3-0,1-0
+15,1976-11-27,15:30,Karlsruher SC,Bayern München,1-2,0-1
+15,1976-11-27,15:30,1. FC Kaiserslautern,Fortuna Duesseldorf,0-2,0-0
+15,1976-11-27,15:30,Werder Bremen,Eintracht Braunschweig,2-2,2-0
+15,1976-11-27,15:30,Borussia Dortmund,TeBe Berlin,4-0,2-0
+15,1976-11-27,15:30,VfL Bochum,1. FC Köln,1-2,1-0
+15,1976-11-27,15:30,Hertha BSC,FC Schalke 04,2-1,0-1
+15,1976-11-27,15:30,Eintracht Frankfurt,Rot-Weiss Essen,3-1,2-0
+15,1976-11-27,15:30,MSV Duisburg,Hamburger SV,0-0,0-0
+16,1976-12-03,20:00,1. FC Köln,Borussia Dortmund,1-1,0-0
+16,1976-12-04,15:30,Fortuna Duesseldorf,Rot-Weiss Essen,4-4,3-2
+16,1976-12-04,15:30,Karlsruher SC,Bor. Mönchengladbach,4-0,3-0
+16,1976-12-04,15:30,Hamburger SV,Hertha BSC,2-0,1-0
+16,1976-12-04,15:30,FC Schalke 04,VfL Bochum,3-1,1-0
+16,1976-12-04,15:30,Bayern München,Eintracht Frankfurt,0-3,0-1
+16,1976-12-04,15:30,TeBe Berlin,Werder Bremen,2-4,2-1
+16,1976-12-04,15:30,Eintracht Braunschweig,1. FC Kaiserslautern,2-1,1-1
+16,1976-12-15,20:00,1. FC Saarbrücken,MSV Duisburg,1-0,0-0
+17,1976-12-10,20:00,VfL Bochum,Hamburger SV,4-2,3-1
+17,1976-12-10,20:00,MSV Duisburg,Karlsruher SC,3-1,1-0
+17,1976-12-11,15:30,Bor. Mönchengladbach,Bayern München,1-0,0-0
+17,1976-12-11,15:30,1. FC Kaiserslautern,TeBe Berlin,3-1,1-1
+17,1976-12-11,15:30,Werder Bremen,1. FC Köln,2-1,0-1
+17,1976-12-11,15:30,Borussia Dortmund,FC Schalke 04,2-2,1-2
+17,1976-12-11,15:30,Rot-Weiss Essen,Eintracht Braunschweig,2-1,2-0
+17,1976-12-11,15:30,Hertha BSC,1. FC Saarbrücken,1-1,0-0
+17,1976-12-11,15:30,Eintracht Frankfurt,Fortuna Duesseldorf,1-1,1-1
+18,1977-01-15,15:30,MSV Duisburg,Bor. Mönchengladbach,3-2,1-1
+18,1977-01-15,15:30,VfL Bochum,1. FC Saarbrücken,1-2,1-2
+18,1977-01-15,15:30,Borussia Dortmund,Hamburger SV,4-4,2-3
+18,1977-01-15,15:30,Werder Bremen,FC Schalke 04,1-1,1-1
+18,1977-01-15,15:30,1. FC Kaiserslautern,1. FC Köln,4-2,0-2
+18,1977-01-15,15:30,Rot-Weiss Essen,TeBe Berlin,1-0,0-0
+18,1977-01-15,15:30,Fortuna Duesseldorf,Bayern München,0-0,0-0
+18,1977-02-01,20:00,Hertha BSC,Karlsruher SC,1-1,1-1
+18,1977-03-01,20:00,Eintracht Frankfurt,Eintracht Braunschweig,3-0,2-0
+19,1977-01-22,15:30,FC Schalke 04,1. FC Kaiserslautern,5-2,3-1
+19,1977-01-22,15:30,1. FC Köln,Rot-Weiss Essen,2-2,1-2
+19,1977-01-22,15:30,Hamburger SV,Werder Bremen,5-3,1-1
+19,1977-01-22,15:30,Bayern München,MSV Duisburg,2-2,1-2
+19,1977-01-22,15:30,Bor. Mönchengladbach,Hertha BSC,2-1,2-0
+19,1977-01-22,15:30,Karlsruher SC,VfL Bochum,2-1,1-1
+19,1977-02-16,20:00,1. FC Saarbrücken,Borussia Dortmund,2-2,1-1
+19,1977-02-18,20:00,Eintracht Braunschweig,Fortuna Duesseldorf,0-0,0-0
+19,1977-03-15,20:00,TeBe Berlin,Eintracht Frankfurt,1-1,0-0
+20,1977-01-29,15:30,Eintracht Braunschweig,Bayern München,1-0,0-0
+20,1977-01-29,15:30,1. FC Kaiserslautern,Hamburger SV,2-0,0-0
+20,1977-01-29,15:30,Borussia Dortmund,Karlsruher SC,7-2,4-1
+20,1977-01-29,15:30,VfL Bochum,Bor. Mönchengladbach,0-0,0-0
+20,1977-01-29,15:30,Eintracht Frankfurt,1. FC Köln,4-0,1-0
+20,1977-01-29,15:30,Hertha BSC,MSV Duisburg,2-4,0-2
+20,1977-01-29,15:30,Fortuna Duesseldorf,TeBe Berlin,0-0,0-0
+20,1977-01-29,15:30,Werder Bremen,1. FC Saarbrücken,1-0,1-0
+20,1977-03-01,20:00,Rot-Weiss Essen,FC Schalke 04,2-2,1-2
+21,1977-02-05,15:30,FC Schalke 04,Eintracht Frankfurt,1-1,0-1
+21,1977-02-05,15:30,MSV Duisburg,VfL Bochum,0-0,0-0
+21,1977-02-05,15:30,TeBe Berlin,Eintracht Braunschweig,0-0,0-0
+21,1977-02-05,15:30,1. FC Köln,Fortuna Duesseldorf,2-2,2-1
+21,1977-02-05,15:30,Hamburger SV,Rot-Weiss Essen,5-3,3-2
+21,1977-02-05,15:30,1. FC Saarbrücken,1. FC Kaiserslautern,2-2,0-1
+21,1977-02-05,15:30,Bayern München,Hertha BSC,1-0,0-0
+21,1977-02-05,15:30,Karlsruher SC,Werder Bremen,3-1,1-0
+21,1977-03-30,20:00,Bor. Mönchengladbach,Borussia Dortmund,1-1,0-0
+22,1977-02-12,15:30,TeBe Berlin,Bayern München,3-1,1-0
+22,1977-02-12,15:30,Borussia Dortmund,MSV Duisburg,2-1,2-0
+22,1977-02-12,15:30,1. FC Kaiserslautern,Karlsruher SC,3-1,1-1
+22,1977-02-12,15:30,Rot-Weiss Essen,1. FC Saarbrücken,1-0,1-0
+22,1977-02-12,15:30,Eintracht Frankfurt,Hamburger SV,2-1,0-1
+22,1977-02-12,15:30,Fortuna Duesseldorf,FC Schalke 04,1-2,0-1
+22,1977-02-12,15:30,Eintracht Braunschweig,1. FC Köln,4-2,1-1
+22,1977-02-12,15:30,VfL Bochum,Hertha BSC,4-2,3-1
+22,1977-02-12,15:30,Werder Bremen,Bor. Mönchengladbach,1-0,0-0
+23,1977-02-26,15:30,Hertha BSC,Borussia Dortmund,3-2,2-1
+23,1977-02-26,15:30,MSV Duisburg,Werder Bremen,3-0,2-0
+23,1977-02-26,15:30,Karlsruher SC,Rot-Weiss Essen,1-1,1-0
+23,1977-02-26,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,0-0,0-0
+23,1977-02-26,15:30,Hamburger SV,Fortuna Duesseldorf,1-1,1-0
+23,1977-02-26,15:30,Bayern München,VfL Bochum,1-1,1-1
+23,1977-02-26,15:30,1. FC Köln,TeBe Berlin,8-4,4-2
+23,1977-02-26,15:30,FC Schalke 04,Eintracht Braunschweig,2-3,0-1
+23,1977-02-26,15:30,1. FC Saarbrücken,Eintracht Frankfurt,2-2,0-2
+24,1977-03-05,15:30,Rot-Weiss Essen,Bor. Mönchengladbach,1-0,0-0
+24,1977-03-05,15:30,Werder Bremen,Hertha BSC,1-0,1-0
+24,1977-03-05,15:30,1. FC Kaiserslautern,MSV Duisburg,2-0,0-0
+24,1977-03-05,15:30,Eintracht Braunschweig,Hamburger SV,0-1,0-1
+24,1977-03-05,15:30,TeBe Berlin,FC Schalke 04,1-3,1-2
+24,1977-03-05,15:30,Borussia Dortmund,VfL Bochum,0-2,0-1
+24,1977-03-05,15:30,1. FC Köln,Bayern München,3-0,2-0
+24,1977-03-05,15:30,Eintracht Frankfurt,Karlsruher SC,3-2,1-1
+24,1977-03-05,15:30,Fortuna Duesseldorf,1. FC Saarbrücken,5-1,2-0
+25,1977-03-12,15:30,VfL Bochum,Werder Bremen,0-2,0-1
+25,1977-03-12,15:30,Hertha BSC,1. FC Kaiserslautern,2-0,2-0
+25,1977-03-12,15:30,MSV Duisburg,Rot-Weiss Essen,4-0,1-0
+25,1977-03-12,15:30,Karlsruher SC,Fortuna Duesseldorf,1-1,0-1
+25,1977-03-12,15:30,Bayern München,Borussia Dortmund,1-2,1-1
+25,1977-03-12,15:30,FC Schalke 04,1. FC Köln,1-1,1-1
+25,1977-03-12,15:30,Hamburger SV,TeBe Berlin,2-1,0-0
+25,1977-03-12,15:30,1. FC Saarbrücken,Eintracht Braunschweig,1-2,0-1
+25,1977-03-12,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,1-3,0-1
+26,1977-03-18,20:00,Werder Bremen,Borussia Dortmund,3-0,1-0
+26,1977-03-18,20:00,1. FC Kaiserslautern,VfL Bochum,2-0,0-0
+26,1977-03-19,15:30,Eintracht Braunschweig,Karlsruher SC,3-3,1-0
+26,1977-03-19,15:30,TeBe Berlin,1. FC Saarbrücken,1-1,0-0
+26,1977-03-19,15:30,1. FC Köln,Hamburger SV,3-3,3-0
+26,1977-03-19,15:30,Eintracht Frankfurt,MSV Duisburg,3-1,1-1
+26,1977-03-19,15:30,Rot-Weiss Essen,Hertha BSC,2-2,1-1
+26,1977-03-19,15:30,Fortuna Duesseldorf,Bor. Mönchengladbach,0-1,0-0
+26,1977-03-19,15:30,FC Schalke 04,Bayern München,0-0,0-0
+27,1977-03-26,15:30,MSV Duisburg,Fortuna Duesseldorf,1-0,1-0
+27,1977-03-26,15:30,VfL Bochum,Rot-Weiss Essen,2-1,0-0
+27,1977-03-26,15:30,Borussia Dortmund,1. FC Kaiserslautern,5-2,0-1
+27,1977-03-26,15:30,Bayern München,Werder Bremen,1-0,0-0
+27,1977-03-26,15:30,Hamburger SV,FC Schalke 04,2-2,0-0
+27,1977-03-26,15:30,1. FC Saarbrücken,1. FC Köln,3-1,1-1
+27,1977-03-26,15:30,Karlsruher SC,TeBe Berlin,4-1,3-0
+27,1977-03-26,15:30,Bor. Mönchengladbach,Eintracht Braunschweig,1-1,1-0
+27,1977-03-26,15:30,Hertha BSC,Eintracht Frankfurt,2-3,2-0
+28,1977-04-01,20:00,1. FC Kaiserslautern,Werder Bremen,4-2,0-1
+28,1977-04-01,20:00,1. FC Köln,Karlsruher SC,4-1,3-0
+28,1977-04-01,20:00,Hamburger SV,Bayern München,5-0,2-0
+28,1977-04-02,15:30,TeBe Berlin,Bor. Mönchengladbach,0-1,0-0
+28,1977-04-02,15:30,Rot-Weiss Essen,Borussia Dortmund,1-5,0-2
+28,1977-04-02,15:30,Eintracht Frankfurt,VfL Bochum,2-2,2-1
+28,1977-04-02,15:30,FC Schalke 04,1. FC Saarbrücken,0-1,0-0
+28,1977-04-02,15:30,Eintracht Braunschweig,MSV Duisburg,1-1,1-1
+28,1977-04-02,15:30,Fortuna Duesseldorf,Hertha BSC,2-3,1-1
+29,1977-04-07,20:00,Bayern München,1. FC Kaiserslautern,3-0,2-0
+29,1977-04-07,20:00,MSV Duisburg,TeBe Berlin,1-1,0-0
+29,1977-04-09,15:30,Karlsruher SC,FC Schalke 04,1-7,0-3
+29,1977-04-12,20:00,VfL Bochum,Fortuna Duesseldorf,1-2,1-0
+29,1977-04-12,20:00,Werder Bremen,Rot-Weiss Essen,3-1,1-1
+29,1977-04-12,20:00,1. FC Saarbrücken,Hamburger SV,3-2,1-2
+29,1977-04-12,20:00,Bor. Mönchengladbach,1. FC Köln,3-1,0-0
+29,1977-04-12,20:00,Borussia Dortmund,Eintracht Frankfurt,2-2,1-1
+29,1977-04-12,20:00,Hertha BSC,Eintracht Braunschweig,2-1,2-1
+30,1977-04-15,20:00,Rot-Weiss Essen,1. FC Kaiserslautern,3-2,1-2
+30,1977-04-15,20:00,Fortuna Duesseldorf,Borussia Dortmund,3-2,1-1
+30,1977-04-16,15:30,FC Schalke 04,Bor. Mönchengladbach,1-0,1-0
+30,1977-04-16,15:30,Hamburger SV,Karlsruher SC,2-1,1-1
+30,1977-04-16,15:30,Eintracht Frankfurt,Werder Bremen,7-1,2-1
+30,1977-04-16,15:30,Eintracht Braunschweig,VfL Bochum,2-0,1-0
+30,1977-04-16,15:30,TeBe Berlin,Hertha BSC,2-0,0-0
+30,1977-04-16,15:30,1. FC Köln,MSV Duisburg,5-2,3-1
+30,1977-04-16,15:30,1. FC Saarbrücken,Bayern München,6-1,2-0
+31,1977-04-22,20:00,Werder Bremen,Fortuna Duesseldorf,0-2,0-0
+31,1977-04-22,20:00,1. FC Kaiserslautern,Eintracht Frankfurt,2-2,2-1
+31,1977-04-22,20:00,VfL Bochum,TeBe Berlin,2-1,0-0
+31,1977-04-23,15:30,Bayern München,Rot-Weiss Essen,5-1,1-0
+31,1977-04-23,15:30,Karlsruher SC,1. FC Saarbrücken,3-0,2-0
+31,1977-04-23,15:30,Bor. Mönchengladbach,Hamburger SV,0-0,0-0
+31,1977-04-23,15:30,Hertha BSC,1. FC Köln,2-4,1-1
+31,1977-04-23,15:30,Borussia Dortmund,Eintracht Braunschweig,0-0,0-0
+31,1977-04-23,15:30,MSV Duisburg,FC Schalke 04,2-2,1-1
+32,1977-05-06,20:00,1. FC Köln,VfL Bochum,6-1,5-0
+32,1977-05-06,20:00,Hamburger SV,MSV Duisburg,2-0,1-0
+32,1977-05-07,15:30,1. FC Saarbrücken,Bor. Mönchengladbach,2-2,0-1
+32,1977-05-07,15:30,Bayern München,Karlsruher SC,5-0,2-0
+32,1977-05-07,15:30,Fortuna Duesseldorf,1. FC Kaiserslautern,2-3,0-1
+32,1977-05-07,15:30,Eintracht Braunschweig,Werder Bremen,0-1,0-0
+32,1977-05-07,15:30,TeBe Berlin,Borussia Dortmund,2-3,2-2
+32,1977-05-07,15:30,FC Schalke 04,Hertha BSC,4-0,2-0
+32,1977-05-07,15:30,Rot-Weiss Essen,Eintracht Frankfurt,1-8,0-5
+33,1977-05-13,20:00,Borussia Dortmund,1. FC Köln,1-2,1-0
+33,1977-05-14,15:30,Rot-Weiss Essen,Fortuna Duesseldorf,5-3,2-1
+33,1977-05-14,15:30,Bor. Mönchengladbach,Karlsruher SC,5-1,1-0
+33,1977-05-14,15:30,Hertha BSC,Hamburger SV,2-1,1-0
+33,1977-05-14,15:30,VfL Bochum,FC Schalke 04,1-2,1-1
+33,1977-05-14,15:30,Eintracht Frankfurt,Bayern München,2-1,1-1
+33,1977-05-14,15:30,Werder Bremen,TeBe Berlin,0-0,0-0
+33,1977-05-14,15:30,1. FC Kaiserslautern,Eintracht Braunschweig,1-3,1-2
+33,1977-05-14,15:30,MSV Duisburg,1. FC Saarbrücken,2-3,1-1
+34,1977-05-21,15:30,Hamburger SV,VfL Bochum,5-1,2-0
+34,1977-05-21,15:30,Karlsruher SC,MSV Duisburg,2-1,1-0
+34,1977-05-21,15:30,Bayern München,Bor. Mönchengladbach,2-2,1-2
+34,1977-05-21,15:30,TeBe Berlin,1. FC Kaiserslautern,4-2,1-0
+34,1977-05-21,15:30,1. FC Köln,Werder Bremen,3-0,2-0
+34,1977-05-21,15:30,FC Schalke 04,Borussia Dortmund,4-2,2-0
+34,1977-05-21,15:30,Eintracht Braunschweig,Rot-Weiss Essen,6-0,1-0
+34,1977-05-21,15:30,1. FC Saarbrücken,Hertha BSC,1-1,1-1
+34,1977-05-21,15:30,Fortuna Duesseldorf,Eintracht Frankfurt,1-2,0-1

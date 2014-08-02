@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,Team 2,FT,HT
+1,1971-08-14,15:30,Bayern München,Fortuna Duesseldorf,3-1,1-1
+1,1971-08-14,15:30,1. FC Köln,Werder Bremen,0-0,0-0
+1,1971-08-14,15:30,MSV Duisburg,Borussia Dortmund,2-1,0-1
+1,1971-08-14,15:30,VfL Bochum,Eintracht Braunschweig,1-0,1-0
+1,1971-08-14,15:30,Arminia Bielefeld,Rot-Weiss Oberhausen,0-1,0-0
+1,1971-08-14,15:30,Hamburger SV,Eintracht Frankfurt,5-1,1-0
+1,1971-08-14,15:30,VfB Stuttgart,Hertha BSC,3-0,2-0
+1,1971-08-14,15:30,Hannover 96,FC Schalke 04,1-5,1-0
+1,1971-08-14,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,1-0,0-0
+2,1971-08-21,15:30,Borussia Dortmund,Hamburger SV,1-1,0-1
+2,1971-08-21,15:30,Werder Bremen,1. FC Kaiserslautern,2-2,1-0
+2,1971-08-21,15:30,Fortuna Duesseldorf,Hannover 96,2-0,1-0
+2,1971-08-21,15:30,Hertha BSC,Bayern München,2-2,1-0
+2,1971-08-21,15:30,Eintracht Braunschweig,VfB Stuttgart,1-1,0-0
+2,1971-08-21,15:30,Rot-Weiss Oberhausen,VfL Bochum,2-3,1-1
+2,1971-08-21,15:30,FC Schalke 04,MSV Duisburg,2-0,1-0
+2,1971-08-21,15:30,Eintracht Frankfurt,1. FC Köln,2-2,2-1
+2,1971-08-21,15:30,Bor. Mönchengladbach,Arminia Bielefeld,5-1,3-0
+3,1971-08-28,15:30,Eintracht Frankfurt,Werder Bremen,4-0,1-0
+3,1971-08-28,15:30,VfL Bochum,Bor. Mönchengladbach,0-2,0-1
+3,1971-08-28,15:30,Hannover 96,Hertha BSC,1-1,0-0
+3,1971-08-28,15:30,Arminia Bielefeld,1. FC Kaiserslautern,1-1,0-1
+3,1971-08-28,15:30,MSV Duisburg,Fortuna Duesseldorf,0-0,0-0
+3,1971-08-28,15:30,VfB Stuttgart,Rot-Weiss Oberhausen,1-1,0-1
+3,1971-08-28,15:30,Bayern München,Eintracht Braunschweig,4-1,1-1
+3,1971-08-28,15:30,Hamburger SV,FC Schalke 04,0-1,0-1
+3,1971-08-28,15:30,1. FC Köln,Borussia Dortmund,2-1,1-0
+4,1971-09-01,20:00,Rot-Weiss Oberhausen,Bayern München,1-1,1-0
+4,1971-09-01,20:00,Borussia Dortmund,Eintracht Frankfurt,3-1,3-0
+4,1971-09-01,20:00,Bor. Mönchengladbach,VfB Stuttgart,0-0,0-0
+4,1971-09-01,20:00,Eintracht Braunschweig,Hannover 96,3-0,1-0
+4,1971-09-01,20:00,Werder Bremen,Arminia Bielefeld,4-0,3-0
+4,1971-09-01,20:00,1. FC Kaiserslautern,VfL Bochum,4-1,1-1
+4,1971-09-01,20:00,Hertha BSC,MSV Duisburg,1-0,1-0
+4,1971-09-01,20:00,Fortuna Duesseldorf,Hamburger SV,0-0,0-0
+4,1971-09-01,20:00,FC Schalke 04,1. FC Köln,6-2,4-0
+5,1971-09-04,15:30,Bayern München,Bor. Mönchengladbach,2-0,2-0
+5,1971-09-04,15:30,1. FC Köln,Fortuna Duesseldorf,1-2,0-2
+5,1971-09-04,15:30,MSV Duisburg,Eintracht Braunschweig,0-0,0-0
+5,1971-09-04,15:30,VfB Stuttgart,1. FC Kaiserslautern,3-1,1-1
+5,1971-09-04,15:30,Eintracht Frankfurt,FC Schalke 04,2-0,1-0
+5,1971-09-04,15:30,VfL Bochum,Arminia Bielefeld,2-1,1-1
+5,1971-09-04,15:30,Borussia Dortmund,Werder Bremen,1-5,1-2
+5,1971-09-04,15:30,Hamburger SV,Hertha BSC,1-2,1-0
+5,1971-09-04,15:30,Hannover 96,Rot-Weiss Oberhausen,1-0,0-0
+6,1971-09-11,15:30,Bor. Mönchengladbach,Hannover 96,3-0,2-0
+6,1971-09-11,15:30,Eintracht Braunschweig,Hamburger SV,1-1,1-1
+6,1971-09-11,15:30,Rot-Weiss Oberhausen,MSV Duisburg,0-1,0-1
+6,1971-09-11,15:30,Hertha BSC,1. FC Köln,1-1,1-0
+6,1971-09-11,15:30,Werder Bremen,VfL Bochum,2-0,0-0
+6,1971-09-11,15:30,Arminia Bielefeld,VfB Stuttgart,1-0,1-0
+6,1971-09-11,15:30,FC Schalke 04,Borussia Dortmund,1-0,1-0
+6,1971-09-11,15:30,1. FC Kaiserslautern,Bayern München,0-2,0-0
+6,1971-09-11,15:30,Fortuna Duesseldorf,Eintracht Frankfurt,1-0,0-0
+7,1971-09-18,15:30,Hamburger SV,Rot-Weiss Oberhausen,3-0,2-0
+7,1971-09-18,15:30,MSV Duisburg,Bor. Mönchengladbach,1-5,0-2
+7,1971-09-18,15:30,1. FC Köln,Eintracht Braunschweig,2-0,1-0
+7,1971-09-18,15:30,Hannover 96,1. FC Kaiserslautern,1-2,1-0
+7,1971-09-18,15:30,Eintracht Frankfurt,Hertha BSC,1-1,1-0
+7,1971-09-18,15:30,FC Schalke 04,Werder Bremen,2-0,1-0
+7,1971-09-18,15:30,VfB Stuttgart,VfL Bochum,3-2,3-1
+7,1971-09-18,15:30,Borussia Dortmund,Fortuna Duesseldorf,1-0,1-0
+7,1971-09-18,15:30,Bayern München,Arminia Bielefeld,1-1,0-1
+8,1971-09-25,15:30,1. FC Kaiserslautern,MSV Duisburg,1-0,1-0
+8,1971-09-25,15:30,Bor. Mönchengladbach,Hamburger SV,1-0,0-0
+8,1971-09-25,15:30,VfL Bochum,Bayern München,0-2,0-1
+8,1971-09-25,15:30,Rot-Weiss Oberhausen,1. FC Köln,1-1,0-1
+8,1971-09-25,15:30,Eintracht Braunschweig,Eintracht Frankfurt,2-0,0-0
+8,1971-09-25,15:30,Arminia Bielefeld,Hannover 96,1-0,0-0
+8,1971-09-25,15:30,Hertha BSC,Borussia Dortmund,2-1,0-1
+8,1971-09-25,15:30,Werder Bremen,VfB Stuttgart,2-3,0-2
+8,1971-09-25,15:30,Fortuna Duesseldorf,FC Schalke 04,0-2,0-0
+9,1971-10-02,15:30,FC Schalke 04,Hertha BSC,4-0,2-0
+9,1971-10-02,15:30,1. FC Köln,Bor. Mönchengladbach,4-3,2-2
+9,1971-10-02,15:30,MSV Duisburg,Arminia Bielefeld,4-0,1-0
+9,1971-10-02,15:30,Fortuna Duesseldorf,Werder Bremen,1-3,0-2
+9,1971-10-02,15:30,Bayern München,VfB Stuttgart,2-2,0-1
+9,1971-10-02,15:30,Eintracht Frankfurt,Rot-Weiss Oberhausen,3-0,1-0
+9,1971-10-02,15:30,Hannover 96,VfL Bochum,4-0,2-0
+9,1971-10-02,15:30,Borussia Dortmund,Eintracht Braunschweig,2-2,0-0
+9,1971-10-02,15:30,Hamburger SV,1. FC Kaiserslautern,4-0,4-0
+10,1971-10-13,20:00,Rot-Weiss Oberhausen,Borussia Dortmund,1-1,0-0
+10,1971-10-13,20:00,Hertha BSC,Fortuna Duesseldorf,1-1,1-1
+10,1971-10-13,20:00,VfL Bochum,MSV Duisburg,3-1,1-0
+10,1971-10-13,20:00,1. FC Kaiserslautern,1. FC Köln,2-0,1-0
+10,1971-10-13,20:00,Bor. Mönchengladbach,Eintracht Frankfurt,6-2,2-1
+10,1971-10-13,20:00,Eintracht Braunschweig,FC Schalke 04,0-0,0-0
+10,1971-10-13,20:00,VfB Stuttgart,Hannover 96,3-2,1-0
+10,1971-10-13,20:00,Arminia Bielefeld,Hamburger SV,2-2,1-0
+10,1971-10-13,20:00,Werder Bremen,Bayern München,1-2,1-1
+11,1971-10-16,15:30,Borussia Dortmund,Bor. Mönchengladbach,0-0,0-0
+11,1971-10-16,15:30,1. FC Köln,Arminia Bielefeld,1-0,0-0
+11,1971-10-16,15:30,Eintracht Frankfurt,1. FC Kaiserslautern,1-0,1-0
+11,1971-10-16,15:30,Hamburger SV,VfL Bochum,3-2,0-2
+11,1971-10-16,15:30,Hannover 96,Bayern München,1-3,1-1
+11,1971-10-16,15:30,Hertha BSC,Werder Bremen,2-1,2-1
+11,1971-10-16,15:30,FC Schalke 04,Rot-Weiss Oberhausen,4-0,4-0
+11,1971-10-16,15:30,MSV Duisburg,VfB Stuttgart,1-2,1-1
+11,1971-10-16,15:30,Fortuna Duesseldorf,Eintracht Braunschweig,0-0,0-0
+12,1971-10-23,15:30,1. FC Kaiserslautern,Borussia Dortmund,6-0,0-0
+12,1971-10-23,15:30,Bor. Mönchengladbach,FC Schalke 04,7-0,5-0
+12,1971-10-23,15:30,VfL Bochum,1. FC Köln,1-5,0-2
+12,1971-10-23,15:30,Rot-Weiss Oberhausen,Fortuna Duesseldorf,2-0,0-0
+12,1971-10-23,15:30,Bayern München,MSV Duisburg,5-1,3-1
+12,1971-10-23,15:30,Werder Bremen,Hannover 96,2-1,1-1
+12,1971-10-23,15:30,VfB Stuttgart,Hamburger SV,0-3,0-1
+12,1971-10-23,15:30,Arminia Bielefeld,Eintracht Frankfurt,3-4,1-3
+12,1971-10-23,15:30,Eintracht Braunschweig,Hertha BSC,1-1,1-0
+13,1971-10-30,15:30,MSV Duisburg,Hannover 96,2-1,2-0
+13,1971-10-30,15:30,Borussia Dortmund,Arminia Bielefeld,1-0,1-0
+13,1971-10-30,15:30,Fortuna Duesseldorf,Bor. Mönchengladbach,0-2,0-2
+13,1971-10-30,15:30,Eintracht Frankfurt,VfL Bochum,3-2,1-0
+13,1971-10-30,15:30,FC Schalke 04,1. FC Kaiserslautern,3-0,0-0
+13,1971-10-30,15:30,Hamburger SV,Bayern München,1-4,0-0
+13,1971-10-30,15:30,Eintracht Braunschweig,Werder Bremen,1-1,1-1
+13,1971-10-30,15:30,Hertha BSC,Rot-Weiss Oberhausen,2-0,1-0
+13,1971-10-30,15:30,1. FC Köln,VfB Stuttgart,4-1,2-1
+14,1971-11-06,15:30,Arminia Bielefeld,FC Schalke 04,1-1,0-1
+14,1971-11-06,15:30,Rot-Weiss Oberhausen,Eintracht Braunschweig,1-1,0-1
+14,1971-11-06,15:30,Bayern München,1. FC Köln,1-1,0-1
+14,1971-11-06,15:30,VfB Stuttgart,Eintracht Frankfurt,4-4,1-2
+14,1971-11-06,15:30,1. FC Kaiserslautern,Fortuna Duesseldorf,3-1,1-1
+14,1971-11-06,15:30,Hannover 96,Hamburger SV,2-3,0-0
+14,1971-11-06,15:30,Werder Bremen,MSV Duisburg,1-1,1-0
+14,1971-11-06,15:30,VfL Bochum,Borussia Dortmund,4-2,4-0
+14,1971-11-06,15:30,Bor. Mönchengladbach,Hertha BSC,5-2,2-0
+15,1971-11-13,15:30,Borussia Dortmund,VfB Stuttgart,0-4,0-3
+15,1971-11-13,15:30,MSV Duisburg,Hamburger SV,2-4,2-0
+15,1971-11-13,15:30,FC Schalke 04,VfL Bochum,4-1,1-0
+15,1971-11-13,15:30,Fortuna Duesseldorf,Arminia Bielefeld,3-2,3-0
+15,1971-11-13,15:30,Eintracht Frankfurt,Bayern München,3-2,1-0
+15,1971-11-13,15:30,Hertha BSC,1. FC Kaiserslautern,2-1,1-1
+15,1971-11-13,15:30,1. FC Köln,Hannover 96,3-1,2-0
+15,1971-11-13,15:30,Werder Bremen,Rot-Weiss Oberhausen,4-0,1-0
+15,1971-11-13,15:30,Eintracht Braunschweig,Bor. Mönchengladbach,2-1,0-1
+16,1971-11-27,15:30,MSV Duisburg,1. FC Köln,1-1,1-0
+16,1971-11-27,15:30,Bor. Mönchengladbach,Rot-Weiss Oberhausen,5-2,0-2
+16,1971-11-27,15:30,Bayern München,Borussia Dortmund,11-1,4-0
+16,1971-11-27,15:30,VfL Bochum,Fortuna Duesseldorf,3-1,2-0
+16,1971-11-27,15:30,VfB Stuttgart,FC Schalke 04,0-1,0-0
+16,1971-11-27,15:30,Arminia Bielefeld,Hertha BSC,1-1,1-1
+16,1971-11-27,15:30,Hamburger SV,Werder Bremen,2-1,0-0
+16,1971-11-27,15:30,1. FC Kaiserslautern,Eintracht Braunschweig,2-2,0-2
+16,1971-11-27,15:30,Hannover 96,Eintracht Frankfurt,3-1,2-1
+17,1971-12-11,15:30,Rot-Weiss Oberhausen,1. FC Kaiserslautern,2-5,1-1
+17,1971-12-11,15:30,Hertha BSC,VfL Bochum,1-2,0-2
+17,1971-12-11,15:30,Borussia Dortmund,Hannover 96,1-1,0-1
+17,1971-12-11,15:30,Eintracht Frankfurt,MSV Duisburg,2-1,2-0
+17,1971-12-11,15:30,Eintracht Braunschweig,Arminia Bielefeld,3-2,2-0
+17,1971-12-11,15:30,1. FC Köln,Hamburger SV,3-0,0-0
+17,1971-12-11,15:30,Werder Bremen,Bor. Mönchengladbach,2-2,0-1
+17,1971-12-11,15:30,FC Schalke 04,Bayern München,1-0,0-0
+17,1971-12-11,15:30,Fortuna Duesseldorf,VfB Stuttgart,4-0,2-0
+18,1972-01-21,20:00,Rot-Weiss Oberhausen,Arminia Bielefeld,2-0,0-0
+18,1972-01-22,15:00,Eintracht Frankfurt,Hamburger SV,4-0,1-0
+18,1972-01-22,15:30,Fortuna Duesseldorf,Bayern München,0-1,0-0
+18,1972-01-22,15:30,Werder Bremen,1. FC Köln,2-2,1-2
+18,1972-01-22,15:30,Borussia Dortmund,MSV Duisburg,2-3,0-1
+18,1972-01-22,15:30,Eintracht Braunschweig,VfL Bochum,0-2,0-1
+18,1972-01-22,15:30,Hertha BSC,VfB Stuttgart,2-1,0-1
+18,1972-01-22,15:30,FC Schalke 04,Hannover 96,5-0,3-0
+18,1972-01-22,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,2-1,0-1
+19,1972-01-29,14:30,VfB Stuttgart,Eintracht Braunschweig,3-1,1-0
+19,1972-01-29,14:30,VfL Bochum,Rot-Weiss Oberhausen,2-0,0-0
+19,1972-01-29,15:30,Hamburger SV,Borussia Dortmund,0-0,0-0
+19,1972-01-29,15:30,Hannover 96,Fortuna Duesseldorf,5-0,2-0
+19,1972-01-29,15:30,Bayern München,Hertha BSC,1-0,0-0
+19,1972-01-29,15:30,MSV Duisburg,FC Schalke 04,2-0,1-0
+19,1972-01-29,15:30,Arminia Bielefeld,Bor. Mönchengladbach,2-3,1-0
+19,1972-03-07,20:00,1. FC Kaiserslautern,Werder Bremen,2-1,0-1
+19,1972-03-07,20:00,1. FC Köln,Eintracht Frankfurt,1-1,0-1
+20,1972-02-05,15:00,Fortuna Duesseldorf,MSV Duisburg,0-0,0-0
+20,1972-02-05,15:30,Werder Bremen,Eintracht Frankfurt,3-1,0-1
+20,1972-02-05,15:30,1. FC Kaiserslautern,Arminia Bielefeld,2-1,1-1
+20,1972-02-05,15:30,Eintracht Braunschweig,Bayern München,1-1,0-0
+20,1972-02-05,15:30,FC Schalke 04,Hamburger SV,3-0,1-0
+20,1972-02-05,20:00,Hertha BSC,Hannover 96,3-1,1-0
+20,1972-02-08,20:00,Bor. Mönchengladbach,VfL Bochum,1-1,0-1
+20,1972-03-07,20:00,Rot-Weiss Oberhausen,VfB Stuttgart,1-1,0-0
+20,1972-03-21,20:00,Borussia Dortmund,1. FC Köln,0-0,0-0
+21,1972-02-19,15:00,VfB Stuttgart,Bor. Mönchengladbach,0-1,0-0
+21,1972-02-19,15:00,VfL Bochum,1. FC Kaiserslautern,4-2,1-1
+21,1972-02-19,15:30,Bayern München,Rot-Weiss Oberhausen,7-0,2-0
+21,1972-02-19,15:30,Eintracht Frankfurt,Borussia Dortmund,5-2,3-0
+21,1972-02-19,15:30,Hannover 96,Eintracht Braunschweig,3-0,1-0
+21,1972-02-19,15:30,Arminia Bielefeld,Werder Bremen,1-0,0-0
+21,1972-02-19,15:30,MSV Duisburg,Hertha BSC,2-0,2-0
+21,1972-02-19,15:30,Hamburger SV,Fortuna Duesseldorf,3-3,3-1
+21,1972-02-19,15:30,1. FC Köln,FC Schalke 04,0-1,0-0
+22,1972-02-26,15:30,Bor. Mönchengladbach,Bayern München,2-2,2-1
+22,1972-02-26,15:30,Fortuna Duesseldorf,1. FC Köln,1-1,1-1
+22,1972-02-26,15:30,Eintracht Braunschweig,MSV Duisburg,2-0,2-0
+22,1972-02-26,15:30,1. FC Kaiserslautern,VfB Stuttgart,3-1,1-1
+22,1972-02-26,15:30,FC Schalke 04,Eintracht Frankfurt,2-0,1-0
+22,1972-02-26,15:30,Arminia Bielefeld,VfL Bochum,3-1,1-1
+22,1972-02-26,15:30,Werder Bremen,Borussia Dortmund,3-1,2-0
+22,1972-02-26,15:30,Hertha BSC,Hamburger SV,2-0,1-0
+22,1972-02-26,15:30,Rot-Weiss Oberhausen,Hannover 96,3-2,3-1
+23,1972-03-04,15:30,Hannover 96,Bor. Mönchengladbach,2-0,1-0
+23,1972-03-04,15:30,Hamburger SV,Eintracht Braunschweig,3-1,2-0
+23,1972-03-04,15:30,MSV Duisburg,Rot-Weiss Oberhausen,0-0,0-0
+23,1972-03-04,15:30,1. FC Köln,Hertha BSC,3-0,0-0
+23,1972-03-04,15:30,VfL Bochum,Werder Bremen,4-2,1-2
+23,1972-03-04,15:30,VfB Stuttgart,Arminia Bielefeld,2-2,2-1
+23,1972-03-04,15:30,Borussia Dortmund,FC Schalke 04,0-3,0-1
+23,1972-03-04,15:30,Bayern München,1. FC Kaiserslautern,3-1,0-1
+23,1972-03-04,15:30,Eintracht Frankfurt,Fortuna Duesseldorf,4-2,2-0
+24,1972-03-10,20:00,1. FC Kaiserslautern,Hannover 96,2-0,0-0
+24,1972-03-11,15:30,Rot-Weiss Oberhausen,Hamburger SV,1-0,1-0
+24,1972-03-11,15:30,Bor. Mönchengladbach,MSV Duisburg,3-0,0-0
+24,1972-03-11,15:30,Eintracht Braunschweig,1. FC Köln,0-1,0-1
+24,1972-03-11,15:30,Hertha BSC,Eintracht Frankfurt,0-0,0-0
+24,1972-03-11,15:30,Werder Bremen,FC Schalke 04,2-0,0-0
+24,1972-03-11,15:30,VfL Bochum,VfB Stuttgart,1-1,1-1
+24,1972-03-11,15:30,Fortuna Duesseldorf,Borussia Dortmund,4-1,2-1
+24,1972-03-11,15:30,Arminia Bielefeld,Bayern München,0-1,0-0
+25,1972-03-18,15:30,MSV Duisburg,1. FC Kaiserslautern,1-0,0-0
+25,1972-03-18,15:30,Hamburger SV,Bor. Mönchengladbach,1-0,1-0
+25,1972-03-18,15:30,Bayern München,VfL Bochum,5-1,2-1
+25,1972-03-18,15:30,1. FC Köln,Rot-Weiss Oberhausen,4-0,2-0
+25,1972-03-18,15:30,Eintracht Frankfurt,Eintracht Braunschweig,1-1,1-1
+25,1972-03-18,15:30,Hannover 96,Arminia Bielefeld,3-1,1-0
+25,1972-03-18,15:30,Borussia Dortmund,Hertha BSC,1-2,1-0
+25,1972-03-18,15:30,VfB Stuttgart,Werder Bremen,1-0,0-0
+25,1972-03-18,15:30,FC Schalke 04,Fortuna Duesseldorf,3-0,1-0
+26,1972-03-24,20:00,1. FC Kaiserslautern,Hamburger SV,2-1,0-0
+26,1972-03-25,15:30,Hertha BSC,FC Schalke 04,3-0,1-0
+26,1972-03-25,15:30,Bor. Mönchengladbach,1. FC Köln,3-0,1-0
+26,1972-03-25,15:30,Arminia Bielefeld,MSV Duisburg,2-0,0-0
+26,1972-03-25,15:30,Werder Bremen,Fortuna Duesseldorf,1-1,0-0
+26,1972-03-25,15:30,VfB Stuttgart,Bayern München,1-4,1-1
+26,1972-03-25,15:30,Rot-Weiss Oberhausen,Eintracht Frankfurt,1-0,0-0
+26,1972-03-25,15:30,VfL Bochum,Hannover 96,2-2,0-0
+26,1972-03-25,15:30,Eintracht Braunschweig,Borussia Dortmund,2-0,2-0
+27,1972-04-08,15:30,Borussia Dortmund,Rot-Weiss Oberhausen,2-1,1-0
+27,1972-04-08,15:30,Fortuna Duesseldorf,Hertha BSC,1-0,0-0
+27,1972-04-08,15:30,MSV Duisburg,VfL Bochum,2-2,2-1
+27,1972-04-08,15:30,1. FC Köln,1. FC Kaiserslautern,4-2,3-1
+27,1972-04-08,15:30,Eintracht Frankfurt,Bor. Mönchengladbach,3-0,1-0
+27,1972-04-08,15:30,FC Schalke 04,Eintracht Braunschweig,5-1,4-0
+27,1972-04-08,15:30,Hannover 96,VfB Stuttgart,3-0,1-0
+27,1972-04-08,15:30,Hamburger SV,Arminia Bielefeld,1-0,0-0
+27,1972-04-08,15:30,Bayern München,Werder Bremen,6-2,4-2
+28,1972-04-15,15:30,Bor. Mönchengladbach,Borussia Dortmund,7-1,2-0
+28,1972-04-15,15:30,Arminia Bielefeld,1. FC Köln,2-3,0-0
+28,1972-04-15,15:30,1. FC Kaiserslautern,Eintracht Frankfurt,1-1,0-1
+28,1972-04-15,15:30,VfL Bochum,Hamburger SV,2-1,2-1
+28,1972-04-15,15:30,Bayern München,Hannover 96,3-1,2-1
+28,1972-04-15,15:30,Werder Bremen,Hertha BSC,5-0,2-0
+28,1972-04-15,15:30,Rot-Weiss Oberhausen,FC Schalke 04,2-3,1-1
+28,1972-04-15,15:30,VfB Stuttgart,MSV Duisburg,1-0,1-0
+28,1972-04-15,15:30,Eintracht Braunschweig,Fortuna Duesseldorf,1-1,0-1
+29,1972-04-21,20:00,Borussia Dortmund,1. FC Kaiserslautern,2-1,1-1
+29,1972-04-22,15:30,FC Schalke 04,Bor. Mönchengladbach,1-1,0-1
+29,1972-04-22,15:30,1. FC Köln,VfL Bochum,1-1,0-1
+29,1972-04-22,15:30,Fortuna Duesseldorf,Rot-Weiss Oberhausen,1-1,1-1
+29,1972-04-22,15:30,MSV Duisburg,Bayern München,3-0,0-0
+29,1972-04-22,15:30,Hannover 96,Werder Bremen,5-1,3-0
+29,1972-04-22,15:30,Hamburger SV,VfB Stuttgart,1-2,0-1
+29,1972-04-22,15:30,Eintracht Frankfurt,Arminia Bielefeld,5-2,3-1
+29,1972-04-22,15:30,Hertha BSC,Eintracht Braunschweig,1-0,0-0
+30,1972-05-05,20:00,1. FC Kaiserslautern,FC Schalke 04,2-2,2-1
+30,1972-05-06,15:30,Hannover 96,MSV Duisburg,3-2,1-1
+30,1972-05-06,15:30,Arminia Bielefeld,Borussia Dortmund,3-1,2-0
+30,1972-05-06,15:30,Bor. Mönchengladbach,Fortuna Duesseldorf,1-2,1-1
+30,1972-05-06,15:30,VfL Bochum,Eintracht Frankfurt,3-1,2-1
+30,1972-05-06,15:30,Bayern München,Hamburger SV,4-3,3-2
+30,1972-05-06,15:30,Werder Bremen,Eintracht Braunschweig,2-4,1-2
+30,1972-05-06,15:30,Rot-Weiss Oberhausen,Hertha BSC,5-2,2-2
+30,1972-05-06,15:30,VfB Stuttgart,1. FC Köln,1-1,1-0
+31,1972-05-19,20:00,Eintracht Braunschweig,Rot-Weiss Oberhausen,0-0,0-0
+31,1972-05-19,20:00,Borussia Dortmund,VfL Bochum,1-1,1-0
+31,1972-05-20,15:30,FC Schalke 04,Arminia Bielefeld,6-2,3-1
+31,1972-05-20,15:30,1. FC Köln,Bayern München,1-4,0-2
+31,1972-05-20,15:30,Eintracht Frankfurt,VfB Stuttgart,4-1,2-0
+31,1972-05-20,15:30,Fortuna Duesseldorf,1. FC Kaiserslautern,0-3,0-1
+31,1972-05-20,15:30,Hamburger SV,Hannover 96,2-0,1-0
+31,1972-05-20,15:30,MSV Duisburg,Werder Bremen,2-0,1-0
+31,1972-05-27,15:30,Hertha BSC,Bor. Mönchengladbach,2-1,2-0
+32,1972-06-03,15:30,VfB Stuttgart,Borussia Dortmund,2-0,1-0
+32,1972-06-03,15:30,Hamburger SV,MSV Duisburg,2-0,0-0
+32,1972-06-03,15:30,VfL Bochum,FC Schalke 04,0-2,0-1
+32,1972-06-03,15:30,Arminia Bielefeld,Fortuna Duesseldorf,1-3,0-1
+32,1972-06-03,15:30,Bayern München,Eintracht Frankfurt,6-3,2-1
+32,1972-06-03,15:30,1. FC Kaiserslautern,Hertha BSC,3-4,0-3
+32,1972-06-03,15:30,Hannover 96,1. FC Köln,1-4,1-1
+32,1972-06-03,15:30,Rot-Weiss Oberhausen,Werder Bremen,2-2,0-1
+32,1972-06-03,15:30,Bor. Mönchengladbach,Eintracht Braunschweig,4-1,1-0
+33,1972-06-23,20:00,1. FC Köln,MSV Duisburg,4-1,3-1
+33,1972-06-23,20:00,Rot-Weiss Oberhausen,Bor. Mönchengladbach,0-4,0-2
+33,1972-06-24,15:30,Borussia Dortmund,Bayern München,0-1,0-1
+33,1972-06-24,15:30,Fortuna Duesseldorf,VfL Bochum,3-1,3-1
+33,1972-06-24,15:30,FC Schalke 04,VfB Stuttgart,2-1,1-1
+33,1972-06-24,15:30,Hertha BSC,Arminia Bielefeld,1-1,1-1
+33,1972-06-24,15:30,Werder Bremen,Hamburger SV,4-0,2-0
+33,1972-06-24,15:30,Eintracht Braunschweig,1. FC Kaiserslautern,1-1,0-0
+33,1972-06-24,15:30,Eintracht Frankfurt,Hannover 96,3-1,1-0
+34,1972-06-28,15:30,1. FC Kaiserslautern,Rot-Weiss Oberhausen,0-0,0-0
+34,1972-06-28,15:30,VfL Bochum,Hertha BSC,4-2,2-0
+34,1972-06-28,15:30,Hannover 96,Borussia Dortmund,2-3,1-2
+34,1972-06-28,15:30,MSV Duisburg,Eintracht Frankfurt,0-1,0-0
+34,1972-06-28,15:30,Arminia Bielefeld,Eintracht Braunschweig,1-7,0-0
+34,1972-06-28,15:30,Hamburger SV,1. FC Köln,1-1,1-0
+34,1972-06-28,15:30,Bor. Mönchengladbach,Werder Bremen,2-2,2-0
+34,1972-06-28,15:30,Bayern München,FC Schalke 04,5-1,2-0
+34,1972-06-28,15:30,VfB Stuttgart,Fortuna Duesseldorf,3-1,1-1

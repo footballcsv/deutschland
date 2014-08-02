@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,Team 2,FT,HT
+1,1988-07-22,20:00,Borussia Dortmund,VfB Stuttgart,1-2,1-1
+1,1988-07-22,20:00,Waldhof Mannheim,Bayer Leverkusen,1-1,1-0
+1,1988-07-23,15:30,1. FC Köln,Bayer 05 Uerdingen,1-1,1-0
+1,1988-07-23,15:30,FC St. Pauli,1. FC Nürnberg,0-1,0-0
+1,1988-07-23,15:30,Stuttgarter Kickers,VfL Bochum,1-2,1-1
+1,1988-07-23,15:30,Bayern München,Eintracht Frankfurt,3-0,0-0
+1,1988-07-23,15:30,Hannover 96,Karlsruher SC,2-3,1-2
+1,1988-07-23,15:30,Werder Bremen,Hamburger SV,2-1,0-1
+1,1988-07-23,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,4-1,1-1
+2,1988-07-29,20:00,Hamburger SV,Borussia Dortmund,0-0,0-0
+2,1988-07-29,20:00,VfB Stuttgart,Hannover 96,2-1,1-1
+2,1988-07-30,15:30,Bayer Leverkusen,Bor. Mönchengladbach,3-1,2-0
+2,1988-07-30,15:30,Karlsruher SC,Bayern München,2-2,0-1
+2,1988-07-30,15:30,Eintracht Frankfurt,Stuttgarter Kickers,1-2,0-0
+2,1988-07-30,15:30,VfL Bochum,FC St. Pauli,0-0,0-0
+2,1988-07-30,15:30,1. FC Nürnberg,1. FC Köln,0-2,0-0
+2,1988-07-30,15:30,Bayer 05 Uerdingen,Waldhof Mannheim,0-0,0-0
+2,1988-07-30,15:30,1. FC Kaiserslautern,Werder Bremen,0-0,0-0
+3,1988-08-12,20:00,Borussia Dortmund,1. FC Kaiserslautern,1-1,1-0
+3,1988-08-13,15:30,FC St. Pauli,Eintracht Frankfurt,2-0,0-0
+3,1988-08-13,15:30,Stuttgarter Kickers,Karlsruher SC,1-3,1-1
+3,1988-08-13,15:30,Hannover 96,Hamburger SV,2-3,0-1
+3,1988-08-13,15:30,Werder Bremen,Bayer Leverkusen,3-1,1-0
+3,1988-08-13,15:30,Bayer 05 Uerdingen,1. FC Nürnberg,3-2,2-0
+3,1988-08-13,15:30,Waldhof Mannheim,Bor. Mönchengladbach,4-1,2-0
+3,1988-08-16,20:00,1. FC Köln,VfL Bochum,1-0,0-0
+3,1988-11-15,20:00,Bayern München,VfB Stuttgart,3-3,1-1
+4,1988-08-19,20:00,Karlsruher SC,FC St. Pauli,3-1,1-0
+4,1988-08-19,20:00,Eintracht Frankfurt,1. FC Köln,1-0,1-0
+4,1988-08-20,15:30,Bayer Leverkusen,Borussia Dortmund,2-0,0-0
+4,1988-08-20,15:30,Hamburger SV,Bayern München,0-1,0-0
+4,1988-08-20,15:30,VfB Stuttgart,Stuttgarter Kickers,4-0,2-0
+4,1988-08-20,15:30,VfL Bochum,Bayer 05 Uerdingen,1-1,0-1
+4,1988-08-20,15:30,1. FC Nürnberg,Waldhof Mannheim,1-0,0-0
+4,1988-08-20,15:30,Bor. Mönchengladbach,Werder Bremen,4-1,1-0
+4,1988-08-20,15:30,1. FC Kaiserslautern,Hannover 96,0-0,0-0
+5,1988-08-26,18:15,FC St. Pauli,VfB Stuttgart,2-1,0-1
+5,1988-08-26,20:00,Bayer 05 Uerdingen,Eintracht Frankfurt,4-1,4-0
+5,1988-08-27,15:30,1. FC Köln,Karlsruher SC,6-1,2-1
+5,1988-08-27,15:30,Stuttgarter Kickers,Hamburger SV,2-0,0-0
+5,1988-08-27,15:30,Bayern München,1. FC Kaiserslautern,5-1,2-0
+5,1988-08-27,15:30,Hannover 96,Bayer Leverkusen,2-2,1-0
+5,1988-08-27,15:30,Borussia Dortmund,Bor. Mönchengladbach,0-0,0-0
+5,1988-08-27,15:30,1. FC Nürnberg,VfL Bochum,3-1,1-0
+5,1988-08-27,15:30,Waldhof Mannheim,Werder Bremen,1-1,1-0
+6,1988-09-02,20:00,Bor. Mönchengladbach,Hannover 96,2-0,1-0
+6,1988-09-03,15:30,Bayer Leverkusen,Bayern München,1-1,1-1
+6,1988-09-03,15:30,Hamburger SV,FC St. Pauli,1-1,0-0
+6,1988-09-03,15:30,VfB Stuttgart,1. FC Köln,2-0,1-0
+6,1988-09-03,15:30,Karlsruher SC,Bayer 05 Uerdingen,0-1,0-1
+6,1988-09-03,15:30,Eintracht Frankfurt,1. FC Nürnberg,1-0,0-0
+6,1988-09-03,15:30,VfL Bochum,Waldhof Mannheim,2-2,0-1
+6,1988-09-03,15:30,1. FC Kaiserslautern,Stuttgarter Kickers,6-0,4-0
+6,1988-11-29,20:00,Werder Bremen,Borussia Dortmund,2-0,1-0
+7,1988-09-09,17:45,FC St. Pauli,1. FC Kaiserslautern,1-1,0-0
+7,1988-09-10,15:30,1. FC Köln,Hamburger SV,1-2,1-0
+7,1988-09-10,15:30,Stuttgarter Kickers,Bayer Leverkusen,1-3,0-1
+7,1988-09-10,15:30,Bayern München,Bor. Mönchengladbach,3-0,2-0
+7,1988-09-10,15:30,Hannover 96,Werder Bremen,2-2,0-1
+7,1988-09-10,15:30,VfL Bochum,Eintracht Frankfurt,1-0,1-0
+7,1988-09-10,15:30,1. FC Nürnberg,Karlsruher SC,1-3,0-1
+7,1988-09-10,15:30,Bayer 05 Uerdingen,VfB Stuttgart,0-0,0-0
+7,1988-09-10,15:30,Waldhof Mannheim,Borussia Dortmund,0-3,0-1
+8,1988-09-13,15:30,Hamburger SV,Bayer 05 Uerdingen,3-0,1-0
+8,1988-09-13,15:30,VfB Stuttgart,1. FC Nürnberg,4-0,0-0
+8,1988-09-13,15:30,Karlsruher SC,VfL Bochum,1-3,1-1
+8,1988-09-13,15:30,Eintracht Frankfurt,Waldhof Mannheim,0-0,0-0
+8,1988-09-13,15:30,Borussia Dortmund,Hannover 96,4-0,1-0
+8,1988-09-13,15:30,Werder Bremen,Bayern München,2-2,1-0
+8,1988-09-13,15:30,Bor. Mönchengladbach,Stuttgarter Kickers,1-1,1-0
+8,1988-09-13,15:30,1. FC Kaiserslautern,1. FC Köln,1-1,0-0
+8,1988-09-13,17:45,Bayer Leverkusen,FC St. Pauli,2-2,2-0
+9,1988-10-03,20:00,1. FC Nürnberg,Hamburger SV,1-4,0-2
+9,1988-10-12,20:00,Bayern München,Borussia Dortmund,1-1,1-1
+9,1988-10-15,15:00,FC St. Pauli,Bor. Mönchengladbach,1-1,0-1
+9,1988-11-01,20:00,VfL Bochum,VfB Stuttgart,1-0,1-0
+9,1988-11-16,15:30,1. FC Köln,Bayer Leverkusen,3-0,0-0
+9,1988-11-16,15:30,Stuttgarter Kickers,Werder Bremen,0-6,0-2
+9,1988-11-16,15:30,Eintracht Frankfurt,Karlsruher SC,1-0,1-0
+9,1988-11-16,15:30,Bayer 05 Uerdingen,1. FC Kaiserslautern,3-1,1-1
+9,1988-11-16,15:30,Waldhof Mannheim,Hannover 96,1-1,1-0
+10,1988-10-07,20:00,Borussia Dortmund,Stuttgarter Kickers,1-1,1-1
+10,1988-10-08,15:30,Bayer Leverkusen,Bayer 05 Uerdingen,2-2,0-1
+10,1988-10-08,15:30,Hamburger SV,VfL Bochum,3-1,2-0
+10,1988-10-08,15:30,VfB Stuttgart,Eintracht Frankfurt,2-0,2-0
+10,1988-10-08,15:30,Karlsruher SC,Waldhof Mannheim,2-1,1-1
+10,1988-10-08,15:30,Hannover 96,Bayern München,0-0,0-0
+10,1988-10-08,15:30,Werder Bremen,FC St. Pauli,0-0,0-0
+10,1988-10-08,15:30,Bor. Mönchengladbach,1. FC Köln,1-0,1-0
+10,1988-10-08,15:30,1. FC Kaiserslautern,1. FC Nürnberg,2-1,1-1
+11,1988-10-21,20:00,Stuttgarter Kickers,Hannover 96,0-1,0-1
+11,1988-10-22,15:30,1. FC Köln,Werder Bremen,2-0,0-0
+11,1988-10-22,15:30,FC St. Pauli,Borussia Dortmund,1-0,0-0
+11,1988-10-22,15:30,Karlsruher SC,VfB Stuttgart,2-0,1-0
+11,1988-10-22,15:30,Eintracht Frankfurt,Hamburger SV,0-1,0-0
+11,1988-10-22,15:30,VfL Bochum,1. FC Kaiserslautern,2-0,0-0
+11,1988-10-22,15:30,1. FC Nürnberg,Bayer Leverkusen,1-1,1-1
+11,1988-10-22,15:30,Bayer 05 Uerdingen,Bor. Mönchengladbach,0-0,0-0
+11,1988-10-22,15:30,Waldhof Mannheim,Bayern München,0-3,0-2
+12,1988-10-27,20:00,Bayer Leverkusen,VfL Bochum,1-1,0-0
+12,1988-10-29,15:30,Hamburger SV,Karlsruher SC,1-1,0-1
+12,1988-10-29,15:30,VfB Stuttgart,Waldhof Mannheim,2-0,0-0
+12,1988-10-29,15:30,Bayern München,Stuttgarter Kickers,3-0,2-0
+12,1988-10-29,15:30,Hannover 96,FC St. Pauli,2-2,0-1
+12,1988-10-29,15:30,Borussia Dortmund,1. FC Köln,0-4,0-2
+12,1988-10-29,15:30,Werder Bremen,Bayer 05 Uerdingen,3-1,1-1
+12,1988-10-29,15:30,Bor. Mönchengladbach,1. FC Nürnberg,1-1,1-0
+12,1988-10-29,15:30,1. FC Kaiserslautern,Eintracht Frankfurt,3-0,0-0
+13,1988-11-04,20:00,VfL Bochum,Bor. Mönchengladbach,1-2,1-1
+13,1988-11-05,14:00,FC St. Pauli,Bayern München,0-0,0-0
+13,1988-11-05,15:30,1. FC Köln,Hannover 96,1-0,0-0
+13,1988-11-05,15:30,VfB Stuttgart,Hamburger SV,4-2,2-0
+13,1988-11-05,15:30,Karlsruher SC,1. FC Kaiserslautern,4-1,2-1
+13,1988-11-05,15:30,Eintracht Frankfurt,Bayer Leverkusen,1-1,1-1
+13,1988-11-05,15:30,1. FC Nürnberg,Werder Bremen,0-1,0-1
+13,1988-11-05,15:30,Bayer 05 Uerdingen,Borussia Dortmund,0-0,0-0
+13,1988-11-05,15:30,Waldhof Mannheim,Stuttgarter Kickers,2-2,0-2
+14,1988-11-12,15:30,Bayer Leverkusen,Karlsruher SC,1-0,0-0
+14,1988-11-12,15:30,Hamburger SV,Waldhof Mannheim,5-1,2-0
+14,1988-11-12,15:30,Stuttgarter Kickers,FC St. Pauli,2-2,1-1
+14,1988-11-12,15:30,Bayern München,1. FC Köln,2-0,0-0
+14,1988-11-12,15:30,Hannover 96,Bayer 05 Uerdingen,0-5,0-1
+14,1988-11-12,15:30,Borussia Dortmund,1. FC Nürnberg,4-0,3-0
+14,1988-11-12,15:30,Werder Bremen,VfL Bochum,2-0,0-0
+14,1988-11-12,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,2-1,1-1
+14,1988-11-12,15:30,1. FC Kaiserslautern,VfB Stuttgart,6-1,1-1
+15,1988-11-19,14:15,FC St. Pauli,Waldhof Mannheim,2-1,0-0
+15,1988-11-19,15:00,VfB Stuttgart,Bayer Leverkusen,0-0,0-0
+15,1988-11-19,15:00,Eintracht Frankfurt,Werder Bremen,0-0,0-0
+15,1988-11-19,15:00,VfL Bochum,Borussia Dortmund,2-2,0-1
+15,1988-11-19,15:00,1. FC Nürnberg,Hannover 96,1-0,1-0
+15,1988-11-19,15:00,Bayer 05 Uerdingen,Bayern München,1-3,0-0
+15,1988-11-19,15:00,1. FC Kaiserslautern,Hamburger SV,0-0,0-0
+15,1988-11-19,15:30,1. FC Köln,Stuttgarter Kickers,5-1,3-1
+15,1989-02-22,20:00,Karlsruher SC,Bor. Mönchengladbach,2-2,2-1
+16,1988-11-25,20:00,Werder Bremen,Karlsruher SC,3-1,1-0
+16,1988-11-26,14:15,FC St. Pauli,1. FC Köln,0-1,0-1
+16,1988-11-26,15:30,Bayer Leverkusen,Hamburger SV,1-2,0-1
+16,1988-11-26,15:30,Stuttgarter Kickers,Bayer 05 Uerdingen,3-1,1-1
+16,1988-11-26,15:30,Bayern München,1. FC Nürnberg,1-0,1-0
+16,1988-11-26,15:30,Hannover 96,VfL Bochum,3-2,1-1
+16,1988-11-26,15:30,Borussia Dortmund,Eintracht Frankfurt,6-0,2-0
+16,1988-11-26,15:30,Bor. Mönchengladbach,VfB Stuttgart,2-2,1-0
+16,1988-11-27,18:00,Waldhof Mannheim,1. FC Kaiserslautern,0-4,0-1
+17,1988-12-02,20:00,1. FC Köln,Waldhof Mannheim,1-0,0-0
+17,1988-12-02,20:00,1. FC Kaiserslautern,Bayer Leverkusen,0-0,0-0
+17,1988-12-03,15:30,VfB Stuttgart,Werder Bremen,3-3,2-2
+17,1988-12-03,15:30,Karlsruher SC,Borussia Dortmund,0-0,0-0
+17,1988-12-03,15:30,Eintracht Frankfurt,Hannover 96,1-0,0-0
+17,1988-12-03,15:30,VfL Bochum,Bayern München,0-0,0-0
+17,1988-12-03,15:30,1. FC Nürnberg,Stuttgarter Kickers,3-3,2-1
+17,1988-12-03,15:30,Bayer 05 Uerdingen,FC St. Pauli,0-0,0-0
+17,1989-04-20,20:00,Hamburger SV,Bor. Mönchengladbach,1-2,1-1
+18,1989-02-18,15:00,Karlsruher SC,Hannover 96,2-0,1-0
+18,1989-02-18,15:30,Bayer 05 Uerdingen,1. FC Köln,1-1,0-1
+18,1989-02-18,15:30,1. FC Nürnberg,FC St. Pauli,5-3,2-3
+18,1989-02-18,15:30,Eintracht Frankfurt,Bayern München,2-2,0-0
+18,1989-02-18,15:30,VfB Stuttgart,Borussia Dortmund,1-3,0-2
+18,1989-02-18,15:30,Hamburger SV,Werder Bremen,2-0,0-0
+18,1989-02-18,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,0-0,0-0
+18,1989-02-18,15:30,Bayer Leverkusen,Waldhof Mannheim,3-0,0-0
+18,1989-03-21,20:00,VfL Bochum,Stuttgarter Kickers,2-1,1-0
+19,1989-02-25,15:30,Bor. Mönchengladbach,Bayer Leverkusen,2-0,1-0
+19,1989-02-25,15:30,Borussia Dortmund,Hamburger SV,2-2,1-1
+19,1989-02-25,15:30,Hannover 96,VfB Stuttgart,2-0,1-0
+19,1989-02-25,15:30,Bayern München,Karlsruher SC,3-2,2-0
+19,1989-02-25,15:30,Stuttgarter Kickers,Eintracht Frankfurt,0-1,0-1
+19,1989-02-25,15:30,FC St. Pauli,VfL Bochum,1-0,0-0
+19,1989-02-25,15:30,1. FC Köln,1. FC Nürnberg,1-1,1-0
+19,1989-02-25,15:30,Waldhof Mannheim,Bayer 05 Uerdingen,3-3,1-2
+19,1989-02-25,15:30,Werder Bremen,1. FC Kaiserslautern,1-0,1-0
+20,1989-03-04,15:30,VfL Bochum,1. FC Köln,1-3,1-0
+20,1989-03-04,15:30,Eintracht Frankfurt,FC St. Pauli,1-1,1-0
+20,1989-03-04,15:30,Karlsruher SC,Stuttgarter Kickers,1-0,0-0
+20,1989-03-04,15:30,VfB Stuttgart,Bayern München,1-2,1-1
+20,1989-03-04,15:30,Hamburger SV,Hannover 96,4-1,1-1
+20,1989-03-04,15:30,1. FC Kaiserslautern,Borussia Dortmund,3-2,2-1
+20,1989-03-04,15:30,Bayer Leverkusen,Werder Bremen,1-0,1-0
+20,1989-03-04,15:30,1. FC Nürnberg,Bayer 05 Uerdingen,1-0,0-0
+20,1989-03-04,15:30,Bor. Mönchengladbach,Waldhof Mannheim,1-1,1-0
+21,1989-03-10,20:00,Werder Bremen,Bor. Mönchengladbach,2-0,2-0
+21,1989-03-10,20:00,Hannover 96,1. FC Kaiserslautern,0-0,0-0
+21,1989-03-11,15:30,Borussia Dortmund,Bayer Leverkusen,2-1,2-0
+21,1989-03-11,15:30,Bayern München,Hamburger SV,1-0,0-0
+21,1989-03-11,15:30,Stuttgarter Kickers,VfB Stuttgart,0-2,0-1
+21,1989-03-11,15:30,FC St. Pauli,Karlsruher SC,1-0,1-0
+21,1989-03-11,15:30,1. FC Köln,Eintracht Frankfurt,3-2,1-0
+21,1989-03-11,15:30,Bayer 05 Uerdingen,VfL Bochum,3-1,1-0
+21,1989-03-11,15:30,Waldhof Mannheim,1. FC Nürnberg,2-1,2-0
+22,1989-03-17,20:00,Hamburger SV,Stuttgarter Kickers,3-0,2-0
+22,1989-03-18,15:30,Karlsruher SC,1. FC Köln,0-0,0-0
+22,1989-03-18,15:30,1. FC Kaiserslautern,Bayern München,1-1,1-1
+22,1989-03-18,15:30,Bayer Leverkusen,Hannover 96,3-1,1-1
+22,1989-03-18,15:30,Bor. Mönchengladbach,Borussia Dortmund,1-1,0-0
+22,1989-03-18,15:30,VfL Bochum,1. FC Nürnberg,1-0,0-0
+22,1989-03-18,15:30,Eintracht Frankfurt,Bayer 05 Uerdingen,0-2,0-1
+22,1989-03-18,15:30,Werder Bremen,Waldhof Mannheim,2-1,1-0
+22,1989-03-19,17:30,VfB Stuttgart,FC St. Pauli,2-1,0-1
+23,1989-03-23,20:00,FC St. Pauli,Hamburger SV,1-2,1-2
+23,1989-03-25,15:30,Bayern München,Bayer Leverkusen,2-0,0-0
+23,1989-03-25,15:30,1. FC Köln,VfB Stuttgart,3-0,0-0
+23,1989-03-25,15:30,Bayer 05 Uerdingen,Karlsruher SC,0-3,0-2
+23,1989-03-25,15:30,1. FC Nürnberg,Eintracht Frankfurt,1-1,1-0
+23,1989-03-25,15:30,Waldhof Mannheim,VfL Bochum,2-2,1-2
+23,1989-03-25,15:30,Borussia Dortmund,Werder Bremen,3-1,1-1
+23,1989-03-25,15:30,Hannover 96,Bor. Mönchengladbach,0-1,0-1
+23,1989-03-25,15:30,Stuttgarter Kickers,1. FC Kaiserslautern,2-0,1-0
+24,1989-03-31,20:00,Eintracht Frankfurt,VfL Bochum,1-1,0-0
+24,1989-04-01,15:30,Hamburger SV,1. FC Köln,0-1,0-0
+24,1989-04-01,15:30,1. FC Kaiserslautern,FC St. Pauli,1-0,0-0
+24,1989-04-01,15:30,Bayer Leverkusen,Stuttgarter Kickers,1-3,0-1
+24,1989-04-01,15:30,Bor. Mönchengladbach,Bayern München,2-1,1-1
+24,1989-04-01,15:30,Werder Bremen,Hannover 96,1-0,0-0
+24,1989-04-01,15:30,Karlsruher SC,1. FC Nürnberg,1-1,0-0
+24,1989-04-01,15:30,VfB Stuttgart,Bayer 05 Uerdingen,2-2,1-1
+24,1989-04-01,15:30,Borussia Dortmund,Waldhof Mannheim,1-2,0-0
+25,1989-04-07,20:00,FC St. Pauli,Bayer Leverkusen,2-0,2-0
+25,1989-04-07,20:00,Hannover 96,Borussia Dortmund,1-5,0-3
+25,1989-04-08,15:30,Bayer 05 Uerdingen,Hamburger SV,0-2,0-1
+25,1989-04-08,15:30,1. FC Nürnberg,VfB Stuttgart,1-0,0-0
+25,1989-04-08,15:30,VfL Bochum,Karlsruher SC,2-0,1-0
+25,1989-04-08,15:30,Waldhof Mannheim,Eintracht Frankfurt,1-0,1-0
+25,1989-04-08,15:30,Bayern München,Werder Bremen,0-0,0-0
+25,1989-04-08,15:30,Stuttgarter Kickers,Bor. Mönchengladbach,3-0,1-0
+25,1989-04-08,15:30,1. FC Köln,1. FC Kaiserslautern,2-2,1-0
+26,1989-04-13,20:00,Hannover 96,Waldhof Mannheim,0-2,0-0
+26,1989-04-14,20:00,VfB Stuttgart,VfL Bochum,3-1,2-0
+26,1989-04-14,20:00,1. FC Kaiserslautern,Bayer 05 Uerdingen,2-0,1-0
+26,1989-04-15,15:30,Bayer Leverkusen,1. FC Köln,0-0,0-0
+26,1989-04-15,15:30,Bor. Mönchengladbach,FC St. Pauli,2-2,1-1
+26,1989-04-15,15:30,Werder Bremen,Stuttgarter Kickers,4-0,2-0
+26,1989-04-15,15:30,Borussia Dortmund,Bayern München,1-1,0-0
+26,1989-04-15,15:30,Karlsruher SC,Eintracht Frankfurt,1-3,1-2
+26,1989-04-15,15:30,Hamburger SV,1. FC Nürnberg,3-2,2-2
+27,1989-04-29,15:30,Bayer 05 Uerdingen,Bayer Leverkusen,3-1,1-0
+27,1989-04-29,15:30,VfL Bochum,Hamburger SV,2-1,1-1
+27,1989-04-29,15:30,Eintracht Frankfurt,VfB Stuttgart,1-3,1-2
+27,1989-04-29,15:30,Waldhof Mannheim,Karlsruher SC,2-0,1-0
+27,1989-04-29,15:30,Bayern München,Hannover 96,4-0,4-0
+27,1989-04-29,15:30,Stuttgarter Kickers,Borussia Dortmund,1-2,0-0
+27,1989-04-29,15:30,FC St. Pauli,Werder Bremen,1-3,1-2
+27,1989-04-29,15:30,1. FC Köln,Bor. Mönchengladbach,3-1,3-0
+27,1989-04-29,15:30,1. FC Nürnberg,1. FC Kaiserslautern,1-1,1-0
+28,1989-05-05,20:00,1. FC Kaiserslautern,VfL Bochum,3-0,2-0
+28,1989-05-05,20:00,Bayer Leverkusen,1. FC Nürnberg,3-0,1-0
+28,1989-05-06,15:30,Werder Bremen,1. FC Köln,1-2,1-1
+28,1989-05-06,15:30,Borussia Dortmund,FC St. Pauli,0-0,0-0
+28,1989-05-06,15:30,Hannover 96,Stuttgarter Kickers,3-4,0-0
+28,1989-05-06,15:30,VfB Stuttgart,Karlsruher SC,2-0,1-0
+28,1989-05-06,15:30,Hamburger SV,Eintracht Frankfurt,2-1,1-1
+28,1989-05-06,15:30,Bor. Mönchengladbach,Bayer 05 Uerdingen,3-0,1-0
+28,1989-05-06,15:30,Bayern München,Waldhof Mannheim,1-0,0-0
+29,1989-05-12,20:00,Waldhof Mannheim,VfB Stuttgart,3-4,2-1
+29,1989-05-12,20:00,Eintracht Frankfurt,1. FC Kaiserslautern,3-2,1-0
+29,1989-05-13,15:30,Karlsruher SC,Hamburger SV,2-2,1-1
+29,1989-05-13,15:30,Stuttgarter Kickers,Bayern München,2-0,1-0
+29,1989-05-13,15:30,FC St. Pauli,Hannover 96,1-1,0-1
+29,1989-05-13,15:30,1. FC Köln,Borussia Dortmund,2-0,0-0
+29,1989-05-13,15:30,Bayer 05 Uerdingen,Werder Bremen,2-1,1-0
+29,1989-05-13,15:30,1. FC Nürnberg,Bor. Mönchengladbach,0-0,0-0
+29,1989-05-16,20:00,VfL Bochum,Bayer Leverkusen,2-4,0-3
+30,1989-05-19,20:00,Werder Bremen,1. FC Nürnberg,2-1,0-1
+30,1989-05-19,20:00,Stuttgarter Kickers,Waldhof Mannheim,1-3,0-1
+30,1989-05-20,15:30,Hannover 96,1. FC Köln,2-2,0-0
+30,1989-05-20,15:30,Bayern München,FC St. Pauli,2-1,1-0
+30,1989-05-20,15:30,Hamburger SV,VfB Stuttgart,2-1,0-1
+30,1989-05-20,15:30,1. FC Kaiserslautern,Karlsruher SC,1-2,0-1
+30,1989-05-20,15:30,Bayer Leverkusen,Eintracht Frankfurt,2-2,1-2
+30,1989-05-20,15:30,Bor. Mönchengladbach,VfL Bochum,2-0,2-0
+30,1989-05-20,15:30,Borussia Dortmund,Bayer 05 Uerdingen,4-2,2-1
+31,1989-05-23,20:00,VfB Stuttgart,1. FC Kaiserslautern,3-1,0-1
+31,1989-05-25,18:00,1. FC Nürnberg,Borussia Dortmund,1-1,0-1
+31,1989-05-25,18:00,Eintracht Frankfurt,Bor. Mönchengladbach,1-1,0-0
+31,1989-05-25,19:30,FC St. Pauli,Stuttgarter Kickers,1-0,1-0
+31,1989-05-25,20:00,Karlsruher SC,Bayer Leverkusen,2-3,1-0
+31,1989-05-25,20:00,Waldhof Mannheim,Hamburger SV,0-0,0-0
+31,1989-05-25,20:00,1. FC Köln,Bayern München,1-3,1-1
+31,1989-05-25,20:00,Bayer 05 Uerdingen,Hannover 96,7-3,4-1
+31,1989-05-25,20:00,VfL Bochum,Werder Bremen,0-1,0-1
+32,1989-06-02,20:00,Waldhof Mannheim,FC St. Pauli,2-1,1-0
+32,1989-06-03,15:30,Bayer Leverkusen,VfB Stuttgart,0-0,0-0
+32,1989-06-03,15:30,Bor. Mönchengladbach,Karlsruher SC,1-1,0-1
+32,1989-06-03,15:30,Werder Bremen,Eintracht Frankfurt,2-0,1-0
+32,1989-06-03,15:30,Borussia Dortmund,VfL Bochum,2-1,2-0
+32,1989-06-03,15:30,Hannover 96,1. FC Nürnberg,2-2,1-1
+32,1989-06-03,15:30,Bayern München,Bayer 05 Uerdingen,5-0,2-0
+32,1989-06-03,15:30,Hamburger SV,1. FC Kaiserslautern,1-1,0-0
+32,1989-06-06,20:00,Stuttgarter Kickers,1. FC Köln,0-0,0-0
+33,1989-06-10,15:30,Hamburger SV,Bayer Leverkusen,1-1,0-1
+33,1989-06-10,15:30,1. FC Köln,FC St. Pauli,4-2,1-1
+33,1989-06-10,15:30,Bayer 05 Uerdingen,Stuttgarter Kickers,1-3,0-3
+33,1989-06-10,15:30,1. FC Nürnberg,Bayern München,2-1,2-1
+33,1989-06-10,15:30,VfL Bochum,Hannover 96,1-3,0-1
+33,1989-06-10,15:30,Eintracht Frankfurt,Borussia Dortmund,2-1,1-1
+33,1989-06-10,15:30,Karlsruher SC,Werder Bremen,1-0,1-0
+33,1989-06-10,15:30,VfB Stuttgart,Bor. Mönchengladbach,2-1,1-1
+33,1989-06-10,15:30,1. FC Kaiserslautern,Waldhof Mannheim,0-3,0-1
+34,1989-06-17,15:30,Waldhof Mannheim,1. FC Köln,2-1,1-0
+34,1989-06-17,15:30,Bor. Mönchengladbach,Hamburger SV,0-4,0-0
+34,1989-06-17,15:30,Werder Bremen,VfB Stuttgart,3-0,0-0
+34,1989-06-17,15:30,Borussia Dortmund,Karlsruher SC,3-2,1-1
+34,1989-06-17,15:30,Hannover 96,Eintracht Frankfurt,1-1,1-0
+34,1989-06-17,15:30,Bayern München,VfL Bochum,5-0,2-0
+34,1989-06-17,15:30,Stuttgarter Kickers,1. FC Nürnberg,1-0,0-0
+34,1989-06-17,15:30,FC St. Pauli,Bayer 05 Uerdingen,5-1,0-0
+34,1989-06-17,15:30,Bayer Leverkusen,1. FC Kaiserslautern,0-1,0-1

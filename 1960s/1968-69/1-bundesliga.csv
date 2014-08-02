@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,Team 2,FT,HT
+1,1968-08-17,15:30,1. FC Nürnberg,Alemannia Aachen,1-4,0-2
+1,1968-08-17,15:30,Bayern München,1. FC Kaiserslautern,2-0,2-0
+1,1968-08-17,15:30,Eintracht Frankfurt,Hertha BSC,2-0,1-0
+1,1968-08-17,15:30,1. FC Köln,Kickers Offenbach,2-1,1-0
+1,1968-08-17,15:30,MSV Duisburg,FC Schalke 04,1-0,1-0
+1,1968-08-17,15:30,Borussia Dortmund,Bor. Mönchengladbach,1-3,0-1
+1,1968-08-17,15:30,Eintracht Braunschweig,Hamburger SV,1-0,1-0
+1,1968-08-17,15:30,Werder Bremen,Hannover 96,3-2,2-0
+1,1968-08-17,15:30,VfB Stuttgart,TSV 1860 München,1-1,1-0
+2,1968-08-24,15:30,Hertha BSC,MSV Duisburg,1-1,0-0
+2,1968-08-24,15:30,Bor. Mönchengladbach,1. FC Köln,2-1,0-0
+2,1968-08-24,15:30,Kickers Offenbach,1. FC Nürnberg,2-1,1-0
+2,1968-08-24,15:30,FC Schalke 04,Eintracht Braunschweig,0-2,0-0
+2,1968-08-24,15:30,Hannover 96,Borussia Dortmund,1-1,1-1
+2,1968-08-24,15:30,Hamburger SV,VfB Stuttgart,2-1,0-0
+2,1968-08-24,15:30,1. FC Kaiserslautern,Werder Bremen,1-0,1-0
+2,1968-08-24,15:30,TSV 1860 München,Bayern München,0-3,0-2
+2,1968-08-24,15:30,Alemannia Aachen,Eintracht Frankfurt,4-2,3-1
+3,1968-08-31,15:30,MSV Duisburg,Eintracht Frankfurt,1-1,1-0
+3,1968-08-31,15:30,VfB Stuttgart,FC Schalke 04,1-1,1-0
+3,1968-08-31,15:30,1. FC Nürnberg,Bor. Mönchengladbach,4-0,0-0
+3,1968-08-31,15:30,Bayern München,Hamburger SV,5-1,1-0
+3,1968-08-31,15:30,1. FC Köln,Hannover 96,1-0,0-0
+3,1968-08-31,15:30,Eintracht Braunschweig,Hertha BSC,3-3,0-1
+3,1968-08-31,15:30,Kickers Offenbach,Alemannia Aachen,1-1,0-0
+3,1968-09-17,20:00,Borussia Dortmund,1. FC Kaiserslautern,2-3,0-1
+3,1968-09-17,20:00,Werder Bremen,TSV 1860 München,4-1,0-0
+4,1968-09-04,20:00,Hertha BSC,VfB Stuttgart,0-1,0-0
+4,1968-09-04,20:00,Bor. Mönchengladbach,Kickers Offenbach,4-1,3-0
+4,1968-09-04,20:00,Alemannia Aachen,MSV Duisburg,4-0,3-0
+4,1968-09-04,20:00,Hannover 96,1. FC Nürnberg,2-2,1-2
+4,1968-09-04,20:00,FC Schalke 04,Bayern München,1-2,1-1
+4,1968-09-04,20:00,TSV 1860 München,Borussia Dortmund,2-1,0-1
+4,1968-09-04,20:00,Hamburger SV,Werder Bremen,5-2,2-1
+4,1968-09-04,20:00,1. FC Kaiserslautern,1. FC Köln,4-0,0-0
+4,1968-09-04,20:00,Eintracht Frankfurt,Eintracht Braunschweig,0-1,0-0
+5,1968-09-07,15:30,1. FC Köln,TSV 1860 München,0-0,0-0
+5,1968-09-07,15:30,Bayern München,Hertha BSC,3-0,3-0
+5,1968-09-07,15:30,1. FC Nürnberg,1. FC Kaiserslautern,1-0,1-0
+5,1968-09-07,15:30,Werder Bremen,FC Schalke 04,1-3,1-1
+5,1968-09-07,15:30,Borussia Dortmund,Hamburger SV,3-1,1-0
+5,1968-09-07,15:30,Bor. Mönchengladbach,Alemannia Aachen,2-2,1-0
+5,1968-09-07,15:30,VfB Stuttgart,Eintracht Frankfurt,2-0,2-0
+5,1968-09-07,15:30,Kickers Offenbach,Hannover 96,1-1,0-0
+5,1968-09-07,15:30,Eintracht Braunschweig,MSV Duisburg,0-0,0-0
+6,1968-09-13,20:00,MSV Duisburg,VfB Stuttgart,2-0,0-0
+6,1968-09-14,15:30,FC Schalke 04,Borussia Dortmund,4-1,3-1
+6,1968-09-14,15:30,Hannover 96,Bor. Mönchengladbach,2-3,2-1
+6,1968-09-14,15:30,Alemannia Aachen,Eintracht Braunschweig,1-4,0-3
+6,1968-09-14,15:30,TSV 1860 München,1. FC Nürnberg,2-0,1-0
+6,1968-09-14,15:30,Hertha BSC,Werder Bremen,1-0,1-0
+6,1968-09-14,15:30,Eintracht Frankfurt,Bayern München,1-1,1-1
+6,1968-09-14,15:30,1. FC Kaiserslautern,Kickers Offenbach,2-1,1-0
+6,1968-09-14,15:30,Hamburger SV,1. FC Köln,3-1,2-1
+7,1968-09-20,20:00,Kickers Offenbach,TSV 1860 München,2-3,0-1
+7,1968-09-21,15:30,VfB Stuttgart,Eintracht Braunschweig,2-2,1-2
+7,1968-09-21,15:30,Hannover 96,Alemannia Aachen,5-2,4-0
+7,1968-09-21,15:30,1. FC Nürnberg,Hamburger SV,0-0,0-0
+7,1968-09-21,15:30,1. FC Köln,FC Schalke 04,2-0,1-0
+7,1968-09-21,15:30,Werder Bremen,Eintracht Frankfurt,0-1,0-0
+7,1968-09-21,15:30,Borussia Dortmund,Hertha BSC,2-2,1-1
+7,1968-09-21,15:30,Bayern München,MSV Duisburg,2-2,1-1
+7,1968-09-21,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,4-0,2-0
+8,1968-09-28,15:30,Eintracht Frankfurt,Borussia Dortmund,1-1,0-0
+8,1968-09-28,15:30,Alemannia Aachen,VfB Stuttgart,1-3,0-3
+8,1968-09-28,15:30,Hertha BSC,1. FC Köln,2-1,0-0
+8,1968-09-28,15:30,FC Schalke 04,1. FC Nürnberg,4-1,1-0
+8,1968-09-28,15:30,1. FC Kaiserslautern,Hannover 96,0-0,0-0
+8,1968-09-28,15:30,Hamburger SV,Kickers Offenbach,3-0,1-0
+8,1968-09-28,15:30,MSV Duisburg,Werder Bremen,2-0,0-0
+8,1968-09-28,15:30,TSV 1860 München,Bor. Mönchengladbach,0-4,0-1
+8,1968-09-28,15:30,Eintracht Braunschweig,Bayern München,2-3,1-1
+9,1968-10-05,15:30,1. FC Kaiserslautern,Alemannia Aachen,2-1,1-1
+9,1968-10-05,15:30,1. FC Köln,Eintracht Frankfurt,2-1,1-0
+9,1968-10-05,15:30,1. FC Nürnberg,Hertha BSC,3-0,3-0
+9,1968-10-05,15:30,Kickers Offenbach,FC Schalke 04,1-0,1-0
+9,1968-10-05,15:30,Borussia Dortmund,MSV Duisburg,2-1,1-0
+9,1968-10-05,15:30,Bor. Mönchengladbach,Hamburger SV,1-2,1-2
+9,1968-10-05,15:30,Werder Bremen,Eintracht Braunschweig,2-1,1-1
+9,1968-10-05,15:30,Hannover 96,TSV 1860 München,3-2,1-1
+9,1968-10-05,15:30,Bayern München,VfB Stuttgart,2-0,0-0
+10,1968-10-19,15:30,FC Schalke 04,Bor. Mönchengladbach,1-1,0-1
+10,1968-10-19,15:30,Alemannia Aachen,Bayern München,2-4,1-2
+10,1968-10-19,15:30,TSV 1860 München,1. FC Kaiserslautern,1-0,0-0
+10,1968-10-19,15:30,Hertha BSC,Kickers Offenbach,1-0,1-0
+10,1968-10-19,15:30,Eintracht Frankfurt,1. FC Nürnberg,3-0,0-0
+10,1968-10-19,15:30,MSV Duisburg,1. FC Köln,0-0,0-0
+10,1968-10-19,15:30,Eintracht Braunschweig,Borussia Dortmund,4-3,1-2
+10,1968-10-19,15:30,VfB Stuttgart,Werder Bremen,2-2,1-0
+10,1968-10-19,15:30,Hamburger SV,Hannover 96,1-4,0-2
+11,1968-10-26,15:30,TSV 1860 München,Alemannia Aachen,0-0,0-0
+11,1968-10-26,15:30,Werder Bremen,Bayern München,1-0,0-0
+11,1968-10-26,15:30,Bor. Mönchengladbach,Hertha BSC,0-1,0-1
+11,1968-10-26,15:30,1. FC Nürnberg,MSV Duisburg,1-1,1-0
+11,1968-10-26,15:30,Hannover 96,FC Schalke 04,1-0,1-0
+11,1968-10-26,15:30,Borussia Dortmund,VfB Stuttgart,1-0,0-0
+11,1968-10-26,15:30,1. FC Kaiserslautern,Hamburger SV,0-1,0-0
+11,1968-10-26,15:30,Kickers Offenbach,Eintracht Frankfurt,4-2,1-1
+11,1968-10-26,15:30,1. FC Köln,Eintracht Braunschweig,2-0,1-0
+12,1968-10-30,20:00,Eintracht Braunschweig,1. FC Nürnberg,0-2,0-1
+12,1968-10-30,20:00,FC Schalke 04,1. FC Kaiserslautern,1-0,0-0
+12,1968-10-30,20:00,Bayern München,Borussia Dortmund,4-1,2-0
+12,1968-10-30,20:00,Hamburger SV,TSV 1860 München,2-0,0-0
+12,1968-10-30,20:00,Alemannia Aachen,Werder Bremen,2-1,1-1
+12,1968-10-30,20:00,VfB Stuttgart,1. FC Köln,6-1,3-0
+12,1968-10-30,20:00,Eintracht Frankfurt,Bor. Mönchengladbach,1-1,0-1
+12,1968-10-30,20:00,MSV Duisburg,Kickers Offenbach,2-1,1-0
+12,1968-10-30,20:00,Hertha BSC,Hannover 96,2-1,1-0
+13,1968-11-02,15:30,Kickers Offenbach,Eintracht Braunschweig,0-1,0-0
+13,1968-11-02,15:30,Hamburger SV,Alemannia Aachen,3-0,1-0
+13,1968-11-02,15:30,Borussia Dortmund,Werder Bremen,3-2,2-2
+13,1968-11-02,15:30,1. FC Kaiserslautern,Hertha BSC,1-0,1-0
+13,1968-11-02,15:30,1. FC Nürnberg,VfB Stuttgart,1-1,1-0
+13,1968-11-02,15:30,Bor. Mönchengladbach,MSV Duisburg,1-0,1-0
+13,1968-11-02,15:30,TSV 1860 München,FC Schalke 04,3-1,2-0
+13,1968-11-02,15:30,Hannover 96,Eintracht Frankfurt,1-2,1-1
+13,1968-11-02,15:30,1. FC Köln,Bayern München,1-1,1-0
+14,1968-11-09,15:30,Hertha BSC,TSV 1860 München,1-2,0-1
+14,1968-11-09,15:30,Eintracht Frankfurt,1. FC Kaiserslautern,2-2,1-1
+14,1968-11-09,15:30,Alemannia Aachen,Borussia Dortmund,0-1,0-0
+14,1968-11-09,15:30,MSV Duisburg,Hannover 96,0-0,0-0
+14,1968-11-09,15:30,Werder Bremen,1. FC Köln,3-1,1-0
+14,1968-11-09,15:30,Eintracht Braunschweig,Bor. Mönchengladbach,0-0,0-0
+14,1968-11-09,15:30,FC Schalke 04,Hamburger SV,2-3,1-2
+14,1968-11-09,15:30,VfB Stuttgart,Kickers Offenbach,1-0,0-0
+14,1968-11-12,20:00,Bayern München,1. FC Nürnberg,3-0,1-0
+15,1968-11-16,15:30,Hannover 96,Eintracht Braunschweig,1-1,1-1
+15,1968-11-16,15:30,Kickers Offenbach,Bayern München,0-0,0-0
+15,1968-11-16,15:30,Hamburger SV,Hertha BSC,0-0,0-0
+15,1968-11-16,15:30,1. FC Nürnberg,Werder Bremen,1-1,1-1
+15,1968-11-16,15:30,Alemannia Aachen,FC Schalke 04,4-1,2-0
+15,1968-11-16,15:30,Borussia Dortmund,1. FC Köln,1-1,0-0
+15,1968-11-16,15:30,TSV 1860 München,Eintracht Frankfurt,1-0,0-0
+15,1968-11-16,15:30,Bor. Mönchengladbach,VfB Stuttgart,4-4,2-1
+15,1968-11-16,15:30,1. FC Kaiserslautern,MSV Duisburg,3-0,1-0
+16,1968-11-29,20:00,Werder Bremen,Kickers Offenbach,2-0,1-0
+16,1968-11-30,15:30,Eintracht Braunschweig,1. FC Kaiserslautern,3-0,2-0
+16,1968-11-30,15:30,VfB Stuttgart,Hannover 96,1-0,0-0
+16,1968-11-30,15:30,1. FC Köln,Alemannia Aachen,1-2,0-1
+16,1968-11-30,15:30,Borussia Dortmund,1. FC Nürnberg,3-1,2-0
+16,1968-11-30,15:30,Eintracht Frankfurt,Hamburger SV,2-2,1-0
+16,1968-11-30,15:30,MSV Duisburg,TSV 1860 München,3-4,1-2
+16,1968-11-30,15:30,Hertha BSC,FC Schalke 04,1-0,1-0
+16,1968-11-30,18:30,Bayern München,Bor. Mönchengladbach,0-0,0-0
+17,1968-12-06,20:00,Bor. Mönchengladbach,Werder Bremen,1-1,0-0
+17,1968-12-07,15:30,1. FC Nürnberg,1. FC Köln,0-1,0-0
+17,1968-12-07,15:30,Hamburger SV,MSV Duisburg,1-2,0-0
+17,1968-12-07,15:30,FC Schalke 04,Eintracht Frankfurt,2-0,1-0
+17,1968-12-07,15:30,Hannover 96,Bayern München,1-0,0-0
+17,1968-12-07,15:30,1. FC Kaiserslautern,VfB Stuttgart,1-3,1-0
+17,1968-12-07,15:30,Kickers Offenbach,Borussia Dortmund,4-3,0-2
+17,1968-12-07,17:30,TSV 1860 München,Eintracht Braunschweig,0-1,0-1
+17,1968-12-07,19:30,Alemannia Aachen,Hertha BSC,0-0,0-0
+18,1969-01-11,15:30,Alemannia Aachen,1. FC Nürnberg,4-2,0-1
+18,1969-01-11,15:30,1. FC Kaiserslautern,Bayern München,3-1,2-0
+18,1969-01-11,15:30,Kickers Offenbach,1. FC Köln,3-1,2-0
+18,1969-01-11,15:30,FC Schalke 04,MSV Duisburg,1-0,1-0
+18,1969-01-11,15:30,Bor. Mönchengladbach,Borussia Dortmund,1-0,0-0
+18,1969-01-11,15:30,Hamburger SV,Eintracht Braunschweig,0-0,0-0
+18,1969-01-11,15:30,Hannover 96,Werder Bremen,1-0,1-0
+18,1969-01-11,15:30,TSV 1860 München,VfB Stuttgart,3-1,0-0
+18,1969-03-12,20:00,Hertha BSC,Eintracht Frankfurt,2-0,0-0
+19,1969-01-18,15:30,MSV Duisburg,Hertha BSC,2-1,2-1
+19,1969-01-18,15:30,1. FC Köln,Bor. Mönchengladbach,1-4,0-2
+19,1969-01-18,15:30,1. FC Nürnberg,Kickers Offenbach,2-2,2-2
+19,1969-01-18,15:30,Eintracht Braunschweig,FC Schalke 04,3-0,2-0
+19,1969-01-18,15:30,Borussia Dortmund,Hannover 96,1-1,0-1
+19,1969-01-18,15:30,VfB Stuttgart,Hamburger SV,3-0,0-0
+19,1969-01-18,15:30,Werder Bremen,1. FC Kaiserslautern,2-1,0-0
+19,1969-01-18,15:30,Bayern München,TSV 1860 München,0-2,0-0
+19,1969-01-18,15:30,Eintracht Frankfurt,Alemannia Aachen,0-1,0-1
+20,1969-01-25,15:30,Eintracht Frankfurt,MSV Duisburg,2-1,1-0
+20,1969-01-25,15:30,FC Schalke 04,VfB Stuttgart,1-1,0-0
+20,1969-01-25,15:30,Bor. Mönchengladbach,1. FC Nürnberg,1-1,0-1
+20,1969-01-25,15:30,Hamburger SV,Bayern München,2-2,1-1
+20,1969-01-25,15:30,Hannover 96,1. FC Köln,3-0,2-0
+20,1969-01-25,15:30,Alemannia Aachen,Kickers Offenbach,1-2,1-2
+20,1969-01-25,15:30,1. FC Kaiserslautern,Borussia Dortmund,1-2,1-1
+20,1969-01-25,15:30,TSV 1860 München,Werder Bremen,4-3,2-1
+20,1969-04-03,20:00,Hertha BSC,Eintracht Braunschweig,0-0,0-0
+21,1969-01-31,20:00,Borussia Dortmund,TSV 1860 München,2-0,2-0
+21,1969-02-01,15:30,VfB Stuttgart,Hertha BSC,4-2,1-2
+21,1969-02-01,15:30,Kickers Offenbach,Bor. Mönchengladbach,1-0,0-0
+21,1969-02-01,15:30,MSV Duisburg,Alemannia Aachen,1-1,0-0
+21,1969-02-01,15:30,1. FC Nürnberg,Hannover 96,1-2,1-1
+21,1969-02-01,15:30,Bayern München,FC Schalke 04,0-0,0-0
+21,1969-02-01,15:30,Werder Bremen,Hamburger SV,1-1,1-0
+21,1969-02-01,15:30,1. FC Köln,1. FC Kaiserslautern,2-1,0-0
+21,1969-02-01,15:30,Eintracht Braunschweig,Eintracht Frankfurt,1-0,1-0
+22,1969-02-08,15:30,TSV 1860 München,1. FC Köln,2-1,0-1
+22,1969-02-08,15:30,Hertha BSC,Bayern München,1-2,1-1
+22,1969-02-08,15:30,1. FC Kaiserslautern,1. FC Nürnberg,1-1,1-0
+22,1969-02-08,15:30,FC Schalke 04,Werder Bremen,2-1,0-0
+22,1969-02-08,15:30,Hamburger SV,Borussia Dortmund,2-0,2-0
+22,1969-02-08,15:30,Alemannia Aachen,Bor. Mönchengladbach,2-1,2-1
+22,1969-02-08,15:30,Eintracht Frankfurt,VfB Stuttgart,3-0,1-0
+22,1969-02-08,15:30,Hannover 96,Kickers Offenbach,2-2,1-1
+22,1969-02-08,15:30,MSV Duisburg,Eintracht Braunschweig,1-1,1-1
+23,1969-02-22,15:30,VfB Stuttgart,MSV Duisburg,3-2,0-0
+23,1969-02-22,15:30,1. FC Nürnberg,TSV 1860 München,3-0,1-0
+23,1969-02-22,15:30,Bayern München,Eintracht Frankfurt,2-0,2-0
+23,1969-03-11,20:00,Borussia Dortmund,FC Schalke 04,0-1,0-1
+23,1969-03-12,20:00,Bor. Mönchengladbach,Hannover 96,3-2,2-1
+23,1969-03-12,20:00,Kickers Offenbach,1. FC Kaiserslautern,4-1,1-0
+23,1969-04-08,20:00,Eintracht Braunschweig,Alemannia Aachen,2-0,0-0
+23,1969-04-08,20:00,Werder Bremen,Hertha BSC,2-0,0-0
+23,1969-04-30,20:00,1. FC Köln,Hamburger SV,4-1,3-0
+24,1969-03-01,15:30,TSV 1860 München,Kickers Offenbach,2-0,1-0
+24,1969-03-01,15:30,Eintracht Braunschweig,VfB Stuttgart,1-2,0-1
+24,1969-03-01,15:30,Alemannia Aachen,Hannover 96,2-0,0-0
+24,1969-03-01,15:30,FC Schalke 04,1. FC Köln,3-1,2-1
+24,1969-03-01,15:30,Eintracht Frankfurt,Werder Bremen,2-1,1-1
+24,1969-03-01,15:30,MSV Duisburg,Bayern München,0-0,0-0
+24,1969-03-01,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,2-0,1-0
+24,1969-04-09,20:00,Hamburger SV,1. FC Nürnberg,4-2,0-0
+24,1969-05-03,15:30,Hertha BSC,Borussia Dortmund,0-0,0-0
+25,1969-03-07,20:00,Borussia Dortmund,Eintracht Frankfurt,0-1,0-1
+25,1969-03-08,15:30,VfB Stuttgart,Alemannia Aachen,3-1,0-0
+25,1969-03-08,15:30,1. FC Köln,Hertha BSC,1-0,0-0
+25,1969-03-08,15:30,1. FC Nürnberg,FC Schalke 04,1-1,1-1
+25,1969-03-08,15:30,Kickers Offenbach,Hamburger SV,1-1,1-1
+25,1969-03-08,15:30,Werder Bremen,MSV Duisburg,2-1,0-1
+25,1969-03-08,15:30,Bor. Mönchengladbach,TSV 1860 München,3-0,1-0
+25,1969-03-08,15:30,Bayern München,Eintracht Braunschweig,2-1,1-1
+25,1969-04-09,20:00,Hannover 96,1. FC Kaiserslautern,0-2,0-1
+26,1969-03-15,15:30,Alemannia Aachen,1. FC Kaiserslautern,1-0,0-0
+26,1969-03-15,15:30,Eintracht Frankfurt,1. FC Köln,1-2,0-2
+26,1969-03-15,15:30,Hertha BSC,1. FC Nürnberg,2-0,0-0
+26,1969-03-15,15:30,FC Schalke 04,Kickers Offenbach,3-0,0-0
+26,1969-03-15,15:30,MSV Duisburg,Borussia Dortmund,2-0,1-0
+26,1969-03-15,15:30,TSV 1860 München,Hannover 96,2-1,1-1
+26,1969-03-15,15:30,VfB Stuttgart,Bayern München,3-0,2-0
+26,1969-04-22,20:00,Eintracht Braunschweig,Werder Bremen,0-3,0-0
+26,1969-05-03,15:30,Hamburger SV,Bor. Mönchengladbach,2-0,1-0
+27,1969-03-21,20:00,Bor. Mönchengladbach,FC Schalke 04,3-0,1-0
+27,1969-03-22,15:30,Bayern München,Alemannia Aachen,1-1,0-1
+27,1969-03-22,15:30,1. FC Kaiserslautern,TSV 1860 München,3-1,2-1
+27,1969-03-22,15:30,Kickers Offenbach,Hertha BSC,1-0,1-0
+27,1969-03-22,15:30,1. FC Nürnberg,Eintracht Frankfurt,1-0,1-0
+27,1969-03-22,15:30,1. FC Köln,MSV Duisburg,1-1,0-1
+27,1969-03-22,15:30,Borussia Dortmund,Eintracht Braunschweig,2-1,1-0
+27,1969-03-22,15:30,Werder Bremen,VfB Stuttgart,1-0,1-0
+27,1969-03-22,15:30,Hannover 96,Hamburger SV,2-2,2-1
+28,1969-03-29,15:30,Alemannia Aachen,TSV 1860 München,4-0,2-0
+28,1969-03-29,15:30,Bayern München,Werder Bremen,6-0,2-0
+28,1969-03-29,15:30,Hertha BSC,Bor. Mönchengladbach,2-1,1-0
+28,1969-03-29,15:30,MSV Duisburg,1. FC Nürnberg,1-0,0-0
+28,1969-03-29,15:30,FC Schalke 04,Hannover 96,1-1,1-1
+28,1969-03-29,15:30,VfB Stuttgart,Borussia Dortmund,2-2,1-0
+28,1969-03-29,15:30,Hamburger SV,1. FC Kaiserslautern,3-1,1-1
+28,1969-03-29,15:30,Eintracht Frankfurt,Kickers Offenbach,3-2,1-1
+28,1969-05-03,15:30,Eintracht Braunschweig,1. FC Köln,2-1,2-1
+29,1969-04-09,20:00,1. FC Köln,VfB Stuttgart,5-2,3-1
+29,1969-04-19,15:30,1. FC Nürnberg,Eintracht Braunschweig,2-0,1-0
+29,1969-04-19,15:30,1. FC Kaiserslautern,FC Schalke 04,1-1,1-0
+29,1969-04-19,15:30,Borussia Dortmund,Bayern München,0-1,0-0
+29,1969-04-19,15:30,TSV 1860 München,Hamburger SV,3-3,1-1
+29,1969-04-19,15:30,Werder Bremen,Alemannia Aachen,1-2,1-0
+29,1969-04-19,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,2-3,1-2
+29,1969-04-19,15:30,Kickers Offenbach,MSV Duisburg,0-0,0-0
+29,1969-04-19,15:30,Hannover 96,Hertha BSC,1-1,1-1
+30,1969-04-12,15:30,Eintracht Braunschweig,Kickers Offenbach,2-2,1-1
+30,1969-04-26,15:30,Alemannia Aachen,Hamburger SV,2-0,0-0
+30,1969-04-26,15:30,Werder Bremen,Borussia Dortmund,2-1,2-1
+30,1969-04-26,15:30,Hertha BSC,1. FC Kaiserslautern,1-0,1-0
+30,1969-04-26,15:30,VfB Stuttgart,1. FC Nürnberg,2-3,1-3
+30,1969-04-26,15:30,MSV Duisburg,Bor. Mönchengladbach,1-1,1-1
+30,1969-04-26,15:30,FC Schalke 04,TSV 1860 München,2-0,1-0
+30,1969-04-26,15:30,Eintracht Frankfurt,Hannover 96,0-0,0-0
+30,1969-04-26,15:30,Bayern München,1. FC Köln,1-0,0-0
+31,1969-05-16,20:00,Borussia Dortmund,Alemannia Aachen,3-1,1-0
+31,1969-05-17,15:30,TSV 1860 München,Hertha BSC,0-1,0-0
+31,1969-05-17,15:30,1. FC Kaiserslautern,Eintracht Frankfurt,2-2,0-1
+31,1969-05-17,15:30,Hannover 96,MSV Duisburg,1-1,1-0
+31,1969-05-17,15:30,1. FC Köln,Werder Bremen,3-3,3-2
+31,1969-05-17,15:30,Bor. Mönchengladbach,Eintracht Braunschweig,1-1,0-1
+31,1969-05-17,15:30,Hamburger SV,FC Schalke 04,1-3,1-1
+31,1969-05-17,15:30,Kickers Offenbach,VfB Stuttgart,2-1,1-1
+31,1969-05-17,15:30,1. FC Nürnberg,Bayern München,2-0,2-0
+32,1969-05-23,20:00,Eintracht Braunschweig,Hannover 96,3-3,2-1
+32,1969-05-23,20:00,Werder Bremen,1. FC Nürnberg,3-3,2-1
+32,1969-05-23,20:00,Eintracht Frankfurt,TSV 1860 München,3-0,2-0
+32,1969-05-24,15:30,Bayern München,Kickers Offenbach,5-1,4-1
+32,1969-05-24,15:30,Hertha BSC,Hamburger SV,3-2,1-0
+32,1969-05-24,15:30,FC Schalke 04,Alemannia Aachen,3-1,1-1
+32,1969-05-24,15:30,1. FC Köln,Borussia Dortmund,2-1,2-1
+32,1969-05-24,15:30,VfB Stuttgart,Bor. Mönchengladbach,0-3,0-1
+32,1969-05-24,15:30,MSV Duisburg,1. FC Kaiserslautern,0-0,0-0
+33,1969-05-30,20:00,1. FC Kaiserslautern,Eintracht Braunschweig,4-0,2-0
+33,1969-05-31,15:30,Kickers Offenbach,Werder Bremen,0-3,0-2
+33,1969-05-31,15:30,Hannover 96,VfB Stuttgart,1-0,1-0
+33,1969-05-31,15:30,Alemannia Aachen,1. FC Köln,2-1,1-0
+33,1969-05-31,15:30,Bor. Mönchengladbach,Bayern München,1-1,1-1
+33,1969-05-31,15:30,1. FC Nürnberg,Borussia Dortmund,2-2,1-1
+33,1969-05-31,15:30,Hamburger SV,Eintracht Frankfurt,1-4,0-2
+33,1969-05-31,15:30,TSV 1860 München,MSV Duisburg,2-1,2-0
+33,1969-05-31,15:30,FC Schalke 04,Hertha BSC,2-0,2-0
+34,1969-06-07,15:30,Werder Bremen,Bor. Mönchengladbach,6-5,4-3
+34,1969-06-07,15:30,1. FC Köln,1. FC Nürnberg,3-0,0-0
+34,1969-06-07,15:30,Hertha BSC,Alemannia Aachen,0-1,0-1
+34,1969-06-07,15:30,MSV Duisburg,Hamburger SV,0-0,0-0
+34,1969-06-07,15:30,Eintracht Frankfurt,FC Schalke 04,1-0,0-0
+34,1969-06-07,15:30,Eintracht Braunschweig,TSV 1860 München,2-1,1-1
+34,1969-06-07,15:30,Bayern München,Hannover 96,2-1,1-1
+34,1969-06-07,15:30,VfB Stuttgart,1. FC Kaiserslautern,4-3,2-1
+34,1969-06-07,15:30,Borussia Dortmund,Kickers Offenbach,3-0,2-0

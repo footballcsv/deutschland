@@ -1,307 +1,307 @@
-Date,Team 1,Team 2,FT,HT
-2004-08-06,Werder Bremen,Schalke 04,1-0,0-0
-2004-08-07,Dortmund,Wolfsburg,1-2,1-1
-2004-08-07,Freiburg,Hansa Rostock,0-0,0-0
-2004-08-07,Hamburg,Bayern München,0-2,0-1
-2004-08-07,Hertha,Bochum,2-2,2-0
-2004-08-07,Kaiserslautern,Nürnberg,1-3,0-1
-2004-08-07,Leverkusen,Hannover,2-1,0-1
-2004-08-08,Bielefeld,M'gladbach,0-0,0-0
-2004-08-08,Stuttgart,Mainz,4-2,2-0
-2004-08-14,Bayern München,Hertha,1-1,0-1
-2004-08-14,Hansa Rostock,Werder Bremen,0-4,0-0
-2004-08-14,Mainz,Hamburg,2-1,0-1
-2004-08-14,M'gladbach,Dortmund,2-3,2-3
-2004-08-14,Nürnberg,Stuttgart,1-1,1-1
-2004-08-14,Schalke 04,Kaiserslautern,2-1,1-1
-2004-08-15,Bochum,Leverkusen,2-2,1-0
-2004-08-15,Wolfsburg,Freiburg,0-1,0-0
-2004-08-28,Bielefeld,Bochum,1-2,0-1
-2004-08-28,Freiburg,M'gladbach,1-1,1-0
-2004-08-28,Hamburg,Nürnberg,4-3,2-1
-2004-08-28,Hertha,Mainz,1-1,0-0
-2004-08-28,Kaiserslautern,Stuttgart,2-3,2-1
-2004-08-28,Leverkusen,Bayern München,4-1,1-0
-2004-08-28,Schalke 04,Hansa Rostock,0-2,0-1
-2004-08-29,Dortmund,Hannover,1-1,1-0
-2004-08-29,Werder Bremen,Wolfsburg,1-2,0-0
-2004-09-11,Bayern München,Bielefeld,1-0,1-0
-2004-09-11,Bochum,Dortmund,2-2,1-0
-2004-09-11,Mainz,Leverkusen,2-0,0-0
-2004-09-11,M'gladbach,Werder Bremen,3-1,1-0
-2004-09-11,Nürnberg,Hertha,0-0,0-0
-2004-09-11,Stuttgart,Hamburg,2-0,1-0
-2004-09-11,Wolfsburg,Schalke 04,3-0,2-0
-2004-09-12,Hannover,Freiburg,2-2,2-0
-2004-09-12,Hansa Rostock,Kaiserslautern,2-3,0-2
-2004-09-18,Bielefeld,Mainz,1-1,0-0
-2004-09-18,Dortmund,Bayern München,2-2,1-0
-2004-09-18,Hansa Rostock,Wolfsburg,1-2,1-1
-2004-09-18,Kaiserslautern,Hamburg,2-1,1-0
-2004-09-18,Leverkusen,Nürnberg,2-2,0-1
-2004-09-18,Schalke 04,M'gladbach,3-2,1-1
-2004-09-18,Werder Bremen,Hannover,3-0,1-0
-2004-09-19,Freiburg,Bochum,1-1,0-0
-2004-09-19,Hertha,Stuttgart,0-0,0-0
-2004-09-25,Bayern München,Freiburg,3-1,2-1
-2004-09-25,Bochum,Werder Bremen,1-4,0-0
-2004-09-25,Hannover,Schalke 04,1-0,0-0
-2004-09-25,M'gladbach,Hansa Rostock,2-2,2-0
-2004-09-25,Nürnberg,Bielefeld,1-2,0-1
-2004-09-25,Stuttgart,Leverkusen,3-0,2-0
-2004-09-25,Wolfsburg,Kaiserslautern,2-1,1-0
-2004-09-26,Hamburg,Hertha,2-1,1-1
-2004-09-26,Mainz,Dortmund,1-1,0-1
-2004-09-28,Hannover,Bielefeld,0-1,0-0
-2004-10-02,Dortmund,Nürnberg,2-2,2-2
-2004-10-02,Freiburg,Mainz,1-2,0-1
-2004-10-02,Hansa Rostock,Hannover,1-3,0-2
-2004-10-02,Kaiserslautern,Hertha,0-2,0-1
-2004-10-02,Leverkusen,Hamburg,3-0,1-0
-2004-10-02,Werder Bremen,Bayern München,1-2,0-1
-2004-10-02,Wolfsburg,M'gladbach,2-1,2-1
-2004-10-03,Bielefeld,Stuttgart,0-2,0-1
-2004-10-03,Schalke 04,Bochum,3-2,3-0
-2004-10-16,Bayern München,Schalke 04,0-1,0-0
-2004-10-16,Bochum,Hansa Rostock,0-1,0-0
-2004-10-16,Hamburg,Bielefeld,0-2,0-0
-2004-10-16,Hertha,Leverkusen,3-1,1-0
-2004-10-16,Mainz,Werder Bremen,2-1,0-0
-2004-10-16,Nürnberg,Freiburg,3-0,1-0
-2004-10-16,Stuttgart,Dortmund,2-0,0-0
-2004-10-17,Hannover,Wolfsburg,3-0,1-0
-2004-10-17,M'gladbach,Kaiserslautern,2-0,0-0
-2004-10-23,Bielefeld,Hertha,1-0,1-0
-2004-10-23,Dortmund,Hamburg,0-2,0-1
-2004-10-23,Hansa Rostock,Bayern München,0-2,0-0
-2004-10-23,Kaiserslautern,Leverkusen,0-0,0-0
-2004-10-23,M'gladbach,Hannover,0-2,0-2
-2004-10-23,Werder Bremen,Nürnberg,4-1,2-0
-2004-10-23,Wolfsburg,Bochum,3-0,3-0
-2004-10-24,Freiburg,Stuttgart,2-0,1-0
-2004-10-24,Schalke 04,Mainz,2-1,1-0
-2004-10-26,Bayern München,Wolfsburg,2-0,2-0
-2004-10-26,Bochum,M'gladbach,3-0,0-0
-2004-10-26,Hannover,Kaiserslautern,3-1,1-1
-2004-10-26,Hertha,Dortmund,0-1,0-1
-2004-10-27,Hamburg,Freiburg,4-0,2-0
-2004-10-27,Leverkusen,Bielefeld,3-2,0-1
-2004-10-27,Mainz,Hansa Rostock,3-1,0-0
-2004-10-27,Nürnberg,Schalke 04,0-2,0-2
-2004-10-27,Stuttgart,Werder Bremen,1-2,1-0
-2004-10-30,Dortmund,Leverkusen,1-0,1-0
-2004-10-30,Freiburg,Hertha,1-3,1-1
-2004-10-30,Hannover,Bochum,3-0,1-0
-2004-10-30,M'gladbach,Bayern München,2-0,0-0
-2004-10-30,Schalke 04,Stuttgart,3-2,3-2
-2004-10-30,Werder Bremen,Hamburg,1-1,0-1
-2004-10-30,Wolfsburg,Mainz,4-3,2-2
-2004-10-31,Hansa Rostock,Nürnberg,0-2,0-0
-2004-10-31,Kaiserslautern,Bielefeld,2-1,0-0
-2004-11-06,Bayern München,Hannover,3-0,1-0
-2004-11-06,Bielefeld,Dortmund,1-0,1-0
-2004-11-06,Bochum,Kaiserslautern,1-1,0-1
-2004-11-06,Hertha,Werder Bremen,1-1,0-0
-2004-11-06,Leverkusen,Freiburg,4-1,0-1
-2004-11-06,Mainz,M'gladbach,1-1,0-1
-2004-11-06,Nürnberg,Wolfsburg,4-0,3-0
-2004-11-07,Hamburg,Schalke 04,1-2,0-0
-2004-11-07,Stuttgart,Hansa Rostock,4-0,2-0
-2004-11-13,Freiburg,Bielefeld,2-3,2-2
-2004-11-13,Hannover,Mainz,2-0,1-0
-2004-11-13,Kaiserslautern,Dortmund,1-0,0-0
-2004-11-13,M'gladbach,Nürnberg,2-1,1-0
-2004-11-13,Schalke 04,Hertha,1-3,0-1
-2004-11-13,Werder Bremen,Leverkusen,2-2,1-0
-2004-11-13,Wolfsburg,Stuttgart,3-0,1-0
-2004-11-14,Bochum,Bayern München,1-3,0-0
-2004-11-14,Hansa Rostock,Hamburg,0-6,0-3
-2004-11-20,Bayern München,Kaiserslautern,3-1,2-1
-2004-11-20,Bielefeld,Werder Bremen,2-1,1-0
-2004-11-20,Dortmund,Freiburg,2-0,1-0
-2004-11-20,Hertha,Hansa Rostock,1-1,0-1
-2004-11-20,Leverkusen,Schalke 04,0-3,0-2
-2004-11-20,Mainz,Bochum,1-0,1-0
-2004-11-20,Stuttgart,M'gladbach,1-0,0-0
-2004-11-21,Hamburg,Wolfsburg,3-1,2-1
-2004-11-21,Nürnberg,Hannover,1-1,0-0
-2004-11-27,Bayern München,Mainz,4-2,3-0
-2004-11-27,Bochum,Nürnberg,3-1,2-0
-2004-11-27,Hansa Rostock,Leverkusen,0-2,0-1
-2004-11-27,Kaiserslautern,Freiburg,3-0,1-0
-2004-11-27,M'gladbach,Hamburg,1-3,0-2
-2004-11-27,Werder Bremen,Dortmund,2-0,1-0
-2004-11-27,Wolfsburg,Hertha,2-3,0-1
-2004-11-28,Hannover,Stuttgart,0-0,0-0
-2004-11-28,Schalke 04,Bielefeld,2-1,2-1
-2004-12-04,Bielefeld,Hansa Rostock,1-1,0-0
-2004-12-04,Freiburg,Werder Bremen,0-6,0-3
-2004-12-04,Hamburg,Hannover,0-2,0-1
-2004-12-04,Hertha,M'gladbach,6-0,1-0
-2004-12-04,Leverkusen,Wolfsburg,2-1,0-1
-2004-12-04,Nürnberg,Bayern München,2-2,1-1
-2004-12-04,Stuttgart,Bochum,5-2,2-1
-2004-12-05,Dortmund,Schalke 04,0-1,0-1
-2004-12-05,Kaiserslautern,Mainz,2-0,1-0
-2004-12-11,Bayern München,Stuttgart,2-2,0-1
-2004-12-11,Bochum,Hamburg,1-2,0-2
-2004-12-11,Hannover,Hertha,0-1,0-0
-2004-12-11,Hansa Rostock,Dortmund,1-1,1-1
-2004-12-11,Mainz,Nürnberg,0-1,0-1
-2004-12-11,Schalke 04,Freiburg,1-1,1-0
-2004-12-11,Werder Bremen,Kaiserslautern,1-1,0-0
-2004-12-12,M'gladbach,Leverkusen,1-1,0-0
-2004-12-12,Wolfsburg,Bielefeld,5-0,4-0
-2005-01-21,Bayern München,Hamburg,3-0,1-0
-2005-01-22,Hansa Rostock,Freiburg,0-0,0-0
-2005-01-22,Mainz,Stuttgart,2-3,1-0
-2005-01-22,M'gladbach,Bielefeld,1-0,0-0
-2005-01-22,Nürnberg,Kaiserslautern,1-3,0-0
-2005-01-22,Schalke 04,Werder Bremen,2-1,0-0
-2005-01-22,Wolfsburg,Dortmund,1-2,0-0
-2005-01-23,Bochum,Hertha,2-2,1-2
-2005-01-23,Hannover,Leverkusen,0-3,0-2
-2005-01-29,Bielefeld,Hannover,0-1,0-1
-2005-01-29,Dortmund,M'gladbach,1-1,1-0
-2005-01-29,Freiburg,Wolfsburg,1-0,0-0
-2005-01-29,Hamburg,Mainz,2-1,1-1
-2005-01-29,Kaiserslautern,Schalke 04,2-0,0-0
-2005-01-29,Leverkusen,Bochum,4-0,2-0
-2005-01-29,Stuttgart,Nürnberg,2-4,0-2
-2005-01-30,Hertha,Bayern München,0-0,0-0
-2005-01-30,Werder Bremen,Hansa Rostock,3-2,2-1
-2005-02-05,Bayern München,Leverkusen,2-0,1-0
-2005-02-05,Bochum,Bielefeld,1-1,1-1
-2005-02-05,Hannover,Dortmund,1-3,0-2
-2005-02-05,Hansa Rostock,Schalke 04,2-2,0-1
-2005-02-05,Mainz,Hertha,0-3,0-1
-2005-02-05,Nürnberg,Hamburg,1-3,0-1
-2005-02-05,Stuttgart,Kaiserslautern,1-1,1-0
-2005-02-06,M'gladbach,Freiburg,3-2,2-1
-2005-02-06,Wolfsburg,Werder Bremen,2-3,1-0
-2005-02-12,Dortmund,Bochum,1-0,1-0
-2005-02-12,Freiburg,Hannover,0-0,0-0
-2005-02-12,Hamburg,Stuttgart,2-1,1-1
-2005-02-12,Hertha,Nürnberg,2-1,1-0
-2005-02-12,Kaiserslautern,Hansa Rostock,2-1,1-0
-2005-02-12,Schalke 04,Wolfsburg,3-0,2-0
-2005-02-12,Werder Bremen,M'gladbach,2-0,1-0
-2005-02-13,Bielefeld,Bayern München,3-1,1-0
-2005-02-13,Leverkusen,Mainz,2-0,0-0
-2005-02-19,Bayern München,Dortmund,5-0,4-0
-2005-02-19,Bochum,Freiburg,3-1,1-0
-2005-02-19,Hamburg,Kaiserslautern,2-1,2-0
-2005-02-19,Hannover,Werder Bremen,1-4,1-2
-2005-02-19,Mainz,Bielefeld,0-0,0-0
-2005-02-19,Nürnberg,Leverkusen,2-4,1-2
-2005-02-19,Wolfsburg,Hansa Rostock,4-0,2-0
-2005-02-20,M'gladbach,Schalke 04,1-3,1-1
-2005-02-20,Stuttgart,Hertha,1-0,1-0
-2005-02-26,Bielefeld,Nürnberg,3-1,2-1
-2005-02-26,Dortmund,Mainz,3-0,1-0
-2005-02-26,Freiburg,Bayern München,0-1,0-0
-2005-02-26,Hansa Rostock,M'gladbach,0-0,0-0
-2005-02-26,Hertha,Hamburg,4-1,3-0
-2005-02-26,Kaiserslautern,Wolfsburg,0-0,0-0
-2005-02-26,Werder Bremen,Bochum,4-0,1-0
-2005-02-27,Leverkusen,Stuttgart,1-1,0-0
-2005-02-27,Schalke 04,Hannover,1-0,0-0
-2005-03-05,Bayern München,Werder Bremen,1-0,1-0
-2005-03-05,Bochum,Schalke 04,0-2,0-1
-2005-03-05,Hamburg,Leverkusen,1-0,1-0
-2005-03-05,Hannover,Hansa Rostock,0-1,0-1
-2005-03-05,Mainz,Freiburg,5-0,3-0
-2005-03-05,M'gladbach,Wolfsburg,1-0,0-0
-2005-03-05,Stuttgart,Bielefeld,2-1,0-0
-2005-03-06,Hertha,Kaiserslautern,1-1,0-0
-2005-03-06,Nürnberg,Dortmund,2-2,0-0
-2005-03-12,Bielefeld,Hamburg,3-4,2-3
-2005-03-12,Freiburg,Nürnberg,2-3,1-1
-2005-03-12,Hansa Rostock,Bochum,3-1,1-0
-2005-03-12,Kaiserslautern,M'gladbach,1-0,1-0
-2005-03-12,Leverkusen,Hertha,3-3,2-2
-2005-03-12,Werder Bremen,Mainz,0-0,0-0
-2005-03-12,Wolfsburg,Hannover,1-0,1-0
-2005-03-13,Dortmund,Stuttgart,0-2,0-1
-2005-03-13,Schalke 04,Bayern München,1-0,0-0
-2005-03-19,Bayern München,Hansa Rostock,3-1,1-1
-2005-03-19,Bochum,Wolfsburg,5-1,4-0
-2005-03-19,Hamburg,Dortmund,2-3,1-1
-2005-03-19,Hannover,M'gladbach,2-1,0-1
-2005-03-19,Hertha,Bielefeld,3-0,1-0
-2005-03-19,Leverkusen,Kaiserslautern,2-0,1-0
-2005-03-19,Nürnberg,Werder Bremen,1-2,0-2
-2005-03-20,Mainz,Schalke 04,2-1,1-0
-2005-03-20,Stuttgart,Freiburg,1-0,1-0
-2005-04-02,Bielefeld,Leverkusen,1-0,0-0
-2005-04-02,Freiburg,Hamburg,1-1,1-1
-2005-04-02,Hansa Rostock,Mainz,2-0,1-0
-2005-04-02,Kaiserslautern,Hannover,0-2,0-0
-2005-04-02,Schalke 04,Nürnberg,4-1,3-0
-2005-04-02,Werder Bremen,Stuttgart,1-2,0-0
-2005-04-02,Wolfsburg,Bayern München,0-3,0-2
-2005-04-03,Dortmund,Hertha,2-1,2-0
-2005-04-03,M'gladbach,Bochum,2-2,1-0
-2005-04-09,Bayern München,M'gladbach,2-1,0-0
-2005-04-09,Bochum,Hannover,1-0,0-0
-2005-04-09,Hamburg,Werder Bremen,1-2,0-1
-2005-04-09,Hertha,Freiburg,3-1,2-0
-2005-04-09,Leverkusen,Dortmund,0-1,0-0
-2005-04-09,Mainz,Wolfsburg,0-2,0-0
-2005-04-09,Stuttgart,Schalke 04,3-0,1-0
-2005-04-10,Bielefeld,Kaiserslautern,0-2,0-2
-2005-04-10,Nürnberg,Hansa Rostock,3-0,0-0
-2005-04-16,Dortmund,Bielefeld,1-1,1-0
-2005-04-16,Freiburg,Leverkusen,1-3,1-1
-2005-04-16,Hannover,Bayern München,0-1,0-0
-2005-04-16,Hansa Rostock,Stuttgart,2-1,1-0
-2005-04-16,M'gladbach,Mainz,1-1,0-0
-2005-04-16,Schalke 04,Hamburg,1-2,1-0
-2005-04-16,Werder Bremen,Hertha,0-1,0-1
-2005-04-17,Kaiserslautern,Bochum,1-2,0-1
-2005-04-17,Wolfsburg,Nürnberg,0-1,0-0
-2005-04-23,Bayern München,Bochum,3-1,2-0
-2005-04-23,Bielefeld,Freiburg,3-1,1-1
-2005-04-23,Dortmund,Kaiserslautern,4-2,2-2
-2005-04-23,Hamburg,Hansa Rostock,3-0,0-0
-2005-04-23,Hertha,Schalke 04,4-1,2-1
-2005-04-23,Mainz,Hannover,2-0,1-0
-2005-04-23,Stuttgart,Wolfsburg,0-0,0-0
-2005-04-24,Leverkusen,Werder Bremen,2-1,2-1
-2005-04-24,Nürnberg,M'gladbach,0-0,0-0
-2005-04-30,Bochum,Mainz,2-6,1-1
-2005-04-30,Freiburg,Dortmund,2-2,1-2
-2005-04-30,Hansa Rostock,Hertha,2-1,1-0
-2005-04-30,Kaiserslautern,Bayern München,0-4,0-2
-2005-04-30,M'gladbach,Stuttgart,2-0,2-0
-2005-04-30,Schalke 04,Leverkusen,3-3,3-1
-2005-04-30,Werder Bremen,Bielefeld,3-0,1-0
-2005-05-01,Hannover,Nürnberg,1-0,0-0
-2005-05-01,Wolfsburg,Hamburg,1-0,1-0
-2005-05-07,Bielefeld,Schalke 04,0-2,0-1
-2005-05-07,Freiburg,Kaiserslautern,1-2,0-2
-2005-05-07,Hertha,Wolfsburg,3-1,0-1
-2005-05-07,Leverkusen,Hansa Rostock,3-0,1-0
-2005-05-07,Mainz,Bayern München,2-4,1-2
-2005-05-07,Nürnberg,Bochum,2-1,1-0
-2005-05-07,Stuttgart,Hannover,1-0,0-0
-2005-05-08,Dortmund,Werder Bremen,1-0,1-0
-2005-05-08,Hamburg,M'gladbach,0-0,0-0
-2005-05-14,Bayern München,Nürnberg,6-3,5-0
-2005-05-14,Bochum,Stuttgart,2-0,0-0
-2005-05-14,Hannover,Hamburg,2-1,1-1
-2005-05-14,Hansa Rostock,Bielefeld,1-1,1-1
-2005-05-14,Mainz,Kaiserslautern,3-2,1-1
-2005-05-14,M'gladbach,Hertha,0-0,0-0
-2005-05-14,Schalke 04,Dortmund,1-2,1-2
-2005-05-14,Werder Bremen,Freiburg,4-1,0-1
-2005-05-14,Wolfsburg,Leverkusen,2-2,2-0
-2005-05-21,Bielefeld,Wolfsburg,1-2,1-1
-2005-05-21,Dortmund,Hansa Rostock,2-1,0-1
-2005-05-21,Freiburg,Schalke 04,2-3,1-1
-2005-05-21,Hamburg,Bochum,0-1,0-1
-2005-05-21,Hertha,Hannover,0-0,0-0
-2005-05-21,Kaiserslautern,Werder Bremen,1-2,1-2
-2005-05-21,Leverkusen,M'gladbach,5-1,1-1
-2005-05-21,Nürnberg,Mainz,1-2,1-1
-2005-05-21,Stuttgart,Bayern München,1-3,0-2
+Round,Date,Time,Team 1,Team 2,FT,HT
+1,2004-08-06,20:30,Werder Bremen,FC Schalke 04,1-0,0-0
+1,2004-08-07,15:30,1. FC Kaiserslautern,1. FC Nürnberg,1-3,0-1
+1,2004-08-07,15:30,SC Freiburg,Hansa Rostock,0-0,0-0
+1,2004-08-07,15:30,Borussia Dortmund,VfL Wolfsburg,1-2,1-1
+1,2004-08-07,15:30,Bayer Leverkusen,Hannover 96,2-1,0-1
+1,2004-08-07,15:30,Hertha BSC,VfL Bochum,2-2,2-0
+1,2004-08-07,15:30,Hamburger SV,Bayern München,0-2,0-1
+1,2004-08-08,17:30,Arminia Bielefeld,Bor. Mönchengladbach,0-0,0-0
+1,2004-08-08,17:30,VfB Stuttgart,1. FSV Mainz 05,4-2,2-0
+2,2004-08-14,15:30,1. FSV Mainz 05,Hamburger SV,2-1,0-1
+2,2004-08-14,15:30,Bayern München,Hertha BSC,1-1,0-1
+2,2004-08-14,15:30,Bor. Mönchengladbach,Borussia Dortmund,2-3,2-3
+2,2004-08-14,15:30,Hansa Rostock,Werder Bremen,0-4,0-0
+2,2004-08-14,15:30,FC Schalke 04,1. FC Kaiserslautern,2-1,1-1
+2,2004-08-14,15:30,1. FC Nürnberg,VfB Stuttgart,1-1,1-1
+2,2004-08-15,17:30,VfL Bochum,Bayer Leverkusen,2-2,1-0
+2,2004-08-15,17:30,VfL Wolfsburg,SC Freiburg,0-1,0-0
+2,2004-09-28,18:00,Hannover 96,Arminia Bielefeld,0-1,0-0
+3,2004-08-28,15:30,1. FC Kaiserslautern,VfB Stuttgart,2-3,2-1
+3,2004-08-28,15:30,SC Freiburg,Bor. Mönchengladbach,1-1,1-0
+3,2004-08-28,15:30,Arminia Bielefeld,VfL Bochum,1-2,0-1
+3,2004-08-28,15:30,Bayer Leverkusen,Bayern München,4-1,1-0
+3,2004-08-28,15:30,Hertha BSC,1. FSV Mainz 05,1-1,0-0
+3,2004-08-28,15:30,Hamburger SV,1. FC Nürnberg,4-3,2-1
+3,2004-08-28,15:30,FC Schalke 04,Hansa Rostock,0-2,0-1
+3,2004-08-29,17:30,Borussia Dortmund,Hannover 96,1-1,1-0
+3,2004-08-29,17:30,Werder Bremen,VfL Wolfsburg,1-2,0-0
+4,2004-09-11,15:30,1. FSV Mainz 05,Bayer Leverkusen,2-0,0-0
+4,2004-09-11,15:30,Bayern München,Arminia Bielefeld,1-0,1-0
+4,2004-09-11,15:30,VfL Bochum,Borussia Dortmund,2-2,1-0
+4,2004-09-11,15:30,Bor. Mönchengladbach,Werder Bremen,3-1,1-0
+4,2004-09-11,15:30,VfL Wolfsburg,FC Schalke 04,3-0,2-0
+4,2004-09-11,15:30,VfB Stuttgart,Hamburger SV,2-0,1-0
+4,2004-09-11,15:30,1. FC Nürnberg,Hertha BSC,0-0,0-0
+4,2004-09-12,17:30,Hannover 96,SC Freiburg,2-2,2-0
+4,2004-09-12,17:30,Hansa Rostock,1. FC Kaiserslautern,2-3,0-2
+5,2004-09-18,15:30,1. FC Kaiserslautern,Hamburger SV,2-1,1-0
+5,2004-09-18,15:30,Borussia Dortmund,Bayern München,2-2,1-0
+5,2004-09-18,15:30,Arminia Bielefeld,1. FSV Mainz 05,1-1,0-0
+5,2004-09-18,15:30,Bayer Leverkusen,1. FC Nürnberg,2-2,0-1
+5,2004-09-18,15:30,Hansa Rostock,VfL Wolfsburg,1-2,1-1
+5,2004-09-18,15:30,FC Schalke 04,Bor. Mönchengladbach,3-2,1-1
+5,2004-09-18,15:30,Werder Bremen,Hannover 96,3-0,1-0
+5,2004-09-19,17:30,SC Freiburg,VfL Bochum,1-1,0-0
+5,2004-09-19,17:30,Hertha BSC,VfB Stuttgart,0-0,0-0
+6,2004-09-25,15:30,Bayern München,SC Freiburg,3-1,2-1
+6,2004-09-25,15:30,VfL Bochum,Werder Bremen,1-4,0-0
+6,2004-09-25,15:30,Hannover 96,FC Schalke 04,1-0,0-0
+6,2004-09-25,15:30,Bor. Mönchengladbach,Hansa Rostock,2-2,2-0
+6,2004-09-25,15:30,VfL Wolfsburg,1. FC Kaiserslautern,2-1,1-0
+6,2004-09-25,15:30,VfB Stuttgart,Bayer Leverkusen,3-0,2-0
+6,2004-09-25,15:30,1. FC Nürnberg,Arminia Bielefeld,1-2,0-1
+6,2004-09-26,17:30,1. FSV Mainz 05,Borussia Dortmund,1-1,0-1
+6,2004-09-26,17:30,Hamburger SV,Hertha BSC,2-1,1-1
+7,2004-10-02,15:30,1. FC Kaiserslautern,Hertha BSC,0-2,0-1
+7,2004-10-02,15:30,SC Freiburg,1. FSV Mainz 05,1-2,0-1
+7,2004-10-02,15:30,Borussia Dortmund,1. FC Nürnberg,2-2,2-2
+7,2004-10-02,15:30,Bayer Leverkusen,Hamburger SV,3-0,1-0
+7,2004-10-02,15:30,VfL Wolfsburg,Bor. Mönchengladbach,2-1,2-1
+7,2004-10-02,15:30,Hansa Rostock,Hannover 96,1-3,0-2
+7,2004-10-02,15:30,Werder Bremen,Bayern München,1-2,0-1
+7,2004-10-03,17:30,Arminia Bielefeld,VfB Stuttgart,0-2,0-1
+7,2004-10-03,17:30,FC Schalke 04,VfL Bochum,3-2,3-0
+8,2004-10-16,15:30,1. FSV Mainz 05,Werder Bremen,2-1,0-0
+8,2004-10-16,15:30,Bayern München,FC Schalke 04,0-1,0-0
+8,2004-10-16,15:30,VfL Bochum,Hansa Rostock,0-1,0-0
+8,2004-10-16,15:30,Hertha BSC,Bayer Leverkusen,3-1,1-0
+8,2004-10-16,15:30,Hamburger SV,Arminia Bielefeld,0-2,0-0
+8,2004-10-16,15:30,VfB Stuttgart,Borussia Dortmund,2-0,0-0
+8,2004-10-16,15:30,1. FC Nürnberg,SC Freiburg,3-0,1-0
+8,2004-10-17,17:30,Hannover 96,VfL Wolfsburg,3-0,1-0
+8,2004-10-17,17:30,Bor. Mönchengladbach,1. FC Kaiserslautern,2-0,0-0
+9,2004-10-23,15:30,1. FC Kaiserslautern,Bayer Leverkusen,0-0,0-0
+9,2004-10-23,15:30,Borussia Dortmund,Hamburger SV,0-2,0-1
+9,2004-10-23,15:30,Arminia Bielefeld,Hertha BSC,1-0,1-0
+9,2004-10-23,15:30,Bor. Mönchengladbach,Hannover 96,0-2,0-2
+9,2004-10-23,15:30,VfL Wolfsburg,VfL Bochum,3-0,3-0
+9,2004-10-23,15:30,Hansa Rostock,Bayern München,0-2,0-0
+9,2004-10-23,15:30,Werder Bremen,1. FC Nürnberg,4-1,2-0
+9,2004-10-24,17:30,SC Freiburg,VfB Stuttgart,2-0,1-0
+9,2004-10-24,17:30,FC Schalke 04,1. FSV Mainz 05,2-1,1-0
+10,2004-10-26,20:00,Bayern München,VfL Wolfsburg,2-0,2-0
+10,2004-10-26,20:00,VfL Bochum,Bor. Mönchengladbach,3-0,0-0
+10,2004-10-26,20:00,Hannover 96,1. FC Kaiserslautern,3-1,1-1
+10,2004-10-26,20:00,Hertha BSC,Borussia Dortmund,0-1,0-1
+10,2004-10-27,20:00,1. FSV Mainz 05,Hansa Rostock,3-1,0-0
+10,2004-10-27,20:00,Bayer Leverkusen,Arminia Bielefeld,3-2,0-1
+10,2004-10-27,20:00,Hamburger SV,SC Freiburg,4-0,2-0
+10,2004-10-27,20:00,VfB Stuttgart,Werder Bremen,1-2,1-0
+10,2004-10-27,20:00,1. FC Nürnberg,FC Schalke 04,0-2,0-2
+11,2004-10-30,15:30,SC Freiburg,Hertha BSC,1-3,1-1
+11,2004-10-30,15:30,Borussia Dortmund,Bayer Leverkusen,1-0,1-0
+11,2004-10-30,15:30,Hannover 96,VfL Bochum,3-0,1-0
+11,2004-10-30,15:30,Bor. Mönchengladbach,Bayern München,2-0,0-0
+11,2004-10-30,15:30,VfL Wolfsburg,1. FSV Mainz 05,4-3,2-2
+11,2004-10-30,15:30,FC Schalke 04,VfB Stuttgart,3-2,3-2
+11,2004-10-30,15:30,Werder Bremen,Hamburger SV,1-1,0-1
+11,2004-10-31,17:30,1. FC Kaiserslautern,Arminia Bielefeld,2-1,0-0
+11,2004-10-31,17:30,Hansa Rostock,1. FC Nürnberg,0-2,0-0
+12,2004-11-06,15:30,1. FSV Mainz 05,Bor. Mönchengladbach,1-1,0-1
+12,2004-11-06,15:30,Bayern München,Hannover 96,3-0,1-0
+12,2004-11-06,15:30,VfL Bochum,1. FC Kaiserslautern,1-1,0-1
+12,2004-11-06,15:30,Arminia Bielefeld,Borussia Dortmund,1-0,1-0
+12,2004-11-06,15:30,Bayer Leverkusen,SC Freiburg,4-1,0-1
+12,2004-11-06,15:30,Hertha BSC,Werder Bremen,1-1,0-0
+12,2004-11-06,15:30,1. FC Nürnberg,VfL Wolfsburg,4-0,3-0
+12,2004-11-07,17:30,Hamburger SV,FC Schalke 04,1-2,0-0
+12,2004-11-07,17:30,VfB Stuttgart,Hansa Rostock,4-0,2-0
+13,2004-11-13,15:30,1. FC Kaiserslautern,Borussia Dortmund,1-0,0-0
+13,2004-11-13,15:30,SC Freiburg,Arminia Bielefeld,2-3,2-2
+13,2004-11-13,15:30,Hannover 96,1. FSV Mainz 05,2-0,1-0
+13,2004-11-13,15:30,Bor. Mönchengladbach,1. FC Nürnberg,2-1,1-0
+13,2004-11-13,15:30,VfL Wolfsburg,VfB Stuttgart,3-0,1-0
+13,2004-11-13,15:30,FC Schalke 04,Hertha BSC,1-3,0-1
+13,2004-11-13,15:30,Werder Bremen,Bayer Leverkusen,2-2,1-0
+13,2004-11-14,17:30,VfL Bochum,Bayern München,1-3,0-0
+13,2004-11-14,17:30,Hansa Rostock,Hamburger SV,0-6,0-3
+14,2004-11-20,15:30,1. FSV Mainz 05,VfL Bochum,1-0,1-0
+14,2004-11-20,15:30,Bayern München,1. FC Kaiserslautern,3-1,2-1
+14,2004-11-20,15:30,Borussia Dortmund,SC Freiburg,2-0,1-0
+14,2004-11-20,15:30,Arminia Bielefeld,Werder Bremen,2-1,1-0
+14,2004-11-20,15:30,Bayer Leverkusen,FC Schalke 04,0-3,0-2
+14,2004-11-20,15:30,Hertha BSC,Hansa Rostock,1-1,0-1
+14,2004-11-20,15:30,VfB Stuttgart,Bor. Mönchengladbach,1-0,0-0
+14,2004-11-21,17:30,Hamburger SV,VfL Wolfsburg,3-1,2-1
+14,2004-11-21,17:30,1. FC Nürnberg,Hannover 96,1-1,0-0
+15,2004-11-27,15:30,1. FC Kaiserslautern,SC Freiburg,3-0,1-0
+15,2004-11-27,15:30,Bayern München,1. FSV Mainz 05,4-2,3-0
+15,2004-11-27,15:30,VfL Bochum,1. FC Nürnberg,3-1,2-0
+15,2004-11-27,15:30,Bor. Mönchengladbach,Hamburger SV,1-3,0-2
+15,2004-11-27,15:30,VfL Wolfsburg,Hertha BSC,2-3,0-1
+15,2004-11-27,15:30,Hansa Rostock,Bayer Leverkusen,0-2,0-1
+15,2004-11-27,15:30,Werder Bremen,Borussia Dortmund,2-0,1-0
+15,2004-11-28,17:30,Hannover 96,VfB Stuttgart,0-0,0-0
+15,2004-11-28,17:30,FC Schalke 04,Arminia Bielefeld,2-1,2-1
+16,2004-12-04,15:30,SC Freiburg,Werder Bremen,0-6,0-3
+16,2004-12-04,15:30,Arminia Bielefeld,Hansa Rostock,1-1,0-0
+16,2004-12-04,15:30,Bayer Leverkusen,VfL Wolfsburg,2-1,0-1
+16,2004-12-04,15:30,Hertha BSC,Bor. Mönchengladbach,6-0,1-0
+16,2004-12-04,15:30,Hamburger SV,Hannover 96,0-2,0-1
+16,2004-12-04,15:30,VfB Stuttgart,VfL Bochum,5-2,2-1
+16,2004-12-04,15:30,1. FC Nürnberg,Bayern München,2-2,1-1
+16,2004-12-05,17:30,1. FC Kaiserslautern,1. FSV Mainz 05,2-0,1-0
+16,2004-12-05,17:30,Borussia Dortmund,FC Schalke 04,0-1,0-1
+17,2004-12-11,15:30,1. FSV Mainz 05,1. FC Nürnberg,0-1,0-1
+17,2004-12-11,15:30,Bayern München,VfB Stuttgart,2-2,0-1
+17,2004-12-11,15:30,VfL Bochum,Hamburger SV,1-2,0-2
+17,2004-12-11,15:30,Hannover 96,Hertha BSC,0-1,0-0
+17,2004-12-11,15:30,Hansa Rostock,Borussia Dortmund,1-1,1-1
+17,2004-12-11,15:30,FC Schalke 04,SC Freiburg,1-1,1-0
+17,2004-12-11,15:30,Werder Bremen,1. FC Kaiserslautern,1-1,0-0
+17,2004-12-12,17:30,Bor. Mönchengladbach,Bayer Leverkusen,1-1,0-0
+17,2004-12-12,17:30,VfL Wolfsburg,Arminia Bielefeld,5-0,4-0
+18,2005-01-21,20:30,Bayern München,Hamburger SV,3-0,1-0
+18,2005-01-22,15:30,FC Schalke 04,Werder Bremen,2-1,0-0
+18,2005-01-22,15:30,1. FC Nürnberg,1. FC Kaiserslautern,1-3,0-0
+18,2005-01-22,15:30,Hansa Rostock,SC Freiburg,0-0,0-0
+18,2005-01-22,15:30,VfL Wolfsburg,Borussia Dortmund,1-2,0-0
+18,2005-01-22,15:30,Bor. Mönchengladbach,Arminia Bielefeld,1-0,0-0
+18,2005-01-22,15:30,1. FSV Mainz 05,VfB Stuttgart,2-3,1-0
+18,2005-01-23,17:30,Hannover 96,Bayer Leverkusen,0-3,0-2
+18,2005-01-23,17:30,VfL Bochum,Hertha BSC,2-2,1-2
+19,2005-01-29,15:30,Hamburger SV,1. FSV Mainz 05,2-1,1-1
+19,2005-01-29,15:30,Bayer Leverkusen,VfL Bochum,4-0,2-0
+19,2005-01-29,15:30,Arminia Bielefeld,Hannover 96,0-1,0-1
+19,2005-01-29,15:30,Borussia Dortmund,Bor. Mönchengladbach,1-1,1-0
+19,2005-01-29,15:30,SC Freiburg,VfL Wolfsburg,1-0,0-0
+19,2005-01-29,15:30,1. FC Kaiserslautern,FC Schalke 04,2-0,0-0
+19,2005-01-29,15:30,VfB Stuttgart,1. FC Nürnberg,2-4,0-2
+19,2005-01-30,17:30,Hertha BSC,Bayern München,0-0,0-0
+19,2005-01-30,17:30,Werder Bremen,Hansa Rostock,3-2,2-1
+20,2005-02-05,15:30,VfB Stuttgart,1. FC Kaiserslautern,1-1,1-0
+20,2005-02-05,15:30,Hannover 96,Borussia Dortmund,1-3,0-2
+20,2005-02-05,15:30,VfL Bochum,Arminia Bielefeld,1-1,1-1
+20,2005-02-05,15:30,Bayern München,Bayer Leverkusen,2-0,1-0
+20,2005-02-05,15:30,1. FSV Mainz 05,Hertha BSC,0-3,0-1
+20,2005-02-05,15:30,1. FC Nürnberg,Hamburger SV,1-3,0-1
+20,2005-02-05,15:30,Hansa Rostock,FC Schalke 04,2-2,0-1
+20,2005-02-06,17:30,Bor. Mönchengladbach,SC Freiburg,3-2,2-1
+20,2005-02-06,17:30,VfL Wolfsburg,Werder Bremen,2-3,1-0
+21,2005-02-12,15:30,Borussia Dortmund,VfL Bochum,1-0,1-0
+21,2005-02-12,15:30,SC Freiburg,Hannover 96,0-0,0-0
+21,2005-02-12,15:30,Werder Bremen,Bor. Mönchengladbach,2-0,1-0
+21,2005-02-12,15:30,FC Schalke 04,VfL Wolfsburg,3-0,2-0
+21,2005-02-12,15:30,1. FC Kaiserslautern,Hansa Rostock,2-1,1-0
+21,2005-02-12,15:30,Hamburger SV,VfB Stuttgart,2-1,1-1
+21,2005-02-12,15:30,Hertha BSC,1. FC Nürnberg,2-1,1-0
+21,2005-02-13,17:30,Bayer Leverkusen,1. FSV Mainz 05,2-0,0-0
+21,2005-02-13,17:30,Arminia Bielefeld,Bayern München,3-1,1-0
+22,2005-02-19,15:30,Hamburger SV,1. FC Kaiserslautern,2-1,2-0
+22,2005-02-19,15:30,VfL Bochum,SC Freiburg,3-1,1-0
+22,2005-02-19,15:30,Bayern München,Borussia Dortmund,5-0,4-0
+22,2005-02-19,15:30,1. FSV Mainz 05,Arminia Bielefeld,0-0,0-0
+22,2005-02-19,15:30,1. FC Nürnberg,Bayer Leverkusen,2-4,1-2
+22,2005-02-19,15:30,VfL Wolfsburg,Hansa Rostock,4-0,2-0
+22,2005-02-19,15:30,Hannover 96,Werder Bremen,1-4,1-2
+22,2005-02-20,17:30,VfB Stuttgart,Hertha BSC,1-0,1-0
+22,2005-02-20,17:30,Bor. Mönchengladbach,FC Schalke 04,1-3,1-1
+23,2005-02-26,15:30,Borussia Dortmund,1. FSV Mainz 05,3-0,1-0
+23,2005-02-26,15:30,SC Freiburg,Bayern München,0-1,0-0
+23,2005-02-26,15:30,Werder Bremen,VfL Bochum,4-0,1-0
+23,2005-02-26,15:30,Hansa Rostock,Bor. Mönchengladbach,0-0,0-0
+23,2005-02-26,15:30,1. FC Kaiserslautern,VfL Wolfsburg,0-0,0-0
+23,2005-02-26,15:30,Hertha BSC,Hamburger SV,4-1,3-0
+23,2005-02-26,15:30,Arminia Bielefeld,1. FC Nürnberg,3-1,2-1
+23,2005-02-27,17:30,FC Schalke 04,Hannover 96,1-0,0-0
+23,2005-02-27,17:30,Bayer Leverkusen,VfB Stuttgart,1-1,0-0
+24,2005-03-05,15:30,1. FSV Mainz 05,SC Freiburg,5-0,3-0
+24,2005-03-05,15:30,VfB Stuttgart,Arminia Bielefeld,2-1,0-0
+24,2005-03-05,15:30,Hamburger SV,Bayer Leverkusen,1-0,1-0
+24,2005-03-05,15:30,Bor. Mönchengladbach,VfL Wolfsburg,1-0,0-0
+24,2005-03-05,15:30,Hannover 96,Hansa Rostock,0-1,0-1
+24,2005-03-05,15:30,VfL Bochum,FC Schalke 04,0-2,0-1
+24,2005-03-05,15:30,Bayern München,Werder Bremen,1-0,1-0
+24,2005-03-06,17:30,Hertha BSC,1. FC Kaiserslautern,1-1,0-0
+24,2005-03-06,17:30,1. FC Nürnberg,Borussia Dortmund,2-2,0-0
+25,2005-03-12,15:30,Werder Bremen,1. FSV Mainz 05,0-0,0-0
+25,2005-03-12,15:30,Hansa Rostock,VfL Bochum,3-1,1-0
+25,2005-03-12,15:30,VfL Wolfsburg,Hannover 96,1-0,1-0
+25,2005-03-12,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,1-0,1-0
+25,2005-03-12,15:30,Bayer Leverkusen,Hertha BSC,3-3,2-2
+25,2005-03-12,15:30,Arminia Bielefeld,Hamburger SV,3-4,2-3
+25,2005-03-12,15:30,SC Freiburg,1. FC Nürnberg,2-3,1-1
+25,2005-03-13,17:30,FC Schalke 04,Bayern München,1-0,0-0
+25,2005-03-13,17:30,Borussia Dortmund,VfB Stuttgart,0-2,0-1
+26,2005-03-19,15:30,Bayer Leverkusen,1. FC Kaiserslautern,2-0,1-0
+26,2005-03-19,15:30,Hamburger SV,Borussia Dortmund,2-3,1-1
+26,2005-03-19,15:30,Hertha BSC,Arminia Bielefeld,3-0,1-0
+26,2005-03-19,15:30,Hannover 96,Bor. Mönchengladbach,2-1,0-1
+26,2005-03-19,15:30,VfL Bochum,VfL Wolfsburg,5-1,4-0
+26,2005-03-19,15:30,Bayern München,Hansa Rostock,3-1,1-1
+26,2005-03-19,15:30,1. FC Nürnberg,Werder Bremen,1-2,0-2
+26,2005-03-20,17:30,VfB Stuttgart,SC Freiburg,1-0,1-0
+26,2005-03-20,17:30,1. FSV Mainz 05,FC Schalke 04,2-1,1-0
+27,2005-04-02,15:30,Hansa Rostock,1. FSV Mainz 05,2-0,1-0
+27,2005-04-02,15:30,VfL Wolfsburg,Bayern München,0-3,0-2
+27,2005-04-02,15:30,1. FC Kaiserslautern,Hannover 96,0-2,0-0
+27,2005-04-02,15:30,Arminia Bielefeld,Bayer Leverkusen,1-0,0-0
+27,2005-04-02,15:30,SC Freiburg,Hamburger SV,1-1,1-1
+27,2005-04-02,15:30,Werder Bremen,VfB Stuttgart,1-2,0-0
+27,2005-04-02,15:30,FC Schalke 04,1. FC Nürnberg,4-1,3-0
+27,2005-04-03,17:30,Bor. Mönchengladbach,VfL Bochum,2-2,1-0
+27,2005-04-03,17:30,Borussia Dortmund,Hertha BSC,2-1,2-0
+28,2005-04-09,15:30,Hertha BSC,SC Freiburg,3-1,2-0
+28,2005-04-09,15:30,Bayer Leverkusen,Borussia Dortmund,0-1,0-0
+28,2005-04-09,15:30,VfL Bochum,Hannover 96,1-0,0-0
+28,2005-04-09,15:30,Bayern München,Bor. Mönchengladbach,2-1,0-0
+28,2005-04-09,15:30,1. FSV Mainz 05,VfL Wolfsburg,0-2,0-0
+28,2005-04-09,15:30,VfB Stuttgart,FC Schalke 04,3-0,1-0
+28,2005-04-09,15:30,Hamburger SV,Werder Bremen,1-2,0-1
+28,2005-04-10,17:30,Arminia Bielefeld,1. FC Kaiserslautern,0-2,0-2
+28,2005-04-10,17:30,1. FC Nürnberg,Hansa Rostock,3-0,0-0
+29,2005-04-16,15:30,Bor. Mönchengladbach,1. FSV Mainz 05,1-1,0-0
+29,2005-04-16,15:30,Hannover 96,Bayern München,0-1,0-0
+29,2005-04-16,15:30,Borussia Dortmund,Arminia Bielefeld,1-1,1-0
+29,2005-04-16,15:30,SC Freiburg,Bayer Leverkusen,1-3,1-1
+29,2005-04-16,15:30,Werder Bremen,Hertha BSC,0-1,0-1
+29,2005-04-16,15:30,FC Schalke 04,Hamburger SV,1-2,1-0
+29,2005-04-16,15:30,Hansa Rostock,VfB Stuttgart,2-1,1-0
+29,2005-04-17,17:30,1. FC Kaiserslautern,VfL Bochum,1-2,0-1
+29,2005-04-17,17:30,VfL Wolfsburg,1. FC Nürnberg,0-1,0-0
+30,2005-04-23,15:30,Borussia Dortmund,1. FC Kaiserslautern,4-2,2-2
+30,2005-04-23,15:30,Arminia Bielefeld,SC Freiburg,3-1,1-1
+30,2005-04-23,15:30,Bayern München,VfL Bochum,3-1,2-0
+30,2005-04-23,15:30,1. FSV Mainz 05,Hannover 96,2-0,1-0
+30,2005-04-23,15:30,VfB Stuttgart,VfL Wolfsburg,0-0,0-0
+30,2005-04-23,15:30,Hamburger SV,Hansa Rostock,3-0,0-0
+30,2005-04-23,15:30,Hertha BSC,FC Schalke 04,4-1,2-1
+30,2005-04-24,17:30,1. FC Nürnberg,Bor. Mönchengladbach,0-0,0-0
+30,2005-04-24,17:30,Bayer Leverkusen,Werder Bremen,2-1,2-1
+31,2005-04-30,15:30,VfL Bochum,1. FSV Mainz 05,2-6,1-1
+31,2005-04-30,15:30,1. FC Kaiserslautern,Bayern München,0-4,0-2
+31,2005-04-30,15:30,SC Freiburg,Borussia Dortmund,2-2,1-2
+31,2005-04-30,15:30,Werder Bremen,Arminia Bielefeld,3-0,1-0
+31,2005-04-30,15:30,FC Schalke 04,Bayer Leverkusen,3-3,3-1
+31,2005-04-30,15:30,Hansa Rostock,Hertha BSC,2-1,1-0
+31,2005-04-30,15:30,Bor. Mönchengladbach,VfB Stuttgart,2-0,2-0
+31,2005-05-01,17:30,VfL Wolfsburg,Hamburger SV,1-0,1-0
+31,2005-05-01,17:30,Hannover 96,1. FC Nürnberg,1-0,0-0
+32,2005-05-07,15:30,SC Freiburg,1. FC Kaiserslautern,1-2,0-2
+32,2005-05-07,15:30,1. FSV Mainz 05,Bayern München,2-4,1-2
+32,2005-05-07,15:30,1. FC Nürnberg,VfL Bochum,2-1,1-0
+32,2005-05-07,15:30,VfB Stuttgart,Hannover 96,1-0,0-0
+32,2005-05-07,15:30,Hertha BSC,VfL Wolfsburg,3-1,0-1
+32,2005-05-07,15:30,Bayer Leverkusen,Hansa Rostock,3-0,1-0
+32,2005-05-07,15:30,Arminia Bielefeld,FC Schalke 04,0-2,0-1
+32,2005-05-08,17:30,Hamburger SV,Bor. Mönchengladbach,0-0,0-0
+32,2005-05-08,17:30,Borussia Dortmund,Werder Bremen,1-0,1-0
+33,2005-05-14,15:30,1. FSV Mainz 05,1. FC Kaiserslautern,3-2,1-1
+33,2005-05-14,15:30,Werder Bremen,SC Freiburg,4-1,0-1
+33,2005-05-14,15:30,FC Schalke 04,Borussia Dortmund,1-2,1-2
+33,2005-05-14,15:30,Hansa Rostock,Arminia Bielefeld,1-1,1-1
+33,2005-05-14,15:30,VfL Wolfsburg,Bayer Leverkusen,2-2,2-0
+33,2005-05-14,15:30,Bor. Mönchengladbach,Hertha BSC,0-0,0-0
+33,2005-05-14,15:30,Hannover 96,Hamburger SV,2-1,1-1
+33,2005-05-14,15:30,VfL Bochum,VfB Stuttgart,2-0,0-0
+33,2005-05-14,15:30,Bayern München,1. FC Nürnberg,6-3,5-0
+34,2005-05-21,15:30,1. FC Nürnberg,1. FSV Mainz 05,1-2,1-1
+34,2005-05-21,15:30,VfB Stuttgart,Bayern München,1-3,0-2
+34,2005-05-21,15:30,Hamburger SV,VfL Bochum,0-1,0-1
+34,2005-05-21,15:30,Hertha BSC,Hannover 96,0-0,0-0
+34,2005-05-21,15:30,Bayer Leverkusen,Bor. Mönchengladbach,5-1,1-1
+34,2005-05-21,15:30,Arminia Bielefeld,VfL Wolfsburg,1-2,1-1
+34,2005-05-21,15:30,Borussia Dortmund,Hansa Rostock,2-1,0-1
+34,2005-05-21,15:30,SC Freiburg,FC Schalke 04,2-3,1-1
+34,2005-05-21,15:30,1. FC Kaiserslautern,Werder Bremen,1-2,1-2
