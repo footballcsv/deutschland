@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. Bayern München                34  20  11   3  68:34   71
  2. Bayer Leverkusen              34  21   6   7  69:41   69
@@ -21,6 +22,32 @@
 16. Fortuna Duesseldorf           34   9   6  19  26:57   33
 17. SC Freiburg                   34   8   5  21  43:67   29
 18. FC St. Pauli                  34   7   6  21  32:69   27
-
-(Source: 1-bundesliga.csv)
 ~~~
+
+(Source: `1-bundesliga.csv`)
+
+
+~~~
+ 1. Kaiserslautern                34  19  11   4  74:28   68
+ 2. Wolfsburg                     34  14  16   4  52:29   58
+ 3. Hertha                        34  17   7  10  57:38   58
+ 4. Mainz                         34  14  12   8  50:34   54
+ 5. Stuttgarter K                 34  14  11   9  38:27   53
+ 6. Unterhaching                  34  11  16   7  35:29   49
+ 7. Ein Frankfurt                 34  13   9  12  43:46   48
+ 8. Leipzig                       34  12  10  12  53:54   46
+ 9. Gutersloh                     34  12   9  13  43:51   45
+10. Uerdingen                     34  13   5  16  46:44   44
+11. Meppen                        34  10  14  10  44:48   44
+12. FC Köln                       34  11   9  14  52:47   42
+13. CZ Jena                       34   9  15  10  44:49   42
+14. Zwickau                       34  12   6  16  34:48   42
+15. Mannheim                      34  10  10  14  45:56   40
+16. Lubeck                        34   8  12  14  32:53   36
+17. Essen                         34   8   5  21  47:74   29
+18. Oldenburg                     34   6   9  19  33:67   27
+~~~
+
+(Source: `2-bundesliga2.csv`)
+
+

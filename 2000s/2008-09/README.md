@@ -2,6 +2,7 @@
 
 ### Standings
 
+
 ~~~
  1. VfL Wolfsburg                 34  21   6   7  80:41   69
  2. Bayern München                34  20   7   7  71:42   67
@@ -21,6 +22,34 @@
 16. Energie Cottbus               34   8   6  20  30:57   30
 17. Karlsruher SC                 34   8   5  21  30:54   29
 18. Arminia Bielefeld             34   4  16  14  29:56   28
-
-(Source: 1-bundesliga.csv)
 ~~~
+
+(Source: `1-bundesliga.csv`)
+
+
+~~~
+ 1. Freiburg                      34  21   5   8  60:36   68
+ 2. Mainz                         34  18   9   7  62:37   63
+ 3. Nürnberg                      34  16  12   6  51:29   60
+ 4. Aachen                        34  16   8  10  58:38   56
+ 5. Greuther Fürth                34  16   8  10  60:46   56
+ 6. Duisburg                      34  14  13   7  56:36   55
+ 7. St Pauli                      33  13   6  14  51:59   45
+ 8. Oberhausen                    34  11   9  14  35:54   42
+ 9. Koblenz                       34  11   8  15  47:57   41
+10. Ahlen                         34  11   8  15  38:57   41
+11. Augsburg                      34  10  10  14  43:46   40
+12. München 1860                  34   9  12  13  44:46   39
+13. Hansa Rostock                 34   8  14  12  52:53   38
+14. Frankfurt FSV                 34   9  11  14  34:47   38
+15. Osnabruck                     34   8  12  14  41:60   36
+16. Kaiserslautern                16  10   4   2  33:15   34
+17. Ingolstadt                    34   7  10  17  38:54   31
+18. Wehen                         34   5  12  17  28:49   27
+19. Kaiserslautern                18   5   3  10  20:33   18
+20. St. Pauli                      1   1   0   0   1:0     3
+~~~
+
+(Source: `2-bundesliga2.csv`)
+
+
