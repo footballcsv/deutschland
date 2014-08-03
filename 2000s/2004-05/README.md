@@ -1,0 +1,26 @@
+
+
+### Standings
+
+~~~
+ 1. Bayern München                34  24   5   5  75:33   77
+ 2. FC Schalke 04                 34  20   3  11  56:46   63
+ 3. Werder Bremen                 34  18   5  11  68:37   59
+ 4. Hertha BSC                    34  15  13   6  59:31   58
+ 5. VfB Stuttgart                 34  17   7  10  54:40   58
+ 6. Bayer Leverkusen              34  16   9   9  65:44   57
+ 7. Borussia Dortmund             34  15  10   9  47:44   55
+ 8. Hamburger SV                  34  16   3  15  55:50   51
+ 9. VfL Wolfsburg                 34  15   3  16  49:51   48
+10. Hannover 96                   34  13   6  15  34:36   45
+11. 1. FSV Mainz 05               34  12   7  15  50:55   43
+12. 1. FC Kaiserslautern          34  12   6  16  43:52   42
+13. Arminia Bielefeld             34  11   7  16  37:49   40
+14. 1. FC Nürnberg                34  10   8  16  55:63   38
+15. Bor. Mönchengladbach          34   8  12  14  35:51   36
+16. VfL Bochum                    34   9   8  17  47:68   35
+17. Hansa Rostock                 34   7   9  18  31:65   30
+18. SC Freiburg                   34   3   9  22  30:75   18
+
+(Source: 1-bundesliga.csv)
+~~~
