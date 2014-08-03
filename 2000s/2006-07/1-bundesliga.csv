@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,Team 2,FT,HT
-1,2006-08-11,20:45,Bayern München,Borussia Dortmund,2-0,1-0
-1,2006-08-12,15:30,Hamburger SV,Arminia Bielefeld,1-1,0-1
-1,2006-08-12,15:30,Bayer Leverkusen,Alemannia Aachen,3-0,2-0
-1,2006-08-12,15:30,VfB Stuttgart,1. FC Nürnberg,0-3,0-2
-1,2006-08-12,15:30,FC Schalke 04,Eintracht Frankfurt,1-1,1-0
-1,2006-08-12,15:30,Bor. Mönchengladbach,Energie Cottbus,2-0,0-0
-1,2006-08-12,15:30,1. FSV Mainz 05,VfL Bochum,2-1,1-0
-1,2006-08-13,17:00,VfL Wolfsburg,Hertha BSC,0-0,0-0
-1,2006-08-13,17:00,Hannover 96,Werder Bremen,2-4,1-1
-2,2006-08-18,20:30,1. FC Nürnberg,Bor. Mönchengladbach,1-0,1-0
-2,2006-08-19,15:30,Werder Bremen,Bayer Leverkusen,2-1,1-1
-2,2006-08-19,15:30,Borussia Dortmund,1. FSV Mainz 05,1-1,0-0
-2,2006-08-19,15:30,Hertha BSC,Hannover 96,4-0,2-0
-2,2006-08-19,15:30,Eintracht Frankfurt,VfL Wolfsburg,0-0,0-0
-2,2006-08-19,15:30,Energie Cottbus,Hamburger SV,2-2,0-1
-2,2006-08-19,15:30,Alemannia Aachen,FC Schalke 04,0-1,0-0
-2,2006-08-20,17:00,VfL Bochum,Bayern München,1-2,0-1
-2,2006-08-20,17:00,Arminia Bielefeld,VfB Stuttgart,2-3,0-1
-3,2006-08-25,20:30,FC Schalke 04,Werder Bremen,2-0,1-0
-3,2006-08-26,15:30,VfL Bochum,Energie Cottbus,0-1,0-0
-3,2006-08-26,15:30,Bayer Leverkusen,VfL Wolfsburg,1-1,0-0
-3,2006-08-26,15:30,VfB Stuttgart,Borussia Dortmund,1-3,1-2
-3,2006-08-26,15:30,Bayern München,1. FC Nürnberg,0-0,0-0
-3,2006-08-26,15:30,Bor. Mönchengladbach,Arminia Bielefeld,1-0,0-0
-3,2006-08-26,15:30,Hannover 96,Alemannia Aachen,0-3,0-1
-3,2006-08-27,17:00,Hamburger SV,Hertha BSC,1-1,1-0
-3,2006-08-27,17:00,1. FSV Mainz 05,Eintracht Frankfurt,1-1,0-1
-4,2006-09-15,20:30,VfL Wolfsburg,Hannover 96,1-2,0-0
-4,2006-09-16,15:30,Werder Bremen,VfB Stuttgart,2-3,2-1
-4,2006-09-16,15:30,Borussia Dortmund,Hamburger SV,1-0,0-0
-4,2006-09-16,15:30,1. FC Nürnberg,VfL Bochum,1-1,1-1
-4,2006-09-16,15:30,Arminia Bielefeld,Bayern München,2-1,1-1
-4,2006-09-16,15:30,Alemannia Aachen,Bor. Mönchengladbach,4-2,2-0
-4,2006-09-16,15:30,Energie Cottbus,1. FSV Mainz 05,2-0,0-0
-4,2006-09-17,17:00,Hertha BSC,FC Schalke 04,2-0,1-0
-4,2006-09-17,17:00,Eintracht Frankfurt,Bayer Leverkusen,3-1,0-0
-5,2006-09-22,20:30,Bor. Mönchengladbach,Borussia Dortmund,1-0,1-0
-5,2006-09-23,15:30,Bayern München,Alemannia Aachen,2-1,1-1
-5,2006-09-23,15:30,Hamburger SV,Werder Bremen,1-1,0-0
-5,2006-09-23,15:30,FC Schalke 04,VfL Wolfsburg,2-0,0-0
-5,2006-09-23,15:30,VfB Stuttgart,Eintracht Frankfurt,1-1,0-0
-5,2006-09-23,15:30,1. FSV Mainz 05,Hertha BSC,1-1,0-0
-5,2006-09-23,15:30,Hannover 96,Bayer Leverkusen,1-1,0-1
-5,2006-09-24,17:00,VfL Bochum,Arminia Bielefeld,2-1,0-1
-5,2006-09-24,17:00,Energie Cottbus,1. FC Nürnberg,1-1,0-1
-6,2006-09-29,20:30,Borussia Dortmund,Hannover 96,2-2,1-0
-6,2006-09-30,15:30,Werder Bremen,Bor. Mönchengladbach,3-0,3-0
-6,2006-09-30,15:30,1. FC Nürnberg,1. FSV Mainz 05,1-1,1-0
-6,2006-09-30,15:30,Arminia Bielefeld,Energie Cottbus,3-1,0-1
-6,2006-09-30,15:30,Eintracht Frankfurt,Hamburger SV,2-2,1-0
-6,2006-09-30,15:30,VfL Wolfsburg,Bayern München,1-0,1-0
-6,2006-09-30,15:30,Alemannia Aachen,VfL Bochum,2-1,0-1
-6,2006-10-01,17:00,Bayer Leverkusen,FC Schalke 04,3-1,1-1
-6,2006-10-01,17:00,Hertha BSC,VfB Stuttgart,2-2,2-1
-7,2006-10-13,20:30,1. FSV Mainz 05,Alemannia Aachen,1-3,1-2
-7,2006-10-14,15:30,Bayern München,Hertha BSC,4-2,2-0
-7,2006-10-14,15:30,Hamburger SV,FC Schalke 04,1-2,1-1
-7,2006-10-14,15:30,VfB Stuttgart,Bayer Leverkusen,3-0,1-0
-7,2006-10-14,15:30,Bor. Mönchengladbach,VfL Wolfsburg,3-1,2-1
-7,2006-10-14,15:30,Hannover 96,Eintracht Frankfurt,1-1,1-0
-7,2006-10-14,15:30,VfL Bochum,Werder Bremen,0-6,0-1
-7,2006-10-15,17:00,1. FC Nürnberg,Arminia Bielefeld,1-1,1-1
-7,2006-10-15,17:00,Energie Cottbus,Borussia Dortmund,2-3,1-1
-8,2006-10-20,20:30,Borussia Dortmund,VfL Bochum,1-1,1-1
-8,2006-10-21,15:30,FC Schalke 04,Hannover 96,2-1,2-0
-8,2006-10-21,15:30,Werder Bremen,Bayern München,3-1,2-1
-8,2006-10-21,15:30,Arminia Bielefeld,1. FSV Mainz 05,1-0,0-0
-8,2006-10-21,15:30,VfL Wolfsburg,VfB Stuttgart,1-1,1-1
-8,2006-10-21,15:30,Hertha BSC,Bor. Mönchengladbach,2-1,0-0
-8,2006-10-21,15:30,Alemannia Aachen,Energie Cottbus,1-2,1-0
-8,2006-10-22,17:00,Bayer Leverkusen,Hamburger SV,1-2,1-0
-8,2006-10-22,17:00,Eintracht Frankfurt,1. FC Nürnberg,2-2,1-1
-9,2006-10-27,20:30,1. FSV Mainz 05,Werder Bremen,1-6,0-3
-9,2006-10-28,15:30,Bayern München,Eintracht Frankfurt,2-0,2-0
-9,2006-10-28,15:30,Hamburger SV,Hannover 96,0-0,0-0
-9,2006-10-28,15:30,1. FC Nürnberg,Borussia Dortmund,1-1,0-0
-9,2006-10-28,15:30,Bor. Mönchengladbach,Bayer Leverkusen,0-2,0-1
-9,2006-10-28,15:30,VfL Bochum,VfL Wolfsburg,0-1,0-1
-9,2006-10-28,15:30,Energie Cottbus,Hertha BSC,2-0,0-0
-9,2006-10-29,17:00,VfB Stuttgart,FC Schalke 04,3-0,1-0
-9,2006-10-29,17:00,Arminia Bielefeld,Alemannia Aachen,5-1,2-0
-10,2006-11-03,20:30,Hannover 96,VfL Bochum,0-2,0-1
-10,2006-11-04,15:30,Werder Bremen,Energie Cottbus,1-1,0-0
-10,2006-11-04,15:30,Hertha BSC,1. FC Nürnberg,2-1,1-0
-10,2006-11-04,15:30,Borussia Dortmund,Arminia Bielefeld,1-1,0-0
-10,2006-11-04,15:30,VfL Wolfsburg,Hamburger SV,1-0,1-0
-10,2006-11-04,15:30,Alemannia Aachen,VfB Stuttgart,2-4,1-2
-10,2006-11-04,15:30,Bayer Leverkusen,1. FSV Mainz 05,1-1,1-1
-10,2006-11-05,17:00,FC Schalke 04,Bayern München,2-2,2-1
-10,2006-11-05,17:00,Eintracht Frankfurt,Bor. Mönchengladbach,1-0,0-0
-11,2006-11-07,20:00,VfB Stuttgart,Hamburger SV,2-0,0-0
-11,2006-11-07,20:00,Borussia Dortmund,Alemannia Aachen,0-0,0-0
-11,2006-11-07,20:00,1. FSV Mainz 05,VfL Wolfsburg,1-2,1-1
-11,2006-11-07,20:00,1. FC Nürnberg,Werder Bremen,1-2,0-1
-11,2006-11-08,20:00,VfL Bochum,Bayer Leverkusen,1-3,0-2
-11,2006-11-08,20:00,Arminia Bielefeld,Hertha BSC,2-2,1-1
-11,2006-11-08,20:00,Bayern München,Hannover 96,0-1,0-1
-11,2006-11-08,20:00,Bor. Mönchengladbach,FC Schalke 04,0-2,0-2
-11,2006-11-08,20:00,Energie Cottbus,Eintracht Frankfurt,0-1,0-1
-12,2006-11-10,20:30,Werder Bremen,Borussia Dortmund,1-3,1-1
-12,2006-11-11,15:30,FC Schalke 04,1. FSV Mainz 05,4-0,3-0
-12,2006-11-11,15:30,Bayer Leverkusen,Bayern München,2-3,0-1
-12,2006-11-11,15:30,Hamburger SV,Bor. Mönchengladbach,1-1,0-0
-12,2006-11-11,15:30,VfL Wolfsburg,Energie Cottbus,0-0,0-0
-12,2006-11-11,15:30,Hertha BSC,VfL Bochum,3-3,1-2
-12,2006-11-11,15:30,Eintracht Frankfurt,Arminia Bielefeld,0-3,0-1
-12,2006-11-12,17:00,Hannover 96,VfB Stuttgart,1-2,1-0
-12,2006-11-12,17:00,Alemannia Aachen,1. FC Nürnberg,1-1,0-1
-13,2006-11-17,20:30,VfL Bochum,Eintracht Frankfurt,4-3,3-2
-13,2006-11-18,15:30,Bayern München,VfB Stuttgart,2-1,2-1
-13,2006-11-18,15:30,Borussia Dortmund,Hertha BSC,1-2,1-2
-13,2006-11-18,15:30,1. FC Nürnberg,Bayer Leverkusen,3-2,1-1
-13,2006-11-18,15:30,1. FSV Mainz 05,Hamburger SV,0-0,0-0
-13,2006-11-18,15:30,Alemannia Aachen,Werder Bremen,2-2,1-0
-13,2006-11-18,15:30,Energie Cottbus,FC Schalke 04,2-4,2-2
-13,2006-11-19,17:00,Bor. Mönchengladbach,Hannover 96,0-1,0-0
-13,2006-11-19,17:00,Arminia Bielefeld,VfL Wolfsburg,0-0,0-0
-14,2006-11-24,20:30,FC Schalke 04,VfL Bochum,2-1,2-0
-14,2006-11-25,15:30,Werder Bremen,Arminia Bielefeld,3-0,2-0
-14,2006-11-25,15:30,Hamburger SV,Bayern München,1-2,1-0
-14,2006-11-25,15:30,Hertha BSC,Alemannia Aachen,2-1,1-1
-14,2006-11-25,15:30,Hannover 96,1. FSV Mainz 05,1-0,0-0
-14,2006-11-25,15:30,Eintracht Frankfurt,Borussia Dortmund,1-1,1-0
-14,2006-11-25,15:30,VfL Wolfsburg,1. FC Nürnberg,1-1,0-1
-14,2006-11-26,18:00,Bayer Leverkusen,Energie Cottbus,3-1,1-0
-14,2006-11-26,18:00,VfB Stuttgart,Bor. Mönchengladbach,1-0,1-0
-15,2006-12-01,20:30,1. FSV Mainz 05,VfB Stuttgart,0-0,0-0
-15,2006-12-02,15:30,Werder Bremen,Hertha BSC,3-1,3-1
-15,2006-12-02,15:30,VfL Bochum,Hamburger SV,2-1,1-1
-15,2006-12-02,15:30,Arminia Bielefeld,Bayer Leverkusen,0-0,0-0
-15,2006-12-02,15:30,Bayern München,Bor. Mönchengladbach,1-1,1-1
-15,2006-12-02,15:30,Borussia Dortmund,VfL Wolfsburg,1-0,0-0
-15,2006-12-02,15:30,Energie Cottbus,Hannover 96,0-1,0-1
-15,2006-12-03,17:00,1. FC Nürnberg,FC Schalke 04,0-0,0-0
-15,2006-12-03,17:00,Alemannia Aachen,Eintracht Frankfurt,2-3,1-2
-16,2006-12-08,20:30,Bayer Leverkusen,Hertha BSC,2-1,1-1
-16,2006-12-09,15:30,Bayern München,Energie Cottbus,2-1,1-0
-16,2006-12-09,15:30,Hamburger SV,1. FC Nürnberg,0-0,0-0
-16,2006-12-09,15:30,VfB Stuttgart,VfL Bochum,1-0,0-0
-16,2006-12-09,15:30,Bor. Mönchengladbach,1. FSV Mainz 05,1-1,1-0
-16,2006-12-09,15:30,Hannover 96,Arminia Bielefeld,1-1,0-0
-16,2006-12-09,15:30,Eintracht Frankfurt,Werder Bremen,2-6,1-3
-16,2006-12-10,17:00,FC Schalke 04,Borussia Dortmund,3-1,2-0
-16,2006-12-10,17:00,VfL Wolfsburg,Alemannia Aachen,1-2,0-0
-17,2006-12-15,20:30,VfL Bochum,Bor. Mönchengladbach,2-0,1-0
-17,2006-12-16,15:30,Arminia Bielefeld,FC Schalke 04,0-1,0-0
-17,2006-12-16,15:30,Hertha BSC,Eintracht Frankfurt,1-0,0-0
-17,2006-12-16,15:30,1. FSV Mainz 05,Bayern München,0-4,0-2
-17,2006-12-16,15:30,Energie Cottbus,VfB Stuttgart,0-0,0-0
-17,2006-12-16,15:30,1. FC Nürnberg,Hannover 96,3-1,1-1
-17,2006-12-16,15:30,Alemannia Aachen,Hamburger SV,3-3,0-1
-17,2006-12-17,17:00,Werder Bremen,VfL Wolfsburg,2-1,1-1
-17,2006-12-17,17:00,Borussia Dortmund,Bayer Leverkusen,1-2,0-1
-18,2007-01-26,20:30,Borussia Dortmund,Bayern München,3-2,1-2
-18,2007-01-27,15:30,Arminia Bielefeld,Hamburger SV,1-1,0-1
-18,2007-01-27,15:30,1. FC Nürnberg,VfB Stuttgart,4-1,1-1
-18,2007-01-27,15:30,Eintracht Frankfurt,FC Schalke 04,1-3,0-1
-18,2007-01-27,15:30,Energie Cottbus,Bor. Mönchengladbach,3-1,2-0
-18,2007-01-27,15:30,VfL Bochum,1. FSV Mainz 05,0-1,0-1
-18,2007-01-27,15:30,Hertha BSC,VfL Wolfsburg,2-1,1-1
-18,2007-01-28,17:00,Alemannia Aachen,Bayer Leverkusen,2-3,2-1
-18,2007-01-28,17:00,Werder Bremen,Hannover 96,3-0,1-0
-19,2007-01-30,20:00,Bayern München,VfL Bochum,0-0,0-0
-19,2007-01-30,20:00,VfB Stuttgart,Arminia Bielefeld,3-2,1-1
-19,2007-01-30,20:00,VfL Wolfsburg,Eintracht Frankfurt,2-2,1-0
-19,2007-01-30,20:00,Bor. Mönchengladbach,1. FC Nürnberg,0-0,0-0
-19,2007-01-31,20:00,Bayer Leverkusen,Werder Bremen,0-2,0-1
-19,2007-01-31,20:00,1. FSV Mainz 05,Borussia Dortmund,1-0,0-0
-19,2007-01-31,20:00,Hannover 96,Hertha BSC,5-0,3-0
-19,2007-01-31,20:00,Hamburger SV,Energie Cottbus,1-1,1-1
-19,2007-01-31,20:00,FC Schalke 04,Alemannia Aachen,2-1,1-1
-20,2007-02-02,20:30,1. FC Nürnberg,Bayern München,3-0,1-0
-20,2007-02-03,15:30,Energie Cottbus,VfL Bochum,0-0,0-0
-20,2007-02-03,15:30,VfL Wolfsburg,Bayer Leverkusen,3-2,2-1
-20,2007-02-03,15:30,Hertha BSC,Hamburger SV,2-1,0-1
-20,2007-02-03,15:30,Arminia Bielefeld,Bor. Mönchengladbach,0-2,0-1
-20,2007-02-03,15:30,Eintracht Frankfurt,1. FSV Mainz 05,0-0,0-0
-20,2007-02-03,15:30,Alemannia Aachen,Hannover 96,1-4,1-3
-20,2007-02-04,17:00,Werder Bremen,FC Schalke 04,0-2,0-1
-20,2007-02-04,17:00,Borussia Dortmund,VfB Stuttgart,0-1,0-0
-21,2007-02-09,20:30,Hannover 96,VfL Wolfsburg,2-2,1-2
-21,2007-02-10,15:30,VfB Stuttgart,Werder Bremen,4-1,3-1
-21,2007-02-10,15:30,FC Schalke 04,Hertha BSC,2-0,0-0
-21,2007-02-10,15:30,Hamburger SV,Borussia Dortmund,3-0,2-0
-21,2007-02-10,15:30,Bayer Leverkusen,Eintracht Frankfurt,2-2,1-1
-21,2007-02-10,15:30,Bor. Mönchengladbach,Alemannia Aachen,0-0,0-0
-21,2007-02-10,15:30,1. FSV Mainz 05,Energie Cottbus,4-1,3-1
-21,2007-02-11,17:00,VfL Bochum,1. FC Nürnberg,0-2,0-0
-21,2007-02-11,17:00,Bayern München,Arminia Bielefeld,1-0,1-0
-22,2007-02-16,20:30,Eintracht Frankfurt,VfB Stuttgart,0-4,0-3
-22,2007-02-17,15:30,Alemannia Aachen,Bayern München,1-0,1-0
-22,2007-02-17,15:30,Werder Bremen,Hamburger SV,0-2,0-1
-22,2007-02-17,15:30,VfL Wolfsburg,FC Schalke 04,2-2,0-2
-22,2007-02-17,15:30,Borussia Dortmund,Bor. Mönchengladbach,1-0,1-0
-22,2007-02-17,15:30,Hertha BSC,1. FSV Mainz 05,1-2,1-0
-22,2007-02-17,15:30,Bayer Leverkusen,Hannover 96,0-1,0-1
-22,2007-02-18,17:00,Arminia Bielefeld,VfL Bochum,1-3,1-2
-22,2007-02-18,17:00,1. FC Nürnberg,Energie Cottbus,1-0,0-0
-23,2007-02-23,20:30,VfB Stuttgart,Hertha BSC,0-0,0-0
-23,2007-02-24,15:30,Hannover 96,Borussia Dortmund,4-2,0-0
-23,2007-02-24,15:30,1. FSV Mainz 05,1. FC Nürnberg,2-1,2-0
-23,2007-02-24,15:30,Energie Cottbus,Arminia Bielefeld,2-1,0-1
-23,2007-02-24,15:30,Hamburger SV,Eintracht Frankfurt,3-1,1-0
-23,2007-02-24,15:30,Bayern München,VfL Wolfsburg,2-1,1-0
-23,2007-02-24,15:30,VfL Bochum,Alemannia Aachen,2-2,1-1
-23,2007-02-25,17:00,Bor. Mönchengladbach,Werder Bremen,2-2,1-1
-23,2007-02-25,17:00,FC Schalke 04,Bayer Leverkusen,0-1,0-0
-24,2007-03-02,20:30,FC Schalke 04,Hamburger SV,0-2,0-0
-24,2007-03-03,15:30,Hertha BSC,Bayern München,2-3,0-2
-24,2007-03-03,15:30,Arminia Bielefeld,1. FC Nürnberg,3-2,1-1
-24,2007-03-03,15:30,Bayer Leverkusen,VfB Stuttgart,3-1,2-0
-24,2007-03-03,15:30,VfL Wolfsburg,Bor. Mönchengladbach,1-0,0-0
-24,2007-03-03,15:30,Eintracht Frankfurt,Hannover 96,2-0,0-0
-24,2007-03-03,15:30,Werder Bremen,VfL Bochum,3-0,1-0
-24,2007-03-04,17:00,Alemannia Aachen,1. FSV Mainz 05,2-1,0-1
-24,2007-03-04,17:00,Borussia Dortmund,Energie Cottbus,2-3,1-1
-25,2007-03-09,20:30,1. FC Nürnberg,Eintracht Frankfurt,2-2,0-1
-25,2007-03-10,15:30,Hannover 96,FC Schalke 04,1-1,1-1
-25,2007-03-10,15:30,1. FSV Mainz 05,Arminia Bielefeld,1-0,0-0
-25,2007-03-10,15:30,VfL Bochum,Borussia Dortmund,2-0,0-0
-25,2007-03-10,15:30,VfB Stuttgart,VfL Wolfsburg,0-0,0-0
-25,2007-03-10,15:30,Bor. Mönchengladbach,Hertha BSC,3-1,1-0
-25,2007-03-10,15:30,Energie Cottbus,Alemannia Aachen,0-2,0-1
-25,2007-03-11,17:00,Bayern München,Werder Bremen,1-1,1-0
-25,2007-03-11,17:00,Hamburger SV,Bayer Leverkusen,0-0,0-0
-26,2007-03-16,20:30,Hertha BSC,Energie Cottbus,0-1,0-0
-26,2007-03-17,15:30,Eintracht Frankfurt,Bayern München,1-0,0-0
-26,2007-03-17,15:30,Hannover 96,Hamburger SV,0-0,0-0
-26,2007-03-17,15:30,Borussia Dortmund,1. FC Nürnberg,0-0,0-0
-26,2007-03-17,15:30,FC Schalke 04,VfB Stuttgart,1-0,0-0
-26,2007-03-17,15:30,Alemannia Aachen,Arminia Bielefeld,2-0,0-0
-26,2007-03-17,15:30,VfL Wolfsburg,VfL Bochum,3-1,2-0
-26,2007-03-18,17:00,Bayer Leverkusen,Bor. Mönchengladbach,1-0,0-0
-26,2007-03-18,17:00,Werder Bremen,1. FSV Mainz 05,2-0,0-0
-27,2007-03-30,20:30,Arminia Bielefeld,Borussia Dortmund,1-0,0-0
-27,2007-03-31,15:30,Energie Cottbus,Werder Bremen,0-0,0-0
-27,2007-03-31,15:30,Bayern München,FC Schalke 04,2-0,1-0
-27,2007-03-31,15:30,1. FC Nürnberg,Hertha BSC,2-1,1-0
-27,2007-03-31,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,1-1,0-1
-27,2007-03-31,15:30,VfB Stuttgart,Alemannia Aachen,3-1,1-0
-27,2007-03-31,15:30,1. FSV Mainz 05,Bayer Leverkusen,1-3,0-2
-27,2007-04-01,17:00,VfL Bochum,Hannover 96,2-0,2-0
-27,2007-04-01,17:00,Hamburger SV,VfL Wolfsburg,1-0,0-0
-28,2007-04-07,15:30,Hertha BSC,Arminia Bielefeld,1-1,0-1
-28,2007-04-07,15:30,Hamburger SV,VfB Stuttgart,2-4,0-3
-28,2007-04-07,15:30,Hannover 96,Bayern München,1-2,1-0
-28,2007-04-07,15:30,FC Schalke 04,Bor. Mönchengladbach,2-0,0-0
-28,2007-04-07,15:30,Alemannia Aachen,Borussia Dortmund,1-4,0-1
-28,2007-04-07,15:30,VfL Wolfsburg,1. FSV Mainz 05,3-2,1-1
-28,2007-04-07,15:30,Eintracht Frankfurt,Energie Cottbus,1-3,0-0
-28,2007-04-08,17:00,Bayer Leverkusen,VfL Bochum,1-4,0-3
-28,2007-04-08,17:00,Werder Bremen,1. FC Nürnberg,1-0,0-0
-29,2007-04-13,20:30,Bor. Mönchengladbach,Hamburger SV,0-1,0-0
-29,2007-04-14,15:30,1. FSV Mainz 05,FC Schalke 04,0-3,0-2
-29,2007-04-14,15:30,Energie Cottbus,VfL Wolfsburg,3-2,1-0
-29,2007-04-14,15:30,VfL Bochum,Hertha BSC,1-3,1-0
-29,2007-04-14,15:30,Arminia Bielefeld,Eintracht Frankfurt,2-4,1-2
-29,2007-04-14,15:30,VfB Stuttgart,Hannover 96,2-1,1-0
-29,2007-04-14,15:30,1. FC Nürnberg,Alemannia Aachen,1-0,1-0
-29,2007-04-15,17:00,Borussia Dortmund,Werder Bremen,0-2,0-2
-29,2007-04-15,17:00,Bayern München,Bayer Leverkusen,2-1,1-0
-30,2007-04-20,20:30,Werder Bremen,Alemannia Aachen,3-1,0-1
-30,2007-04-21,15:30,VfB Stuttgart,Bayern München,2-0,2-0
-30,2007-04-21,15:30,Hertha BSC,Borussia Dortmund,0-1,0-0
-30,2007-04-21,15:30,Bayer Leverkusen,1. FC Nürnberg,2-0,1-0
-30,2007-04-21,15:30,VfL Wolfsburg,Arminia Bielefeld,2-3,1-1
-30,2007-04-21,15:30,Eintracht Frankfurt,VfL Bochum,0-3,0-1
-30,2007-04-21,15:30,FC Schalke 04,Energie Cottbus,2-0,0-0
-30,2007-04-22,17:00,Hannover 96,Bor. Mönchengladbach,1-0,1-0
-30,2007-04-22,17:00,Hamburger SV,1. FSV Mainz 05,2-2,1-1
-31,2007-04-27,20:30,VfL Bochum,FC Schalke 04,2-1,2-1
-31,2007-04-28,15:30,Bayern München,Hamburger SV,1-2,1-0
-31,2007-04-28,15:30,Alemannia Aachen,Hertha BSC,0-4,0-1
-31,2007-04-28,15:30,Bor. Mönchengladbach,VfB Stuttgart,0-1,0-0
-31,2007-04-28,15:30,1. FSV Mainz 05,Hannover 96,1-2,0-1
-31,2007-04-28,15:30,Borussia Dortmund,Eintracht Frankfurt,2-0,1-0
-31,2007-04-28,15:30,1. FC Nürnberg,VfL Wolfsburg,1-1,1-1
-31,2007-04-29,17:00,Arminia Bielefeld,Werder Bremen,3-2,1-0
-31,2007-04-29,17:00,Energie Cottbus,Bayer Leverkusen,2-1,1-1
-32,2007-05-04,20:30,Hannover 96,Energie Cottbus,2-0,1-0
-32,2007-05-05,15:30,Hamburger SV,VfL Bochum,0-3,0-0
-32,2007-05-05,15:30,Bor. Mönchengladbach,Bayern München,1-1,0-1
-32,2007-05-05,15:30,VfL Wolfsburg,Borussia Dortmund,0-2,0-1
-32,2007-05-05,15:30,VfB Stuttgart,1. FSV Mainz 05,2-0,1-0
-32,2007-05-05,15:30,FC Schalke 04,1. FC Nürnberg,1-0,0-0
-32,2007-05-05,15:30,Eintracht Frankfurt,Alemannia Aachen,4-0,2-0
-32,2007-05-06,17:00,Hertha BSC,Werder Bremen,1-4,0-1
-32,2007-05-06,17:00,Bayer Leverkusen,Arminia Bielefeld,1-2,1-1
-33,2007-05-12,15:30,Energie Cottbus,Bayern München,0-3,0-2
-33,2007-05-12,15:30,1. FC Nürnberg,Hamburger SV,0-2,0-2
-33,2007-05-12,15:30,Borussia Dortmund,FC Schalke 04,2-0,1-0
-33,2007-05-12,15:30,Hertha BSC,Bayer Leverkusen,2-3,1-2
-33,2007-05-12,15:30,VfL Bochum,VfB Stuttgart,2-3,2-1
-33,2007-05-12,15:30,1. FSV Mainz 05,Bor. Mönchengladbach,3-0,2-0
-33,2007-05-12,15:30,Arminia Bielefeld,Hannover 96,3-1,2-1
-33,2007-05-12,15:30,Werder Bremen,Eintracht Frankfurt,1-2,1-1
-33,2007-05-12,15:30,Alemannia Aachen,VfL Wolfsburg,2-2,0-0
-34,2007-05-19,15:30,VfL Wolfsburg,Werder Bremen,0-2,0-0
-34,2007-05-19,15:30,Bor. Mönchengladbach,VfL Bochum,0-2,0-1
-34,2007-05-19,15:30,FC Schalke 04,Arminia Bielefeld,2-1,2-0
-34,2007-05-19,15:30,Bayer Leverkusen,Borussia Dortmund,2-1,1-0
-34,2007-05-19,15:30,Eintracht Frankfurt,Hertha BSC,1-2,0-0
-34,2007-05-19,15:30,Bayern München,1. FSV Mainz 05,5-2,3-0
-34,2007-05-19,15:30,VfB Stuttgart,Energie Cottbus,2-1,1-1
-34,2007-05-19,15:30,Hannover 96,1. FC Nürnberg,0-3,0-0
-34,2007-05-19,15:30,Hamburger SV,Alemannia Aachen,4-0,2-0
+Round,Date,Team 1,Team 2,FT,HT
+1,2006-08-11,Bayern München,Borussia Dortmund,2-0,1-0
+1,2006-08-12,Hamburger SV,Arminia Bielefeld,1-1,0-1
+1,2006-08-12,Bayer Leverkusen,Alemannia Aachen,3-0,2-0
+1,2006-08-12,VfB Stuttgart,1. FC Nürnberg,0-3,0-2
+1,2006-08-12,FC Schalke 04,Eintracht Frankfurt,1-1,1-0
+1,2006-08-12,Bor. Mönchengladbach,Energie Cottbus,2-0,0-0
+1,2006-08-12,1. FSV Mainz 05,VfL Bochum,2-1,1-0
+1,2006-08-13,VfL Wolfsburg,Hertha BSC,0-0,0-0
+1,2006-08-13,Hannover 96,Werder Bremen,2-4,1-1
+2,2006-08-18,1. FC Nürnberg,Bor. Mönchengladbach,1-0,1-0
+2,2006-08-19,Werder Bremen,Bayer Leverkusen,2-1,1-1
+2,2006-08-19,Borussia Dortmund,1. FSV Mainz 05,1-1,0-0
+2,2006-08-19,Hertha BSC,Hannover 96,4-0,2-0
+2,2006-08-19,Eintracht Frankfurt,VfL Wolfsburg,0-0,0-0
+2,2006-08-19,Energie Cottbus,Hamburger SV,2-2,0-1
+2,2006-08-19,Alemannia Aachen,FC Schalke 04,0-1,0-0
+2,2006-08-20,VfL Bochum,Bayern München,1-2,0-1
+2,2006-08-20,Arminia Bielefeld,VfB Stuttgart,2-3,0-1
+3,2006-08-25,FC Schalke 04,Werder Bremen,2-0,1-0
+3,2006-08-26,VfL Bochum,Energie Cottbus,0-1,0-0
+3,2006-08-26,Bayer Leverkusen,VfL Wolfsburg,1-1,0-0
+3,2006-08-26,VfB Stuttgart,Borussia Dortmund,1-3,1-2
+3,2006-08-26,Bayern München,1. FC Nürnberg,0-0,0-0
+3,2006-08-26,Bor. Mönchengladbach,Arminia Bielefeld,1-0,0-0
+3,2006-08-26,Hannover 96,Alemannia Aachen,0-3,0-1
+3,2006-08-27,Hamburger SV,Hertha BSC,1-1,1-0
+3,2006-08-27,1. FSV Mainz 05,Eintracht Frankfurt,1-1,0-1
+4,2006-09-15,VfL Wolfsburg,Hannover 96,1-2,0-0
+4,2006-09-16,Werder Bremen,VfB Stuttgart,2-3,2-1
+4,2006-09-16,Borussia Dortmund,Hamburger SV,1-0,0-0
+4,2006-09-16,1. FC Nürnberg,VfL Bochum,1-1,1-1
+4,2006-09-16,Arminia Bielefeld,Bayern München,2-1,1-1
+4,2006-09-16,Alemannia Aachen,Bor. Mönchengladbach,4-2,2-0
+4,2006-09-16,Energie Cottbus,1. FSV Mainz 05,2-0,0-0
+4,2006-09-17,Hertha BSC,FC Schalke 04,2-0,1-0
+4,2006-09-17,Eintracht Frankfurt,Bayer Leverkusen,3-1,0-0
+5,2006-09-22,Bor. Mönchengladbach,Borussia Dortmund,1-0,1-0
+5,2006-09-23,Bayern München,Alemannia Aachen,2-1,1-1
+5,2006-09-23,Hamburger SV,Werder Bremen,1-1,0-0
+5,2006-09-23,FC Schalke 04,VfL Wolfsburg,2-0,0-0
+5,2006-09-23,VfB Stuttgart,Eintracht Frankfurt,1-1,0-0
+5,2006-09-23,1. FSV Mainz 05,Hertha BSC,1-1,0-0
+5,2006-09-23,Hannover 96,Bayer Leverkusen,1-1,0-1
+5,2006-09-24,VfL Bochum,Arminia Bielefeld,2-1,0-1
+5,2006-09-24,Energie Cottbus,1. FC Nürnberg,1-1,0-1
+6,2006-09-29,Borussia Dortmund,Hannover 96,2-2,1-0
+6,2006-09-30,Werder Bremen,Bor. Mönchengladbach,3-0,3-0
+6,2006-09-30,1. FC Nürnberg,1. FSV Mainz 05,1-1,1-0
+6,2006-09-30,Arminia Bielefeld,Energie Cottbus,3-1,0-1
+6,2006-09-30,Eintracht Frankfurt,Hamburger SV,2-2,1-0
+6,2006-09-30,VfL Wolfsburg,Bayern München,1-0,1-0
+6,2006-09-30,Alemannia Aachen,VfL Bochum,2-1,0-1
+6,2006-10-01,Bayer Leverkusen,FC Schalke 04,3-1,1-1
+6,2006-10-01,Hertha BSC,VfB Stuttgart,2-2,2-1
+7,2006-10-13,1. FSV Mainz 05,Alemannia Aachen,1-3,1-2
+7,2006-10-14,Bayern München,Hertha BSC,4-2,2-0
+7,2006-10-14,Hamburger SV,FC Schalke 04,1-2,1-1
+7,2006-10-14,VfB Stuttgart,Bayer Leverkusen,3-0,1-0
+7,2006-10-14,Bor. Mönchengladbach,VfL Wolfsburg,3-1,2-1
+7,2006-10-14,Hannover 96,Eintracht Frankfurt,1-1,1-0
+7,2006-10-14,VfL Bochum,Werder Bremen,0-6,0-1
+7,2006-10-15,1. FC Nürnberg,Arminia Bielefeld,1-1,1-1
+7,2006-10-15,Energie Cottbus,Borussia Dortmund,2-3,1-1
+8,2006-10-20,Borussia Dortmund,VfL Bochum,1-1,1-1
+8,2006-10-21,FC Schalke 04,Hannover 96,2-1,2-0
+8,2006-10-21,Werder Bremen,Bayern München,3-1,2-1
+8,2006-10-21,Arminia Bielefeld,1. FSV Mainz 05,1-0,0-0
+8,2006-10-21,VfL Wolfsburg,VfB Stuttgart,1-1,1-1
+8,2006-10-21,Hertha BSC,Bor. Mönchengladbach,2-1,0-0
+8,2006-10-21,Alemannia Aachen,Energie Cottbus,1-2,1-0
+8,2006-10-22,Bayer Leverkusen,Hamburger SV,1-2,1-0
+8,2006-10-22,Eintracht Frankfurt,1. FC Nürnberg,2-2,1-1
+9,2006-10-27,1. FSV Mainz 05,Werder Bremen,1-6,0-3
+9,2006-10-28,Bayern München,Eintracht Frankfurt,2-0,2-0
+9,2006-10-28,Hamburger SV,Hannover 96,0-0,0-0
+9,2006-10-28,1. FC Nürnberg,Borussia Dortmund,1-1,0-0
+9,2006-10-28,Bor. Mönchengladbach,Bayer Leverkusen,0-2,0-1
+9,2006-10-28,VfL Bochum,VfL Wolfsburg,0-1,0-1
+9,2006-10-28,Energie Cottbus,Hertha BSC,2-0,0-0
+9,2006-10-29,VfB Stuttgart,FC Schalke 04,3-0,1-0
+9,2006-10-29,Arminia Bielefeld,Alemannia Aachen,5-1,2-0
+10,2006-11-03,Hannover 96,VfL Bochum,0-2,0-1
+10,2006-11-04,Werder Bremen,Energie Cottbus,1-1,0-0
+10,2006-11-04,Hertha BSC,1. FC Nürnberg,2-1,1-0
+10,2006-11-04,Borussia Dortmund,Arminia Bielefeld,1-1,0-0
+10,2006-11-04,VfL Wolfsburg,Hamburger SV,1-0,1-0
+10,2006-11-04,Alemannia Aachen,VfB Stuttgart,2-4,1-2
+10,2006-11-04,Bayer Leverkusen,1. FSV Mainz 05,1-1,1-1
+10,2006-11-05,FC Schalke 04,Bayern München,2-2,2-1
+10,2006-11-05,Eintracht Frankfurt,Bor. Mönchengladbach,1-0,0-0
+11,2006-11-07,VfB Stuttgart,Hamburger SV,2-0,0-0
+11,2006-11-07,Borussia Dortmund,Alemannia Aachen,0-0,0-0
+11,2006-11-07,1. FSV Mainz 05,VfL Wolfsburg,1-2,1-1
+11,2006-11-07,1. FC Nürnberg,Werder Bremen,1-2,0-1
+11,2006-11-08,VfL Bochum,Bayer Leverkusen,1-3,0-2
+11,2006-11-08,Arminia Bielefeld,Hertha BSC,2-2,1-1
+11,2006-11-08,Bayern München,Hannover 96,0-1,0-1
+11,2006-11-08,Bor. Mönchengladbach,FC Schalke 04,0-2,0-2
+11,2006-11-08,Energie Cottbus,Eintracht Frankfurt,0-1,0-1
+12,2006-11-10,Werder Bremen,Borussia Dortmund,1-3,1-1
+12,2006-11-11,FC Schalke 04,1. FSV Mainz 05,4-0,3-0
+12,2006-11-11,Bayer Leverkusen,Bayern München,2-3,0-1
+12,2006-11-11,Hamburger SV,Bor. Mönchengladbach,1-1,0-0
+12,2006-11-11,VfL Wolfsburg,Energie Cottbus,0-0,0-0
+12,2006-11-11,Hertha BSC,VfL Bochum,3-3,1-2
+12,2006-11-11,Eintracht Frankfurt,Arminia Bielefeld,0-3,0-1
+12,2006-11-12,Hannover 96,VfB Stuttgart,1-2,1-0
+12,2006-11-12,Alemannia Aachen,1. FC Nürnberg,1-1,0-1
+13,2006-11-17,VfL Bochum,Eintracht Frankfurt,4-3,3-2
+13,2006-11-18,Bayern München,VfB Stuttgart,2-1,2-1
+13,2006-11-18,Borussia Dortmund,Hertha BSC,1-2,1-2
+13,2006-11-18,1. FC Nürnberg,Bayer Leverkusen,3-2,1-1
+13,2006-11-18,1. FSV Mainz 05,Hamburger SV,0-0,0-0
+13,2006-11-18,Alemannia Aachen,Werder Bremen,2-2,1-0
+13,2006-11-18,Energie Cottbus,FC Schalke 04,2-4,2-2
+13,2006-11-19,Bor. Mönchengladbach,Hannover 96,0-1,0-0
+13,2006-11-19,Arminia Bielefeld,VfL Wolfsburg,0-0,0-0
+14,2006-11-24,FC Schalke 04,VfL Bochum,2-1,2-0
+14,2006-11-25,Werder Bremen,Arminia Bielefeld,3-0,2-0
+14,2006-11-25,Hamburger SV,Bayern München,1-2,1-0
+14,2006-11-25,Hertha BSC,Alemannia Aachen,2-1,1-1
+14,2006-11-25,Hannover 96,1. FSV Mainz 05,1-0,0-0
+14,2006-11-25,Eintracht Frankfurt,Borussia Dortmund,1-1,1-0
+14,2006-11-25,VfL Wolfsburg,1. FC Nürnberg,1-1,0-1
+14,2006-11-26,Bayer Leverkusen,Energie Cottbus,3-1,1-0
+14,2006-11-26,VfB Stuttgart,Bor. Mönchengladbach,1-0,1-0
+15,2006-12-01,1. FSV Mainz 05,VfB Stuttgart,0-0,0-0
+15,2006-12-02,Werder Bremen,Hertha BSC,3-1,3-1
+15,2006-12-02,VfL Bochum,Hamburger SV,2-1,1-1
+15,2006-12-02,Arminia Bielefeld,Bayer Leverkusen,0-0,0-0
+15,2006-12-02,Bayern München,Bor. Mönchengladbach,1-1,1-1
+15,2006-12-02,Borussia Dortmund,VfL Wolfsburg,1-0,0-0
+15,2006-12-02,Energie Cottbus,Hannover 96,0-1,0-1
+15,2006-12-03,1. FC Nürnberg,FC Schalke 04,0-0,0-0
+15,2006-12-03,Alemannia Aachen,Eintracht Frankfurt,2-3,1-2
+16,2006-12-08,Bayer Leverkusen,Hertha BSC,2-1,1-1
+16,2006-12-09,Bayern München,Energie Cottbus,2-1,1-0
+16,2006-12-09,Hamburger SV,1. FC Nürnberg,0-0,0-0
+16,2006-12-09,VfB Stuttgart,VfL Bochum,1-0,0-0
+16,2006-12-09,Bor. Mönchengladbach,1. FSV Mainz 05,1-1,1-0
+16,2006-12-09,Hannover 96,Arminia Bielefeld,1-1,0-0
+16,2006-12-09,Eintracht Frankfurt,Werder Bremen,2-6,1-3
+16,2006-12-10,FC Schalke 04,Borussia Dortmund,3-1,2-0
+16,2006-12-10,VfL Wolfsburg,Alemannia Aachen,1-2,0-0
+17,2006-12-15,VfL Bochum,Bor. Mönchengladbach,2-0,1-0
+17,2006-12-16,Arminia Bielefeld,FC Schalke 04,0-1,0-0
+17,2006-12-16,Hertha BSC,Eintracht Frankfurt,1-0,0-0
+17,2006-12-16,1. FSV Mainz 05,Bayern München,0-4,0-2
+17,2006-12-16,Energie Cottbus,VfB Stuttgart,0-0,0-0
+17,2006-12-16,1. FC Nürnberg,Hannover 96,3-1,1-1
+17,2006-12-16,Alemannia Aachen,Hamburger SV,3-3,0-1
+17,2006-12-17,Werder Bremen,VfL Wolfsburg,2-1,1-1
+17,2006-12-17,Borussia Dortmund,Bayer Leverkusen,1-2,0-1
+18,2007-01-26,Borussia Dortmund,Bayern München,3-2,1-2
+18,2007-01-27,Arminia Bielefeld,Hamburger SV,1-1,0-1
+18,2007-01-27,1. FC Nürnberg,VfB Stuttgart,4-1,1-1
+18,2007-01-27,Eintracht Frankfurt,FC Schalke 04,1-3,0-1
+18,2007-01-27,Energie Cottbus,Bor. Mönchengladbach,3-1,2-0
+18,2007-01-27,VfL Bochum,1. FSV Mainz 05,0-1,0-1
+18,2007-01-27,Hertha BSC,VfL Wolfsburg,2-1,1-1
+18,2007-01-28,Alemannia Aachen,Bayer Leverkusen,2-3,2-1
+18,2007-01-28,Werder Bremen,Hannover 96,3-0,1-0
+19,2007-01-30,Bayern München,VfL Bochum,0-0,0-0
+19,2007-01-30,VfB Stuttgart,Arminia Bielefeld,3-2,1-1
+19,2007-01-30,VfL Wolfsburg,Eintracht Frankfurt,2-2,1-0
+19,2007-01-30,Bor. Mönchengladbach,1. FC Nürnberg,0-0,0-0
+19,2007-01-31,Bayer Leverkusen,Werder Bremen,0-2,0-1
+19,2007-01-31,1. FSV Mainz 05,Borussia Dortmund,1-0,0-0
+19,2007-01-31,Hannover 96,Hertha BSC,5-0,3-0
+19,2007-01-31,Hamburger SV,Energie Cottbus,1-1,1-1
+19,2007-01-31,FC Schalke 04,Alemannia Aachen,2-1,1-1
+20,2007-02-02,1. FC Nürnberg,Bayern München,3-0,1-0
+20,2007-02-03,Energie Cottbus,VfL Bochum,0-0,0-0
+20,2007-02-03,VfL Wolfsburg,Bayer Leverkusen,3-2,2-1
+20,2007-02-03,Hertha BSC,Hamburger SV,2-1,0-1
+20,2007-02-03,Arminia Bielefeld,Bor. Mönchengladbach,0-2,0-1
+20,2007-02-03,Eintracht Frankfurt,1. FSV Mainz 05,0-0,0-0
+20,2007-02-03,Alemannia Aachen,Hannover 96,1-4,1-3
+20,2007-02-04,Werder Bremen,FC Schalke 04,0-2,0-1
+20,2007-02-04,Borussia Dortmund,VfB Stuttgart,0-1,0-0
+21,2007-02-09,Hannover 96,VfL Wolfsburg,2-2,1-2
+21,2007-02-10,VfB Stuttgart,Werder Bremen,4-1,3-1
+21,2007-02-10,FC Schalke 04,Hertha BSC,2-0,0-0
+21,2007-02-10,Hamburger SV,Borussia Dortmund,3-0,2-0
+21,2007-02-10,Bayer Leverkusen,Eintracht Frankfurt,2-2,1-1
+21,2007-02-10,Bor. Mönchengladbach,Alemannia Aachen,0-0,0-0
+21,2007-02-10,1. FSV Mainz 05,Energie Cottbus,4-1,3-1
+21,2007-02-11,VfL Bochum,1. FC Nürnberg,0-2,0-0
+21,2007-02-11,Bayern München,Arminia Bielefeld,1-0,1-0
+22,2007-02-16,Eintracht Frankfurt,VfB Stuttgart,0-4,0-3
+22,2007-02-17,Alemannia Aachen,Bayern München,1-0,1-0
+22,2007-02-17,Werder Bremen,Hamburger SV,0-2,0-1
+22,2007-02-17,VfL Wolfsburg,FC Schalke 04,2-2,0-2
+22,2007-02-17,Borussia Dortmund,Bor. Mönchengladbach,1-0,1-0
+22,2007-02-17,Hertha BSC,1. FSV Mainz 05,1-2,1-0
+22,2007-02-17,Bayer Leverkusen,Hannover 96,0-1,0-1
+22,2007-02-18,Arminia Bielefeld,VfL Bochum,1-3,1-2
+22,2007-02-18,1. FC Nürnberg,Energie Cottbus,1-0,0-0
+23,2007-02-23,VfB Stuttgart,Hertha BSC,0-0,0-0
+23,2007-02-24,Hannover 96,Borussia Dortmund,4-2,0-0
+23,2007-02-24,1. FSV Mainz 05,1. FC Nürnberg,2-1,2-0
+23,2007-02-24,Energie Cottbus,Arminia Bielefeld,2-1,0-1
+23,2007-02-24,Hamburger SV,Eintracht Frankfurt,3-1,1-0
+23,2007-02-24,Bayern München,VfL Wolfsburg,2-1,1-0
+23,2007-02-24,VfL Bochum,Alemannia Aachen,2-2,1-1
+23,2007-02-25,Bor. Mönchengladbach,Werder Bremen,2-2,1-1
+23,2007-02-25,FC Schalke 04,Bayer Leverkusen,0-1,0-0
+24,2007-03-02,FC Schalke 04,Hamburger SV,0-2,0-0
+24,2007-03-03,Hertha BSC,Bayern München,2-3,0-2
+24,2007-03-03,Arminia Bielefeld,1. FC Nürnberg,3-2,1-1
+24,2007-03-03,Bayer Leverkusen,VfB Stuttgart,3-1,2-0
+24,2007-03-03,VfL Wolfsburg,Bor. Mönchengladbach,1-0,0-0
+24,2007-03-03,Eintracht Frankfurt,Hannover 96,2-0,0-0
+24,2007-03-03,Werder Bremen,VfL Bochum,3-0,1-0
+24,2007-03-04,Alemannia Aachen,1. FSV Mainz 05,2-1,0-1
+24,2007-03-04,Borussia Dortmund,Energie Cottbus,2-3,1-1
+25,2007-03-09,1. FC Nürnberg,Eintracht Frankfurt,2-2,0-1
+25,2007-03-10,Hannover 96,FC Schalke 04,1-1,1-1
+25,2007-03-10,1. FSV Mainz 05,Arminia Bielefeld,1-0,0-0
+25,2007-03-10,VfL Bochum,Borussia Dortmund,2-0,0-0
+25,2007-03-10,VfB Stuttgart,VfL Wolfsburg,0-0,0-0
+25,2007-03-10,Bor. Mönchengladbach,Hertha BSC,3-1,1-0
+25,2007-03-10,Energie Cottbus,Alemannia Aachen,0-2,0-1
+25,2007-03-11,Bayern München,Werder Bremen,1-1,1-0
+25,2007-03-11,Hamburger SV,Bayer Leverkusen,0-0,0-0
+26,2007-03-16,Hertha BSC,Energie Cottbus,0-1,0-0
+26,2007-03-17,Eintracht Frankfurt,Bayern München,1-0,0-0
+26,2007-03-17,Hannover 96,Hamburger SV,0-0,0-0
+26,2007-03-17,Borussia Dortmund,1. FC Nürnberg,0-0,0-0
+26,2007-03-17,FC Schalke 04,VfB Stuttgart,1-0,0-0
+26,2007-03-17,Alemannia Aachen,Arminia Bielefeld,2-0,0-0
+26,2007-03-17,VfL Wolfsburg,VfL Bochum,3-1,2-0
+26,2007-03-18,Bayer Leverkusen,Bor. Mönchengladbach,1-0,0-0
+26,2007-03-18,Werder Bremen,1. FSV Mainz 05,2-0,0-0
+27,2007-03-30,Arminia Bielefeld,Borussia Dortmund,1-0,0-0
+27,2007-03-31,Energie Cottbus,Werder Bremen,0-0,0-0
+27,2007-03-31,Bayern München,FC Schalke 04,2-0,1-0
+27,2007-03-31,1. FC Nürnberg,Hertha BSC,2-1,1-0
+27,2007-03-31,Bor. Mönchengladbach,Eintracht Frankfurt,1-1,0-1
+27,2007-03-31,VfB Stuttgart,Alemannia Aachen,3-1,1-0
+27,2007-03-31,1. FSV Mainz 05,Bayer Leverkusen,1-3,0-2
+27,2007-04-01,VfL Bochum,Hannover 96,2-0,2-0
+27,2007-04-01,Hamburger SV,VfL Wolfsburg,1-0,0-0
+28,2007-04-07,Hertha BSC,Arminia Bielefeld,1-1,0-1
+28,2007-04-07,Hamburger SV,VfB Stuttgart,2-4,0-3
+28,2007-04-07,Hannover 96,Bayern München,1-2,1-0
+28,2007-04-07,FC Schalke 04,Bor. Mönchengladbach,2-0,0-0
+28,2007-04-07,Alemannia Aachen,Borussia Dortmund,1-4,0-1
+28,2007-04-07,VfL Wolfsburg,1. FSV Mainz 05,3-2,1-1
+28,2007-04-07,Eintracht Frankfurt,Energie Cottbus,1-3,0-0
+28,2007-04-08,Bayer Leverkusen,VfL Bochum,1-4,0-3
+28,2007-04-08,Werder Bremen,1. FC Nürnberg,1-0,0-0
+29,2007-04-13,Bor. Mönchengladbach,Hamburger SV,0-1,0-0
+29,2007-04-14,1. FSV Mainz 05,FC Schalke 04,0-3,0-2
+29,2007-04-14,Energie Cottbus,VfL Wolfsburg,3-2,1-0
+29,2007-04-14,VfL Bochum,Hertha BSC,1-3,1-0
+29,2007-04-14,Arminia Bielefeld,Eintracht Frankfurt,2-4,1-2
+29,2007-04-14,VfB Stuttgart,Hannover 96,2-1,1-0
+29,2007-04-14,1. FC Nürnberg,Alemannia Aachen,1-0,1-0
+29,2007-04-15,Borussia Dortmund,Werder Bremen,0-2,0-2
+29,2007-04-15,Bayern München,Bayer Leverkusen,2-1,1-0
+30,2007-04-20,Werder Bremen,Alemannia Aachen,3-1,0-1
+30,2007-04-21,VfB Stuttgart,Bayern München,2-0,2-0
+30,2007-04-21,Hertha BSC,Borussia Dortmund,0-1,0-0
+30,2007-04-21,Bayer Leverkusen,1. FC Nürnberg,2-0,1-0
+30,2007-04-21,VfL Wolfsburg,Arminia Bielefeld,2-3,1-1
+30,2007-04-21,Eintracht Frankfurt,VfL Bochum,0-3,0-1
+30,2007-04-21,FC Schalke 04,Energie Cottbus,2-0,0-0
+30,2007-04-22,Hannover 96,Bor. Mönchengladbach,1-0,1-0
+30,2007-04-22,Hamburger SV,1. FSV Mainz 05,2-2,1-1
+31,2007-04-27,VfL Bochum,FC Schalke 04,2-1,2-1
+31,2007-04-28,Bayern München,Hamburger SV,1-2,1-0
+31,2007-04-28,Alemannia Aachen,Hertha BSC,0-4,0-1
+31,2007-04-28,Bor. Mönchengladbach,VfB Stuttgart,0-1,0-0
+31,2007-04-28,1. FSV Mainz 05,Hannover 96,1-2,0-1
+31,2007-04-28,Borussia Dortmund,Eintracht Frankfurt,2-0,1-0
+31,2007-04-28,1. FC Nürnberg,VfL Wolfsburg,1-1,1-1
+31,2007-04-29,Arminia Bielefeld,Werder Bremen,3-2,1-0
+31,2007-04-29,Energie Cottbus,Bayer Leverkusen,2-1,1-1
+32,2007-05-04,Hannover 96,Energie Cottbus,2-0,1-0
+32,2007-05-05,Hamburger SV,VfL Bochum,0-3,0-0
+32,2007-05-05,Bor. Mönchengladbach,Bayern München,1-1,0-1
+32,2007-05-05,VfL Wolfsburg,Borussia Dortmund,0-2,0-1
+32,2007-05-05,VfB Stuttgart,1. FSV Mainz 05,2-0,1-0
+32,2007-05-05,FC Schalke 04,1. FC Nürnberg,1-0,0-0
+32,2007-05-05,Eintracht Frankfurt,Alemannia Aachen,4-0,2-0
+32,2007-05-06,Hertha BSC,Werder Bremen,1-4,0-1
+32,2007-05-06,Bayer Leverkusen,Arminia Bielefeld,1-2,1-1
+33,2007-05-12,Energie Cottbus,Bayern München,0-3,0-2
+33,2007-05-12,1. FC Nürnberg,Hamburger SV,0-2,0-2
+33,2007-05-12,Borussia Dortmund,FC Schalke 04,2-0,1-0
+33,2007-05-12,Hertha BSC,Bayer Leverkusen,2-3,1-2
+33,2007-05-12,VfL Bochum,VfB Stuttgart,2-3,2-1
+33,2007-05-12,1. FSV Mainz 05,Bor. Mönchengladbach,3-0,2-0
+33,2007-05-12,Arminia Bielefeld,Hannover 96,3-1,2-1
+33,2007-05-12,Werder Bremen,Eintracht Frankfurt,1-2,1-1
+33,2007-05-12,Alemannia Aachen,VfL Wolfsburg,2-2,0-0
+34,2007-05-19,VfL Wolfsburg,Werder Bremen,0-2,0-0
+34,2007-05-19,Bor. Mönchengladbach,VfL Bochum,0-2,0-1
+34,2007-05-19,FC Schalke 04,Arminia Bielefeld,2-1,2-0
+34,2007-05-19,Bayer Leverkusen,Borussia Dortmund,2-1,1-0
+34,2007-05-19,Eintracht Frankfurt,Hertha BSC,1-2,0-0
+34,2007-05-19,Bayern München,1. FSV Mainz 05,5-2,3-0
+34,2007-05-19,VfB Stuttgart,Energie Cottbus,2-1,1-1
+34,2007-05-19,Hannover 96,1. FC Nürnberg,0-3,0-0
+34,2007-05-19,Hamburger SV,Alemannia Aachen,4-0,2-0

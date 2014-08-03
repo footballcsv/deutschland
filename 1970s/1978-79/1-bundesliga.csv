@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,Team 2,FT,HT
-1,1978-08-11,20:00,MSV Duisburg,Arminia Bielefeld,1-1,1-0
-1,1978-08-12,15:30,FC Schalke 04,Eintracht Frankfurt,4-0,2-0
-1,1978-08-12,15:30,Borussia Dortmund,Bayern München,1-0,1-0
-1,1978-08-12,15:30,Hamburger SV,Bor. Mönchengladbach,3-0,3-0
-1,1978-08-12,15:30,Fortuna Duesseldorf,Werder Bremen,3-1,0-0
-1,1978-08-12,15:30,1. FC Nürnberg,VfL Bochum,0-2,0-1
-1,1978-08-12,15:30,1. FC Kaiserslautern,VfB Stuttgart,5-1,4-0
-1,1978-08-12,15:30,SV Darmstadt 98,Hertha BSC,0-0,0-0
-1,1978-08-12,15:30,Eintracht Braunschweig,1. FC Köln,1-0,1-0
-2,1978-08-17,20:00,Hertha BSC,1. FC Kaiserslautern,0-3,0-0
-2,1978-08-19,15:30,1. FC Köln,SV Darmstadt 98,2-1,0-1
-2,1978-08-19,15:30,VfB Stuttgart,1. FC Nürnberg,4-0,2-0
-2,1978-08-19,15:30,VfL Bochum,Fortuna Duesseldorf,2-2,1-1
-2,1978-08-19,15:30,Werder Bremen,Hamburger SV,1-1,1-0
-2,1978-08-19,15:30,Bor. Mönchengladbach,Borussia Dortmund,2-2,2-1
-2,1978-08-19,15:30,Bayern München,MSV Duisburg,6-2,4-1
-2,1978-08-19,15:30,Arminia Bielefeld,FC Schalke 04,3-2,2-2
-2,1978-08-19,15:30,Eintracht Frankfurt,Eintracht Braunschweig,3-1,2-0
-3,1978-08-25,20:00,Borussia Dortmund,Werder Bremen,1-0,0-0
-3,1978-08-25,20:00,Fortuna Duesseldorf,VfB Stuttgart,2-0,2-0
-3,1978-08-26,15:30,FC Schalke 04,Bayern München,2-1,1-0
-3,1978-08-26,15:30,MSV Duisburg,Bor. Mönchengladbach,0-3,0-2
-3,1978-08-26,15:30,Hamburger SV,VfL Bochum,1-1,1-0
-3,1978-08-26,15:30,1. FC Nürnberg,Hertha BSC,2-1,1-0
-3,1978-08-26,15:30,1. FC Kaiserslautern,1. FC Köln,1-1,0-1
-3,1978-08-26,15:30,Eintracht Frankfurt,Arminia Bielefeld,1-0,0-0
-3,1978-08-26,15:30,Eintracht Braunschweig,SV Darmstadt 98,4-1,0-1
-4,1978-09-02,15:30,1. FC Köln,1. FC Nürnberg,2-0,1-0
-4,1978-09-02,15:30,VfB Stuttgart,Hamburger SV,1-0,1-0
-4,1978-09-02,15:30,VfL Bochum,Borussia Dortmund,4-1,2-0
-4,1978-09-02,15:30,Werder Bremen,MSV Duisburg,3-2,1-0
-4,1978-09-02,15:30,Bor. Mönchengladbach,FC Schalke 04,0-0,0-0
-4,1978-09-02,15:30,Bayern München,Eintracht Frankfurt,3-1,3-1
-4,1978-09-02,15:30,Arminia Bielefeld,Eintracht Braunschweig,2-2,0-1
-4,1978-09-02,15:30,SV Darmstadt 98,1. FC Kaiserslautern,2-2,1-0
-4,1978-09-02,15:30,Hertha BSC,Fortuna Duesseldorf,4-1,2-0
-5,1978-09-08,20:00,FC Schalke 04,Werder Bremen,2-1,1-1
-5,1978-09-08,20:00,MSV Duisburg,VfL Bochum,1-0,1-0
-5,1978-09-09,15:30,Borussia Dortmund,VfB Stuttgart,4-3,2-2
-5,1978-09-09,15:30,Hamburger SV,Hertha BSC,4-1,2-0
-5,1978-09-09,15:30,Fortuna Duesseldorf,1. FC Köln,1-1,0-0
-5,1978-09-09,15:30,1. FC Nürnberg,SV Darmstadt 98,3-2,0-0
-5,1978-09-09,15:30,Arminia Bielefeld,Bayern München,0-2,0-1
-5,1978-09-09,15:30,Eintracht Frankfurt,Bor. Mönchengladbach,2-0,1-0
-5,1978-09-09,15:30,Eintracht Braunschweig,1. FC Kaiserslautern,0-0,0-0
-6,1978-09-16,15:30,1. FC Köln,Hamburger SV,1-3,0-1
-6,1978-09-16,15:30,VfB Stuttgart,MSV Duisburg,2-0,2-0
-6,1978-09-16,15:30,VfL Bochum,FC Schalke 04,2-2,0-1
-6,1978-09-16,15:30,Werder Bremen,Eintracht Frankfurt,0-2,0-0
-6,1978-09-16,15:30,Bor. Mönchengladbach,Arminia Bielefeld,4-1,2-0
-6,1978-09-16,15:30,Bayern München,Eintracht Braunschweig,6-1,4-0
-6,1978-09-16,15:30,1. FC Kaiserslautern,1. FC Nürnberg,3-0,1-0
-6,1978-09-16,15:30,SV Darmstadt 98,Fortuna Duesseldorf,1-6,1-2
-6,1978-09-16,15:30,Hertha BSC,Borussia Dortmund,4-0,2-0
-7,1978-09-30,15:30,FC Schalke 04,VfB Stuttgart,2-3,0-2
-7,1978-09-30,15:30,MSV Duisburg,Hertha BSC,3-2,1-0
-7,1978-09-30,15:30,Borussia Dortmund,1. FC Köln,0-0,0-0
-7,1978-09-30,15:30,Hamburger SV,SV Darmstadt 98,2-1,1-0
-7,1978-09-30,15:30,Fortuna Duesseldorf,1. FC Kaiserslautern,2-2,1-1
-7,1978-09-30,15:30,Bayern München,Bor. Mönchengladbach,3-1,1-1
-7,1978-09-30,15:30,Arminia Bielefeld,Werder Bremen,1-3,0-2
-7,1978-09-30,15:30,Eintracht Frankfurt,VfL Bochum,4-2,2-0
-7,1978-09-30,15:30,Eintracht Braunschweig,1. FC Nürnberg,3-1,3-0
-8,1978-10-06,20:00,VfL Bochum,Arminia Bielefeld,1-0,0-0
-8,1978-10-06,20:00,1. FC Nürnberg,Fortuna Duesseldorf,3-2,1-1
-8,1978-10-06,20:00,1. FC Kaiserslautern,Hamburger SV,2-1,1-1
-8,1978-10-07,15:30,1. FC Köln,MSV Duisburg,3-3,2-2
-8,1978-10-07,15:30,VfB Stuttgart,Eintracht Frankfurt,3-1,0-1
-8,1978-10-07,15:30,Werder Bremen,Bayern München,1-1,1-0
-8,1978-10-07,15:30,Bor. Mönchengladbach,Eintracht Braunschweig,2-3,1-2
-8,1978-10-07,15:30,SV Darmstadt 98,Borussia Dortmund,3-2,1-1
-8,1978-10-07,15:30,Hertha BSC,FC Schalke 04,1-1,0-1
-9,1978-10-14,15:30,FC Schalke 04,1. FC Köln,1-1,0-0
-9,1978-10-14,15:30,MSV Duisburg,SV Darmstadt 98,4-4,1-2
-9,1978-10-14,15:30,Borussia Dortmund,1. FC Kaiserslautern,2-3,1-1
-9,1978-10-14,15:30,Hamburger SV,1. FC Nürnberg,4-1,1-0
-9,1978-10-14,15:30,Bor. Mönchengladbach,Werder Bremen,4-0,1-0
-9,1978-10-14,15:30,Bayern München,VfL Bochum,2-1,1-1
-9,1978-10-14,15:30,Arminia Bielefeld,VfB Stuttgart,1-1,1-1
-9,1978-10-14,15:30,Eintracht Frankfurt,Hertha BSC,2-2,1-1
-9,1978-10-14,15:30,Eintracht Braunschweig,Fortuna Duesseldorf,1-1,0-1
-10,1978-10-20,20:00,Werder Bremen,Eintracht Braunschweig,3-1,1-1
-10,1978-10-21,15:30,1. FC Köln,Eintracht Frankfurt,0-2,0-1
-10,1978-10-21,15:30,VfB Stuttgart,Bayern München,2-0,0-0
-10,1978-10-21,15:30,VfL Bochum,Bor. Mönchengladbach,0-0,0-0
-10,1978-10-21,15:30,Fortuna Duesseldorf,Hamburger SV,0-2,0-1
-10,1978-10-21,15:30,1. FC Nürnberg,Borussia Dortmund,2-2,1-0
-10,1978-10-21,15:30,1. FC Kaiserslautern,MSV Duisburg,2-1,0-0
-10,1978-10-21,15:30,SV Darmstadt 98,FC Schalke 04,1-2,0-1
-10,1978-10-21,15:30,Hertha BSC,Arminia Bielefeld,1-2,0-1
-11,1978-10-27,20:00,Werder Bremen,VfL Bochum,3-3,2-1
-11,1978-10-28,15:30,FC Schalke 04,1. FC Kaiserslautern,1-1,1-0
-11,1978-10-28,15:30,MSV Duisburg,1. FC Nürnberg,1-0,0-0
-11,1978-10-28,15:30,Borussia Dortmund,Fortuna Duesseldorf,3-0,1-0
-11,1978-10-28,15:30,Bor. Mönchengladbach,VfB Stuttgart,0-0,0-0
-11,1978-10-28,15:30,Bayern München,Hertha BSC,1-1,0-0
-11,1978-10-28,15:30,Arminia Bielefeld,1. FC Köln,1-0,0-0
-11,1978-10-28,15:30,Eintracht Frankfurt,SV Darmstadt 98,2-0,1-0
-11,1978-10-28,15:30,Eintracht Braunschweig,Hamburger SV,1-0,1-0
-12,1978-11-03,20:00,1. FC Kaiserslautern,Eintracht Frankfurt,2-1,2-1
-12,1978-11-03,20:00,VfL Bochum,Eintracht Braunschweig,3-0,2-0
-12,1978-11-04,14:30,Hertha BSC,Bor. Mönchengladbach,1-0,0-0
-12,1978-11-04,15:30,1. FC Köln,Bayern München,1-1,0-0
-12,1978-11-04,15:30,VfB Stuttgart,Werder Bremen,1-1,0-0
-12,1978-11-04,15:30,Hamburger SV,Borussia Dortmund,5-0,3-0
-12,1978-11-04,15:30,Fortuna Duesseldorf,MSV Duisburg,3-0,0-0
-12,1978-11-04,15:30,1. FC Nürnberg,FC Schalke 04,0-2,0-2
-12,1978-11-04,15:30,SV Darmstadt 98,Arminia Bielefeld,1-1,1-1
-13,1978-11-10,20:00,MSV Duisburg,Hamburger SV,0-2,0-1
-13,1978-11-11,15:30,FC Schalke 04,Fortuna Duesseldorf,1-2,1-0
-13,1978-11-11,15:30,VfL Bochum,VfB Stuttgart,1-2,1-1
-13,1978-11-11,15:30,Werder Bremen,Hertha BSC,1-1,1-0
-13,1978-11-11,15:30,Bor. Mönchengladbach,1. FC Köln,2-0,0-0
-13,1978-11-11,15:30,Bayern München,SV Darmstadt 98,1-1,0-0
-13,1978-11-11,15:30,Arminia Bielefeld,1. FC Kaiserslautern,0-1,0-0
-13,1978-11-11,15:30,Eintracht Frankfurt,1. FC Nürnberg,2-0,0-0
-13,1978-11-11,15:30,Eintracht Braunschweig,Borussia Dortmund,2-2,0-0
-14,1978-11-17,20:00,1. FC Nürnberg,Arminia Bielefeld,0-1,0-0
-14,1978-11-18,15:30,1. FC Köln,Werder Bremen,2-0,2-0
-14,1978-11-18,15:30,VfB Stuttgart,Eintracht Braunschweig,3-0,3-0
-14,1978-11-18,15:30,Borussia Dortmund,MSV Duisburg,4-1,3-1
-14,1978-11-18,15:30,Hamburger SV,FC Schalke 04,4-2,1-2
-14,1978-11-18,15:30,Fortuna Duesseldorf,Eintracht Frankfurt,4-2,1-2
-14,1978-11-18,15:30,1. FC Kaiserslautern,Bayern München,2-1,2-0
-14,1978-11-18,15:30,SV Darmstadt 98,Bor. Mönchengladbach,2-0,1-0
-14,1978-11-18,15:30,Hertha BSC,VfL Bochum,1-1,1-0
-15,1978-11-24,20:00,VfL Bochum,1. FC Köln,2-5,0-2
-15,1978-11-25,15:30,FC Schalke 04,Borussia Dortmund,5-1,1-1
-15,1978-11-25,15:30,MSV Duisburg,Eintracht Braunschweig,1-0,1-0
-15,1978-11-25,15:30,Werder Bremen,SV Darmstadt 98,3-0,1-0
-15,1978-11-25,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,5-1,2-1
-15,1978-11-25,15:30,Bayern München,1. FC Nürnberg,4-0,2-0
-15,1978-11-25,15:30,Arminia Bielefeld,Fortuna Duesseldorf,2-0,0-0
-15,1978-11-25,15:30,Eintracht Frankfurt,Hamburger SV,0-0,0-0
-15,1978-11-25,15:30,Hertha BSC,VfB Stuttgart,0-0,0-0
-16,1978-12-08,20:00,1. FC Kaiserslautern,Werder Bremen,4-0,1-0
-16,1978-12-09,15:30,MSV Duisburg,FC Schalke 04,2-1,1-0
-16,1978-12-09,15:30,Borussia Dortmund,Eintracht Frankfurt,3-1,2-0
-16,1978-12-09,15:30,Fortuna Duesseldorf,Bayern München,7-1,2-1
-16,1978-12-09,15:30,Eintracht Braunschweig,Hertha BSC,0-1,0-1
-16,1978-12-23,15:30,1. FC Köln,VfB Stuttgart,1-2,1-0
-16,1978-12-23,15:30,Hamburger SV,Arminia Bielefeld,3-1,1-1
-16,1978-12-23,15:30,1. FC Nürnberg,Bor. Mönchengladbach,1-0,1-0
-16,1978-12-30,14:00,SV Darmstadt 98,VfL Bochum,3-1,1-0
-17,1978-12-15,20:00,VfB Stuttgart,SV Darmstadt 98,3-0,1-0
-17,1978-12-15,20:00,VfL Bochum,1. FC Kaiserslautern,2-2,0-0
-17,1978-12-15,20:00,Bor. Mönchengladbach,Fortuna Duesseldorf,1-0,0-0
-17,1978-12-16,15:30,FC Schalke 04,Eintracht Braunschweig,4-4,2-0
-17,1978-12-16,15:30,Werder Bremen,1. FC Nürnberg,3-1,1-0
-17,1978-12-16,15:30,Bayern München,Hamburger SV,0-1,0-1
-17,1978-12-16,15:30,Eintracht Frankfurt,MSV Duisburg,1-0,0-0
-17,1978-12-16,15:30,Hertha BSC,1. FC Köln,0-2,0-1
-17,1978-12-29,20:00,Arminia Bielefeld,Borussia Dortmund,4-3,1-2
-18,1979-01-13,15:30,Eintracht Frankfurt,FC Schalke 04,3-1,0-1
-18,1979-01-13,15:30,VfB Stuttgart,1. FC Kaiserslautern,3-0,2-0
-18,1979-01-13,15:30,Hertha BSC,SV Darmstadt 98,1-0,1-0
-18,1979-02-09,15:30,Bor. Mönchengladbach,Hamburger SV,4-3,2-1
-18,1979-02-09,15:30,1. FC Köln,Eintracht Braunschweig,3-1,1-0
-18,1979-02-10,15:30,Bayern München,Borussia Dortmund,4-0,2-0
-18,1979-03-20,20:00,VfL Bochum,1. FC Nürnberg,2-1,1-0
-18,1979-03-27,20:00,Arminia Bielefeld,MSV Duisburg,1-1,1-0
-18,1979-05-08,20:00,Werder Bremen,Fortuna Duesseldorf,1-1,1-0
-19,1979-01-20,15:30,1. FC Nürnberg,VfB Stuttgart,1-0,1-0
-19,1979-01-20,15:30,Fortuna Duesseldorf,VfL Bochum,1-1,0-1
-19,1979-02-17,14:30,SV Darmstadt 98,1. FC Köln,0-1,0-0
-19,1979-02-17,15:30,1. FC Kaiserslautern,Hertha BSC,3-0,1-0
-19,1979-03-13,20:00,Eintracht Braunschweig,Eintracht Frankfurt,0-0,0-0
-19,1979-03-14,20:00,Hamburger SV,Werder Bremen,2-2,1-0
-19,1979-03-31,15:30,Borussia Dortmund,Bor. Mönchengladbach,1-1,1-1
-19,1979-05-08,20:00,MSV Duisburg,Bayern München,3-1,3-1
-19,1979-05-26,15:30,FC Schalke 04,Arminia Bielefeld,4-1,0-1
-20,1979-01-27,15:30,Bayern München,FC Schalke 04,2-1,0-1
-20,1979-01-27,15:30,Hertha BSC,1. FC Nürnberg,4-1,3-0
-20,1979-01-27,15:30,Arminia Bielefeld,Eintracht Frankfurt,0-0,0-0
-20,1979-02-24,15:30,SV Darmstadt 98,Eintracht Braunschweig,1-1,0-1
-20,1979-03-02,20:00,1. FC Köln,1. FC Kaiserslautern,2-2,1-0
-20,1979-03-03,15:30,VfL Bochum,Hamburger SV,2-1,0-1
-20,1979-03-03,15:30,VfB Stuttgart,Fortuna Duesseldorf,5-0,3-0
-20,1979-03-27,20:00,Werder Bremen,Borussia Dortmund,4-4,2-2
-20,1979-05-29,20:00,Bor. Mönchengladbach,MSV Duisburg,0-2,0-0
-21,1979-02-03,15:30,Hamburger SV,VfB Stuttgart,1-1,0-1
-21,1979-02-03,15:30,Borussia Dortmund,VfL Bochum,2-2,0-1
-21,1979-02-03,15:30,Eintracht Frankfurt,Bayern München,2-1,0-0
-21,1979-02-10,15:30,1. FC Kaiserslautern,SV Darmstadt 98,2-0,1-0
-21,1979-03-14,20:00,Fortuna Duesseldorf,Hertha BSC,3-1,1-1
-21,1979-03-27,20:00,1. FC Nürnberg,1. FC Köln,1-1,1-1
-21,1979-03-31,15:30,Eintracht Braunschweig,Arminia Bielefeld,5-2,3-2
-21,1979-04-28,15:30,FC Schalke 04,Bor. Mönchengladbach,1-1,1-1
-21,1979-05-19,15:30,MSV Duisburg,Werder Bremen,2-0,2-0
-22,1979-03-10,15:30,Werder Bremen,FC Schalke 04,3-1,2-1
-22,1979-03-10,15:30,VfL Bochum,MSV Duisburg,0-0,0-0
-22,1979-03-10,15:30,VfB Stuttgart,Borussia Dortmund,1-1,1-0
-22,1979-03-10,15:30,Hertha BSC,Hamburger SV,1-3,0-1
-22,1979-03-10,15:30,1. FC Köln,Fortuna Duesseldorf,2-2,2-1
-22,1979-03-10,15:30,SV Darmstadt 98,1. FC Nürnberg,1-3,0-1
-22,1979-03-10,15:30,Bayern München,Arminia Bielefeld,0-4,0-2
-22,1979-03-10,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,1-3,1-2
-22,1979-03-10,15:30,1. FC Kaiserslautern,Eintracht Braunschweig,2-1,2-1
-23,1979-03-16,20:00,MSV Duisburg,VfB Stuttgart,3-1,1-0
-23,1979-03-17,15:30,FC Schalke 04,VfL Bochum,1-3,1-1
-23,1979-03-17,15:30,Eintracht Frankfurt,Werder Bremen,2-1,2-0
-23,1979-03-17,15:30,Arminia Bielefeld,Bor. Mönchengladbach,0-2,0-1
-23,1979-03-17,15:30,Eintracht Braunschweig,Bayern München,0-0,0-0
-23,1979-03-17,15:30,1. FC Nürnberg,1. FC Kaiserslautern,0-0,0-0
-23,1979-03-17,15:30,Fortuna Duesseldorf,SV Darmstadt 98,4-0,1-0
-23,1979-03-17,15:30,Borussia Dortmund,Hertha BSC,3-0,1-0
-23,1979-05-08,20:00,Hamburger SV,1. FC Köln,6-0,3-0
-24,1979-03-24,15:30,VfB Stuttgart,FC Schalke 04,4-0,3-0
-24,1979-03-24,15:30,Hertha BSC,MSV Duisburg,1-0,0-0
-24,1979-03-24,15:30,1. FC Köln,Borussia Dortmund,5-0,2-0
-24,1979-03-24,15:30,SV Darmstadt 98,Hamburger SV,1-2,1-0
-24,1979-03-24,15:30,1. FC Kaiserslautern,Fortuna Duesseldorf,3-0,1-0
-24,1979-03-24,15:30,Bor. Mönchengladbach,Bayern München,1-7,1-5
-24,1979-03-24,15:30,Werder Bremen,Arminia Bielefeld,1-0,1-0
-24,1979-03-24,15:30,VfL Bochum,Eintracht Frankfurt,0-0,0-0
-24,1979-03-24,15:30,1. FC Nürnberg,Eintracht Braunschweig,0-3,0-1
-25,1979-04-03,20:00,Eintracht Braunschweig,Bor. Mönchengladbach,3-0,0-0
-25,1979-04-04,20:00,MSV Duisburg,1. FC Köln,2-1,0-1
-25,1979-04-04,20:00,Eintracht Frankfurt,VfB Stuttgart,1-2,0-0
-25,1979-04-04,20:00,Arminia Bielefeld,VfL Bochum,1-2,1-1
-25,1979-04-04,20:00,Bayern München,Werder Bremen,4-0,1-0
-25,1979-04-04,20:00,Fortuna Duesseldorf,1. FC Nürnberg,3-3,2-2
-25,1979-04-04,20:00,Hamburger SV,1. FC Kaiserslautern,3-0,2-0
-25,1979-04-04,20:00,Borussia Dortmund,SV Darmstadt 98,0-0,0-0
-25,1979-04-04,20:00,FC Schalke 04,Hertha BSC,1-1,0-0
-26,1979-04-07,15:30,1. FC Köln,FC Schalke 04,1-0,0-0
-26,1979-04-07,15:30,SV Darmstadt 98,MSV Duisburg,2-0,0-0
-26,1979-04-07,15:30,1. FC Kaiserslautern,Borussia Dortmund,3-1,3-0
-26,1979-04-07,15:30,1. FC Nürnberg,Hamburger SV,3-3,2-3
-26,1979-04-07,15:30,Werder Bremen,Bor. Mönchengladbach,3-1,2-0
-26,1979-04-07,15:30,VfL Bochum,Bayern München,0-1,0-0
-26,1979-04-07,15:30,VfB Stuttgart,Arminia Bielefeld,5-1,3-1
-26,1979-04-07,15:30,Hertha BSC,Eintracht Frankfurt,4-1,3-1
-26,1979-04-07,15:30,Fortuna Duesseldorf,Eintracht Braunschweig,2-2,0-0
-27,1979-04-12,20:00,Bayern München,VfB Stuttgart,1-1,0-0
-27,1979-04-12,20:00,Eintracht Braunschweig,Werder Bremen,1-1,1-1
-27,1979-04-12,20:00,Borussia Dortmund,1. FC Nürnberg,2-0,1-0
-27,1979-04-12,20:00,FC Schalke 04,SV Darmstadt 98,4-2,2-0
-27,1979-04-14,15:30,Eintracht Frankfurt,1. FC Köln,1-4,0-1
-27,1979-04-14,15:30,Bor. Mönchengladbach,VfL Bochum,2-0,0-0
-27,1979-04-14,15:30,Hamburger SV,Fortuna Duesseldorf,2-1,0-0
-27,1979-04-14,15:30,MSV Duisburg,1. FC Kaiserslautern,3-1,2-1
-27,1979-04-14,15:30,Arminia Bielefeld,Hertha BSC,0-0,0-0
-28,1979-04-18,20:00,1. FC Kaiserslautern,FC Schalke 04,2-2,0-1
-28,1979-04-18,20:00,1. FC Nürnberg,MSV Duisburg,2-1,1-0
-28,1979-04-18,20:00,Fortuna Duesseldorf,Borussia Dortmund,3-1,0-0
-28,1979-04-18,20:00,VfL Bochum,Werder Bremen,3-0,1-0
-28,1979-04-18,20:00,VfB Stuttgart,Bor. Mönchengladbach,2-0,1-0
-28,1979-04-18,20:00,Hertha BSC,Bayern München,1-1,1-1
-28,1979-04-18,20:00,1. FC Köln,Arminia Bielefeld,2-1,2-0
-28,1979-04-18,20:00,SV Darmstadt 98,Eintracht Frankfurt,2-0,2-0
-28,1979-04-18,20:00,Hamburger SV,Eintracht Braunschweig,2-0,2-0
-29,1979-04-21,15:30,Bayern München,1. FC Köln,5-1,4-0
-29,1979-04-21,15:30,Werder Bremen,VfB Stuttgart,0-2,0-2
-29,1979-04-21,15:30,Eintracht Braunschweig,VfL Bochum,1-0,0-0
-29,1979-04-21,15:30,Borussia Dortmund,Hamburger SV,1-3,1-1
-29,1979-04-21,15:30,MSV Duisburg,Fortuna Duesseldorf,1-2,0-1
-29,1979-04-21,15:30,FC Schalke 04,1. FC Nürnberg,0-0,0-0
-29,1979-04-21,15:30,Eintracht Frankfurt,1. FC Kaiserslautern,2-2,1-2
-29,1979-04-21,15:30,Arminia Bielefeld,SV Darmstadt 98,5-0,2-0
-29,1979-04-21,15:30,Bor. Mönchengladbach,Hertha BSC,0-2,0-1
-30,1979-05-04,20:00,1. FC Kaiserslautern,Arminia Bielefeld,3-2,0-0
-30,1979-05-05,15:30,Fortuna Duesseldorf,FC Schalke 04,3-1,3-0
-30,1979-05-05,15:30,Hamburger SV,MSV Duisburg,3-0,1-0
-30,1979-05-05,15:30,VfB Stuttgart,VfL Bochum,2-0,1-0
-30,1979-05-05,15:30,Hertha BSC,Werder Bremen,0-2,0-1
-30,1979-05-05,15:30,1. FC Köln,Bor. Mönchengladbach,1-1,1-1
-30,1979-05-05,15:30,SV Darmstadt 98,Bayern München,1-3,1-1
-30,1979-05-05,15:30,1. FC Nürnberg,Eintracht Frankfurt,0-0,0-0
-30,1979-05-05,15:30,Borussia Dortmund,Eintracht Braunschweig,2-2,2-0
-31,1979-05-12,15:30,Werder Bremen,1. FC Köln,1-1,1-0
-31,1979-05-12,15:30,Eintracht Braunschweig,VfB Stuttgart,2-2,2-1
-31,1979-05-12,15:30,MSV Duisburg,Borussia Dortmund,0-0,0-0
-31,1979-05-12,15:30,FC Schalke 04,Hamburger SV,1-3,0-2
-31,1979-05-12,15:30,Eintracht Frankfurt,Fortuna Duesseldorf,3-2,1-1
-31,1979-05-12,15:30,Arminia Bielefeld,1. FC Nürnberg,2-0,0-0
-31,1979-05-12,15:30,Bayern München,1. FC Kaiserslautern,1-0,1-0
-31,1979-05-12,15:30,Bor. Mönchengladbach,SV Darmstadt 98,3-1,1-0
-31,1979-05-12,15:30,VfL Bochum,Hertha BSC,1-0,1-0
-32,1979-05-19,15:30,Borussia Dortmund,FC Schalke 04,2-0,1-0
-32,1979-05-19,15:30,1. FC Köln,VfL Bochum,1-1,0-1
-32,1979-05-19,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,1-3,0-1
-32,1979-05-19,15:30,1. FC Nürnberg,Bayern München,4-2,2-1
-32,1979-05-19,15:30,Fortuna Duesseldorf,Arminia Bielefeld,3-2,1-0
-32,1979-05-19,15:30,Hamburger SV,Eintracht Frankfurt,4-0,1-0
-32,1979-05-19,15:30,VfB Stuttgart,Hertha BSC,3-0,1-0
-32,1979-05-26,15:30,Eintracht Braunschweig,MSV Duisburg,0-2,0-1
-32,1979-05-26,15:30,SV Darmstadt 98,Werder Bremen,3-0,1-0
-33,1979-06-02,15:30,VfB Stuttgart,1. FC Köln,1-4,0-2
-33,1979-06-02,15:30,FC Schalke 04,MSV Duisburg,2-1,0-0
-33,1979-06-02,15:30,Eintracht Frankfurt,Borussia Dortmund,3-1,1-1
-33,1979-06-02,15:30,Arminia Bielefeld,Hamburger SV,0-0,0-0
-33,1979-06-02,15:30,Bayern München,Fortuna Duesseldorf,1-1,0-1
-33,1979-06-02,15:30,Bor. Mönchengladbach,1. FC Nürnberg,3-1,2-0
-33,1979-06-02,15:30,Werder Bremen,1. FC Kaiserslautern,3-1,3-0
-33,1979-06-02,15:30,VfL Bochum,SV Darmstadt 98,1-2,0-0
-33,1979-06-02,15:30,Hertha BSC,Eintracht Braunschweig,2-2,1-2
-34,1979-06-09,15:30,Eintracht Braunschweig,FC Schalke 04,2-1,1-0
-34,1979-06-09,15:30,SV Darmstadt 98,VfB Stuttgart,1-7,0-3
-34,1979-06-09,15:30,1. FC Kaiserslautern,VfL Bochum,1-1,0-0
-34,1979-06-09,15:30,1. FC Nürnberg,Werder Bremen,2-2,0-0
-34,1979-06-09,15:30,Fortuna Duesseldorf,Bor. Mönchengladbach,3-3,1-0
-34,1979-06-09,15:30,Hamburger SV,Bayern München,1-2,0-0
-34,1979-06-09,15:30,Borussia Dortmund,Arminia Bielefeld,2-0,2-0
-34,1979-06-09,15:30,MSV Duisburg,Eintracht Frankfurt,0-2,0-2
-34,1979-06-09,15:30,1. FC Köln,Hertha BSC,3-1,0-0
+Round,Date,Team 1,Team 2,FT,HT
+1,1978-08-11,MSV Duisburg,Arminia Bielefeld,1-1,1-0
+1,1978-08-12,FC Schalke 04,Eintracht Frankfurt,4-0,2-0
+1,1978-08-12,Borussia Dortmund,Bayern München,1-0,1-0
+1,1978-08-12,Hamburger SV,Bor. Mönchengladbach,3-0,3-0
+1,1978-08-12,Fortuna Düsseldorf,Werder Bremen,3-1,0-0
+1,1978-08-12,1. FC Nürnberg,VfL Bochum,0-2,0-1
+1,1978-08-12,1. FC Kaiserslautern,VfB Stuttgart,5-1,4-0
+1,1978-08-12,SV Darmstadt 98,Hertha BSC,0-0,0-0
+1,1978-08-12,Eintracht Braunschweig,1. FC Köln,1-0,1-0
+2,1978-08-17,Hertha BSC,1. FC Kaiserslautern,0-3,0-0
+2,1978-08-19,1. FC Köln,SV Darmstadt 98,2-1,0-1
+2,1978-08-19,VfB Stuttgart,1. FC Nürnberg,4-0,2-0
+2,1978-08-19,VfL Bochum,Fortuna Düsseldorf,2-2,1-1
+2,1978-08-19,Werder Bremen,Hamburger SV,1-1,1-0
+2,1978-08-19,Bor. Mönchengladbach,Borussia Dortmund,2-2,2-1
+2,1978-08-19,Bayern München,MSV Duisburg,6-2,4-1
+2,1978-08-19,Arminia Bielefeld,FC Schalke 04,3-2,2-2
+2,1978-08-19,Eintracht Frankfurt,Eintracht Braunschweig,3-1,2-0
+3,1978-08-25,Borussia Dortmund,Werder Bremen,1-0,0-0
+3,1978-08-25,Fortuna Düsseldorf,VfB Stuttgart,2-0,2-0
+3,1978-08-26,FC Schalke 04,Bayern München,2-1,1-0
+3,1978-08-26,MSV Duisburg,Bor. Mönchengladbach,0-3,0-2
+3,1978-08-26,Hamburger SV,VfL Bochum,1-1,1-0
+3,1978-08-26,1. FC Nürnberg,Hertha BSC,2-1,1-0
+3,1978-08-26,1. FC Kaiserslautern,1. FC Köln,1-1,0-1
+3,1978-08-26,Eintracht Frankfurt,Arminia Bielefeld,1-0,0-0
+3,1978-08-26,Eintracht Braunschweig,SV Darmstadt 98,4-1,0-1
+4,1978-09-02,1. FC Köln,1. FC Nürnberg,2-0,1-0
+4,1978-09-02,VfB Stuttgart,Hamburger SV,1-0,1-0
+4,1978-09-02,VfL Bochum,Borussia Dortmund,4-1,2-0
+4,1978-09-02,Werder Bremen,MSV Duisburg,3-2,1-0
+4,1978-09-02,Bor. Mönchengladbach,FC Schalke 04,0-0,0-0
+4,1978-09-02,Bayern München,Eintracht Frankfurt,3-1,3-1
+4,1978-09-02,Arminia Bielefeld,Eintracht Braunschweig,2-2,0-1
+4,1978-09-02,SV Darmstadt 98,1. FC Kaiserslautern,2-2,1-0
+4,1978-09-02,Hertha BSC,Fortuna Düsseldorf,4-1,2-0
+5,1978-09-08,FC Schalke 04,Werder Bremen,2-1,1-1
+5,1978-09-08,MSV Duisburg,VfL Bochum,1-0,1-0
+5,1978-09-09,Borussia Dortmund,VfB Stuttgart,4-3,2-2
+5,1978-09-09,Hamburger SV,Hertha BSC,4-1,2-0
+5,1978-09-09,Fortuna Düsseldorf,1. FC Köln,1-1,0-0
+5,1978-09-09,1. FC Nürnberg,SV Darmstadt 98,3-2,0-0
+5,1978-09-09,Arminia Bielefeld,Bayern München,0-2,0-1
+5,1978-09-09,Eintracht Frankfurt,Bor. Mönchengladbach,2-0,1-0
+5,1978-09-09,Eintracht Braunschweig,1. FC Kaiserslautern,0-0,0-0
+6,1978-09-16,1. FC Köln,Hamburger SV,1-3,0-1
+6,1978-09-16,VfB Stuttgart,MSV Duisburg,2-0,2-0
+6,1978-09-16,VfL Bochum,FC Schalke 04,2-2,0-1
+6,1978-09-16,Werder Bremen,Eintracht Frankfurt,0-2,0-0
+6,1978-09-16,Bor. Mönchengladbach,Arminia Bielefeld,4-1,2-0
+6,1978-09-16,Bayern München,Eintracht Braunschweig,6-1,4-0
+6,1978-09-16,1. FC Kaiserslautern,1. FC Nürnberg,3-0,1-0
+6,1978-09-16,SV Darmstadt 98,Fortuna Düsseldorf,1-6,1-2
+6,1978-09-16,Hertha BSC,Borussia Dortmund,4-0,2-0
+7,1978-09-30,FC Schalke 04,VfB Stuttgart,2-3,0-2
+7,1978-09-30,MSV Duisburg,Hertha BSC,3-2,1-0
+7,1978-09-30,Borussia Dortmund,1. FC Köln,0-0,0-0
+7,1978-09-30,Hamburger SV,SV Darmstadt 98,2-1,1-0
+7,1978-09-30,Fortuna Düsseldorf,1. FC Kaiserslautern,2-2,1-1
+7,1978-09-30,Bayern München,Bor. Mönchengladbach,3-1,1-1
+7,1978-09-30,Arminia Bielefeld,Werder Bremen,1-3,0-2
+7,1978-09-30,Eintracht Frankfurt,VfL Bochum,4-2,2-0
+7,1978-09-30,Eintracht Braunschweig,1. FC Nürnberg,3-1,3-0
+8,1978-10-06,VfL Bochum,Arminia Bielefeld,1-0,0-0
+8,1978-10-06,1. FC Nürnberg,Fortuna Düsseldorf,3-2,1-1
+8,1978-10-06,1. FC Kaiserslautern,Hamburger SV,2-1,1-1
+8,1978-10-07,1. FC Köln,MSV Duisburg,3-3,2-2
+8,1978-10-07,VfB Stuttgart,Eintracht Frankfurt,3-1,0-1
+8,1978-10-07,Werder Bremen,Bayern München,1-1,1-0
+8,1978-10-07,Bor. Mönchengladbach,Eintracht Braunschweig,2-3,1-2
+8,1978-10-07,SV Darmstadt 98,Borussia Dortmund,3-2,1-1
+8,1978-10-07,Hertha BSC,FC Schalke 04,1-1,0-1
+9,1978-10-14,FC Schalke 04,1. FC Köln,1-1,0-0
+9,1978-10-14,MSV Duisburg,SV Darmstadt 98,4-4,1-2
+9,1978-10-14,Borussia Dortmund,1. FC Kaiserslautern,2-3,1-1
+9,1978-10-14,Hamburger SV,1. FC Nürnberg,4-1,1-0
+9,1978-10-14,Bor. Mönchengladbach,Werder Bremen,4-0,1-0
+9,1978-10-14,Bayern München,VfL Bochum,2-1,1-1
+9,1978-10-14,Arminia Bielefeld,VfB Stuttgart,1-1,1-1
+9,1978-10-14,Eintracht Frankfurt,Hertha BSC,2-2,1-1
+9,1978-10-14,Eintracht Braunschweig,Fortuna Düsseldorf,1-1,0-1
+10,1978-10-20,Werder Bremen,Eintracht Braunschweig,3-1,1-1
+10,1978-10-21,1. FC Köln,Eintracht Frankfurt,0-2,0-1
+10,1978-10-21,VfB Stuttgart,Bayern München,2-0,0-0
+10,1978-10-21,VfL Bochum,Bor. Mönchengladbach,0-0,0-0
+10,1978-10-21,Fortuna Düsseldorf,Hamburger SV,0-2,0-1
+10,1978-10-21,1. FC Nürnberg,Borussia Dortmund,2-2,1-0
+10,1978-10-21,1. FC Kaiserslautern,MSV Duisburg,2-1,0-0
+10,1978-10-21,SV Darmstadt 98,FC Schalke 04,1-2,0-1
+10,1978-10-21,Hertha BSC,Arminia Bielefeld,1-2,0-1
+11,1978-10-27,Werder Bremen,VfL Bochum,3-3,2-1
+11,1978-10-28,FC Schalke 04,1. FC Kaiserslautern,1-1,1-0
+11,1978-10-28,MSV Duisburg,1. FC Nürnberg,1-0,0-0
+11,1978-10-28,Borussia Dortmund,Fortuna Düsseldorf,3-0,1-0
+11,1978-10-28,Bor. Mönchengladbach,VfB Stuttgart,0-0,0-0
+11,1978-10-28,Bayern München,Hertha BSC,1-1,0-0
+11,1978-10-28,Arminia Bielefeld,1. FC Köln,1-0,0-0
+11,1978-10-28,Eintracht Frankfurt,SV Darmstadt 98,2-0,1-0
+11,1978-10-28,Eintracht Braunschweig,Hamburger SV,1-0,1-0
+12,1978-11-03,1. FC Kaiserslautern,Eintracht Frankfurt,2-1,2-1
+12,1978-11-03,VfL Bochum,Eintracht Braunschweig,3-0,2-0
+12,1978-11-04,Hertha BSC,Bor. Mönchengladbach,1-0,0-0
+12,1978-11-04,1. FC Köln,Bayern München,1-1,0-0
+12,1978-11-04,VfB Stuttgart,Werder Bremen,1-1,0-0
+12,1978-11-04,Hamburger SV,Borussia Dortmund,5-0,3-0
+12,1978-11-04,Fortuna Düsseldorf,MSV Duisburg,3-0,0-0
+12,1978-11-04,1. FC Nürnberg,FC Schalke 04,0-2,0-2
+12,1978-11-04,SV Darmstadt 98,Arminia Bielefeld,1-1,1-1
+13,1978-11-10,MSV Duisburg,Hamburger SV,0-2,0-1
+13,1978-11-11,FC Schalke 04,Fortuna Düsseldorf,1-2,1-0
+13,1978-11-11,VfL Bochum,VfB Stuttgart,1-2,1-1
+13,1978-11-11,Werder Bremen,Hertha BSC,1-1,1-0
+13,1978-11-11,Bor. Mönchengladbach,1. FC Köln,2-0,0-0
+13,1978-11-11,Bayern München,SV Darmstadt 98,1-1,0-0
+13,1978-11-11,Arminia Bielefeld,1. FC Kaiserslautern,0-1,0-0
+13,1978-11-11,Eintracht Frankfurt,1. FC Nürnberg,2-0,0-0
+13,1978-11-11,Eintracht Braunschweig,Borussia Dortmund,2-2,0-0
+14,1978-11-17,1. FC Nürnberg,Arminia Bielefeld,0-1,0-0
+14,1978-11-18,1. FC Köln,Werder Bremen,2-0,2-0
+14,1978-11-18,VfB Stuttgart,Eintracht Braunschweig,3-0,3-0
+14,1978-11-18,Borussia Dortmund,MSV Duisburg,4-1,3-1
+14,1978-11-18,Hamburger SV,FC Schalke 04,4-2,1-2
+14,1978-11-18,Fortuna Düsseldorf,Eintracht Frankfurt,4-2,1-2
+14,1978-11-18,1. FC Kaiserslautern,Bayern München,2-1,2-0
+14,1978-11-18,SV Darmstadt 98,Bor. Mönchengladbach,2-0,1-0
+14,1978-11-18,Hertha BSC,VfL Bochum,1-1,1-0
+15,1978-11-24,VfL Bochum,1. FC Köln,2-5,0-2
+15,1978-11-25,FC Schalke 04,Borussia Dortmund,5-1,1-1
+15,1978-11-25,MSV Duisburg,Eintracht Braunschweig,1-0,1-0
+15,1978-11-25,Werder Bremen,SV Darmstadt 98,3-0,1-0
+15,1978-11-25,Bor. Mönchengladbach,1. FC Kaiserslautern,5-1,2-1
+15,1978-11-25,Bayern München,1. FC Nürnberg,4-0,2-0
+15,1978-11-25,Arminia Bielefeld,Fortuna Düsseldorf,2-0,0-0
+15,1978-11-25,Eintracht Frankfurt,Hamburger SV,0-0,0-0
+15,1978-11-25,Hertha BSC,VfB Stuttgart,0-0,0-0
+16,1978-12-08,1. FC Kaiserslautern,Werder Bremen,4-0,1-0
+16,1978-12-09,MSV Duisburg,FC Schalke 04,2-1,1-0
+16,1978-12-09,Borussia Dortmund,Eintracht Frankfurt,3-1,2-0
+16,1978-12-09,Fortuna Düsseldorf,Bayern München,7-1,2-1
+16,1978-12-09,Eintracht Braunschweig,Hertha BSC,0-1,0-1
+16,1978-12-23,1. FC Köln,VfB Stuttgart,1-2,1-0
+16,1978-12-23,Hamburger SV,Arminia Bielefeld,3-1,1-1
+16,1978-12-23,1. FC Nürnberg,Bor. Mönchengladbach,1-0,1-0
+16,1978-12-30,SV Darmstadt 98,VfL Bochum,3-1,1-0
+17,1978-12-15,VfB Stuttgart,SV Darmstadt 98,3-0,1-0
+17,1978-12-15,VfL Bochum,1. FC Kaiserslautern,2-2,0-0
+17,1978-12-15,Bor. Mönchengladbach,Fortuna Düsseldorf,1-0,0-0
+17,1978-12-16,FC Schalke 04,Eintracht Braunschweig,4-4,2-0
+17,1978-12-16,Werder Bremen,1. FC Nürnberg,3-1,1-0
+17,1978-12-16,Bayern München,Hamburger SV,0-1,0-1
+17,1978-12-16,Eintracht Frankfurt,MSV Duisburg,1-0,0-0
+17,1978-12-16,Hertha BSC,1. FC Köln,0-2,0-1
+17,1978-12-29,Arminia Bielefeld,Borussia Dortmund,4-3,1-2
+18,1979-01-13,Eintracht Frankfurt,FC Schalke 04,3-1,0-1
+18,1979-01-13,VfB Stuttgart,1. FC Kaiserslautern,3-0,2-0
+18,1979-01-13,Hertha BSC,SV Darmstadt 98,1-0,1-0
+18,1979-02-09,Bor. Mönchengladbach,Hamburger SV,4-3,2-1
+18,1979-02-09,1. FC Köln,Eintracht Braunschweig,3-1,1-0
+18,1979-02-10,Bayern München,Borussia Dortmund,4-0,2-0
+18,1979-03-20,VfL Bochum,1. FC Nürnberg,2-1,1-0
+18,1979-03-27,Arminia Bielefeld,MSV Duisburg,1-1,1-0
+18,1979-05-08,Werder Bremen,Fortuna Düsseldorf,1-1,1-0
+19,1979-01-20,1. FC Nürnberg,VfB Stuttgart,1-0,1-0
+19,1979-01-20,Fortuna Düsseldorf,VfL Bochum,1-1,0-1
+19,1979-02-17,SV Darmstadt 98,1. FC Köln,0-1,0-0
+19,1979-02-17,1. FC Kaiserslautern,Hertha BSC,3-0,1-0
+19,1979-03-13,Eintracht Braunschweig,Eintracht Frankfurt,0-0,0-0
+19,1979-03-14,Hamburger SV,Werder Bremen,2-2,1-0
+19,1979-03-31,Borussia Dortmund,Bor. Mönchengladbach,1-1,1-1
+19,1979-05-08,MSV Duisburg,Bayern München,3-1,3-1
+19,1979-05-26,FC Schalke 04,Arminia Bielefeld,4-1,0-1
+20,1979-01-27,Bayern München,FC Schalke 04,2-1,0-1
+20,1979-01-27,Hertha BSC,1. FC Nürnberg,4-1,3-0
+20,1979-01-27,Arminia Bielefeld,Eintracht Frankfurt,0-0,0-0
+20,1979-02-24,SV Darmstadt 98,Eintracht Braunschweig,1-1,0-1
+20,1979-03-02,1. FC Köln,1. FC Kaiserslautern,2-2,1-0
+20,1979-03-03,VfL Bochum,Hamburger SV,2-1,0-1
+20,1979-03-03,VfB Stuttgart,Fortuna Düsseldorf,5-0,3-0
+20,1979-03-27,Werder Bremen,Borussia Dortmund,4-4,2-2
+20,1979-05-29,Bor. Mönchengladbach,MSV Duisburg,0-2,0-0
+21,1979-02-03,Hamburger SV,VfB Stuttgart,1-1,0-1
+21,1979-02-03,Borussia Dortmund,VfL Bochum,2-2,0-1
+21,1979-02-03,Eintracht Frankfurt,Bayern München,2-1,0-0
+21,1979-02-10,1. FC Kaiserslautern,SV Darmstadt 98,2-0,1-0
+21,1979-03-14,Fortuna Düsseldorf,Hertha BSC,3-1,1-1
+21,1979-03-27,1. FC Nürnberg,1. FC Köln,1-1,1-1
+21,1979-03-31,Eintracht Braunschweig,Arminia Bielefeld,5-2,3-2
+21,1979-04-28,FC Schalke 04,Bor. Mönchengladbach,1-1,1-1
+21,1979-05-19,MSV Duisburg,Werder Bremen,2-0,2-0
+22,1979-03-10,Werder Bremen,FC Schalke 04,3-1,2-1
+22,1979-03-10,VfL Bochum,MSV Duisburg,0-0,0-0
+22,1979-03-10,VfB Stuttgart,Borussia Dortmund,1-1,1-0
+22,1979-03-10,Hertha BSC,Hamburger SV,1-3,0-1
+22,1979-03-10,1. FC Köln,Fortuna Düsseldorf,2-2,2-1
+22,1979-03-10,SV Darmstadt 98,1. FC Nürnberg,1-3,0-1
+22,1979-03-10,Bayern München,Arminia Bielefeld,0-4,0-2
+22,1979-03-10,Bor. Mönchengladbach,Eintracht Frankfurt,1-3,1-2
+22,1979-03-10,1. FC Kaiserslautern,Eintracht Braunschweig,2-1,2-1
+23,1979-03-16,MSV Duisburg,VfB Stuttgart,3-1,1-0
+23,1979-03-17,FC Schalke 04,VfL Bochum,1-3,1-1
+23,1979-03-17,Eintracht Frankfurt,Werder Bremen,2-1,2-0
+23,1979-03-17,Arminia Bielefeld,Bor. Mönchengladbach,0-2,0-1
+23,1979-03-17,Eintracht Braunschweig,Bayern München,0-0,0-0
+23,1979-03-17,1. FC Nürnberg,1. FC Kaiserslautern,0-0,0-0
+23,1979-03-17,Fortuna Düsseldorf,SV Darmstadt 98,4-0,1-0
+23,1979-03-17,Borussia Dortmund,Hertha BSC,3-0,1-0
+23,1979-05-08,Hamburger SV,1. FC Köln,6-0,3-0
+24,1979-03-24,VfB Stuttgart,FC Schalke 04,4-0,3-0
+24,1979-03-24,Hertha BSC,MSV Duisburg,1-0,0-0
+24,1979-03-24,1. FC Köln,Borussia Dortmund,5-0,2-0
+24,1979-03-24,SV Darmstadt 98,Hamburger SV,1-2,1-0
+24,1979-03-24,1. FC Kaiserslautern,Fortuna Düsseldorf,3-0,1-0
+24,1979-03-24,Bor. Mönchengladbach,Bayern München,1-7,1-5
+24,1979-03-24,Werder Bremen,Arminia Bielefeld,1-0,1-0
+24,1979-03-24,VfL Bochum,Eintracht Frankfurt,0-0,0-0
+24,1979-03-24,1. FC Nürnberg,Eintracht Braunschweig,0-3,0-1
+25,1979-04-03,Eintracht Braunschweig,Bor. Mönchengladbach,3-0,0-0
+25,1979-04-04,MSV Duisburg,1. FC Köln,2-1,0-1
+25,1979-04-04,Eintracht Frankfurt,VfB Stuttgart,1-2,0-0
+25,1979-04-04,Arminia Bielefeld,VfL Bochum,1-2,1-1
+25,1979-04-04,Bayern München,Werder Bremen,4-0,1-0
+25,1979-04-04,Fortuna Düsseldorf,1. FC Nürnberg,3-3,2-2
+25,1979-04-04,Hamburger SV,1. FC Kaiserslautern,3-0,2-0
+25,1979-04-04,Borussia Dortmund,SV Darmstadt 98,0-0,0-0
+25,1979-04-04,FC Schalke 04,Hertha BSC,1-1,0-0
+26,1979-04-07,1. FC Köln,FC Schalke 04,1-0,0-0
+26,1979-04-07,SV Darmstadt 98,MSV Duisburg,2-0,0-0
+26,1979-04-07,1. FC Kaiserslautern,Borussia Dortmund,3-1,3-0
+26,1979-04-07,1. FC Nürnberg,Hamburger SV,3-3,2-3
+26,1979-04-07,Werder Bremen,Bor. Mönchengladbach,3-1,2-0
+26,1979-04-07,VfL Bochum,Bayern München,0-1,0-0
+26,1979-04-07,VfB Stuttgart,Arminia Bielefeld,5-1,3-1
+26,1979-04-07,Hertha BSC,Eintracht Frankfurt,4-1,3-1
+26,1979-04-07,Fortuna Düsseldorf,Eintracht Braunschweig,2-2,0-0
+27,1979-04-12,Bayern München,VfB Stuttgart,1-1,0-0
+27,1979-04-12,Eintracht Braunschweig,Werder Bremen,1-1,1-1
+27,1979-04-12,Borussia Dortmund,1. FC Nürnberg,2-0,1-0
+27,1979-04-12,FC Schalke 04,SV Darmstadt 98,4-2,2-0
+27,1979-04-14,Eintracht Frankfurt,1. FC Köln,1-4,0-1
+27,1979-04-14,Bor. Mönchengladbach,VfL Bochum,2-0,0-0
+27,1979-04-14,Hamburger SV,Fortuna Düsseldorf,2-1,0-0
+27,1979-04-14,MSV Duisburg,1. FC Kaiserslautern,3-1,2-1
+27,1979-04-14,Arminia Bielefeld,Hertha BSC,0-0,0-0
+28,1979-04-18,1. FC Kaiserslautern,FC Schalke 04,2-2,0-1
+28,1979-04-18,1. FC Nürnberg,MSV Duisburg,2-1,1-0
+28,1979-04-18,Fortuna Düsseldorf,Borussia Dortmund,3-1,0-0
+28,1979-04-18,VfL Bochum,Werder Bremen,3-0,1-0
+28,1979-04-18,VfB Stuttgart,Bor. Mönchengladbach,2-0,1-0
+28,1979-04-18,Hertha BSC,Bayern München,1-1,1-1
+28,1979-04-18,1. FC Köln,Arminia Bielefeld,2-1,2-0
+28,1979-04-18,SV Darmstadt 98,Eintracht Frankfurt,2-0,2-0
+28,1979-04-18,Hamburger SV,Eintracht Braunschweig,2-0,2-0
+29,1979-04-21,Bayern München,1. FC Köln,5-1,4-0
+29,1979-04-21,Werder Bremen,VfB Stuttgart,0-2,0-2
+29,1979-04-21,Eintracht Braunschweig,VfL Bochum,1-0,0-0
+29,1979-04-21,Borussia Dortmund,Hamburger SV,1-3,1-1
+29,1979-04-21,MSV Duisburg,Fortuna Düsseldorf,1-2,0-1
+29,1979-04-21,FC Schalke 04,1. FC Nürnberg,0-0,0-0
+29,1979-04-21,Eintracht Frankfurt,1. FC Kaiserslautern,2-2,1-2
+29,1979-04-21,Arminia Bielefeld,SV Darmstadt 98,5-0,2-0
+29,1979-04-21,Bor. Mönchengladbach,Hertha BSC,0-2,0-1
+30,1979-05-04,1. FC Kaiserslautern,Arminia Bielefeld,3-2,0-0
+30,1979-05-05,Fortuna Düsseldorf,FC Schalke 04,3-1,3-0
+30,1979-05-05,Hamburger SV,MSV Duisburg,3-0,1-0
+30,1979-05-05,VfB Stuttgart,VfL Bochum,2-0,1-0
+30,1979-05-05,Hertha BSC,Werder Bremen,0-2,0-1
+30,1979-05-05,1. FC Köln,Bor. Mönchengladbach,1-1,1-1
+30,1979-05-05,SV Darmstadt 98,Bayern München,1-3,1-1
+30,1979-05-05,1. FC Nürnberg,Eintracht Frankfurt,0-0,0-0
+30,1979-05-05,Borussia Dortmund,Eintracht Braunschweig,2-2,2-0
+31,1979-05-12,Werder Bremen,1. FC Köln,1-1,1-0
+31,1979-05-12,Eintracht Braunschweig,VfB Stuttgart,2-2,2-1
+31,1979-05-12,MSV Duisburg,Borussia Dortmund,0-0,0-0
+31,1979-05-12,FC Schalke 04,Hamburger SV,1-3,0-2
+31,1979-05-12,Eintracht Frankfurt,Fortuna Düsseldorf,3-2,1-1
+31,1979-05-12,Arminia Bielefeld,1. FC Nürnberg,2-0,0-0
+31,1979-05-12,Bayern München,1. FC Kaiserslautern,1-0,1-0
+31,1979-05-12,Bor. Mönchengladbach,SV Darmstadt 98,3-1,1-0
+31,1979-05-12,VfL Bochum,Hertha BSC,1-0,1-0
+32,1979-05-19,Borussia Dortmund,FC Schalke 04,2-0,1-0
+32,1979-05-19,1. FC Köln,VfL Bochum,1-1,0-1
+32,1979-05-19,1. FC Kaiserslautern,Bor. Mönchengladbach,1-3,0-1
+32,1979-05-19,1. FC Nürnberg,Bayern München,4-2,2-1
+32,1979-05-19,Fortuna Düsseldorf,Arminia Bielefeld,3-2,1-0
+32,1979-05-19,Hamburger SV,Eintracht Frankfurt,4-0,1-0
+32,1979-05-19,VfB Stuttgart,Hertha BSC,3-0,1-0
+32,1979-05-26,Eintracht Braunschweig,MSV Duisburg,0-2,0-1
+32,1979-05-26,SV Darmstadt 98,Werder Bremen,3-0,1-0
+33,1979-06-02,VfB Stuttgart,1. FC Köln,1-4,0-2
+33,1979-06-02,FC Schalke 04,MSV Duisburg,2-1,0-0
+33,1979-06-02,Eintracht Frankfurt,Borussia Dortmund,3-1,1-1
+33,1979-06-02,Arminia Bielefeld,Hamburger SV,0-0,0-0
+33,1979-06-02,Bayern München,Fortuna Düsseldorf,1-1,0-1
+33,1979-06-02,Bor. Mönchengladbach,1. FC Nürnberg,3-1,2-0
+33,1979-06-02,Werder Bremen,1. FC Kaiserslautern,3-1,3-0
+33,1979-06-02,VfL Bochum,SV Darmstadt 98,1-2,0-0
+33,1979-06-02,Hertha BSC,Eintracht Braunschweig,2-2,1-2
+34,1979-06-09,Eintracht Braunschweig,FC Schalke 04,2-1,1-0
+34,1979-06-09,SV Darmstadt 98,VfB Stuttgart,1-7,0-3
+34,1979-06-09,1. FC Kaiserslautern,VfL Bochum,1-1,0-0
+34,1979-06-09,1. FC Nürnberg,Werder Bremen,2-2,0-0
+34,1979-06-09,Fortuna Düsseldorf,Bor. Mönchengladbach,3-3,1-0
+34,1979-06-09,Hamburger SV,Bayern München,1-2,0-0
+34,1979-06-09,Borussia Dortmund,Arminia Bielefeld,2-0,2-0
+34,1979-06-09,MSV Duisburg,Eintracht Frankfurt,0-2,0-2
+34,1979-06-09,1. FC Köln,Hertha BSC,3-1,0-0

@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,Team 2,FT,HT
-1,1975-08-09,15:30,Hannover 96,Bor. Mönchengladbach,3-3,2-2
-1,1975-08-09,15:30,Bayern München,Eintracht Braunschweig,1-1,0-1
-1,1975-08-09,15:30,1. FC Kaiserslautern,Kickers Offenbach,2-2,0-0
-1,1975-08-09,15:30,Hamburger SV,FC Schalke 04,4-1,2-1
-1,1975-08-09,15:30,VfL Bochum,Werder Bremen,0-3,0-2
-1,1975-08-09,15:30,MSV Duisburg,Fortuna Duesseldorf,2-2,0-1
-1,1975-08-09,15:30,Rot-Weiss Essen,Bayer 05 Uerdingen,2-1,2-0
-1,1975-08-09,15:30,Hertha BSC,1. FC Köln,2-1,1-1
-1,1975-08-09,15:30,Eintracht Frankfurt,Karlsruher SC,0-2,0-0
-2,1975-08-15,20:00,Werder Bremen,Eintracht Frankfurt,1-2,0-1
-2,1975-08-15,20:00,Kickers Offenbach,Hamburger SV,3-2,2-1
-2,1975-08-16,15:30,Eintracht Braunschweig,Hertha BSC,5-2,2-0
-2,1975-08-16,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,3-0,1-0
-2,1975-08-16,15:30,FC Schalke 04,MSV Duisburg,5-1,2-0
-2,1975-08-16,15:30,Bayer 05 Uerdingen,VfL Bochum,0-0,0-0
-2,1975-08-16,15:30,Fortuna Duesseldorf,Rot-Weiss Essen,5-2,2-1
-2,1975-08-16,15:30,1. FC Köln,Hannover 96,2-1,1-1
-2,1975-08-16,15:30,Karlsruher SC,Bayern München,1-2,0-1
-3,1975-08-22,20:00,1. FC Kaiserslautern,Hannover 96,2-2,0-1
-3,1975-08-22,20:00,Bayern München,Werder Bremen,4-0,0-0
-3,1975-08-23,15:30,Hamburger SV,Bor. Mönchengladbach,0-0,0-0
-3,1975-08-23,15:30,Hertha BSC,Karlsruher SC,1-1,0-0
-3,1975-08-23,15:30,MSV Duisburg,Kickers Offenbach,6-2,2-1
-3,1975-08-23,15:30,Eintracht Frankfurt,Bayer 05 Uerdingen,3-1,0-1
-3,1975-08-23,15:30,Rot-Weiss Essen,FC Schalke 04,0-0,0-0
-3,1975-08-23,15:30,VfL Bochum,Fortuna Duesseldorf,0-1,0-1
-3,1975-08-23,15:30,Eintracht Braunschweig,1. FC Köln,0-0,0-0
-4,1975-08-26,20:00,Bor. Mönchengladbach,MSV Duisburg,3-0,1-0
-4,1975-08-27,20:00,Werder Bremen,Hertha BSC,3-2,2-1
-4,1975-08-27,20:00,Kickers Offenbach,Rot-Weiss Essen,0-4,0-2
-4,1975-08-27,20:00,Fortuna Duesseldorf,Eintracht Frankfurt,1-1,0-1
-4,1975-08-27,20:00,FC Schalke 04,VfL Bochum,1-1,0-0
-4,1975-08-27,20:00,Bayer 05 Uerdingen,Bayern München,2-1,0-0
-4,1975-08-27,20:00,Hannover 96,Hamburger SV,1-0,1-0
-4,1975-08-27,20:00,Karlsruher SC,Eintracht Braunschweig,0-2,0-1
-4,1975-08-27,20:00,1. FC Köln,1. FC Kaiserslautern,1-1,0-1
-5,1975-08-30,15:30,Rot-Weiss Essen,Bor. Mönchengladbach,1-3,1-2
-5,1975-08-30,15:30,Hertha BSC,Bayer 05 Uerdingen,5-0,3-0
-5,1975-08-30,15:30,VfL Bochum,Kickers Offenbach,5-1,0-1
-5,1975-08-30,15:30,Eintracht Frankfurt,FC Schalke 04,2-1,1-1
-5,1975-08-30,15:30,Bayern München,Fortuna Duesseldorf,5-0,2-0
-5,1975-08-30,15:30,MSV Duisburg,Hannover 96,4-3,3-3
-5,1975-08-30,15:30,Eintracht Braunschweig,Werder Bremen,3-2,1-0
-5,1975-08-30,15:30,Hamburger SV,1. FC Kaiserslautern,2-0,1-0
-5,1975-08-30,15:30,Karlsruher SC,1. FC Köln,3-1,0-1
-6,1975-09-06,15:30,Bor. Mönchengladbach,VfL Bochum,1-1,1-0
-6,1975-09-06,15:30,1. FC Köln,Hamburger SV,1-1,1-0
-6,1975-09-06,15:30,Fortuna Duesseldorf,Hertha BSC,2-1,1-0
-6,1975-09-06,15:30,Werder Bremen,Karlsruher SC,1-0,0-0
-6,1975-09-06,15:30,Hannover 96,Rot-Weiss Essen,0-0,0-0
-6,1975-09-06,15:30,Bayer 05 Uerdingen,Eintracht Braunschweig,0-0,0-0
-6,1975-09-06,15:30,1. FC Kaiserslautern,MSV Duisburg,3-0,1-0
-6,1975-09-06,15:30,Kickers Offenbach,Eintracht Frankfurt,2-1,1-0
-6,1975-09-06,15:30,FC Schalke 04,Bayern München,2-2,1-1
-7,1975-09-12,20:00,MSV Duisburg,Hamburger SV,1-1,1-1
-7,1975-09-13,15:30,Hertha BSC,FC Schalke 04,2-1,2-0
-7,1975-09-13,15:30,Bayern München,Kickers Offenbach,3-1,1-0
-7,1975-09-13,15:30,VfL Bochum,Hannover 96,2-0,1-0
-7,1975-09-13,15:30,Eintracht Frankfurt,Bor. Mönchengladbach,1-1,1-0
-7,1975-09-13,15:30,Rot-Weiss Essen,1. FC Kaiserslautern,5-1,2-0
-7,1975-09-13,15:30,Karlsruher SC,Bayer 05 Uerdingen,1-0,0-0
-7,1975-09-13,15:30,Eintracht Braunschweig,Fortuna Duesseldorf,3-1,1-1
-7,1975-09-13,15:30,Werder Bremen,1. FC Köln,3-2,2-2
-8,1975-09-19,20:00,1. FC Kaiserslautern,VfL Bochum,2-1,0-0
-8,1975-09-20,15:30,Kickers Offenbach,Hertha BSC,2-1,2-0
-8,1975-09-20,15:30,Hannover 96,Eintracht Frankfurt,3-2,1-0
-8,1975-09-20,15:30,FC Schalke 04,Eintracht Braunschweig,5-1,1-1
-8,1975-09-20,15:30,Bor. Mönchengladbach,Bayern München,4-1,1-0
-8,1975-09-20,15:30,Fortuna Duesseldorf,Karlsruher SC,0-2,0-1
-8,1975-09-20,15:30,Hamburger SV,Rot-Weiss Essen,4-1,1-0
-8,1975-09-20,15:30,Bayer 05 Uerdingen,Werder Bremen,2-1,2-1
-8,1975-09-20,15:30,1. FC Köln,MSV Duisburg,3-2,1-1
-9,1975-09-27,15:30,Eintracht Braunschweig,Kickers Offenbach,5-1,2-0
-9,1975-09-27,15:30,Bayer 05 Uerdingen,1. FC Köln,1-1,1-0
-9,1975-09-27,15:30,Bayern München,Hannover 96,3-1,1-0
-9,1975-09-27,15:30,Karlsruher SC,FC Schalke 04,2-2,0-2
-9,1975-09-27,15:30,Werder Bremen,Fortuna Duesseldorf,3-0,1-0
-9,1975-09-27,15:30,Rot-Weiss Essen,MSV Duisburg,5-2,3-2
-9,1975-09-27,15:30,Eintracht Frankfurt,1. FC Kaiserslautern,1-1,1-0
-9,1975-09-27,15:30,VfL Bochum,Hamburger SV,0-3,0-1
-9,1975-09-27,19:30,Hertha BSC,Bor. Mönchengladbach,3-0,1-0
-10,1975-10-04,15:30,Bor. Mönchengladbach,Eintracht Braunschweig,0-0,0-0
-10,1975-10-04,15:30,Hannover 96,Hertha BSC,2-6,1-3
-10,1975-10-04,15:30,Kickers Offenbach,Karlsruher SC,0-0,0-0
-10,1975-10-04,15:30,Hamburger SV,Eintracht Frankfurt,4-2,3-1
-10,1975-10-04,15:30,FC Schalke 04,Werder Bremen,4-2,2-1
-10,1975-10-04,15:30,MSV Duisburg,VfL Bochum,1-1,0-0
-10,1975-10-04,15:30,Fortuna Duesseldorf,Bayer 05 Uerdingen,2-0,0-0
-10,1975-10-04,15:30,1. FC Köln,Rot-Weiss Essen,3-0,0-0
-10,1975-10-04,15:30,1. FC Kaiserslautern,Bayern München,2-1,1-1
-11,1975-10-24,20:00,VfL Bochum,Rot-Weiss Essen,2-1,0-0
-11,1975-10-25,14:30,Bayer 05 Uerdingen,FC Schalke 04,3-2,1-0
-11,1975-10-25,15:30,Bayern München,Hamburger SV,1-0,1-0
-11,1975-10-25,15:30,Eintracht Braunschweig,Hannover 96,3-2,2-1
-11,1975-10-25,15:30,Werder Bremen,Kickers Offenbach,3-1,1-1
-11,1975-10-25,15:30,Fortuna Duesseldorf,1. FC Köln,0-0,0-0
-11,1975-10-25,15:30,Hertha BSC,1. FC Kaiserslautern,3-0,1-0
-11,1975-10-25,15:30,Eintracht Frankfurt,MSV Duisburg,1-1,1-0
-11,1975-10-26,15:30,Karlsruher SC,Bor. Mönchengladbach,2-4,1-2
-12,1975-10-31,20:00,MSV Duisburg,Bayern München,1-1,1-1
-12,1975-10-31,20:00,Bor. Mönchengladbach,Werder Bremen,3-0,1-0
-12,1975-10-31,20:00,Rot-Weiss Essen,Eintracht Frankfurt,4-3,1-0
-12,1975-10-31,20:00,FC Schalke 04,Fortuna Duesseldorf,2-0,2-0
-12,1975-10-31,20:00,1. FC Köln,VfL Bochum,1-0,0-0
-12,1975-11-01,15:30,Kickers Offenbach,Bayer 05 Uerdingen,2-3,1-2
-12,1975-11-01,15:30,Hamburger SV,Hertha BSC,2-1,1-1
-12,1975-11-01,15:30,Hannover 96,Karlsruher SC,2-0,2-0
-12,1975-11-01,15:30,1. FC Kaiserslautern,Eintracht Braunschweig,3-1,0-0
-13,1975-11-08,14:30,Bayer 05 Uerdingen,Bor. Mönchengladbach,1-1,0-0
-13,1975-11-08,15:30,Hertha BSC,MSV Duisburg,1-2,1-2
-13,1975-11-08,15:30,Fortuna Duesseldorf,Kickers Offenbach,0-0,0-0
-13,1975-11-08,15:30,Eintracht Frankfurt,VfL Bochum,6-0,1-0
-13,1975-11-08,15:30,FC Schalke 04,1. FC Köln,3-1,1-1
-13,1975-11-08,15:30,Bayern München,Rot-Weiss Essen,5-1,1-0
-13,1975-11-08,15:30,Werder Bremen,Hannover 96,0-0,0-0
-13,1975-11-08,15:30,Eintracht Braunschweig,Hamburger SV,1-0,1-0
-13,1975-11-08,15:30,Karlsruher SC,1. FC Kaiserslautern,3-5,0-2
-14,1975-11-14,20:00,Kickers Offenbach,FC Schalke 04,1-1,1-0
-14,1975-11-15,15:30,Bor. Mönchengladbach,Fortuna Duesseldorf,1-0,0-0
-14,1975-11-15,15:30,Rot-Weiss Essen,Hertha BSC,3-1,2-1
-14,1975-11-15,15:30,1. FC Köln,Eintracht Frankfurt,3-3,0-2
-14,1975-11-15,15:30,VfL Bochum,Bayern München,3-1,2-0
-14,1975-11-15,15:30,Hannover 96,Bayer 05 Uerdingen,3-1,1-1
-14,1975-11-15,15:30,MSV Duisburg,Eintracht Braunschweig,1-0,0-0
-14,1975-11-15,15:30,1. FC Kaiserslautern,Werder Bremen,4-0,1-0
-14,1975-11-15,15:30,Hamburger SV,Karlsruher SC,3-0,0-0
-15,1975-11-22,14:30,Bayer 05 Uerdingen,1. FC Kaiserslautern,2-2,0-1
-15,1975-11-22,15:00,Eintracht Braunschweig,Rot-Weiss Essen,1-1,0-0
-15,1975-11-22,15:30,FC Schalke 04,Bor. Mönchengladbach,2-2,0-0
-15,1975-11-22,15:30,Hertha BSC,VfL Bochum,4-1,4-1
-15,1975-11-22,15:30,1. FC Köln,Kickers Offenbach,4-0,2-0
-15,1975-11-22,15:30,Eintracht Frankfurt,Bayern München,6-0,5-0
-15,1975-11-22,15:30,Fortuna Duesseldorf,Hannover 96,3-0,1-0
-15,1975-11-22,15:30,Karlsruher SC,MSV Duisburg,2-2,0-0
-15,1975-11-22,15:30,Werder Bremen,Hamburger SV,1-3,0-2
-16,1975-11-28,20:00,Bor. Mönchengladbach,Kickers Offenbach,2-0,1-0
-16,1975-11-28,20:00,VfL Bochum,Eintracht Braunschweig,2-0,0-0
-16,1975-11-29,15:30,Eintracht Frankfurt,Hertha BSC,1-1,1-0
-16,1975-11-29,15:30,Hannover 96,FC Schalke 04,1-1,1-0
-16,1975-11-29,15:30,1. FC Kaiserslautern,Fortuna Duesseldorf,2-1,1-0
-16,1975-11-29,15:30,Rot-Weiss Essen,Karlsruher SC,1-0,0-0
-16,1975-11-29,15:30,Hamburger SV,Bayer 05 Uerdingen,0-0,0-0
-16,1975-11-29,15:30,MSV Duisburg,Werder Bremen,2-0,2-0
-16,1975-11-29,15:30,Bayern München,1. FC Köln,1-2,1-1
-17,1975-12-06,14:30,Bayer 05 Uerdingen,MSV Duisburg,0-4,0-1
-17,1975-12-06,15:30,1. FC Köln,Bor. Mönchengladbach,0-4,0-3
-17,1975-12-06,15:30,Hertha BSC,Bayern München,2-1,0-1
-17,1975-12-06,15:30,Kickers Offenbach,Hannover 96,1-0,0-0
-17,1975-12-06,15:30,Eintracht Braunschweig,Eintracht Frankfurt,2-0,1-0
-17,1975-12-06,15:30,FC Schalke 04,1. FC Kaiserslautern,2-2,0-1
-17,1975-12-06,15:30,Karlsruher SC,VfL Bochum,2-2,0-1
-17,1975-12-06,15:30,Fortuna Duesseldorf,Hamburger SV,1-0,0-0
-17,1975-12-06,15:30,Werder Bremen,Rot-Weiss Essen,3-3,2-1
-18,1976-01-16,20:00,Fortuna Duesseldorf,MSV Duisburg,1-3,0-0
-18,1976-01-17,14:30,Bayer 05 Uerdingen,Rot-Weiss Essen,1-1,0-0
-18,1976-01-17,15:30,Bor. Mönchengladbach,Hannover 96,2-0,1-0
-18,1976-01-17,15:30,Eintracht Braunschweig,Bayern München,1-1,0-0
-18,1976-01-17,15:30,Kickers Offenbach,1. FC Kaiserslautern,1-4,0-2
-18,1976-01-17,15:30,FC Schalke 04,Hamburger SV,0-1,0-0
-18,1976-01-17,15:30,Werder Bremen,VfL Bochum,4-1,1-1
-18,1976-01-17,15:30,1. FC Köln,Hertha BSC,2-0,0-0
-18,1976-01-17,15:30,Karlsruher SC,Eintracht Frankfurt,1-0,0-0
-19,1976-01-24,15:30,Eintracht Frankfurt,Werder Bremen,2-0,0-0
-19,1976-01-24,15:30,Hamburger SV,Kickers Offenbach,2-0,0-0
-19,1976-01-24,15:30,Hertha BSC,Eintracht Braunschweig,1-0,0-0
-19,1976-01-24,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,0-3,0-2
-19,1976-01-24,15:30,MSV Duisburg,FC Schalke 04,1-3,1-1
-19,1976-01-24,15:30,VfL Bochum,Bayer 05 Uerdingen,3-0,2-0
-19,1976-01-24,15:30,Rot-Weiss Essen,Fortuna Duesseldorf,2-2,1-2
-19,1976-01-24,15:30,Hannover 96,1. FC Köln,3-3,1-0
-19,1976-01-24,15:30,Bayern München,Karlsruher SC,2-0,1-0
-20,1976-02-07,15:30,Hannover 96,1. FC Kaiserslautern,2-0,1-0
-20,1976-02-07,15:30,Werder Bremen,Bayern München,0-0,0-0
-20,1976-02-07,15:30,Bor. Mönchengladbach,Hamburger SV,1-1,1-1
-20,1976-02-07,15:30,Karlsruher SC,Hertha BSC,3-0,1-0
-20,1976-02-07,15:30,Kickers Offenbach,MSV Duisburg,2-1,0-0
-20,1976-02-07,15:30,Bayer 05 Uerdingen,Eintracht Frankfurt,0-5,0-1
-20,1976-02-07,15:30,FC Schalke 04,Rot-Weiss Essen,5-1,1-1
-20,1976-02-07,15:30,Fortuna Duesseldorf,VfL Bochum,3-1,2-0
-20,1976-02-07,15:30,1. FC Köln,Eintracht Braunschweig,1-1,0-1
-21,1976-02-14,15:30,MSV Duisburg,Bor. Mönchengladbach,2-3,2-1
-21,1976-02-14,15:30,Eintracht Frankfurt,Fortuna Duesseldorf,5-2,2-2
-21,1976-02-14,15:30,Bayern München,Bayer 05 Uerdingen,2-0,0-0
-21,1976-02-17,20:00,Rot-Weiss Essen,Kickers Offenbach,2-2,0-1
-21,1976-02-17,20:00,Hamburger SV,Hannover 96,3-0,0-0
-21,1976-03-09,20:00,1. FC Kaiserslautern,1. FC Köln,1-1,1-0
-21,1976-03-23,20:00,Hertha BSC,Werder Bremen,0-0,0-0
-21,1976-04-02,20:00,VfL Bochum,FC Schalke 04,1-4,0-1
-21,1976-04-03,15:30,Eintracht Braunschweig,Karlsruher SC,2-0,1-0
-22,1976-02-21,15:30,Bor. Mönchengladbach,Rot-Weiss Essen,1-2,1-2
-22,1976-02-21,15:30,Bayer 05 Uerdingen,Hertha BSC,1-1,0-0
-22,1976-02-21,15:30,Kickers Offenbach,VfL Bochum,1-0,1-0
-22,1976-02-21,15:30,FC Schalke 04,Eintracht Frankfurt,2-4,2-0
-22,1976-02-21,15:30,Fortuna Duesseldorf,Bayern München,1-1,1-0
-22,1976-02-21,15:30,Hannover 96,MSV Duisburg,0-2,0-1
-22,1976-02-21,15:30,Werder Bremen,Eintracht Braunschweig,0-1,0-0
-22,1976-02-21,15:30,1. FC Kaiserslautern,Hamburger SV,2-0,1-0
-22,1976-02-21,15:30,1. FC Köln,Karlsruher SC,1-3,1-0
-23,1976-03-06,15:30,VfL Bochum,Bor. Mönchengladbach,2-0,0-0
-23,1976-03-06,15:30,Hamburger SV,1. FC Köln,2-1,0-1
-23,1976-03-06,15:30,Hertha BSC,Fortuna Duesseldorf,2-2,1-0
-23,1976-03-06,15:30,Karlsruher SC,Werder Bremen,2-0,0-0
-23,1976-03-06,15:30,Rot-Weiss Essen,Hannover 96,1-0,1-0
-23,1976-03-06,15:30,Eintracht Braunschweig,Bayer 05 Uerdingen,1-0,1-0
-23,1976-03-06,15:30,MSV Duisburg,1. FC Kaiserslautern,1-2,1-1
-23,1976-03-06,15:30,Eintracht Frankfurt,Kickers Offenbach,1-0,0-0
-23,1976-03-06,15:30,Bayern München,FC Schalke 04,3-2,3-0
-24,1976-03-12,20:00,Hamburger SV,MSV Duisburg,3-0,1-0
-24,1976-03-13,15:30,FC Schalke 04,Hertha BSC,2-2,1-0
-24,1976-03-13,15:30,Kickers Offenbach,Bayern München,2-2,1-1
-24,1976-03-13,15:30,Hannover 96,VfL Bochum,4-1,2-0
-24,1976-03-13,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,4-2,2-1
-24,1976-03-13,15:30,1. FC Kaiserslautern,Rot-Weiss Essen,5-0,3-0
-24,1976-03-13,15:30,Bayer 05 Uerdingen,Karlsruher SC,1-1,1-1
-24,1976-03-13,15:30,Fortuna Duesseldorf,Eintracht Braunschweig,3-3,1-2
-24,1976-03-13,15:30,1. FC Köln,Werder Bremen,1-1,0-0
-25,1976-03-20,15:30,VfL Bochum,1. FC Kaiserslautern,2-0,1-0
-25,1976-03-20,15:30,Hertha BSC,Kickers Offenbach,1-0,0-0
-25,1976-03-20,15:30,Eintracht Frankfurt,Hannover 96,5-1,3-0
-25,1976-03-20,15:30,Eintracht Braunschweig,FC Schalke 04,4-1,1-1
-25,1976-03-20,15:30,Bayern München,Bor. Mönchengladbach,4-0,2-0
-25,1976-03-20,15:30,Karlsruher SC,Fortuna Duesseldorf,1-0,1-0
-25,1976-03-20,15:30,Rot-Weiss Essen,Hamburger SV,1-1,1-0
-25,1976-03-20,15:30,Werder Bremen,Bayer 05 Uerdingen,3-0,0-0
-25,1976-03-20,15:30,MSV Duisburg,1. FC Köln,0-4,0-1
-26,1976-03-26,20:00,MSV Duisburg,Rot-Weiss Essen,4-0,1-0
-26,1976-03-26,20:00,1. FC Kaiserslautern,Eintracht Frankfurt,3-1,1-0
-26,1976-03-27,15:30,Bor. Mönchengladbach,Hertha BSC,1-1,0-1
-26,1976-03-27,15:30,Kickers Offenbach,Eintracht Braunschweig,4-2,2-2
-26,1976-03-27,15:30,1. FC Köln,Bayer 05 Uerdingen,4-0,1-0
-26,1976-03-27,15:30,Hannover 96,Bayern München,2-2,1-1
-26,1976-03-27,15:30,FC Schalke 04,Karlsruher SC,6-2,3-1
-26,1976-03-27,15:30,Fortuna Duesseldorf,Werder Bremen,3-0,1-0
-26,1976-03-27,15:30,Hamburger SV,VfL Bochum,5-3,0-1
-27,1976-04-10,15:30,Eintracht Braunschweig,Bor. Mönchengladbach,0-0,0-0
-27,1976-04-10,15:30,Hertha BSC,Hannover 96,1-0,1-0
-27,1976-04-10,15:30,Karlsruher SC,Kickers Offenbach,2-1,0-0
-27,1976-04-10,15:30,Eintracht Frankfurt,Hamburger SV,1-0,0-0
-27,1976-04-10,15:30,Werder Bremen,FC Schalke 04,1-1,1-0
-27,1976-04-10,15:30,VfL Bochum,MSV Duisburg,1-2,0-1
-27,1976-04-10,15:30,Bayer 05 Uerdingen,Fortuna Duesseldorf,2-0,2-0
-27,1976-04-10,15:30,Rot-Weiss Essen,1. FC Köln,2-3,0-3
-27,1976-04-10,15:30,Bayern München,1. FC Kaiserslautern,3-4,1-1
-28,1976-04-15,20:00,1. FC Kaiserslautern,Hertha BSC,5-0,2-0
-28,1976-04-15,20:00,FC Schalke 04,Bayer 05 Uerdingen,5-1,2-0
-28,1976-04-17,15:30,Rot-Weiss Essen,VfL Bochum,1-0,0-0
-28,1976-04-17,15:30,Hamburger SV,Bayern München,0-1,0-0
-28,1976-04-17,15:30,Hannover 96,Eintracht Braunschweig,2-0,0-0
-28,1976-04-17,15:30,Kickers Offenbach,Werder Bremen,2-0,1-0
-28,1976-04-17,15:30,1. FC Köln,Fortuna Duesseldorf,4-0,2-0
-28,1976-04-17,15:30,MSV Duisburg,Eintracht Frankfurt,1-1,0-1
-28,1976-04-17,15:30,Bor. Mönchengladbach,Karlsruher SC,4-0,1-0
-29,1976-04-23,20:00,Karlsruher SC,Hannover 96,3-2,2-0
-29,1976-04-30,20:00,Eintracht Frankfurt,Rot-Weiss Essen,1-3,0-2
-29,1976-04-30,20:00,Fortuna Duesseldorf,FC Schalke 04,1-2,0-2
-29,1976-04-30,20:00,Eintracht Braunschweig,1. FC Kaiserslautern,2-0,1-0
-29,1976-05-01,15:30,Bayern München,MSV Duisburg,3-0,1-0
-29,1976-05-01,15:30,Werder Bremen,Bor. Mönchengladbach,2-2,2-1
-29,1976-05-01,15:30,VfL Bochum,1. FC Köln,1-0,1-0
-29,1976-05-01,15:30,Bayer 05 Uerdingen,Kickers Offenbach,1-2,1-1
-29,1976-05-01,15:30,Hertha BSC,Hamburger SV,1-1,0-1
-30,1976-05-07,20:00,Kickers Offenbach,Fortuna Duesseldorf,1-1,1-1
-30,1976-05-08,15:30,Bor. Mönchengladbach,Bayer 05 Uerdingen,6-1,2-0
-30,1976-05-08,15:30,MSV Duisburg,Hertha BSC,2-1,0-1
-30,1976-05-08,15:30,VfL Bochum,Eintracht Frankfurt,5-3,1-2
-30,1976-05-08,15:30,Rot-Weiss Essen,Bayern München,3-3,0-0
-30,1976-05-08,15:30,Hannover 96,Werder Bremen,0-0,0-0
-30,1976-05-08,15:30,Hamburger SV,Eintracht Braunschweig,4-0,0-0
-30,1976-05-08,15:30,1. FC Kaiserslautern,Karlsruher SC,3-1,2-1
-30,1976-05-25,20:00,1. FC Köln,FC Schalke 04,2-1,1-1
-31,1976-05-15,15:30,FC Schalke 04,Kickers Offenbach,1-1,1-1
-31,1976-05-15,15:30,Fortuna Duesseldorf,Bor. Mönchengladbach,1-1,1-1
-31,1976-05-15,15:30,Hertha BSC,Rot-Weiss Essen,2-2,1-1
-31,1976-05-15,15:30,Eintracht Frankfurt,1. FC Köln,2-2,2-0
-31,1976-05-15,15:30,Bayern München,VfL Bochum,4-0,1-0
-31,1976-05-15,15:30,Bayer 05 Uerdingen,Hannover 96,1-1,0-0
-31,1976-05-15,15:30,Eintracht Braunschweig,MSV Duisburg,3-1,0-1
-31,1976-05-15,15:30,Werder Bremen,1. FC Kaiserslautern,3-2,3-0
-31,1976-05-15,15:30,Karlsruher SC,Hamburger SV,3-2,1-2
-32,1976-05-28,20:00,Rot-Weiss Essen,Eintracht Braunschweig,2-2,1-0
-32,1976-05-29,15:30,Bor. Mönchengladbach,FC Schalke 04,0-2,0-1
-32,1976-05-29,15:30,VfL Bochum,Hertha BSC,2-0,1-0
-32,1976-05-29,15:30,Kickers Offenbach,1. FC Köln,1-5,1-2
-32,1976-05-29,15:30,Bayern München,Eintracht Frankfurt,1-1,0-0
-32,1976-05-29,15:30,Hannover 96,Fortuna Duesseldorf,1-2,0-0
-32,1976-05-29,15:30,1. FC Kaiserslautern,Bayer 05 Uerdingen,1-2,1-0
-32,1976-05-29,15:30,MSV Duisburg,Karlsruher SC,1-0,0-0
-32,1976-05-29,15:30,Hamburger SV,Werder Bremen,1-2,1-2
-33,1976-06-04,15:30,Kickers Offenbach,Bor. Mönchengladbach,1-1,0-0
-33,1976-06-04,15:30,Eintracht Braunschweig,VfL Bochum,1-1,0-1
-33,1976-06-04,15:30,Hertha BSC,Eintracht Frankfurt,4-4,2-0
-33,1976-06-04,15:30,FC Schalke 04,Hannover 96,1-2,0-2
-33,1976-06-04,15:30,Fortuna Duesseldorf,1. FC Kaiserslautern,5-1,1-1
-33,1976-06-04,15:30,Karlsruher SC,Rot-Weiss Essen,1-2,1-1
-33,1976-06-04,15:30,Bayer 05 Uerdingen,Hamburger SV,0-1,0-1
-33,1976-06-04,15:30,Werder Bremen,MSV Duisburg,2-0,1-0
-33,1976-06-04,15:30,1. FC Köln,Bayern München,1-0,0-0
-34,1976-06-12,15:30,Bor. Mönchengladbach,1. FC Köln,2-1,2-0
-34,1976-06-12,15:30,Bayern München,Hertha BSC,7-4,6-0
-34,1976-06-12,15:30,Hannover 96,Kickers Offenbach,4-0,1-0
-34,1976-06-12,15:30,Eintracht Frankfurt,Eintracht Braunschweig,6-1,3-0
-34,1976-06-12,15:30,1. FC Kaiserslautern,FC Schalke 04,1-3,0-0
-34,1976-06-12,15:30,VfL Bochum,Karlsruher SC,4-2,2-0
-34,1976-06-12,15:30,Hamburger SV,Fortuna Duesseldorf,3-1,1-1
-34,1976-06-12,15:30,Rot-Weiss Essen,Werder Bremen,2-0,1-0
-34,1976-06-12,15:30,MSV Duisburg,Bayer 05 Uerdingen,2-0,2-0
+Round,Date,Team 1,Team 2,FT,HT
+1,1975-08-09,Hannover 96,Bor. Mönchengladbach,3-3,2-2
+1,1975-08-09,Bayern München,Eintracht Braunschweig,1-1,0-1
+1,1975-08-09,1. FC Kaiserslautern,Kickers Offenbach,2-2,0-0
+1,1975-08-09,Hamburger SV,FC Schalke 04,4-1,2-1
+1,1975-08-09,VfL Bochum,Werder Bremen,0-3,0-2
+1,1975-08-09,MSV Duisburg,Fortuna Düsseldorf,2-2,0-1
+1,1975-08-09,Rot-Weiss Essen,Bayer 05 Uerdingen,2-1,2-0
+1,1975-08-09,Hertha BSC,1. FC Köln,2-1,1-1
+1,1975-08-09,Eintracht Frankfurt,Karlsruher SC,0-2,0-0
+2,1975-08-15,Werder Bremen,Eintracht Frankfurt,1-2,0-1
+2,1975-08-15,Kickers Offenbach,Hamburger SV,3-2,2-1
+2,1975-08-16,Eintracht Braunschweig,Hertha BSC,5-2,2-0
+2,1975-08-16,Bor. Mönchengladbach,1. FC Kaiserslautern,3-0,1-0
+2,1975-08-16,FC Schalke 04,MSV Duisburg,5-1,2-0
+2,1975-08-16,Bayer 05 Uerdingen,VfL Bochum,0-0,0-0
+2,1975-08-16,Fortuna Düsseldorf,Rot-Weiss Essen,5-2,2-1
+2,1975-08-16,1. FC Köln,Hannover 96,2-1,1-1
+2,1975-08-16,Karlsruher SC,Bayern München,1-2,0-1
+3,1975-08-22,1. FC Kaiserslautern,Hannover 96,2-2,0-1
+3,1975-08-22,Bayern München,Werder Bremen,4-0,0-0
+3,1975-08-23,Hamburger SV,Bor. Mönchengladbach,0-0,0-0
+3,1975-08-23,Hertha BSC,Karlsruher SC,1-1,0-0
+3,1975-08-23,MSV Duisburg,Kickers Offenbach,6-2,2-1
+3,1975-08-23,Eintracht Frankfurt,Bayer 05 Uerdingen,3-1,0-1
+3,1975-08-23,Rot-Weiss Essen,FC Schalke 04,0-0,0-0
+3,1975-08-23,VfL Bochum,Fortuna Düsseldorf,0-1,0-1
+3,1975-08-23,Eintracht Braunschweig,1. FC Köln,0-0,0-0
+4,1975-08-26,Bor. Mönchengladbach,MSV Duisburg,3-0,1-0
+4,1975-08-27,Werder Bremen,Hertha BSC,3-2,2-1
+4,1975-08-27,Kickers Offenbach,Rot-Weiss Essen,0-4,0-2
+4,1975-08-27,Fortuna Düsseldorf,Eintracht Frankfurt,1-1,0-1
+4,1975-08-27,FC Schalke 04,VfL Bochum,1-1,0-0
+4,1975-08-27,Bayer 05 Uerdingen,Bayern München,2-1,0-0
+4,1975-08-27,Hannover 96,Hamburger SV,1-0,1-0
+4,1975-08-27,Karlsruher SC,Eintracht Braunschweig,0-2,0-1
+4,1975-08-27,1. FC Köln,1. FC Kaiserslautern,1-1,0-1
+5,1975-08-30,Rot-Weiss Essen,Bor. Mönchengladbach,1-3,1-2
+5,1975-08-30,Hertha BSC,Bayer 05 Uerdingen,5-0,3-0
+5,1975-08-30,VfL Bochum,Kickers Offenbach,5-1,0-1
+5,1975-08-30,Eintracht Frankfurt,FC Schalke 04,2-1,1-1
+5,1975-08-30,Bayern München,Fortuna Düsseldorf,5-0,2-0
+5,1975-08-30,MSV Duisburg,Hannover 96,4-3,3-3
+5,1975-08-30,Eintracht Braunschweig,Werder Bremen,3-2,1-0
+5,1975-08-30,Hamburger SV,1. FC Kaiserslautern,2-0,1-0
+5,1975-08-30,Karlsruher SC,1. FC Köln,3-1,0-1
+6,1975-09-06,Bor. Mönchengladbach,VfL Bochum,1-1,1-0
+6,1975-09-06,1. FC Köln,Hamburger SV,1-1,1-0
+6,1975-09-06,Fortuna Düsseldorf,Hertha BSC,2-1,1-0
+6,1975-09-06,Werder Bremen,Karlsruher SC,1-0,0-0
+6,1975-09-06,Hannover 96,Rot-Weiss Essen,0-0,0-0
+6,1975-09-06,Bayer 05 Uerdingen,Eintracht Braunschweig,0-0,0-0
+6,1975-09-06,1. FC Kaiserslautern,MSV Duisburg,3-0,1-0
+6,1975-09-06,Kickers Offenbach,Eintracht Frankfurt,2-1,1-0
+6,1975-09-06,FC Schalke 04,Bayern München,2-2,1-1
+7,1975-09-12,MSV Duisburg,Hamburger SV,1-1,1-1
+7,1975-09-13,Hertha BSC,FC Schalke 04,2-1,2-0
+7,1975-09-13,Bayern München,Kickers Offenbach,3-1,1-0
+7,1975-09-13,VfL Bochum,Hannover 96,2-0,1-0
+7,1975-09-13,Eintracht Frankfurt,Bor. Mönchengladbach,1-1,1-0
+7,1975-09-13,Rot-Weiss Essen,1. FC Kaiserslautern,5-1,2-0
+7,1975-09-13,Karlsruher SC,Bayer 05 Uerdingen,1-0,0-0
+7,1975-09-13,Eintracht Braunschweig,Fortuna Düsseldorf,3-1,1-1
+7,1975-09-13,Werder Bremen,1. FC Köln,3-2,2-2
+8,1975-09-19,1. FC Kaiserslautern,VfL Bochum,2-1,0-0
+8,1975-09-20,Kickers Offenbach,Hertha BSC,2-1,2-0
+8,1975-09-20,Hannover 96,Eintracht Frankfurt,3-2,1-0
+8,1975-09-20,FC Schalke 04,Eintracht Braunschweig,5-1,1-1
+8,1975-09-20,Bor. Mönchengladbach,Bayern München,4-1,1-0
+8,1975-09-20,Fortuna Düsseldorf,Karlsruher SC,0-2,0-1
+8,1975-09-20,Hamburger SV,Rot-Weiss Essen,4-1,1-0
+8,1975-09-20,Bayer 05 Uerdingen,Werder Bremen,2-1,2-1
+8,1975-09-20,1. FC Köln,MSV Duisburg,3-2,1-1
+9,1975-09-27,Eintracht Braunschweig,Kickers Offenbach,5-1,2-0
+9,1975-09-27,Bayer 05 Uerdingen,1. FC Köln,1-1,1-0
+9,1975-09-27,Bayern München,Hannover 96,3-1,1-0
+9,1975-09-27,Karlsruher SC,FC Schalke 04,2-2,0-2
+9,1975-09-27,Werder Bremen,Fortuna Düsseldorf,3-0,1-0
+9,1975-09-27,Rot-Weiss Essen,MSV Duisburg,5-2,3-2
+9,1975-09-27,Eintracht Frankfurt,1. FC Kaiserslautern,1-1,1-0
+9,1975-09-27,VfL Bochum,Hamburger SV,0-3,0-1
+9,1975-09-27,Hertha BSC,Bor. Mönchengladbach,3-0,1-0
+10,1975-10-04,Bor. Mönchengladbach,Eintracht Braunschweig,0-0,0-0
+10,1975-10-04,Hannover 96,Hertha BSC,2-6,1-3
+10,1975-10-04,Kickers Offenbach,Karlsruher SC,0-0,0-0
+10,1975-10-04,Hamburger SV,Eintracht Frankfurt,4-2,3-1
+10,1975-10-04,FC Schalke 04,Werder Bremen,4-2,2-1
+10,1975-10-04,MSV Duisburg,VfL Bochum,1-1,0-0
+10,1975-10-04,Fortuna Düsseldorf,Bayer 05 Uerdingen,2-0,0-0
+10,1975-10-04,1. FC Köln,Rot-Weiss Essen,3-0,0-0
+10,1975-10-04,1. FC Kaiserslautern,Bayern München,2-1,1-1
+11,1975-10-24,VfL Bochum,Rot-Weiss Essen,2-1,0-0
+11,1975-10-25,Bayer 05 Uerdingen,FC Schalke 04,3-2,1-0
+11,1975-10-25,Bayern München,Hamburger SV,1-0,1-0
+11,1975-10-25,Eintracht Braunschweig,Hannover 96,3-2,2-1
+11,1975-10-25,Werder Bremen,Kickers Offenbach,3-1,1-1
+11,1975-10-25,Fortuna Düsseldorf,1. FC Köln,0-0,0-0
+11,1975-10-25,Hertha BSC,1. FC Kaiserslautern,3-0,1-0
+11,1975-10-25,Eintracht Frankfurt,MSV Duisburg,1-1,1-0
+11,1975-10-26,Karlsruher SC,Bor. Mönchengladbach,2-4,1-2
+12,1975-10-31,MSV Duisburg,Bayern München,1-1,1-1
+12,1975-10-31,Bor. Mönchengladbach,Werder Bremen,3-0,1-0
+12,1975-10-31,Rot-Weiss Essen,Eintracht Frankfurt,4-3,1-0
+12,1975-10-31,FC Schalke 04,Fortuna Düsseldorf,2-0,2-0
+12,1975-10-31,1. FC Köln,VfL Bochum,1-0,0-0
+12,1975-11-01,Kickers Offenbach,Bayer 05 Uerdingen,2-3,1-2
+12,1975-11-01,Hamburger SV,Hertha BSC,2-1,1-1
+12,1975-11-01,Hannover 96,Karlsruher SC,2-0,2-0
+12,1975-11-01,1. FC Kaiserslautern,Eintracht Braunschweig,3-1,0-0
+13,1975-11-08,Bayer 05 Uerdingen,Bor. Mönchengladbach,1-1,0-0
+13,1975-11-08,Hertha BSC,MSV Duisburg,1-2,1-2
+13,1975-11-08,Fortuna Düsseldorf,Kickers Offenbach,0-0,0-0
+13,1975-11-08,Eintracht Frankfurt,VfL Bochum,6-0,1-0
+13,1975-11-08,FC Schalke 04,1. FC Köln,3-1,1-1
+13,1975-11-08,Bayern München,Rot-Weiss Essen,5-1,1-0
+13,1975-11-08,Werder Bremen,Hannover 96,0-0,0-0
+13,1975-11-08,Eintracht Braunschweig,Hamburger SV,1-0,1-0
+13,1975-11-08,Karlsruher SC,1. FC Kaiserslautern,3-5,0-2
+14,1975-11-14,Kickers Offenbach,FC Schalke 04,1-1,1-0
+14,1975-11-15,Bor. Mönchengladbach,Fortuna Düsseldorf,1-0,0-0
+14,1975-11-15,Rot-Weiss Essen,Hertha BSC,3-1,2-1
+14,1975-11-15,1. FC Köln,Eintracht Frankfurt,3-3,0-2
+14,1975-11-15,VfL Bochum,Bayern München,3-1,2-0
+14,1975-11-15,Hannover 96,Bayer 05 Uerdingen,3-1,1-1
+14,1975-11-15,MSV Duisburg,Eintracht Braunschweig,1-0,0-0
+14,1975-11-15,1. FC Kaiserslautern,Werder Bremen,4-0,1-0
+14,1975-11-15,Hamburger SV,Karlsruher SC,3-0,0-0
+15,1975-11-22,Bayer 05 Uerdingen,1. FC Kaiserslautern,2-2,0-1
+15,1975-11-22,Eintracht Braunschweig,Rot-Weiss Essen,1-1,0-0
+15,1975-11-22,FC Schalke 04,Bor. Mönchengladbach,2-2,0-0
+15,1975-11-22,Hertha BSC,VfL Bochum,4-1,4-1
+15,1975-11-22,1. FC Köln,Kickers Offenbach,4-0,2-0
+15,1975-11-22,Eintracht Frankfurt,Bayern München,6-0,5-0
+15,1975-11-22,Fortuna Düsseldorf,Hannover 96,3-0,1-0
+15,1975-11-22,Karlsruher SC,MSV Duisburg,2-2,0-0
+15,1975-11-22,Werder Bremen,Hamburger SV,1-3,0-2
+16,1975-11-28,Bor. Mönchengladbach,Kickers Offenbach,2-0,1-0
+16,1975-11-28,VfL Bochum,Eintracht Braunschweig,2-0,0-0
+16,1975-11-29,Eintracht Frankfurt,Hertha BSC,1-1,1-0
+16,1975-11-29,Hannover 96,FC Schalke 04,1-1,1-0
+16,1975-11-29,1. FC Kaiserslautern,Fortuna Düsseldorf,2-1,1-0
+16,1975-11-29,Rot-Weiss Essen,Karlsruher SC,1-0,0-0
+16,1975-11-29,Hamburger SV,Bayer 05 Uerdingen,0-0,0-0
+16,1975-11-29,MSV Duisburg,Werder Bremen,2-0,2-0
+16,1975-11-29,Bayern München,1. FC Köln,1-2,1-1
+17,1975-12-06,Bayer 05 Uerdingen,MSV Duisburg,0-4,0-1
+17,1975-12-06,1. FC Köln,Bor. Mönchengladbach,0-4,0-3
+17,1975-12-06,Hertha BSC,Bayern München,2-1,0-1
+17,1975-12-06,Kickers Offenbach,Hannover 96,1-0,0-0
+17,1975-12-06,Eintracht Braunschweig,Eintracht Frankfurt,2-0,1-0
+17,1975-12-06,FC Schalke 04,1. FC Kaiserslautern,2-2,0-1
+17,1975-12-06,Karlsruher SC,VfL Bochum,2-2,0-1
+17,1975-12-06,Fortuna Düsseldorf,Hamburger SV,1-0,0-0
+17,1975-12-06,Werder Bremen,Rot-Weiss Essen,3-3,2-1
+18,1976-01-16,Fortuna Düsseldorf,MSV Duisburg,1-3,0-0
+18,1976-01-17,Bayer 05 Uerdingen,Rot-Weiss Essen,1-1,0-0
+18,1976-01-17,Bor. Mönchengladbach,Hannover 96,2-0,1-0
+18,1976-01-17,Eintracht Braunschweig,Bayern München,1-1,0-0
+18,1976-01-17,Kickers Offenbach,1. FC Kaiserslautern,1-4,0-2
+18,1976-01-17,FC Schalke 04,Hamburger SV,0-1,0-0
+18,1976-01-17,Werder Bremen,VfL Bochum,4-1,1-1
+18,1976-01-17,1. FC Köln,Hertha BSC,2-0,0-0
+18,1976-01-17,Karlsruher SC,Eintracht Frankfurt,1-0,0-0
+19,1976-01-24,Eintracht Frankfurt,Werder Bremen,2-0,0-0
+19,1976-01-24,Hamburger SV,Kickers Offenbach,2-0,0-0
+19,1976-01-24,Hertha BSC,Eintracht Braunschweig,1-0,0-0
+19,1976-01-24,1. FC Kaiserslautern,Bor. Mönchengladbach,0-3,0-2
+19,1976-01-24,MSV Duisburg,FC Schalke 04,1-3,1-1
+19,1976-01-24,VfL Bochum,Bayer 05 Uerdingen,3-0,2-0
+19,1976-01-24,Rot-Weiss Essen,Fortuna Düsseldorf,2-2,1-2
+19,1976-01-24,Hannover 96,1. FC Köln,3-3,1-0
+19,1976-01-24,Bayern München,Karlsruher SC,2-0,1-0
+20,1976-02-07,Hannover 96,1. FC Kaiserslautern,2-0,1-0
+20,1976-02-07,Werder Bremen,Bayern München,0-0,0-0
+20,1976-02-07,Bor. Mönchengladbach,Hamburger SV,1-1,1-1
+20,1976-02-07,Karlsruher SC,Hertha BSC,3-0,1-0
+20,1976-02-07,Kickers Offenbach,MSV Duisburg,2-1,0-0
+20,1976-02-07,Bayer 05 Uerdingen,Eintracht Frankfurt,0-5,0-1
+20,1976-02-07,FC Schalke 04,Rot-Weiss Essen,5-1,1-1
+20,1976-02-07,Fortuna Düsseldorf,VfL Bochum,3-1,2-0
+20,1976-02-07,1. FC Köln,Eintracht Braunschweig,1-1,0-1
+21,1976-02-14,MSV Duisburg,Bor. Mönchengladbach,2-3,2-1
+21,1976-02-14,Eintracht Frankfurt,Fortuna Düsseldorf,5-2,2-2
+21,1976-02-14,Bayern München,Bayer 05 Uerdingen,2-0,0-0
+21,1976-02-17,Rot-Weiss Essen,Kickers Offenbach,2-2,0-1
+21,1976-02-17,Hamburger SV,Hannover 96,3-0,0-0
+21,1976-03-09,1. FC Kaiserslautern,1. FC Köln,1-1,1-0
+21,1976-03-23,Hertha BSC,Werder Bremen,0-0,0-0
+21,1976-04-02,VfL Bochum,FC Schalke 04,1-4,0-1
+21,1976-04-03,Eintracht Braunschweig,Karlsruher SC,2-0,1-0
+22,1976-02-21,Bor. Mönchengladbach,Rot-Weiss Essen,1-2,1-2
+22,1976-02-21,Bayer 05 Uerdingen,Hertha BSC,1-1,0-0
+22,1976-02-21,Kickers Offenbach,VfL Bochum,1-0,1-0
+22,1976-02-21,FC Schalke 04,Eintracht Frankfurt,2-4,2-0
+22,1976-02-21,Fortuna Düsseldorf,Bayern München,1-1,1-0
+22,1976-02-21,Hannover 96,MSV Duisburg,0-2,0-1
+22,1976-02-21,Werder Bremen,Eintracht Braunschweig,0-1,0-0
+22,1976-02-21,1. FC Kaiserslautern,Hamburger SV,2-0,1-0
+22,1976-02-21,1. FC Köln,Karlsruher SC,1-3,1-0
+23,1976-03-06,VfL Bochum,Bor. Mönchengladbach,2-0,0-0
+23,1976-03-06,Hamburger SV,1. FC Köln,2-1,0-1
+23,1976-03-06,Hertha BSC,Fortuna Düsseldorf,2-2,1-0
+23,1976-03-06,Karlsruher SC,Werder Bremen,2-0,0-0
+23,1976-03-06,Rot-Weiss Essen,Hannover 96,1-0,1-0
+23,1976-03-06,Eintracht Braunschweig,Bayer 05 Uerdingen,1-0,1-0
+23,1976-03-06,MSV Duisburg,1. FC Kaiserslautern,1-2,1-1
+23,1976-03-06,Eintracht Frankfurt,Kickers Offenbach,1-0,0-0
+23,1976-03-06,Bayern München,FC Schalke 04,3-2,3-0
+24,1976-03-12,Hamburger SV,MSV Duisburg,3-0,1-0
+24,1976-03-13,FC Schalke 04,Hertha BSC,2-2,1-0
+24,1976-03-13,Kickers Offenbach,Bayern München,2-2,1-1
+24,1976-03-13,Hannover 96,VfL Bochum,4-1,2-0
+24,1976-03-13,Bor. Mönchengladbach,Eintracht Frankfurt,4-2,2-1
+24,1976-03-13,1. FC Kaiserslautern,Rot-Weiss Essen,5-0,3-0
+24,1976-03-13,Bayer 05 Uerdingen,Karlsruher SC,1-1,1-1
+24,1976-03-13,Fortuna Düsseldorf,Eintracht Braunschweig,3-3,1-2
+24,1976-03-13,1. FC Köln,Werder Bremen,1-1,0-0
+25,1976-03-20,VfL Bochum,1. FC Kaiserslautern,2-0,1-0
+25,1976-03-20,Hertha BSC,Kickers Offenbach,1-0,0-0
+25,1976-03-20,Eintracht Frankfurt,Hannover 96,5-1,3-0
+25,1976-03-20,Eintracht Braunschweig,FC Schalke 04,4-1,1-1
+25,1976-03-20,Bayern München,Bor. Mönchengladbach,4-0,2-0
+25,1976-03-20,Karlsruher SC,Fortuna Düsseldorf,1-0,1-0
+25,1976-03-20,Rot-Weiss Essen,Hamburger SV,1-1,1-0
+25,1976-03-20,Werder Bremen,Bayer 05 Uerdingen,3-0,0-0
+25,1976-03-20,MSV Duisburg,1. FC Köln,0-4,0-1
+26,1976-03-26,MSV Duisburg,Rot-Weiss Essen,4-0,1-0
+26,1976-03-26,1. FC Kaiserslautern,Eintracht Frankfurt,3-1,1-0
+26,1976-03-27,Bor. Mönchengladbach,Hertha BSC,1-1,0-1
+26,1976-03-27,Kickers Offenbach,Eintracht Braunschweig,4-2,2-2
+26,1976-03-27,1. FC Köln,Bayer 05 Uerdingen,4-0,1-0
+26,1976-03-27,Hannover 96,Bayern München,2-2,1-1
+26,1976-03-27,FC Schalke 04,Karlsruher SC,6-2,3-1
+26,1976-03-27,Fortuna Düsseldorf,Werder Bremen,3-0,1-0
+26,1976-03-27,Hamburger SV,VfL Bochum,5-3,0-1
+27,1976-04-10,Eintracht Braunschweig,Bor. Mönchengladbach,0-0,0-0
+27,1976-04-10,Hertha BSC,Hannover 96,1-0,1-0
+27,1976-04-10,Karlsruher SC,Kickers Offenbach,2-1,0-0
+27,1976-04-10,Eintracht Frankfurt,Hamburger SV,1-0,0-0
+27,1976-04-10,Werder Bremen,FC Schalke 04,1-1,1-0
+27,1976-04-10,VfL Bochum,MSV Duisburg,1-2,0-1
+27,1976-04-10,Bayer 05 Uerdingen,Fortuna Düsseldorf,2-0,2-0
+27,1976-04-10,Rot-Weiss Essen,1. FC Köln,2-3,0-3
+27,1976-04-10,Bayern München,1. FC Kaiserslautern,3-4,1-1
+28,1976-04-15,1. FC Kaiserslautern,Hertha BSC,5-0,2-0
+28,1976-04-15,FC Schalke 04,Bayer 05 Uerdingen,5-1,2-0
+28,1976-04-17,Rot-Weiss Essen,VfL Bochum,1-0,0-0
+28,1976-04-17,Hamburger SV,Bayern München,0-1,0-0
+28,1976-04-17,Hannover 96,Eintracht Braunschweig,2-0,0-0
+28,1976-04-17,Kickers Offenbach,Werder Bremen,2-0,1-0
+28,1976-04-17,1. FC Köln,Fortuna Düsseldorf,4-0,2-0
+28,1976-04-17,MSV Duisburg,Eintracht Frankfurt,1-1,0-1
+28,1976-04-17,Bor. Mönchengladbach,Karlsruher SC,4-0,1-0
+29,1976-04-23,Karlsruher SC,Hannover 96,3-2,2-0
+29,1976-04-30,Eintracht Frankfurt,Rot-Weiss Essen,1-3,0-2
+29,1976-04-30,Fortuna Düsseldorf,FC Schalke 04,1-2,0-2
+29,1976-04-30,Eintracht Braunschweig,1. FC Kaiserslautern,2-0,1-0
+29,1976-05-01,Bayern München,MSV Duisburg,3-0,1-0
+29,1976-05-01,Werder Bremen,Bor. Mönchengladbach,2-2,2-1
+29,1976-05-01,VfL Bochum,1. FC Köln,1-0,1-0
+29,1976-05-01,Bayer 05 Uerdingen,Kickers Offenbach,1-2,1-1
+29,1976-05-01,Hertha BSC,Hamburger SV,1-1,0-1
+30,1976-05-07,Kickers Offenbach,Fortuna Düsseldorf,1-1,1-1
+30,1976-05-08,Bor. Mönchengladbach,Bayer 05 Uerdingen,6-1,2-0
+30,1976-05-08,MSV Duisburg,Hertha BSC,2-1,0-1
+30,1976-05-08,VfL Bochum,Eintracht Frankfurt,5-3,1-2
+30,1976-05-08,Rot-Weiss Essen,Bayern München,3-3,0-0
+30,1976-05-08,Hannover 96,Werder Bremen,0-0,0-0
+30,1976-05-08,Hamburger SV,Eintracht Braunschweig,4-0,0-0
+30,1976-05-08,1. FC Kaiserslautern,Karlsruher SC,3-1,2-1
+30,1976-05-25,1. FC Köln,FC Schalke 04,2-1,1-1
+31,1976-05-15,FC Schalke 04,Kickers Offenbach,1-1,1-1
+31,1976-05-15,Fortuna Düsseldorf,Bor. Mönchengladbach,1-1,1-1
+31,1976-05-15,Hertha BSC,Rot-Weiss Essen,2-2,1-1
+31,1976-05-15,Eintracht Frankfurt,1. FC Köln,2-2,2-0
+31,1976-05-15,Bayern München,VfL Bochum,4-0,1-0
+31,1976-05-15,Bayer 05 Uerdingen,Hannover 96,1-1,0-0
+31,1976-05-15,Eintracht Braunschweig,MSV Duisburg,3-1,0-1
+31,1976-05-15,Werder Bremen,1. FC Kaiserslautern,3-2,3-0
+31,1976-05-15,Karlsruher SC,Hamburger SV,3-2,1-2
+32,1976-05-28,Rot-Weiss Essen,Eintracht Braunschweig,2-2,1-0
+32,1976-05-29,Bor. Mönchengladbach,FC Schalke 04,0-2,0-1
+32,1976-05-29,VfL Bochum,Hertha BSC,2-0,1-0
+32,1976-05-29,Kickers Offenbach,1. FC Köln,1-5,1-2
+32,1976-05-29,Bayern München,Eintracht Frankfurt,1-1,0-0
+32,1976-05-29,Hannover 96,Fortuna Düsseldorf,1-2,0-0
+32,1976-05-29,1. FC Kaiserslautern,Bayer 05 Uerdingen,1-2,1-0
+32,1976-05-29,MSV Duisburg,Karlsruher SC,1-0,0-0
+32,1976-05-29,Hamburger SV,Werder Bremen,1-2,1-2
+33,1976-06-04,Kickers Offenbach,Bor. Mönchengladbach,1-1,0-0
+33,1976-06-04,Eintracht Braunschweig,VfL Bochum,1-1,0-1
+33,1976-06-04,Hertha BSC,Eintracht Frankfurt,4-4,2-0
+33,1976-06-04,FC Schalke 04,Hannover 96,1-2,0-2
+33,1976-06-04,Fortuna Düsseldorf,1. FC Kaiserslautern,5-1,1-1
+33,1976-06-04,Karlsruher SC,Rot-Weiss Essen,1-2,1-1
+33,1976-06-04,Bayer 05 Uerdingen,Hamburger SV,0-1,0-1
+33,1976-06-04,Werder Bremen,MSV Duisburg,2-0,1-0
+33,1976-06-04,1. FC Köln,Bayern München,1-0,0-0
+34,1976-06-12,Bor. Mönchengladbach,1. FC Köln,2-1,2-0
+34,1976-06-12,Bayern München,Hertha BSC,7-4,6-0
+34,1976-06-12,Hannover 96,Kickers Offenbach,4-0,1-0
+34,1976-06-12,Eintracht Frankfurt,Eintracht Braunschweig,6-1,3-0
+34,1976-06-12,1. FC Kaiserslautern,FC Schalke 04,1-3,0-0
+34,1976-06-12,VfL Bochum,Karlsruher SC,4-2,2-0
+34,1976-06-12,Hamburger SV,Fortuna Düsseldorf,3-1,1-1
+34,1976-06-12,Rot-Weiss Essen,Werder Bremen,2-0,1-0
+34,1976-06-12,MSV Duisburg,Bayer 05 Uerdingen,2-0,2-0

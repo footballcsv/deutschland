@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,Team 2,FT,HT
-1,1972-09-16,15:30,Bor. Mönchengladbach,MSV Duisburg,4-3,1-1
-1,1972-09-16,15:30,Rot-Weiss Oberhausen,Bayern München,0-5,0-4
-1,1972-09-16,15:30,Eintracht Frankfurt,Hamburger SV,2-1,0-1
-1,1972-09-16,15:30,Eintracht Braunschweig,VfL Bochum,0-2,0-2
-1,1972-09-16,15:30,FC Schalke 04,Hannover 96,3-1,3-0
-1,1972-09-16,15:30,Hertha BSC,Fortuna Duesseldorf,2-3,1-2
-1,1972-09-16,15:30,Wuppertaler SV,1. FC Kaiserslautern,2-0,0-0
-1,1972-09-16,15:30,VfB Stuttgart,1. FC Köln,3-1,2-1
-1,1972-09-16,15:30,Werder Bremen,Kickers Offenbach,0-0,0-0
-2,1972-09-20,16:45,VfL Bochum,Hertha BSC,2-1,0-0
-2,1972-09-20,20:00,1. FC Köln,Rot-Weiss Oberhausen,3-1,3-1
-2,1972-09-20,20:00,Bayern München,Werder Bremen,2-1,1-0
-2,1972-09-20,20:00,1. FC Kaiserslautern,FC Schalke 04,2-0,1-0
-2,1972-09-20,20:00,Hamburger SV,Bor. Mönchengladbach,1-3,1-2
-2,1972-09-20,20:00,Kickers Offenbach,Eintracht Braunschweig,1-0,1-0
-2,1972-09-20,20:00,Hannover 96,Eintracht Frankfurt,2-1,0-1
-2,1972-09-20,20:00,Fortuna Duesseldorf,Wuppertaler SV,2-1,0-1
-2,1972-09-20,20:00,MSV Duisburg,VfB Stuttgart,0-1,0-0
-3,1972-09-23,15:30,Eintracht Frankfurt,1. FC Kaiserslautern,3-1,1-1
-3,1972-09-23,15:30,Wuppertaler SV,VfL Bochum,3-0,1-0
-3,1972-09-23,15:30,FC Schalke 04,Fortuna Duesseldorf,3-1,1-0
-3,1972-09-23,15:30,Bor. Mönchengladbach,Hannover 96,3-1,2-0
-3,1972-09-23,15:30,Werder Bremen,Rot-Weiss Oberhausen,1-0,1-0
-3,1972-09-23,15:30,Hertha BSC,Kickers Offenbach,2-5,1-1
-3,1972-09-23,15:30,Eintracht Braunschweig,Bayern München,0-2,0-0
-3,1972-09-23,15:30,VfB Stuttgart,Hamburger SV,2-1,1-1
-3,1972-09-23,15:30,MSV Duisburg,1. FC Köln,1-1,0-0
-4,1972-09-29,20:00,Rot-Weiss Oberhausen,Eintracht Braunschweig,0-1,0-0
-4,1972-09-30,15:30,Fortuna Duesseldorf,Eintracht Frankfurt,2-2,1-2
-4,1972-09-30,15:30,1. FC Köln,Werder Bremen,1-0,0-0
-4,1972-09-30,15:30,VfL Bochum,FC Schalke 04,2-0,1-0
-4,1972-09-30,15:30,Kickers Offenbach,Wuppertaler SV,3-1,1-0
-4,1972-09-30,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,3-1,0-0
-4,1972-09-30,15:30,Hannover 96,VfB Stuttgart,3-1,2-1
-4,1972-09-30,15:30,Bayern München,Hertha BSC,4-0,2-0
-4,1972-09-30,15:30,Hamburger SV,MSV Duisburg,1-2,0-1
-5,1972-10-03,20:00,Eintracht Frankfurt,VfL Bochum,4-1,3-1
-5,1972-10-04,15:30,Hamburger SV,1. FC Köln,0-0,0-0
-5,1972-10-04,15:30,Wuppertaler SV,Bayern München,1-1,0-0
-5,1972-10-04,15:30,Bor. Mönchengladbach,Fortuna Duesseldorf,2-3,1-2
-5,1972-10-04,15:30,Hertha BSC,Rot-Weiss Oberhausen,3-1,1-1
-5,1972-10-04,15:30,MSV Duisburg,Hannover 96,3-1,2-1
-5,1972-10-04,15:30,Eintracht Braunschweig,Werder Bremen,1-0,0-0
-5,1972-10-04,15:30,FC Schalke 04,Kickers Offenbach,6-1,4-1
-5,1972-10-04,15:30,VfB Stuttgart,1. FC Kaiserslautern,3-1,1-1
-6,1972-10-07,15:30,1. FC Köln,Eintracht Braunschweig,4-3,1-0
-6,1972-10-07,15:30,Werder Bremen,Hertha BSC,1-1,1-1
-6,1972-10-07,15:30,1. FC Kaiserslautern,MSV Duisburg,0-0,0-0
-6,1972-10-07,15:30,Rot-Weiss Oberhausen,Wuppertaler SV,2-1,0-0
-6,1972-10-07,15:30,VfL Bochum,Bor. Mönchengladbach,3-0,1-0
-6,1972-10-07,15:30,Kickers Offenbach,Eintracht Frankfurt,3-2,1-1
-6,1972-10-07,15:30,Fortuna Duesseldorf,VfB Stuttgart,6-1,2-0
-6,1972-10-07,15:30,Bayern München,FC Schalke 04,5-0,3-0
-6,1972-10-07,15:30,Hannover 96,Hamburger SV,3-2,1-0
-7,1972-10-14,15:30,Eintracht Frankfurt,Bayern München,2-1,0-0
-7,1972-10-14,15:30,MSV Duisburg,Fortuna Duesseldorf,0-0,0-0
-7,1972-10-14,15:30,VfB Stuttgart,VfL Bochum,4-0,2-0
-7,1972-10-14,15:30,Bor. Mönchengladbach,Kickers Offenbach,3-2,2-2
-7,1972-10-14,15:30,FC Schalke 04,Rot-Weiss Oberhausen,3-0,1-0
-7,1972-10-14,15:30,Wuppertaler SV,Werder Bremen,1-1,1-1
-7,1972-10-14,15:30,Hamburger SV,1. FC Kaiserslautern,2-2,1-0
-7,1972-10-14,15:30,Hertha BSC,Eintracht Braunschweig,3-0,1-0
-7,1972-10-14,15:30,Hannover 96,1. FC Köln,0-0,0-0
-8,1972-10-21,15:30,Kickers Offenbach,VfB Stuttgart,1-3,1-3
-8,1972-10-21,15:30,Rot-Weiss Oberhausen,Eintracht Frankfurt,1-0,0-0
-8,1972-10-21,15:30,Bayern München,Bor. Mönchengladbach,3-0,1-0
-8,1972-10-21,15:30,VfL Bochum,MSV Duisburg,2-1,1-0
-8,1972-10-21,15:30,Werder Bremen,FC Schalke 04,2-0,1-0
-8,1972-10-21,15:30,1. FC Kaiserslautern,Hannover 96,2-1,1-1
-8,1972-10-21,15:30,1. FC Köln,Hertha BSC,4-0,1-0
-8,1972-10-21,15:30,Fortuna Duesseldorf,Hamburger SV,2-2,2-2
-8,1972-10-21,15:30,Eintracht Braunschweig,Wuppertaler SV,0-1,0-0
-9,1972-10-27,20:00,MSV Duisburg,Kickers Offenbach,4-0,2-0
-9,1972-10-28,15:30,1. FC Kaiserslautern,1. FC Köln,2-1,0-0
-9,1972-10-28,15:30,Bor. Mönchengladbach,Rot-Weiss Oberhausen,4-1,3-0
-9,1972-10-28,15:30,Hannover 96,Fortuna Duesseldorf,2-2,0-1
-9,1972-10-28,15:30,FC Schalke 04,Eintracht Braunschweig,0-1,0-1
-9,1972-10-28,15:30,Hamburger SV,VfL Bochum,2-1,1-0
-9,1972-10-28,15:30,Eintracht Frankfurt,Werder Bremen,2-2,1-1
-9,1972-10-28,15:30,Wuppertaler SV,Hertha BSC,4-1,3-0
-9,1972-10-28,15:30,VfB Stuttgart,Bayern München,0-1,0-1
-10,1972-10-31,20:00,1. FC Köln,Wuppertaler SV,1-1,0-0
-10,1972-10-31,20:00,Rot-Weiss Oberhausen,VfB Stuttgart,2-2,0-1
-10,1972-10-31,20:00,Kickers Offenbach,Hamburger SV,2-1,1-0
-10,1972-10-31,20:00,Fortuna Duesseldorf,1. FC Kaiserslautern,2-1,2-0
-10,1972-10-31,20:00,Bayern München,MSV Duisburg,2-0,1-0
-10,1972-10-31,20:00,VfL Bochum,Hannover 96,2-0,0-0
-10,1972-11-01,20:00,Hertha BSC,FC Schalke 04,3-0,2-0
-10,1972-11-28,19:30,Eintracht Braunschweig,Eintracht Frankfurt,2-1,1-0
-10,1972-12-06,20:00,Werder Bremen,Bor. Mönchengladbach,1-1,1-1
-11,1972-11-04,14:30,Bor. Mönchengladbach,Eintracht Braunschweig,4-0,2-0
-11,1972-11-04,15:30,Fortuna Duesseldorf,1. FC Köln,3-2,2-0
-11,1972-11-04,15:30,FC Schalke 04,Wuppertaler SV,1-2,0-2
-11,1972-11-04,15:30,1. FC Kaiserslautern,VfL Bochum,2-2,1-0
-11,1972-11-04,15:30,Eintracht Frankfurt,Hertha BSC,2-2,0-0
-11,1972-11-04,15:30,Hannover 96,Kickers Offenbach,1-1,1-0
-11,1972-11-04,15:30,VfB Stuttgart,Werder Bremen,2-1,0-1
-11,1972-11-04,15:30,Hamburger SV,Bayern München,0-2,0-0
-11,1972-11-04,15:30,MSV Duisburg,Rot-Weiss Oberhausen,4-1,0-0
-12,1972-11-11,15:30,Werder Bremen,MSV Duisburg,0-2,0-1
-12,1972-11-11,15:30,Eintracht Braunschweig,VfB Stuttgart,1-0,1-0
-12,1972-11-11,15:30,Kickers Offenbach,1. FC Kaiserslautern,2-2,1-1
-12,1972-11-11,15:30,Bayern München,Hannover 96,7-2,2-2
-12,1972-11-11,15:30,Wuppertaler SV,Eintracht Frankfurt,1-0,0-0
-12,1972-11-11,15:30,Rot-Weiss Oberhausen,Hamburger SV,3-1,2-1
-12,1972-11-11,15:30,Hertha BSC,Bor. Mönchengladbach,3-1,2-1
-12,1972-11-11,15:30,1. FC Köln,FC Schalke 04,3-0,3-0
-12,1972-11-11,15:30,VfL Bochum,Fortuna Duesseldorf,2-2,1-1
-13,1972-11-17,20:00,VfL Bochum,1. FC Köln,2-4,0-1
-13,1972-11-18,15:30,Fortuna Duesseldorf,Kickers Offenbach,2-0,2-0
-13,1972-11-18,15:30,VfB Stuttgart,Hertha BSC,4-0,2-0
-13,1972-11-18,15:30,Hannover 96,Rot-Weiss Oberhausen,3-2,2-1
-13,1972-11-18,15:30,Bor. Mönchengladbach,Wuppertaler SV,2-1,1-0
-13,1972-11-18,15:30,1. FC Kaiserslautern,Bayern München,3-1,2-0
-13,1972-11-18,15:30,MSV Duisburg,Eintracht Braunschweig,3-2,2-2
-13,1972-11-18,15:30,Hamburger SV,Werder Bremen,2-2,2-0
-13,1972-11-18,15:30,Eintracht Frankfurt,FC Schalke 04,4-2,1-1
-14,1972-11-21,19:30,Wuppertaler SV,VfB Stuttgart,4-0,3-0
-14,1972-11-21,19:30,Hertha BSC,MSV Duisburg,0-0,0-0
-14,1972-11-21,20:00,Bayern München,Fortuna Duesseldorf,3-2,0-0
-14,1972-11-21,20:00,1. FC Köln,Eintracht Frankfurt,3-1,1-0
-14,1972-11-21,20:00,FC Schalke 04,Bor. Mönchengladbach,2-2,2-1
-14,1972-11-22,15:00,Eintracht Braunschweig,Hamburger SV,1-1,0-1
-14,1972-11-22,15:00,Werder Bremen,Hannover 96,3-1,2-0
-14,1972-11-22,15:30,Kickers Offenbach,VfL Bochum,4-0,1-0
-14,1972-12-23,15:30,Rot-Weiss Oberhausen,1. FC Kaiserslautern,3-1,1-0
-15,1972-11-25,15:30,Hamburger SV,Hertha BSC,4-0,1-0
-15,1972-11-25,15:30,1. FC Kaiserslautern,Werder Bremen,3-1,1-0
-15,1972-11-25,15:30,MSV Duisburg,Wuppertaler SV,0-0,0-0
-15,1972-11-25,15:30,Hannover 96,Eintracht Braunschweig,2-1,0-1
-15,1972-11-25,15:30,Eintracht Frankfurt,Bor. Mönchengladbach,3-0,1-0
-15,1972-11-25,15:30,1. FC Köln,Kickers Offenbach,1-1,1-1
-15,1972-11-25,15:30,VfB Stuttgart,FC Schalke 04,6-2,4-2
-15,1972-11-25,15:30,VfL Bochum,Bayern München,0-2,0-1
-15,1972-11-25,15:30,Fortuna Duesseldorf,Rot-Weiss Oberhausen,3-1,1-1
-16,1972-12-01,20:00,Rot-Weiss Oberhausen,VfL Bochum,1-1,0-1
-16,1972-12-02,15:30,Bor. Mönchengladbach,1. FC Köln,5-2,3-0
-16,1972-12-02,15:30,Bayern München,Kickers Offenbach,3-1,0-0
-16,1972-12-02,15:30,Eintracht Frankfurt,VfB Stuttgart,2-1,2-1
-16,1972-12-02,15:30,Werder Bremen,Fortuna Duesseldorf,1-3,0-0
-16,1972-12-02,15:30,Wuppertaler SV,Hamburger SV,5-1,2-0
-16,1972-12-02,15:30,Eintracht Braunschweig,1. FC Kaiserslautern,0-0,0-0
-16,1972-12-02,15:30,Hertha BSC,Hannover 96,2-1,2-0
-16,1972-12-02,15:30,FC Schalke 04,MSV Duisburg,1-1,1-0
-17,1972-12-15,20:00,VfL Bochum,Werder Bremen,2-0,1-0
-17,1972-12-16,15:30,VfB Stuttgart,Bor. Mönchengladbach,3-0,1-0
-17,1972-12-16,15:30,Kickers Offenbach,Rot-Weiss Oberhausen,4-0,1-0
-17,1972-12-16,15:30,MSV Duisburg,Eintracht Frankfurt,2-1,1-0
-17,1972-12-16,15:30,1. FC Kaiserslautern,Hertha BSC,2-2,0-1
-17,1972-12-16,15:30,Hamburger SV,FC Schalke 04,0-1,0-1
-17,1972-12-16,15:30,Fortuna Duesseldorf,Eintracht Braunschweig,2-0,0-0
-17,1972-12-16,15:30,Hannover 96,Wuppertaler SV,1-1,1-1
-17,1972-12-16,15:30,1. FC Köln,Bayern München,2-1,1-1
-18,1973-01-20,15:30,MSV Duisburg,Bor. Mönchengladbach,2-2,1-2
-18,1973-01-20,15:30,Bayern München,Rot-Weiss Oberhausen,5-3,3-0
-18,1973-01-20,15:30,Hamburger SV,Eintracht Frankfurt,3-1,2-0
-18,1973-01-20,15:30,VfL Bochum,Eintracht Braunschweig,2-2,0-1
-18,1973-01-20,15:30,Hannover 96,FC Schalke 04,1-0,1-0
-18,1973-01-20,15:30,Fortuna Duesseldorf,Hertha BSC,3-1,2-0
-18,1973-01-20,15:30,1. FC Kaiserslautern,Wuppertaler SV,1-1,1-1
-18,1973-01-20,15:30,1. FC Köln,VfB Stuttgart,5-1,0-1
-18,1973-01-20,15:30,Kickers Offenbach,Werder Bremen,2-1,1-0
-19,1973-01-27,11:30,Werder Bremen,Bayern München,1-0,0-0
-19,1973-01-27,15:30,Rot-Weiss Oberhausen,1. FC Köln,2-2,0-1
-19,1973-01-27,15:30,FC Schalke 04,1. FC Kaiserslautern,2-2,2-0
-19,1973-01-27,15:30,Bor. Mönchengladbach,Hamburger SV,6-1,2-1
-19,1973-01-27,15:30,Eintracht Braunschweig,Kickers Offenbach,2-2,0-1
-19,1973-01-27,15:30,VfB Stuttgart,MSV Duisburg,3-4,1-2
-19,1973-04-13,20:30,Eintracht Frankfurt,Hannover 96,2-0,0-0
-19,1973-04-14,15:30,Wuppertaler SV,Fortuna Duesseldorf,1-1,1-1
-19,1973-04-21,15:30,Hertha BSC,VfL Bochum,2-0,1-0
-20,1973-02-02,20:00,1. FC Köln,MSV Duisburg,3-1,2-1
-20,1973-02-03,15:30,1. FC Kaiserslautern,Eintracht Frankfurt,0-1,0-1
-20,1973-02-03,15:30,VfL Bochum,Wuppertaler SV,2-2,2-1
-20,1973-02-03,15:30,Fortuna Duesseldorf,FC Schalke 04,1-1,0-0
-20,1973-02-03,15:30,Hannover 96,Bor. Mönchengladbach,1-2,0-1
-20,1973-02-03,15:30,Rot-Weiss Oberhausen,Werder Bremen,2-3,1-2
-20,1973-02-03,15:30,Kickers Offenbach,Hertha BSC,0-0,0-0
-20,1973-02-03,15:30,Bayern München,Eintracht Braunschweig,3-0,1-0
-20,1973-02-03,15:30,Hamburger SV,VfB Stuttgart,2-0,1-0
-21,1973-02-10,15:30,Eintracht Braunschweig,Rot-Weiss Oberhausen,3-1,1-0
-21,1973-02-10,15:30,Eintracht Frankfurt,Fortuna Duesseldorf,2-1,2-0
-21,1973-02-10,15:30,FC Schalke 04,VfL Bochum,2-0,1-0
-21,1973-02-10,15:30,Wuppertaler SV,Kickers Offenbach,4-3,2-2
-21,1973-02-10,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,6-2,0-0
-21,1973-02-10,15:30,VfB Stuttgart,Hannover 96,2-0,0-0
-21,1973-02-10,15:30,Hertha BSC,Bayern München,2-5,0-2
-21,1973-02-10,15:30,MSV Duisburg,Hamburger SV,3-0,2-0
-21,1973-03-20,20:00,Werder Bremen,1. FC Köln,2-1,2-1
-22,1973-02-17,15:30,VfL Bochum,Eintracht Frankfurt,2-1,0-0
-22,1973-02-17,15:30,1. FC Köln,Hamburger SV,2-1,1-0
-22,1973-02-17,15:30,Bayern München,Wuppertaler SV,4-1,2-1
-22,1973-02-17,15:30,Fortuna Duesseldorf,Bor. Mönchengladbach,1-3,1-1
-22,1973-02-17,15:30,Rot-Weiss Oberhausen,Hertha BSC,2-1,1-0
-22,1973-02-17,15:30,Hannover 96,MSV Duisburg,3-3,3-2
-22,1973-02-17,15:30,Werder Bremen,Eintracht Braunschweig,4-2,2-0
-22,1973-02-17,15:30,Kickers Offenbach,FC Schalke 04,2-0,1-0
-22,1973-02-17,15:30,1. FC Kaiserslautern,VfB Stuttgart,2-1,1-1
-23,1973-02-23,20:00,MSV Duisburg,1. FC Kaiserslautern,3-4,1-3
-23,1973-02-23,20:00,Bor. Mönchengladbach,VfL Bochum,6-0,2-0
-23,1973-02-24,15:30,Eintracht Braunschweig,1. FC Köln,2-0,0-0
-23,1973-02-24,15:30,Hertha BSC,Werder Bremen,2-1,0-0
-23,1973-02-24,15:30,Wuppertaler SV,Rot-Weiss Oberhausen,3-1,1-1
-23,1973-02-24,15:30,Eintracht Frankfurt,Kickers Offenbach,0-3,0-1
-23,1973-02-24,15:30,VfB Stuttgart,Fortuna Duesseldorf,2-2,2-1
-23,1973-02-24,15:30,FC Schalke 04,Bayern München,1-1,0-0
-23,1973-02-24,15:30,Hamburger SV,Hannover 96,2-0,2-0
-24,1973-03-09,20:00,1. FC Kaiserslautern,Hamburger SV,2-2,2-1
-24,1973-03-10,15:30,Bayern München,Eintracht Frankfurt,3-1,1-1
-24,1973-03-10,15:30,Fortuna Duesseldorf,MSV Duisburg,2-1,0-0
-24,1973-03-10,15:30,VfL Bochum,VfB Stuttgart,3-1,1-0
-24,1973-03-10,15:30,Kickers Offenbach,Bor. Mönchengladbach,2-1,1-0
-24,1973-03-10,15:30,Rot-Weiss Oberhausen,FC Schalke 04,2-1,1-0
-24,1973-03-10,15:30,Werder Bremen,Wuppertaler SV,0-1,0-0
-24,1973-03-10,15:30,Eintracht Braunschweig,Hertha BSC,2-1,2-1
-24,1973-03-10,15:30,1. FC Köln,Hannover 96,3-3,1-2
-25,1973-03-17,15:30,VfB Stuttgart,Kickers Offenbach,4-2,1-0
-25,1973-03-17,15:30,Eintracht Frankfurt,Rot-Weiss Oberhausen,2-1,1-0
-25,1973-03-17,15:30,Bor. Mönchengladbach,Bayern München,0-3,0-2
-25,1973-03-17,15:30,MSV Duisburg,VfL Bochum,0-1,0-0
-25,1973-03-17,15:30,FC Schalke 04,Werder Bremen,1-2,0-0
-25,1973-03-17,15:30,Hannover 96,1. FC Kaiserslautern,2-3,2-0
-25,1973-03-17,15:30,Hertha BSC,1. FC Köln,1-1,1-1
-25,1973-03-17,15:30,Hamburger SV,Fortuna Duesseldorf,2-1,1-1
-25,1973-03-17,15:30,Wuppertaler SV,Eintracht Braunschweig,2-1,1-0
-26,1973-03-24,15:30,Kickers Offenbach,MSV Duisburg,4-1,2-1
-26,1973-03-24,15:30,1. FC Köln,1. FC Kaiserslautern,2-0,1-0
-26,1973-03-24,15:30,Rot-Weiss Oberhausen,Bor. Mönchengladbach,1-3,1-1
-26,1973-03-24,15:30,Fortuna Duesseldorf,Hannover 96,0-1,0-1
-26,1973-03-24,15:30,Eintracht Braunschweig,FC Schalke 04,1-1,0-0
-26,1973-03-24,15:30,VfL Bochum,Hamburger SV,3-3,1-0
-26,1973-03-24,15:30,Werder Bremen,Eintracht Frankfurt,2-0,1-0
-26,1973-03-24,15:30,Hertha BSC,Wuppertaler SV,0-1,0-1
-26,1973-03-24,15:30,Bayern München,VfB Stuttgart,5-1,2-0
-27,1973-03-31,15:30,Wuppertaler SV,1. FC Köln,2-2,0-1
-27,1973-03-31,15:30,VfB Stuttgart,Rot-Weiss Oberhausen,3-0,0-0
-27,1973-03-31,15:30,Hamburger SV,Kickers Offenbach,1-0,0-0
-27,1973-03-31,15:30,1. FC Kaiserslautern,Fortuna Duesseldorf,1-1,1-0
-27,1973-03-31,15:30,MSV Duisburg,Bayern München,2-0,1-0
-27,1973-03-31,15:30,Hannover 96,VfL Bochum,1-1,0-0
-27,1973-03-31,15:30,FC Schalke 04,Hertha BSC,1-1,0-0
-27,1973-03-31,15:30,Eintracht Frankfurt,Eintracht Braunschweig,1-0,0-0
-27,1973-03-31,15:30,Bor. Mönchengladbach,Werder Bremen,3-1,2-0
-28,1973-04-06,20:00,Eintracht Braunschweig,Bor. Mönchengladbach,0-0,0-0
-28,1973-04-06,20:00,VfL Bochum,1. FC Kaiserslautern,3-0,2-0
-28,1973-04-06,20:00,Kickers Offenbach,Hannover 96,2-1,0-0
-28,1973-04-07,15:30,1. FC Köln,Fortuna Duesseldorf,1-0,0-0
-28,1973-04-07,15:30,Wuppertaler SV,FC Schalke 04,4-1,2-1
-28,1973-04-07,15:30,Hertha BSC,Eintracht Frankfurt,3-1,3-1
-28,1973-04-07,15:30,Werder Bremen,VfB Stuttgart,0-2,0-1
-28,1973-04-07,15:30,Bayern München,Hamburger SV,1-0,0-0
-28,1973-04-07,15:30,Rot-Weiss Oberhausen,MSV Duisburg,4-0,1-0
-29,1973-04-27,20:00,MSV Duisburg,Werder Bremen,1-2,1-1
-29,1973-04-27,20:00,VfB Stuttgart,Eintracht Braunschweig,4-0,2-0
-29,1973-04-27,20:00,1. FC Kaiserslautern,Kickers Offenbach,3-1,1-1
-29,1973-04-28,15:30,Hannover 96,Bayern München,1-3,1-1
-29,1973-04-28,15:30,Eintracht Frankfurt,Wuppertaler SV,2-1,1-1
-29,1973-04-28,15:30,Hamburger SV,Rot-Weiss Oberhausen,6-0,2-0
-29,1973-04-28,15:30,Bor. Mönchengladbach,Hertha BSC,2-2,0-0
-29,1973-04-28,15:30,Fortuna Duesseldorf,VfL Bochum,1-1,1-1
-29,1973-05-28,15:30,FC Schalke 04,1. FC Köln,2-2,1-2
-30,1973-05-04,20:00,1. FC Köln,VfL Bochum,2-1,0-1
-30,1973-05-04,20:00,Eintracht Braunschweig,MSV Duisburg,1-1,0-1
-30,1973-05-05,15:30,Kickers Offenbach,Fortuna Duesseldorf,1-1,1-1
-30,1973-05-05,15:30,Hertha BSC,VfB Stuttgart,5-1,3-0
-30,1973-05-05,15:30,Rot-Weiss Oberhausen,Hannover 96,1-0,1-0
-30,1973-05-05,15:30,Wuppertaler SV,Bor. Mönchengladbach,0-5,0-2
-30,1973-05-05,15:30,Bayern München,1. FC Kaiserslautern,6-0,3-0
-30,1973-05-05,15:30,Werder Bremen,Hamburger SV,1-4,1-3
-30,1973-05-05,15:30,FC Schalke 04,Eintracht Frankfurt,3-2,1-1
-31,1973-05-19,15:30,Fortuna Duesseldorf,Bayern München,0-0,0-0
-31,1973-05-19,15:30,Eintracht Frankfurt,1. FC Köln,5-0,0-0
-31,1973-05-19,15:30,VfB Stuttgart,Wuppertaler SV,4-2,3-2
-31,1973-05-19,15:30,VfL Bochum,Kickers Offenbach,2-3,0-1
-31,1973-05-19,15:30,Bor. Mönchengladbach,FC Schalke 04,4-1,1-0
-31,1973-05-19,15:30,Hamburger SV,Eintracht Braunschweig,1-0,0-0
-31,1973-05-19,15:30,MSV Duisburg,Hertha BSC,2-1,1-0
-31,1973-05-19,15:30,Hannover 96,Werder Bremen,2-2,1-1
-31,1973-05-19,15:30,1. FC Kaiserslautern,Rot-Weiss Oberhausen,6-2,4-1
-32,1973-05-26,15:30,Hertha BSC,Hamburger SV,2-1,1-0
-32,1973-05-26,15:30,Werder Bremen,1. FC Kaiserslautern,5-1,2-0
-32,1973-05-26,15:30,Wuppertaler SV,MSV Duisburg,5-0,1-0
-32,1973-05-26,15:30,Eintracht Braunschweig,Hannover 96,3-2,2-1
-32,1973-05-26,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,0-2,0-0
-32,1973-05-26,15:30,Kickers Offenbach,1. FC Köln,2-3,1-2
-32,1973-05-26,15:30,FC Schalke 04,VfB Stuttgart,2-0,1-0
-32,1973-05-26,15:30,Bayern München,VfL Bochum,5-1,1-1
-32,1973-05-26,15:30,Rot-Weiss Oberhausen,Fortuna Duesseldorf,0-3,0-0
-33,1973-06-02,15:30,VfL Bochum,Rot-Weiss Oberhausen,2-2,1-1
-33,1973-06-02,15:30,1. FC Köln,Bor. Mönchengladbach,3-1,1-1
-33,1973-06-02,15:30,Kickers Offenbach,Bayern München,0-3,0-1
-33,1973-06-02,15:30,VfB Stuttgart,Eintracht Frankfurt,2-2,0-0
-33,1973-06-02,15:30,Fortuna Duesseldorf,Werder Bremen,2-1,1-1
-33,1973-06-02,15:30,Hamburger SV,Wuppertaler SV,2-2,1-0
-33,1973-06-02,15:30,1. FC Kaiserslautern,Eintracht Braunschweig,3-0,1-0
-33,1973-06-02,15:30,Hannover 96,Hertha BSC,2-0,1-0
-33,1973-06-02,15:30,MSV Duisburg,FC Schalke 04,0-1,0-0
-34,1973-06-09,15:30,Werder Bremen,VfL Bochum,5-2,3-1
-34,1973-06-09,15:30,Bor. Mönchengladbach,VfB Stuttgart,3-4,2-3
-34,1973-06-09,15:30,Rot-Weiss Oberhausen,Kickers Offenbach,2-1,1-0
-34,1973-06-09,15:30,Eintracht Frankfurt,MSV Duisburg,1-3,1-1
-34,1973-06-09,15:30,Hertha BSC,1. FC Kaiserslautern,4-1,2-0
-34,1973-06-09,15:30,FC Schalke 04,Hamburger SV,2-0,0-0
-34,1973-06-09,15:30,Eintracht Braunschweig,Fortuna Duesseldorf,1-2,1-1
-34,1973-06-09,15:30,Wuppertaler SV,Hannover 96,0-4,0-2
-34,1973-06-09,15:30,Bayern München,1. FC Köln,1-1,0-0
+Round,Date,Team 1,Team 2,FT,HT
+1,1972-09-16,Bor. Mönchengladbach,MSV Duisburg,4-3,1-1
+1,1972-09-16,Rot-Weiss Oberhausen,Bayern München,0-5,0-4
+1,1972-09-16,Eintracht Frankfurt,Hamburger SV,2-1,0-1
+1,1972-09-16,Eintracht Braunschweig,VfL Bochum,0-2,0-2
+1,1972-09-16,FC Schalke 04,Hannover 96,3-1,3-0
+1,1972-09-16,Hertha BSC,Fortuna Düsseldorf,2-3,1-2
+1,1972-09-16,Wuppertaler SV,1. FC Kaiserslautern,2-0,0-0
+1,1972-09-16,VfB Stuttgart,1. FC Köln,3-1,2-1
+1,1972-09-16,Werder Bremen,Kickers Offenbach,0-0,0-0
+2,1972-09-20,VfL Bochum,Hertha BSC,2-1,0-0
+2,1972-09-20,1. FC Köln,Rot-Weiss Oberhausen,3-1,3-1
+2,1972-09-20,Bayern München,Werder Bremen,2-1,1-0
+2,1972-09-20,1. FC Kaiserslautern,FC Schalke 04,2-0,1-0
+2,1972-09-20,Hamburger SV,Bor. Mönchengladbach,1-3,1-2
+2,1972-09-20,Kickers Offenbach,Eintracht Braunschweig,1-0,1-0
+2,1972-09-20,Hannover 96,Eintracht Frankfurt,2-1,0-1
+2,1972-09-20,Fortuna Düsseldorf,Wuppertaler SV,2-1,0-1
+2,1972-09-20,MSV Duisburg,VfB Stuttgart,0-1,0-0
+3,1972-09-23,Eintracht Frankfurt,1. FC Kaiserslautern,3-1,1-1
+3,1972-09-23,Wuppertaler SV,VfL Bochum,3-0,1-0
+3,1972-09-23,FC Schalke 04,Fortuna Düsseldorf,3-1,1-0
+3,1972-09-23,Bor. Mönchengladbach,Hannover 96,3-1,2-0
+3,1972-09-23,Werder Bremen,Rot-Weiss Oberhausen,1-0,1-0
+3,1972-09-23,Hertha BSC,Kickers Offenbach,2-5,1-1
+3,1972-09-23,Eintracht Braunschweig,Bayern München,0-2,0-0
+3,1972-09-23,VfB Stuttgart,Hamburger SV,2-1,1-1
+3,1972-09-23,MSV Duisburg,1. FC Köln,1-1,0-0
+4,1972-09-29,Rot-Weiss Oberhausen,Eintracht Braunschweig,0-1,0-0
+4,1972-09-30,Fortuna Düsseldorf,Eintracht Frankfurt,2-2,1-2
+4,1972-09-30,1. FC Köln,Werder Bremen,1-0,0-0
+4,1972-09-30,VfL Bochum,FC Schalke 04,2-0,1-0
+4,1972-09-30,Kickers Offenbach,Wuppertaler SV,3-1,1-0
+4,1972-09-30,1. FC Kaiserslautern,Bor. Mönchengladbach,3-1,0-0
+4,1972-09-30,Hannover 96,VfB Stuttgart,3-1,2-1
+4,1972-09-30,Bayern München,Hertha BSC,4-0,2-0
+4,1972-09-30,Hamburger SV,MSV Duisburg,1-2,0-1
+5,1972-10-03,Eintracht Frankfurt,VfL Bochum,4-1,3-1
+5,1972-10-04,Hamburger SV,1. FC Köln,0-0,0-0
+5,1972-10-04,Wuppertaler SV,Bayern München,1-1,0-0
+5,1972-10-04,Bor. Mönchengladbach,Fortuna Düsseldorf,2-3,1-2
+5,1972-10-04,Hertha BSC,Rot-Weiss Oberhausen,3-1,1-1
+5,1972-10-04,MSV Duisburg,Hannover 96,3-1,2-1
+5,1972-10-04,Eintracht Braunschweig,Werder Bremen,1-0,0-0
+5,1972-10-04,FC Schalke 04,Kickers Offenbach,6-1,4-1
+5,1972-10-04,VfB Stuttgart,1. FC Kaiserslautern,3-1,1-1
+6,1972-10-07,1. FC Köln,Eintracht Braunschweig,4-3,1-0
+6,1972-10-07,Werder Bremen,Hertha BSC,1-1,1-1
+6,1972-10-07,1. FC Kaiserslautern,MSV Duisburg,0-0,0-0
+6,1972-10-07,Rot-Weiss Oberhausen,Wuppertaler SV,2-1,0-0
+6,1972-10-07,VfL Bochum,Bor. Mönchengladbach,3-0,1-0
+6,1972-10-07,Kickers Offenbach,Eintracht Frankfurt,3-2,1-1
+6,1972-10-07,Fortuna Düsseldorf,VfB Stuttgart,6-1,2-0
+6,1972-10-07,Bayern München,FC Schalke 04,5-0,3-0
+6,1972-10-07,Hannover 96,Hamburger SV,3-2,1-0
+7,1972-10-14,Eintracht Frankfurt,Bayern München,2-1,0-0
+7,1972-10-14,MSV Duisburg,Fortuna Düsseldorf,0-0,0-0
+7,1972-10-14,VfB Stuttgart,VfL Bochum,4-0,2-0
+7,1972-10-14,Bor. Mönchengladbach,Kickers Offenbach,3-2,2-2
+7,1972-10-14,FC Schalke 04,Rot-Weiss Oberhausen,3-0,1-0
+7,1972-10-14,Wuppertaler SV,Werder Bremen,1-1,1-1
+7,1972-10-14,Hamburger SV,1. FC Kaiserslautern,2-2,1-0
+7,1972-10-14,Hertha BSC,Eintracht Braunschweig,3-0,1-0
+7,1972-10-14,Hannover 96,1. FC Köln,0-0,0-0
+8,1972-10-21,Kickers Offenbach,VfB Stuttgart,1-3,1-3
+8,1972-10-21,Rot-Weiss Oberhausen,Eintracht Frankfurt,1-0,0-0
+8,1972-10-21,Bayern München,Bor. Mönchengladbach,3-0,1-0
+8,1972-10-21,VfL Bochum,MSV Duisburg,2-1,1-0
+8,1972-10-21,Werder Bremen,FC Schalke 04,2-0,1-0
+8,1972-10-21,1. FC Kaiserslautern,Hannover 96,2-1,1-1
+8,1972-10-21,1. FC Köln,Hertha BSC,4-0,1-0
+8,1972-10-21,Fortuna Düsseldorf,Hamburger SV,2-2,2-2
+8,1972-10-21,Eintracht Braunschweig,Wuppertaler SV,0-1,0-0
+9,1972-10-27,MSV Duisburg,Kickers Offenbach,4-0,2-0
+9,1972-10-28,1. FC Kaiserslautern,1. FC Köln,2-1,0-0
+9,1972-10-28,Bor. Mönchengladbach,Rot-Weiss Oberhausen,4-1,3-0
+9,1972-10-28,Hannover 96,Fortuna Düsseldorf,2-2,0-1
+9,1972-10-28,FC Schalke 04,Eintracht Braunschweig,0-1,0-1
+9,1972-10-28,Hamburger SV,VfL Bochum,2-1,1-0
+9,1972-10-28,Eintracht Frankfurt,Werder Bremen,2-2,1-1
+9,1972-10-28,Wuppertaler SV,Hertha BSC,4-1,3-0
+9,1972-10-28,VfB Stuttgart,Bayern München,0-1,0-1
+10,1972-10-31,1. FC Köln,Wuppertaler SV,1-1,0-0
+10,1972-10-31,Rot-Weiss Oberhausen,VfB Stuttgart,2-2,0-1
+10,1972-10-31,Kickers Offenbach,Hamburger SV,2-1,1-0
+10,1972-10-31,Fortuna Düsseldorf,1. FC Kaiserslautern,2-1,2-0
+10,1972-10-31,Bayern München,MSV Duisburg,2-0,1-0
+10,1972-10-31,VfL Bochum,Hannover 96,2-0,0-0
+10,1972-11-01,Hertha BSC,FC Schalke 04,3-0,2-0
+10,1972-11-28,Eintracht Braunschweig,Eintracht Frankfurt,2-1,1-0
+10,1972-12-06,Werder Bremen,Bor. Mönchengladbach,1-1,1-1
+11,1972-11-04,Bor. Mönchengladbach,Eintracht Braunschweig,4-0,2-0
+11,1972-11-04,Fortuna Düsseldorf,1. FC Köln,3-2,2-0
+11,1972-11-04,FC Schalke 04,Wuppertaler SV,1-2,0-2
+11,1972-11-04,1. FC Kaiserslautern,VfL Bochum,2-2,1-0
+11,1972-11-04,Eintracht Frankfurt,Hertha BSC,2-2,0-0
+11,1972-11-04,Hannover 96,Kickers Offenbach,1-1,1-0
+11,1972-11-04,VfB Stuttgart,Werder Bremen,2-1,0-1
+11,1972-11-04,Hamburger SV,Bayern München,0-2,0-0
+11,1972-11-04,MSV Duisburg,Rot-Weiss Oberhausen,4-1,0-0
+12,1972-11-11,Werder Bremen,MSV Duisburg,0-2,0-1
+12,1972-11-11,Eintracht Braunschweig,VfB Stuttgart,1-0,1-0
+12,1972-11-11,Kickers Offenbach,1. FC Kaiserslautern,2-2,1-1
+12,1972-11-11,Bayern München,Hannover 96,7-2,2-2
+12,1972-11-11,Wuppertaler SV,Eintracht Frankfurt,1-0,0-0
+12,1972-11-11,Rot-Weiss Oberhausen,Hamburger SV,3-1,2-1
+12,1972-11-11,Hertha BSC,Bor. Mönchengladbach,3-1,2-1
+12,1972-11-11,1. FC Köln,FC Schalke 04,3-0,3-0
+12,1972-11-11,VfL Bochum,Fortuna Düsseldorf,2-2,1-1
+13,1972-11-17,VfL Bochum,1. FC Köln,2-4,0-1
+13,1972-11-18,Fortuna Düsseldorf,Kickers Offenbach,2-0,2-0
+13,1972-11-18,VfB Stuttgart,Hertha BSC,4-0,2-0
+13,1972-11-18,Hannover 96,Rot-Weiss Oberhausen,3-2,2-1
+13,1972-11-18,Bor. Mönchengladbach,Wuppertaler SV,2-1,1-0
+13,1972-11-18,1. FC Kaiserslautern,Bayern München,3-1,2-0
+13,1972-11-18,MSV Duisburg,Eintracht Braunschweig,3-2,2-2
+13,1972-11-18,Hamburger SV,Werder Bremen,2-2,2-0
+13,1972-11-18,Eintracht Frankfurt,FC Schalke 04,4-2,1-1
+14,1972-11-21,Wuppertaler SV,VfB Stuttgart,4-0,3-0
+14,1972-11-21,Hertha BSC,MSV Duisburg,0-0,0-0
+14,1972-11-21,Bayern München,Fortuna Düsseldorf,3-2,0-0
+14,1972-11-21,1. FC Köln,Eintracht Frankfurt,3-1,1-0
+14,1972-11-21,FC Schalke 04,Bor. Mönchengladbach,2-2,2-1
+14,1972-11-22,Eintracht Braunschweig,Hamburger SV,1-1,0-1
+14,1972-11-22,Werder Bremen,Hannover 96,3-1,2-0
+14,1972-11-22,Kickers Offenbach,VfL Bochum,4-0,1-0
+14,1972-12-23,Rot-Weiss Oberhausen,1. FC Kaiserslautern,3-1,1-0
+15,1972-11-25,Hamburger SV,Hertha BSC,4-0,1-0
+15,1972-11-25,1. FC Kaiserslautern,Werder Bremen,3-1,1-0
+15,1972-11-25,MSV Duisburg,Wuppertaler SV,0-0,0-0
+15,1972-11-25,Hannover 96,Eintracht Braunschweig,2-1,0-1
+15,1972-11-25,Eintracht Frankfurt,Bor. Mönchengladbach,3-0,1-0
+15,1972-11-25,1. FC Köln,Kickers Offenbach,1-1,1-1
+15,1972-11-25,VfB Stuttgart,FC Schalke 04,6-2,4-2
+15,1972-11-25,VfL Bochum,Bayern München,0-2,0-1
+15,1972-11-25,Fortuna Düsseldorf,Rot-Weiss Oberhausen,3-1,1-1
+16,1972-12-01,Rot-Weiss Oberhausen,VfL Bochum,1-1,0-1
+16,1972-12-02,Bor. Mönchengladbach,1. FC Köln,5-2,3-0
+16,1972-12-02,Bayern München,Kickers Offenbach,3-1,0-0
+16,1972-12-02,Eintracht Frankfurt,VfB Stuttgart,2-1,2-1
+16,1972-12-02,Werder Bremen,Fortuna Düsseldorf,1-3,0-0
+16,1972-12-02,Wuppertaler SV,Hamburger SV,5-1,2-0
+16,1972-12-02,Eintracht Braunschweig,1. FC Kaiserslautern,0-0,0-0
+16,1972-12-02,Hertha BSC,Hannover 96,2-1,2-0
+16,1972-12-02,FC Schalke 04,MSV Duisburg,1-1,1-0
+17,1972-12-15,VfL Bochum,Werder Bremen,2-0,1-0
+17,1972-12-16,VfB Stuttgart,Bor. Mönchengladbach,3-0,1-0
+17,1972-12-16,Kickers Offenbach,Rot-Weiss Oberhausen,4-0,1-0
+17,1972-12-16,MSV Duisburg,Eintracht Frankfurt,2-1,1-0
+17,1972-12-16,1. FC Kaiserslautern,Hertha BSC,2-2,0-1
+17,1972-12-16,Hamburger SV,FC Schalke 04,0-1,0-1
+17,1972-12-16,Fortuna Düsseldorf,Eintracht Braunschweig,2-0,0-0
+17,1972-12-16,Hannover 96,Wuppertaler SV,1-1,1-1
+17,1972-12-16,1. FC Köln,Bayern München,2-1,1-1
+18,1973-01-20,MSV Duisburg,Bor. Mönchengladbach,2-2,1-2
+18,1973-01-20,Bayern München,Rot-Weiss Oberhausen,5-3,3-0
+18,1973-01-20,Hamburger SV,Eintracht Frankfurt,3-1,2-0
+18,1973-01-20,VfL Bochum,Eintracht Braunschweig,2-2,0-1
+18,1973-01-20,Hannover 96,FC Schalke 04,1-0,1-0
+18,1973-01-20,Fortuna Düsseldorf,Hertha BSC,3-1,2-0
+18,1973-01-20,1. FC Kaiserslautern,Wuppertaler SV,1-1,1-1
+18,1973-01-20,1. FC Köln,VfB Stuttgart,5-1,0-1
+18,1973-01-20,Kickers Offenbach,Werder Bremen,2-1,1-0
+19,1973-01-27,Werder Bremen,Bayern München,1-0,0-0
+19,1973-01-27,Rot-Weiss Oberhausen,1. FC Köln,2-2,0-1
+19,1973-01-27,FC Schalke 04,1. FC Kaiserslautern,2-2,2-0
+19,1973-01-27,Bor. Mönchengladbach,Hamburger SV,6-1,2-1
+19,1973-01-27,Eintracht Braunschweig,Kickers Offenbach,2-2,0-1
+19,1973-01-27,VfB Stuttgart,MSV Duisburg,3-4,1-2
+19,1973-04-13,Eintracht Frankfurt,Hannover 96,2-0,0-0
+19,1973-04-14,Wuppertaler SV,Fortuna Düsseldorf,1-1,1-1
+19,1973-04-21,Hertha BSC,VfL Bochum,2-0,1-0
+20,1973-02-02,1. FC Köln,MSV Duisburg,3-1,2-1
+20,1973-02-03,1. FC Kaiserslautern,Eintracht Frankfurt,0-1,0-1
+20,1973-02-03,VfL Bochum,Wuppertaler SV,2-2,2-1
+20,1973-02-03,Fortuna Düsseldorf,FC Schalke 04,1-1,0-0
+20,1973-02-03,Hannover 96,Bor. Mönchengladbach,1-2,0-1
+20,1973-02-03,Rot-Weiss Oberhausen,Werder Bremen,2-3,1-2
+20,1973-02-03,Kickers Offenbach,Hertha BSC,0-0,0-0
+20,1973-02-03,Bayern München,Eintracht Braunschweig,3-0,1-0
+20,1973-02-03,Hamburger SV,VfB Stuttgart,2-0,1-0
+21,1973-02-10,Eintracht Braunschweig,Rot-Weiss Oberhausen,3-1,1-0
+21,1973-02-10,Eintracht Frankfurt,Fortuna Düsseldorf,2-1,2-0
+21,1973-02-10,FC Schalke 04,VfL Bochum,2-0,1-0
+21,1973-02-10,Wuppertaler SV,Kickers Offenbach,4-3,2-2
+21,1973-02-10,Bor. Mönchengladbach,1. FC Kaiserslautern,6-2,0-0
+21,1973-02-10,VfB Stuttgart,Hannover 96,2-0,0-0
+21,1973-02-10,Hertha BSC,Bayern München,2-5,0-2
+21,1973-02-10,MSV Duisburg,Hamburger SV,3-0,2-0
+21,1973-03-20,Werder Bremen,1. FC Köln,2-1,2-1
+22,1973-02-17,VfL Bochum,Eintracht Frankfurt,2-1,0-0
+22,1973-02-17,1. FC Köln,Hamburger SV,2-1,1-0
+22,1973-02-17,Bayern München,Wuppertaler SV,4-1,2-1
+22,1973-02-17,Fortuna Düsseldorf,Bor. Mönchengladbach,1-3,1-1
+22,1973-02-17,Rot-Weiss Oberhausen,Hertha BSC,2-1,1-0
+22,1973-02-17,Hannover 96,MSV Duisburg,3-3,3-2
+22,1973-02-17,Werder Bremen,Eintracht Braunschweig,4-2,2-0
+22,1973-02-17,Kickers Offenbach,FC Schalke 04,2-0,1-0
+22,1973-02-17,1. FC Kaiserslautern,VfB Stuttgart,2-1,1-1
+23,1973-02-23,MSV Duisburg,1. FC Kaiserslautern,3-4,1-3
+23,1973-02-23,Bor. Mönchengladbach,VfL Bochum,6-0,2-0
+23,1973-02-24,Eintracht Braunschweig,1. FC Köln,2-0,0-0
+23,1973-02-24,Hertha BSC,Werder Bremen,2-1,0-0
+23,1973-02-24,Wuppertaler SV,Rot-Weiss Oberhausen,3-1,1-1
+23,1973-02-24,Eintracht Frankfurt,Kickers Offenbach,0-3,0-1
+23,1973-02-24,VfB Stuttgart,Fortuna Düsseldorf,2-2,2-1
+23,1973-02-24,FC Schalke 04,Bayern München,1-1,0-0
+23,1973-02-24,Hamburger SV,Hannover 96,2-0,2-0
+24,1973-03-09,1. FC Kaiserslautern,Hamburger SV,2-2,2-1
+24,1973-03-10,Bayern München,Eintracht Frankfurt,3-1,1-1
+24,1973-03-10,Fortuna Düsseldorf,MSV Duisburg,2-1,0-0
+24,1973-03-10,VfL Bochum,VfB Stuttgart,3-1,1-0
+24,1973-03-10,Kickers Offenbach,Bor. Mönchengladbach,2-1,1-0
+24,1973-03-10,Rot-Weiss Oberhausen,FC Schalke 04,2-1,1-0
+24,1973-03-10,Werder Bremen,Wuppertaler SV,0-1,0-0
+24,1973-03-10,Eintracht Braunschweig,Hertha BSC,2-1,2-1
+24,1973-03-10,1. FC Köln,Hannover 96,3-3,1-2
+25,1973-03-17,VfB Stuttgart,Kickers Offenbach,4-2,1-0
+25,1973-03-17,Eintracht Frankfurt,Rot-Weiss Oberhausen,2-1,1-0
+25,1973-03-17,Bor. Mönchengladbach,Bayern München,0-3,0-2
+25,1973-03-17,MSV Duisburg,VfL Bochum,0-1,0-0
+25,1973-03-17,FC Schalke 04,Werder Bremen,1-2,0-0
+25,1973-03-17,Hannover 96,1. FC Kaiserslautern,2-3,2-0
+25,1973-03-17,Hertha BSC,1. FC Köln,1-1,1-1
+25,1973-03-17,Hamburger SV,Fortuna Düsseldorf,2-1,1-1
+25,1973-03-17,Wuppertaler SV,Eintracht Braunschweig,2-1,1-0
+26,1973-03-24,Kickers Offenbach,MSV Duisburg,4-1,2-1
+26,1973-03-24,1. FC Köln,1. FC Kaiserslautern,2-0,1-0
+26,1973-03-24,Rot-Weiss Oberhausen,Bor. Mönchengladbach,1-3,1-1
+26,1973-03-24,Fortuna Düsseldorf,Hannover 96,0-1,0-1
+26,1973-03-24,Eintracht Braunschweig,FC Schalke 04,1-1,0-0
+26,1973-03-24,VfL Bochum,Hamburger SV,3-3,1-0
+26,1973-03-24,Werder Bremen,Eintracht Frankfurt,2-0,1-0
+26,1973-03-24,Hertha BSC,Wuppertaler SV,0-1,0-1
+26,1973-03-24,Bayern München,VfB Stuttgart,5-1,2-0
+27,1973-03-31,Wuppertaler SV,1. FC Köln,2-2,0-1
+27,1973-03-31,VfB Stuttgart,Rot-Weiss Oberhausen,3-0,0-0
+27,1973-03-31,Hamburger SV,Kickers Offenbach,1-0,0-0
+27,1973-03-31,1. FC Kaiserslautern,Fortuna Düsseldorf,1-1,1-0
+27,1973-03-31,MSV Duisburg,Bayern München,2-0,1-0
+27,1973-03-31,Hannover 96,VfL Bochum,1-1,0-0
+27,1973-03-31,FC Schalke 04,Hertha BSC,1-1,0-0
+27,1973-03-31,Eintracht Frankfurt,Eintracht Braunschweig,1-0,0-0
+27,1973-03-31,Bor. Mönchengladbach,Werder Bremen,3-1,2-0
+28,1973-04-06,Eintracht Braunschweig,Bor. Mönchengladbach,0-0,0-0
+28,1973-04-06,VfL Bochum,1. FC Kaiserslautern,3-0,2-0
+28,1973-04-06,Kickers Offenbach,Hannover 96,2-1,0-0
+28,1973-04-07,1. FC Köln,Fortuna Düsseldorf,1-0,0-0
+28,1973-04-07,Wuppertaler SV,FC Schalke 04,4-1,2-1
+28,1973-04-07,Hertha BSC,Eintracht Frankfurt,3-1,3-1
+28,1973-04-07,Werder Bremen,VfB Stuttgart,0-2,0-1
+28,1973-04-07,Bayern München,Hamburger SV,1-0,0-0
+28,1973-04-07,Rot-Weiss Oberhausen,MSV Duisburg,4-0,1-0
+29,1973-04-27,MSV Duisburg,Werder Bremen,1-2,1-1
+29,1973-04-27,VfB Stuttgart,Eintracht Braunschweig,4-0,2-0
+29,1973-04-27,1. FC Kaiserslautern,Kickers Offenbach,3-1,1-1
+29,1973-04-28,Hannover 96,Bayern München,1-3,1-1
+29,1973-04-28,Eintracht Frankfurt,Wuppertaler SV,2-1,1-1
+29,1973-04-28,Hamburger SV,Rot-Weiss Oberhausen,6-0,2-0
+29,1973-04-28,Bor. Mönchengladbach,Hertha BSC,2-2,0-0
+29,1973-04-28,Fortuna Düsseldorf,VfL Bochum,1-1,1-1
+29,1973-05-28,FC Schalke 04,1. FC Köln,2-2,1-2
+30,1973-05-04,1. FC Köln,VfL Bochum,2-1,0-1
+30,1973-05-04,Eintracht Braunschweig,MSV Duisburg,1-1,0-1
+30,1973-05-05,Kickers Offenbach,Fortuna Düsseldorf,1-1,1-1
+30,1973-05-05,Hertha BSC,VfB Stuttgart,5-1,3-0
+30,1973-05-05,Rot-Weiss Oberhausen,Hannover 96,1-0,1-0
+30,1973-05-05,Wuppertaler SV,Bor. Mönchengladbach,0-5,0-2
+30,1973-05-05,Bayern München,1. FC Kaiserslautern,6-0,3-0
+30,1973-05-05,Werder Bremen,Hamburger SV,1-4,1-3
+30,1973-05-05,FC Schalke 04,Eintracht Frankfurt,3-2,1-1
+31,1973-05-19,Fortuna Düsseldorf,Bayern München,0-0,0-0
+31,1973-05-19,Eintracht Frankfurt,1. FC Köln,5-0,0-0
+31,1973-05-19,VfB Stuttgart,Wuppertaler SV,4-2,3-2
+31,1973-05-19,VfL Bochum,Kickers Offenbach,2-3,0-1
+31,1973-05-19,Bor. Mönchengladbach,FC Schalke 04,4-1,1-0
+31,1973-05-19,Hamburger SV,Eintracht Braunschweig,1-0,0-0
+31,1973-05-19,MSV Duisburg,Hertha BSC,2-1,1-0
+31,1973-05-19,Hannover 96,Werder Bremen,2-2,1-1
+31,1973-05-19,1. FC Kaiserslautern,Rot-Weiss Oberhausen,6-2,4-1
+32,1973-05-26,Hertha BSC,Hamburger SV,2-1,1-0
+32,1973-05-26,Werder Bremen,1. FC Kaiserslautern,5-1,2-0
+32,1973-05-26,Wuppertaler SV,MSV Duisburg,5-0,1-0
+32,1973-05-26,Eintracht Braunschweig,Hannover 96,3-2,2-1
+32,1973-05-26,Bor. Mönchengladbach,Eintracht Frankfurt,0-2,0-0
+32,1973-05-26,Kickers Offenbach,1. FC Köln,2-3,1-2
+32,1973-05-26,FC Schalke 04,VfB Stuttgart,2-0,1-0
+32,1973-05-26,Bayern München,VfL Bochum,5-1,1-1
+32,1973-05-26,Rot-Weiss Oberhausen,Fortuna Düsseldorf,0-3,0-0
+33,1973-06-02,VfL Bochum,Rot-Weiss Oberhausen,2-2,1-1
+33,1973-06-02,1. FC Köln,Bor. Mönchengladbach,3-1,1-1
+33,1973-06-02,Kickers Offenbach,Bayern München,0-3,0-1
+33,1973-06-02,VfB Stuttgart,Eintracht Frankfurt,2-2,0-0
+33,1973-06-02,Fortuna Düsseldorf,Werder Bremen,2-1,1-1
+33,1973-06-02,Hamburger SV,Wuppertaler SV,2-2,1-0
+33,1973-06-02,1. FC Kaiserslautern,Eintracht Braunschweig,3-0,1-0
+33,1973-06-02,Hannover 96,Hertha BSC,2-0,1-0
+33,1973-06-02,MSV Duisburg,FC Schalke 04,0-1,0-0
+34,1973-06-09,Werder Bremen,VfL Bochum,5-2,3-1
+34,1973-06-09,Bor. Mönchengladbach,VfB Stuttgart,3-4,2-3
+34,1973-06-09,Rot-Weiss Oberhausen,Kickers Offenbach,2-1,1-0
+34,1973-06-09,Eintracht Frankfurt,MSV Duisburg,1-3,1-1
+34,1973-06-09,Hertha BSC,1. FC Kaiserslautern,4-1,2-0
+34,1973-06-09,FC Schalke 04,Hamburger SV,2-0,0-0
+34,1973-06-09,Eintracht Braunschweig,Fortuna Düsseldorf,1-2,1-1
+34,1973-06-09,Wuppertaler SV,Hannover 96,0-4,0-2
+34,1973-06-09,Bayern München,1. FC Köln,1-1,0-0

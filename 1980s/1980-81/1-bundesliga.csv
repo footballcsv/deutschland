@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,Team 2,FT,HT
-1,1980-08-15,20:00,Bayer Leverkusen,1. FC Kaiserslautern,0-1,0-1
-1,1980-08-15,20:00,Borussia Dortmund,Bayer 05 Uerdingen,2-1,2-0
-1,1980-08-16,15:30,TSV 1860 München,VfL Bochum,2-2,0-0
-1,1980-08-16,15:30,Hamburger SV,MSV Duisburg,0-0,0-0
-1,1980-08-16,15:30,VfB Stuttgart,1. FC Nürnberg,2-1,2-0
-1,1980-08-16,15:30,Arminia Bielefeld,1. FC Köln,2-5,1-1
-1,1980-08-16,15:30,FC Schalke 04,Eintracht Frankfurt,1-4,1-3
-1,1980-08-16,15:30,Fortuna Duesseldorf,Bor. Mönchengladbach,2-1,0-0
-1,1980-08-16,15:30,Karlsruher SC,Bayern München,0-3,0-1
-2,1980-08-19,19:30,Bor. Mönchengladbach,FC Schalke 04,3-1,1-0
-2,1980-08-19,19:30,MSV Duisburg,TSV 1860 München,1-0,0-0
-2,1980-08-19,20:00,Bayern München,Borussia Dortmund,5-3,1-0
-2,1980-08-19,20:00,Eintracht Frankfurt,Arminia Bielefeld,2-0,2-0
-2,1980-08-19,20:00,Bayer 05 Uerdingen,Fortuna Duesseldorf,0-1,0-1
-2,1980-08-20,19:30,VfL Bochum,Karlsruher SC,0-0,0-0
-2,1980-08-20,20:00,1. FC Köln,Bayer Leverkusen,1-1,0-0
-2,1980-08-20,20:00,1. FC Kaiserslautern,VfB Stuttgart,1-0,1-0
-2,1980-08-20,20:00,1. FC Nürnberg,Hamburger SV,2-3,1-1
-3,1980-08-23,15:30,TSV 1860 München,1. FC Nürnberg,2-4,1-2
-3,1980-08-23,15:30,Hamburger SV,1. FC Kaiserslautern,3-2,0-0
-3,1980-08-23,15:30,VfB Stuttgart,1. FC Köln,3-0,1-0
-3,1980-08-23,15:30,Bayer Leverkusen,Eintracht Frankfurt,3-2,1-0
-3,1980-08-23,15:30,Arminia Bielefeld,Bor. Mönchengladbach,2-3,1-1
-3,1980-08-23,15:30,FC Schalke 04,Bayer 05 Uerdingen,3-1,1-1
-3,1980-08-23,15:30,Fortuna Duesseldorf,Bayern München,3-0,0-0
-3,1980-08-23,15:30,VfL Bochum,MSV Duisburg,1-1,0-0
-3,1980-08-23,15:30,Karlsruher SC,Borussia Dortmund,1-1,1-0
-4,1980-09-02,19:30,Bor. Mönchengladbach,Bayer Leverkusen,1-0,0-0
-4,1980-09-02,19:30,1. FC Kaiserslautern,TSV 1860 München,3-2,0-0
-4,1980-09-02,19:30,MSV Duisburg,Karlsruher SC,2-2,0-1
-4,1980-09-02,19:30,Borussia Dortmund,Fortuna Duesseldorf,2-1,1-0
-4,1980-09-03,20:00,Bayern München,FC Schalke 04,5-1,1-1
-4,1980-09-03,20:00,Eintracht Frankfurt,VfB Stuttgart,2-1,1-0
-4,1980-09-03,20:00,1. FC Köln,Hamburger SV,0-3,0-1
-4,1980-09-03,20:00,1. FC Nürnberg,VfL Bochum,0-2,0-1
-4,1980-09-03,20:00,Bayer 05 Uerdingen,Arminia Bielefeld,2-2,0-0
-5,1980-09-05,19:30,VfL Bochum,1. FC Kaiserslautern,0-0,0-0
-5,1980-09-06,15:30,TSV 1860 München,1. FC Köln,2-1,1-1
-5,1980-09-06,15:30,Hamburger SV,Eintracht Frankfurt,3-1,2-1
-5,1980-09-06,15:30,VfB Stuttgart,Bor. Mönchengladbach,4-2,2-2
-5,1980-09-06,15:30,Bayer Leverkusen,Bayer 05 Uerdingen,4-1,1-0
-5,1980-09-06,15:30,Arminia Bielefeld,Bayern München,1-2,1-1
-5,1980-09-06,15:30,FC Schalke 04,Borussia Dortmund,1-2,1-0
-5,1980-09-06,15:30,MSV Duisburg,1. FC Nürnberg,2-0,2-0
-5,1980-09-06,15:30,Karlsruher SC,Fortuna Duesseldorf,3-0,1-0
-6,1980-09-12,20:00,1. FC Kaiserslautern,MSV Duisburg,1-1,1-1
-6,1980-09-12,20:00,Fortuna Duesseldorf,FC Schalke 04,3-3,2-1
-6,1980-09-13,15:30,Bayern München,Bayer Leverkusen,3-0,1-0
-6,1980-09-13,15:30,Bor. Mönchengladbach,Hamburger SV,2-2,1-0
-6,1980-09-13,15:30,Eintracht Frankfurt,TSV 1860 München,2-1,0-0
-6,1980-09-13,15:30,1. FC Köln,VfL Bochum,2-2,1-1
-6,1980-09-13,15:30,1. FC Nürnberg,Karlsruher SC,5-0,2-0
-6,1980-09-13,15:30,Borussia Dortmund,Arminia Bielefeld,5-0,3-0
-6,1980-09-13,15:30,Bayer 05 Uerdingen,VfB Stuttgart,3-3,1-2
-7,1980-09-20,15:30,TSV 1860 München,Bor. Mönchengladbach,0-0,0-0
-7,1980-09-20,15:30,Hamburger SV,Bayer 05 Uerdingen,2-1,2-0
-7,1980-09-20,15:30,VfB Stuttgart,Bayern München,1-2,0-1
-7,1980-09-20,15:30,Bayer Leverkusen,Borussia Dortmund,4-1,2-0
-7,1980-09-20,15:30,Arminia Bielefeld,Fortuna Duesseldorf,3-0,1-0
-7,1980-09-20,15:30,1. FC Nürnberg,1. FC Kaiserslautern,0-4,0-0
-7,1980-09-20,15:30,MSV Duisburg,1. FC Köln,3-4,1-0
-7,1980-09-20,15:30,VfL Bochum,Eintracht Frankfurt,2-0,0-0
-7,1980-09-20,15:30,Karlsruher SC,FC Schalke 04,3-2,0-2
-8,1980-09-26,20:00,Bor. Mönchengladbach,VfL Bochum,2-1,1-0
-8,1980-09-26,20:00,FC Schalke 04,Arminia Bielefeld,2-2,1-1
-8,1980-09-27,15:30,Bayern München,Hamburger SV,2-1,0-0
-8,1980-09-27,15:30,Eintracht Frankfurt,MSV Duisburg,2-1,1-1
-8,1980-09-27,15:30,1. FC Köln,1. FC Nürnberg,2-2,1-2
-8,1980-09-27,15:30,1. FC Kaiserslautern,Karlsruher SC,1-0,1-0
-8,1980-09-27,15:30,Fortuna Duesseldorf,Bayer Leverkusen,4-3,1-0
-8,1980-09-27,15:30,Borussia Dortmund,VfB Stuttgart,3-3,1-0
-8,1980-09-27,15:30,Bayer 05 Uerdingen,TSV 1860 München,0-3,0-0
-9,1980-10-14,20:00,TSV 1860 München,Bayern München,1-3,0-2
-9,1980-10-14,20:00,Hamburger SV,Borussia Dortmund,2-1,2-1
-9,1980-10-14,20:00,Karlsruher SC,Arminia Bielefeld,2-1,1-1
-9,1980-10-15,20:00,VfB Stuttgart,Fortuna Duesseldorf,4-2,2-2
-9,1980-10-15,20:00,Bayer Leverkusen,FC Schalke 04,4-0,2-0
-9,1980-10-15,20:00,1. FC Kaiserslautern,1. FC Köln,5-1,2-0
-9,1980-10-15,20:00,1. FC Nürnberg,Eintracht Frankfurt,1-4,0-1
-9,1980-10-15,20:00,MSV Duisburg,Bor. Mönchengladbach,4-0,1-0
-9,1980-10-15,20:00,VfL Bochum,Bayer 05 Uerdingen,2-2,1-1
-10,1980-10-18,15:30,Bayern München,VfL Bochum,3-1,3-0
-10,1980-10-18,15:30,Bor. Mönchengladbach,1. FC Nürnberg,1-4,0-1
-10,1980-10-18,15:30,Eintracht Frankfurt,1. FC Kaiserslautern,3-2,0-1
-10,1980-10-18,15:30,1. FC Köln,Karlsruher SC,4-0,2-0
-10,1980-10-18,15:30,Arminia Bielefeld,Bayer Leverkusen,1-1,0-0
-10,1980-10-18,15:30,FC Schalke 04,VfB Stuttgart,3-2,1-0
-10,1980-10-18,15:30,Fortuna Duesseldorf,Hamburger SV,2-3,1-3
-10,1980-10-18,15:30,Borussia Dortmund,TSV 1860 München,4-1,1-1
-10,1980-10-18,15:30,Bayer 05 Uerdingen,MSV Duisburg,4-1,1-0
-11,1980-10-24,20:00,1. FC Nürnberg,Bayer 05 Uerdingen,0-0,0-0
-11,1980-10-25,15:30,TSV 1860 München,Fortuna Duesseldorf,4-3,0-3
-11,1980-10-25,15:30,Hamburger SV,FC Schalke 04,7-1,3-0
-11,1980-10-25,15:30,VfB Stuttgart,Arminia Bielefeld,2-1,0-1
-11,1980-10-25,15:30,1. FC Köln,Eintracht Frankfurt,5-0,3-0
-11,1980-10-25,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,3-2,1-1
-11,1980-10-25,15:30,MSV Duisburg,Bayern München,0-1,0-0
-11,1980-10-25,15:30,VfL Bochum,Borussia Dortmund,0-2,0-2
-11,1980-10-25,15:30,Karlsruher SC,Bayer Leverkusen,1-1,1-1
-12,1980-10-29,20:00,Fortuna Duesseldorf,VfL Bochum,1-1,1-1
-12,1980-10-31,19:30,Bayer Leverkusen,VfB Stuttgart,1-1,1-1
-12,1980-10-31,19:30,Arminia Bielefeld,Hamburger SV,0-2,0-0
-12,1980-10-31,19:30,FC Schalke 04,TSV 1860 München,1-0,1-0
-12,1980-10-31,19:30,Borussia Dortmund,MSV Duisburg,5-1,5-1
-12,1980-10-31,20:00,Bayern München,1. FC Nürnberg,4-2,3-0
-12,1980-10-31,20:00,Bor. Mönchengladbach,1. FC Köln,2-0,2-0
-12,1980-10-31,20:00,Bayer 05 Uerdingen,1. FC Kaiserslautern,1-0,0-0
-12,1980-11-01,15:30,Eintracht Frankfurt,Karlsruher SC,3-3,0-1
-13,1980-11-08,15:30,TSV 1860 München,Arminia Bielefeld,2-1,1-1
-13,1980-11-08,15:30,Hamburger SV,Bayer Leverkusen,2-0,0-0
-13,1980-11-08,15:30,Eintracht Frankfurt,Bor. Mönchengladbach,2-1,1-0
-13,1980-11-08,15:30,1. FC Köln,Bayer 05 Uerdingen,3-0,2-0
-13,1980-11-08,15:30,1. FC Kaiserslautern,Bayern München,4-2,1-2
-13,1980-11-08,15:30,1. FC Nürnberg,Borussia Dortmund,2-0,0-0
-13,1980-11-08,15:30,Karlsruher SC,VfB Stuttgart,0-0,0-0
-13,1980-11-11,20:00,VfL Bochum,FC Schalke 04,5-1,3-1
-13,1980-11-25,20:00,MSV Duisburg,Fortuna Duesseldorf,2-1,1-0
-14,1980-11-15,15:30,Bayern München,1. FC Köln,1-1,1-1
-14,1980-11-15,15:30,Bor. Mönchengladbach,Karlsruher SC,3-3,1-0
-14,1980-11-15,15:30,VfB Stuttgart,Hamburger SV,3-2,1-1
-14,1980-11-15,15:30,Bayer Leverkusen,TSV 1860 München,1-1,0-0
-14,1980-11-15,15:30,Arminia Bielefeld,VfL Bochum,3-3,0-1
-14,1980-11-15,15:30,FC Schalke 04,MSV Duisburg,2-2,2-1
-14,1980-11-15,15:30,Fortuna Duesseldorf,1. FC Nürnberg,2-2,1-1
-14,1980-11-15,15:30,Borussia Dortmund,1. FC Kaiserslautern,2-2,1-1
-14,1980-11-15,15:30,Bayer 05 Uerdingen,Eintracht Frankfurt,4-1,2-1
-15,1980-11-28,20:00,VfL Bochum,Bayer Leverkusen,1-1,0-1
-15,1980-11-29,15:30,TSV 1860 München,VfB Stuttgart,0-0,0-0
-15,1980-11-29,15:30,Hamburger SV,Karlsruher SC,3-1,2-1
-15,1980-11-29,15:30,Eintracht Frankfurt,Bayern München,0-0,0-0
-15,1980-11-29,15:30,1. FC Köln,Borussia Dortmund,2-1,1-0
-15,1980-11-29,15:30,1. FC Kaiserslautern,Fortuna Duesseldorf,3-0,1-0
-15,1980-11-29,15:30,1. FC Nürnberg,FC Schalke 04,2-0,0-0
-15,1980-11-29,15:30,MSV Duisburg,Arminia Bielefeld,1-1,0-0
-15,1980-11-29,15:30,Bayer 05 Uerdingen,Bor. Mönchengladbach,2-0,1-0
-16,1980-12-06,15:30,Bayern München,Bor. Mönchengladbach,4-0,0-0
-16,1980-12-06,15:30,VfB Stuttgart,VfL Bochum,4-1,2-1
-16,1980-12-06,15:30,Bayer Leverkusen,MSV Duisburg,1-1,0-0
-16,1980-12-06,15:30,Arminia Bielefeld,1. FC Nürnberg,0-2,0-0
-16,1980-12-06,15:30,Fortuna Duesseldorf,1. FC Köln,0-0,0-0
-16,1980-12-06,15:30,Borussia Dortmund,Eintracht Frankfurt,2-1,1-0
-16,1980-12-09,20:00,FC Schalke 04,1. FC Kaiserslautern,0-2,0-1
-16,1980-12-16,20:00,Hamburger SV,TSV 1860 München,4-1,1-0
-16,1980-12-16,20:00,Karlsruher SC,Bayer 05 Uerdingen,3-1,1-0
-17,1980-12-12,20:00,Bor. Mönchengladbach,Borussia Dortmund,1-0,0-0
-17,1980-12-13,15:30,TSV 1860 München,Karlsruher SC,4-2,3-0
-17,1980-12-13,15:30,Eintracht Frankfurt,Fortuna Duesseldorf,2-2,0-0
-17,1980-12-13,15:30,1. FC Köln,FC Schalke 04,0-2,0-0
-17,1980-12-13,15:30,1. FC Kaiserslautern,Arminia Bielefeld,1-3,0-3
-17,1980-12-13,15:30,1. FC Nürnberg,Bayer Leverkusen,1-1,1-0
-17,1980-12-13,15:30,MSV Duisburg,VfB Stuttgart,0-3,0-1
-17,1980-12-13,15:30,VfL Bochum,Hamburger SV,0-3,0-0
-17,1980-12-13,15:30,Bayer 05 Uerdingen,Bayern München,2-2,2-0
-18,1981-01-17,15:30,1. FC Nürnberg,VfB Stuttgart,1-2,0-2
-18,1981-01-17,15:30,Bayern München,Karlsruher SC,1-1,0-1
-18,1981-01-27,20:00,VfL Bochum,TSV 1860 München,4-1,0-1
-18,1981-01-27,20:00,MSV Duisburg,Hamburger SV,2-0,0-0
-18,1981-01-27,20:00,Eintracht Frankfurt,FC Schalke 04,5-0,2-0
-18,1981-01-27,20:00,Bor. Mönchengladbach,Fortuna Duesseldorf,2-2,1-2
-18,1981-01-28,20:00,Bayer 05 Uerdingen,Borussia Dortmund,2-1,1-1
-18,1981-01-31,15:30,1. FC Köln,Arminia Bielefeld,1-0,1-0
-18,1981-03-17,20:00,1. FC Kaiserslautern,Bayer Leverkusen,3-1,1-1
-19,1981-01-24,15:30,FC Schalke 04,Bor. Mönchengladbach,2-2,1-2
-19,1981-01-24,15:30,Arminia Bielefeld,Eintracht Frankfurt,1-1,0-1
-19,1981-01-24,15:30,Bayer Leverkusen,1. FC Köln,1-1,0-0
-19,1981-01-24,15:30,VfB Stuttgart,1. FC Kaiserslautern,1-0,0-0
-19,1981-01-24,15:30,Hamburger SV,1. FC Nürnberg,1-0,1-0
-19,1981-01-24,15:30,TSV 1860 München,MSV Duisburg,1-3,0-0
-19,1981-01-24,15:30,Karlsruher SC,VfL Bochum,0-0,0-0
-19,1981-01-24,15:30,Fortuna Duesseldorf,Bayer 05 Uerdingen,4-2,2-0
-19,1981-02-03,20:00,Borussia Dortmund,Bayern München,2-2,1-1
-20,1981-02-07,15:30,1. FC Kaiserslautern,Hamburger SV,2-2,2-1
-20,1981-02-07,15:30,1. FC Köln,VfB Stuttgart,3-1,2-1
-20,1981-02-07,15:30,Eintracht Frankfurt,Bayer Leverkusen,2-0,2-0
-20,1981-02-07,15:30,Bor. Mönchengladbach,Arminia Bielefeld,4-2,1-1
-20,1981-02-07,15:30,Bayer 05 Uerdingen,FC Schalke 04,1-3,1-1
-20,1981-02-07,15:30,Bayern München,Fortuna Duesseldorf,3-2,2-0
-20,1981-02-07,15:30,MSV Duisburg,VfL Bochum,0-3,0-1
-20,1981-02-07,15:30,Borussia Dortmund,Karlsruher SC,3-3,3-3
-20,1981-02-28,15:30,1. FC Nürnberg,TSV 1860 München,1-2,0-1
-21,1981-02-14,15:30,FC Schalke 04,Bayern München,2-2,1-0
-21,1981-02-14,15:30,Bayer Leverkusen,Bor. Mönchengladbach,1-5,0-1
-21,1981-02-14,15:30,VfB Stuttgart,Eintracht Frankfurt,1-1,1-0
-21,1981-02-14,15:30,Hamburger SV,1. FC Köln,2-0,1-0
-21,1981-02-14,15:30,TSV 1860 München,1. FC Kaiserslautern,1-1,0-1
-21,1981-02-14,15:30,VfL Bochum,1. FC Nürnberg,4-0,1-0
-21,1981-02-14,15:30,Karlsruher SC,MSV Duisburg,2-0,2-0
-21,1981-02-14,15:30,Fortuna Duesseldorf,Borussia Dortmund,2-2,1-0
-21,1981-02-14,15:30,Arminia Bielefeld,Bayer 05 Uerdingen,3-1,1-1
-22,1981-02-21,15:30,1. FC Köln,TSV 1860 München,4-1,4-1
-22,1981-02-21,15:30,Eintracht Frankfurt,Hamburger SV,1-1,0-0
-22,1981-02-21,15:30,Bayer 05 Uerdingen,Bayer Leverkusen,3-0,2-0
-22,1981-02-21,15:30,Bayern München,Arminia Bielefeld,5-1,4-0
-22,1981-02-21,15:30,Borussia Dortmund,FC Schalke 04,2-2,1-0
-22,1981-02-21,15:30,1. FC Nürnberg,MSV Duisburg,1-0,0-0
-22,1981-02-21,15:30,Fortuna Duesseldorf,Karlsruher SC,1-2,0-2
-22,1981-03-24,20:00,1. FC Kaiserslautern,VfL Bochum,0-0,0-0
-22,1981-04-24,20:00,Bor. Mönchengladbach,VfB Stuttgart,1-3,0-1
-23,1981-03-07,15:30,Bayer Leverkusen,Bayern München,3-0,3-0
-23,1981-03-07,15:30,Hamburger SV,Bor. Mönchengladbach,2-1,2-0
-23,1981-03-07,15:30,TSV 1860 München,Eintracht Frankfurt,0-2,0-1
-23,1981-03-07,15:30,VfL Bochum,1. FC Köln,1-1,0-0
-23,1981-03-07,15:30,MSV Duisburg,1. FC Kaiserslautern,1-1,0-0
-23,1981-03-07,15:30,Karlsruher SC,1. FC Nürnberg,4-1,1-1
-23,1981-03-07,15:30,Arminia Bielefeld,Borussia Dortmund,1-0,0-0
-23,1981-03-07,15:30,VfB Stuttgart,Bayer 05 Uerdingen,3-2,1-0
-23,1981-05-09,15:30,FC Schalke 04,Fortuna Duesseldorf,0-4,0-2
-24,1981-03-14,15:30,Bor. Mönchengladbach,TSV 1860 München,3-2,2-1
-24,1981-03-14,15:30,Bayer 05 Uerdingen,Hamburger SV,0-3,0-0
-24,1981-03-14,15:30,Bayern München,VfB Stuttgart,1-1,1-1
-24,1981-03-14,15:30,Borussia Dortmund,Bayer Leverkusen,5-3,3-1
-24,1981-03-14,15:30,Fortuna Duesseldorf,Arminia Bielefeld,3-1,2-1
-24,1981-03-14,15:30,1. FC Kaiserslautern,1. FC Nürnberg,3-1,3-1
-24,1981-03-14,15:30,1. FC Köln,MSV Duisburg,1-0,1-0
-24,1981-03-14,15:30,Eintracht Frankfurt,VfL Bochum,2-2,2-1
-24,1981-03-14,15:30,FC Schalke 04,Karlsruher SC,1-0,0-0
-25,1981-03-21,15:30,Hamburger SV,Bayern München,2-2,0-0
-25,1981-03-21,15:30,VfL Bochum,Bor. Mönchengladbach,1-1,1-0
-25,1981-03-21,15:30,MSV Duisburg,Eintracht Frankfurt,0-0,0-0
-25,1981-03-21,15:30,1. FC Nürnberg,1. FC Köln,2-1,0-1
-25,1981-03-21,15:30,Karlsruher SC,1. FC Kaiserslautern,1-1,0-1
-25,1981-03-21,15:30,Arminia Bielefeld,FC Schalke 04,1-0,0-0
-25,1981-03-21,15:30,Bayer Leverkusen,Fortuna Duesseldorf,2-0,1-0
-25,1981-03-21,15:30,VfB Stuttgart,Borussia Dortmund,3-1,2-0
-25,1981-03-21,15:30,TSV 1860 München,Bayer 05 Uerdingen,4-0,3-0
-26,1981-03-27,20:00,FC Schalke 04,Bayer Leverkusen,3-1,1-1
-26,1981-03-27,20:00,Bayer 05 Uerdingen,VfL Bochum,1-0,0-0
-26,1981-03-28,15:30,Bayern München,TSV 1860 München,1-1,0-0
-26,1981-03-28,15:30,Borussia Dortmund,Hamburger SV,6-2,2-2
-26,1981-03-28,15:30,Fortuna Duesseldorf,VfB Stuttgart,3-1,1-1
-26,1981-03-28,15:30,1. FC Köln,1. FC Kaiserslautern,2-2,1-1
-26,1981-03-28,15:30,Eintracht Frankfurt,1. FC Nürnberg,3-0,2-0
-26,1981-03-28,15:30,Bor. Mönchengladbach,MSV Duisburg,4-1,1-1
-26,1981-03-28,15:30,Arminia Bielefeld,Karlsruher SC,4-1,1-0
-27,1981-04-03,20:00,MSV Duisburg,Bayer 05 Uerdingen,3-2,2-0
-27,1981-04-04,15:30,VfL Bochum,Bayern München,1-3,1-1
-27,1981-04-04,15:30,1. FC Nürnberg,Bor. Mönchengladbach,2-0,0-0
-27,1981-04-04,15:30,Karlsruher SC,1. FC Köln,1-1,0-1
-27,1981-04-04,15:30,Bayer Leverkusen,Arminia Bielefeld,2-0,1-0
-27,1981-04-04,15:30,VfB Stuttgart,FC Schalke 04,3-0,1-0
-27,1981-04-04,15:30,Hamburger SV,Fortuna Duesseldorf,2-1,0-0
-27,1981-04-04,15:30,TSV 1860 München,Borussia Dortmund,0-1,0-0
-27,1981-04-14,20:00,1. FC Kaiserslautern,Eintracht Frankfurt,2-0,0-0
-28,1981-04-10,20:00,Borussia Dortmund,VfL Bochum,1-3,0-2
-28,1981-04-11,15:30,Fortuna Duesseldorf,TSV 1860 München,2-1,1-1
-28,1981-04-11,15:30,FC Schalke 04,Hamburger SV,2-1,1-0
-28,1981-04-11,15:30,Arminia Bielefeld,VfB Stuttgart,1-0,0-0
-28,1981-04-11,15:30,Eintracht Frankfurt,1. FC Köln,4-0,2-0
-28,1981-04-11,15:30,Bor. Mönchengladbach,1. FC Kaiserslautern,1-0,0-0
-28,1981-04-11,15:30,Bayer 05 Uerdingen,1. FC Nürnberg,3-2,2-1
-28,1981-04-11,15:30,Bayern München,MSV Duisburg,5-1,2-1
-28,1981-04-11,15:30,Bayer Leverkusen,Karlsruher SC,3-0,2-0
-29,1981-04-16,20:00,1. FC Nürnberg,Bayern München,0-1,0-0
-29,1981-04-16,20:00,Hamburger SV,Arminia Bielefeld,4-1,2-0
-29,1981-04-16,20:00,VfL Bochum,Fortuna Duesseldorf,2-1,1-1
-29,1981-04-16,20:00,MSV Duisburg,Borussia Dortmund,2-1,0-1
-29,1981-04-18,15:30,1. FC Köln,Bor. Mönchengladbach,2-3,0-1
-29,1981-04-18,15:30,Karlsruher SC,Eintracht Frankfurt,1-1,0-1
-29,1981-04-18,15:30,VfB Stuttgart,Bayer Leverkusen,2-1,1-1
-29,1981-04-18,15:30,TSV 1860 München,FC Schalke 04,3-1,2-0
-29,1981-04-18,15:30,1. FC Kaiserslautern,Bayer 05 Uerdingen,4-2,2-1
-30,1981-05-08,20:00,Bor. Mönchengladbach,Eintracht Frankfurt,2-2,0-2
-30,1981-05-08,20:00,Fortuna Duesseldorf,MSV Duisburg,0-1,0-1
-30,1981-05-09,15:30,Arminia Bielefeld,TSV 1860 München,3-2,1-1
-30,1981-05-09,15:30,Bayer Leverkusen,Hamburger SV,1-2,1-1
-30,1981-05-09,15:30,Bayer 05 Uerdingen,1. FC Köln,0-1,0-0
-30,1981-05-09,15:30,Bayern München,1. FC Kaiserslautern,3-0,1-0
-30,1981-05-09,15:30,Borussia Dortmund,1. FC Nürnberg,1-0,0-0
-30,1981-05-09,15:30,FC Schalke 04,VfL Bochum,0-6,0-2
-30,1981-05-09,15:30,VfB Stuttgart,Karlsruher SC,5-2,4-1
-31,1981-05-15,20:00,Karlsruher SC,Bor. Mönchengladbach,3-4,1-1
-31,1981-05-15,20:00,MSV Duisburg,FC Schalke 04,5-1,1-1
-31,1981-05-15,20:00,1. FC Kaiserslautern,Borussia Dortmund,1-1,0-1
-31,1981-05-16,15:30,1. FC Köln,Bayern München,0-3,0-2
-31,1981-05-16,15:30,Hamburger SV,VfB Stuttgart,1-3,0-2
-31,1981-05-16,15:30,TSV 1860 München,Bayer Leverkusen,1-0,0-0
-31,1981-05-16,15:30,VfL Bochum,Arminia Bielefeld,0-2,0-1
-31,1981-05-16,15:30,1. FC Nürnberg,Fortuna Duesseldorf,2-1,0-0
-31,1981-05-16,20:00,Eintracht Frankfurt,Bayer 05 Uerdingen,2-2,1-1
-32,1981-05-29,20:00,Fortuna Duesseldorf,1. FC Kaiserslautern,0-2,0-0
-32,1981-05-29,20:00,Bayer Leverkusen,VfL Bochum,2-0,1-0
-32,1981-05-30,15:30,VfB Stuttgart,TSV 1860 München,2-1,0-1
-32,1981-05-30,15:30,Karlsruher SC,Hamburger SV,1-1,0-0
-32,1981-05-30,15:30,Bayern München,Eintracht Frankfurt,7-2,0-0
-32,1981-05-30,15:30,Borussia Dortmund,1. FC Köln,2-2,1-1
-32,1981-05-30,15:30,FC Schalke 04,1. FC Nürnberg,1-1,1-1
-32,1981-05-30,15:30,Arminia Bielefeld,MSV Duisburg,2-1,1-1
-32,1981-05-30,15:30,Bor. Mönchengladbach,Bayer 05 Uerdingen,7-1,4-0
-33,1981-06-06,15:30,Bor. Mönchengladbach,Bayern München,1-4,0-1
-33,1981-06-06,15:30,TSV 1860 München,Hamburger SV,0-0,0-0
-33,1981-06-06,15:30,VfL Bochum,VfB Stuttgart,1-1,0-1
-33,1981-06-06,15:30,MSV Duisburg,Bayer Leverkusen,2-4,0-2
-33,1981-06-06,15:30,1. FC Nürnberg,Arminia Bielefeld,2-0,1-0
-33,1981-06-06,15:30,1. FC Kaiserslautern,FC Schalke 04,2-0,1-0
-33,1981-06-06,15:30,1. FC Köln,Fortuna Duesseldorf,1-2,0-1
-33,1981-06-06,15:30,Eintracht Frankfurt,Borussia Dortmund,0-4,0-4
-33,1981-06-06,15:30,Bayer 05 Uerdingen,Karlsruher SC,0-3,0-1
-34,1981-06-13,15:30,Karlsruher SC,TSV 1860 München,7-2,1-1
-34,1981-06-13,15:30,Borussia Dortmund,Bor. Mönchengladbach,0-3,0-1
-34,1981-06-13,15:30,Fortuna Duesseldorf,Eintracht Frankfurt,2-2,1-1
-34,1981-06-13,15:30,FC Schalke 04,1. FC Köln,1-2,0-2
-34,1981-06-13,15:30,Arminia Bielefeld,1. FC Kaiserslautern,0-1,0-0
-34,1981-06-13,15:30,Bayer Leverkusen,1. FC Nürnberg,1-1,0-0
-34,1981-06-13,15:30,VfB Stuttgart,MSV Duisburg,2-0,0-0
-34,1981-06-13,15:30,Hamburger SV,VfL Bochum,2-1,0-1
-34,1981-06-13,15:30,Bayern München,Bayer 05 Uerdingen,4-0,0-0
+Round,Date,Team 1,Team 2,FT,HT
+1,1980-08-15,Bayer Leverkusen,1. FC Kaiserslautern,0-1,0-1
+1,1980-08-15,Borussia Dortmund,Bayer 05 Uerdingen,2-1,2-0
+1,1980-08-16,TSV 1860 München,VfL Bochum,2-2,0-0
+1,1980-08-16,Hamburger SV,MSV Duisburg,0-0,0-0
+1,1980-08-16,VfB Stuttgart,1. FC Nürnberg,2-1,2-0
+1,1980-08-16,Arminia Bielefeld,1. FC Köln,2-5,1-1
+1,1980-08-16,FC Schalke 04,Eintracht Frankfurt,1-4,1-3
+1,1980-08-16,Fortuna Düsseldorf,Bor. Mönchengladbach,2-1,0-0
+1,1980-08-16,Karlsruher SC,Bayern München,0-3,0-1
+2,1980-08-19,Bor. Mönchengladbach,FC Schalke 04,3-1,1-0
+2,1980-08-19,MSV Duisburg,TSV 1860 München,1-0,0-0
+2,1980-08-19,Bayern München,Borussia Dortmund,5-3,1-0
+2,1980-08-19,Eintracht Frankfurt,Arminia Bielefeld,2-0,2-0
+2,1980-08-19,Bayer 05 Uerdingen,Fortuna Düsseldorf,0-1,0-1
+2,1980-08-20,VfL Bochum,Karlsruher SC,0-0,0-0
+2,1980-08-20,1. FC Köln,Bayer Leverkusen,1-1,0-0
+2,1980-08-20,1. FC Kaiserslautern,VfB Stuttgart,1-0,1-0
+2,1980-08-20,1. FC Nürnberg,Hamburger SV,2-3,1-1
+3,1980-08-23,TSV 1860 München,1. FC Nürnberg,2-4,1-2
+3,1980-08-23,Hamburger SV,1. FC Kaiserslautern,3-2,0-0
+3,1980-08-23,VfB Stuttgart,1. FC Köln,3-0,1-0
+3,1980-08-23,Bayer Leverkusen,Eintracht Frankfurt,3-2,1-0
+3,1980-08-23,Arminia Bielefeld,Bor. Mönchengladbach,2-3,1-1
+3,1980-08-23,FC Schalke 04,Bayer 05 Uerdingen,3-1,1-1
+3,1980-08-23,Fortuna Düsseldorf,Bayern München,3-0,0-0
+3,1980-08-23,VfL Bochum,MSV Duisburg,1-1,0-0
+3,1980-08-23,Karlsruher SC,Borussia Dortmund,1-1,1-0
+4,1980-09-02,Bor. Mönchengladbach,Bayer Leverkusen,1-0,0-0
+4,1980-09-02,1. FC Kaiserslautern,TSV 1860 München,3-2,0-0
+4,1980-09-02,MSV Duisburg,Karlsruher SC,2-2,0-1
+4,1980-09-02,Borussia Dortmund,Fortuna Düsseldorf,2-1,1-0
+4,1980-09-03,Bayern München,FC Schalke 04,5-1,1-1
+4,1980-09-03,Eintracht Frankfurt,VfB Stuttgart,2-1,1-0
+4,1980-09-03,1. FC Köln,Hamburger SV,0-3,0-1
+4,1980-09-03,1. FC Nürnberg,VfL Bochum,0-2,0-1
+4,1980-09-03,Bayer 05 Uerdingen,Arminia Bielefeld,2-2,0-0
+5,1980-09-05,VfL Bochum,1. FC Kaiserslautern,0-0,0-0
+5,1980-09-06,TSV 1860 München,1. FC Köln,2-1,1-1
+5,1980-09-06,Hamburger SV,Eintracht Frankfurt,3-1,2-1
+5,1980-09-06,VfB Stuttgart,Bor. Mönchengladbach,4-2,2-2
+5,1980-09-06,Bayer Leverkusen,Bayer 05 Uerdingen,4-1,1-0
+5,1980-09-06,Arminia Bielefeld,Bayern München,1-2,1-1
+5,1980-09-06,FC Schalke 04,Borussia Dortmund,1-2,1-0
+5,1980-09-06,MSV Duisburg,1. FC Nürnberg,2-0,2-0
+5,1980-09-06,Karlsruher SC,Fortuna Düsseldorf,3-0,1-0
+6,1980-09-12,1. FC Kaiserslautern,MSV Duisburg,1-1,1-1
+6,1980-09-12,Fortuna Düsseldorf,FC Schalke 04,3-3,2-1
+6,1980-09-13,Bayern München,Bayer Leverkusen,3-0,1-0
+6,1980-09-13,Bor. Mönchengladbach,Hamburger SV,2-2,1-0
+6,1980-09-13,Eintracht Frankfurt,TSV 1860 München,2-1,0-0
+6,1980-09-13,1. FC Köln,VfL Bochum,2-2,1-1
+6,1980-09-13,1. FC Nürnberg,Karlsruher SC,5-0,2-0
+6,1980-09-13,Borussia Dortmund,Arminia Bielefeld,5-0,3-0
+6,1980-09-13,Bayer 05 Uerdingen,VfB Stuttgart,3-3,1-2
+7,1980-09-20,TSV 1860 München,Bor. Mönchengladbach,0-0,0-0
+7,1980-09-20,Hamburger SV,Bayer 05 Uerdingen,2-1,2-0
+7,1980-09-20,VfB Stuttgart,Bayern München,1-2,0-1
+7,1980-09-20,Bayer Leverkusen,Borussia Dortmund,4-1,2-0
+7,1980-09-20,Arminia Bielefeld,Fortuna Düsseldorf,3-0,1-0
+7,1980-09-20,1. FC Nürnberg,1. FC Kaiserslautern,0-4,0-0
+7,1980-09-20,MSV Duisburg,1. FC Köln,3-4,1-0
+7,1980-09-20,VfL Bochum,Eintracht Frankfurt,2-0,0-0
+7,1980-09-20,Karlsruher SC,FC Schalke 04,3-2,0-2
+8,1980-09-26,Bor. Mönchengladbach,VfL Bochum,2-1,1-0
+8,1980-09-26,FC Schalke 04,Arminia Bielefeld,2-2,1-1
+8,1980-09-27,Bayern München,Hamburger SV,2-1,0-0
+8,1980-09-27,Eintracht Frankfurt,MSV Duisburg,2-1,1-1
+8,1980-09-27,1. FC Köln,1. FC Nürnberg,2-2,1-2
+8,1980-09-27,1. FC Kaiserslautern,Karlsruher SC,1-0,1-0
+8,1980-09-27,Fortuna Düsseldorf,Bayer Leverkusen,4-3,1-0
+8,1980-09-27,Borussia Dortmund,VfB Stuttgart,3-3,1-0
+8,1980-09-27,Bayer 05 Uerdingen,TSV 1860 München,0-3,0-0
+9,1980-10-14,TSV 1860 München,Bayern München,1-3,0-2
+9,1980-10-14,Hamburger SV,Borussia Dortmund,2-1,2-1
+9,1980-10-14,Karlsruher SC,Arminia Bielefeld,2-1,1-1
+9,1980-10-15,VfB Stuttgart,Fortuna Düsseldorf,4-2,2-2
+9,1980-10-15,Bayer Leverkusen,FC Schalke 04,4-0,2-0
+9,1980-10-15,1. FC Kaiserslautern,1. FC Köln,5-1,2-0
+9,1980-10-15,1. FC Nürnberg,Eintracht Frankfurt,1-4,0-1
+9,1980-10-15,MSV Duisburg,Bor. Mönchengladbach,4-0,1-0
+9,1980-10-15,VfL Bochum,Bayer 05 Uerdingen,2-2,1-1
+10,1980-10-18,Bayern München,VfL Bochum,3-1,3-0
+10,1980-10-18,Bor. Mönchengladbach,1. FC Nürnberg,1-4,0-1
+10,1980-10-18,Eintracht Frankfurt,1. FC Kaiserslautern,3-2,0-1
+10,1980-10-18,1. FC Köln,Karlsruher SC,4-0,2-0
+10,1980-10-18,Arminia Bielefeld,Bayer Leverkusen,1-1,0-0
+10,1980-10-18,FC Schalke 04,VfB Stuttgart,3-2,1-0
+10,1980-10-18,Fortuna Düsseldorf,Hamburger SV,2-3,1-3
+10,1980-10-18,Borussia Dortmund,TSV 1860 München,4-1,1-1
+10,1980-10-18,Bayer 05 Uerdingen,MSV Duisburg,4-1,1-0
+11,1980-10-24,1. FC Nürnberg,Bayer 05 Uerdingen,0-0,0-0
+11,1980-10-25,TSV 1860 München,Fortuna Düsseldorf,4-3,0-3
+11,1980-10-25,Hamburger SV,FC Schalke 04,7-1,3-0
+11,1980-10-25,VfB Stuttgart,Arminia Bielefeld,2-1,0-1
+11,1980-10-25,1. FC Köln,Eintracht Frankfurt,5-0,3-0
+11,1980-10-25,1. FC Kaiserslautern,Bor. Mönchengladbach,3-2,1-1
+11,1980-10-25,MSV Duisburg,Bayern München,0-1,0-0
+11,1980-10-25,VfL Bochum,Borussia Dortmund,0-2,0-2
+11,1980-10-25,Karlsruher SC,Bayer Leverkusen,1-1,1-1
+12,1980-10-29,Fortuna Düsseldorf,VfL Bochum,1-1,1-1
+12,1980-10-31,Bayer Leverkusen,VfB Stuttgart,1-1,1-1
+12,1980-10-31,Arminia Bielefeld,Hamburger SV,0-2,0-0
+12,1980-10-31,FC Schalke 04,TSV 1860 München,1-0,1-0
+12,1980-10-31,Borussia Dortmund,MSV Duisburg,5-1,5-1
+12,1980-10-31,Bayern München,1. FC Nürnberg,4-2,3-0
+12,1980-10-31,Bor. Mönchengladbach,1. FC Köln,2-0,2-0
+12,1980-10-31,Bayer 05 Uerdingen,1. FC Kaiserslautern,1-0,0-0
+12,1980-11-01,Eintracht Frankfurt,Karlsruher SC,3-3,0-1
+13,1980-11-08,TSV 1860 München,Arminia Bielefeld,2-1,1-1
+13,1980-11-08,Hamburger SV,Bayer Leverkusen,2-0,0-0
+13,1980-11-08,Eintracht Frankfurt,Bor. Mönchengladbach,2-1,1-0
+13,1980-11-08,1. FC Köln,Bayer 05 Uerdingen,3-0,2-0
+13,1980-11-08,1. FC Kaiserslautern,Bayern München,4-2,1-2
+13,1980-11-08,1. FC Nürnberg,Borussia Dortmund,2-0,0-0
+13,1980-11-08,Karlsruher SC,VfB Stuttgart,0-0,0-0
+13,1980-11-11,VfL Bochum,FC Schalke 04,5-1,3-1
+13,1980-11-25,MSV Duisburg,Fortuna Düsseldorf,2-1,1-0
+14,1980-11-15,Bayern München,1. FC Köln,1-1,1-1
+14,1980-11-15,Bor. Mönchengladbach,Karlsruher SC,3-3,1-0
+14,1980-11-15,VfB Stuttgart,Hamburger SV,3-2,1-1
+14,1980-11-15,Bayer Leverkusen,TSV 1860 München,1-1,0-0
+14,1980-11-15,Arminia Bielefeld,VfL Bochum,3-3,0-1
+14,1980-11-15,FC Schalke 04,MSV Duisburg,2-2,2-1
+14,1980-11-15,Fortuna Düsseldorf,1. FC Nürnberg,2-2,1-1
+14,1980-11-15,Borussia Dortmund,1. FC Kaiserslautern,2-2,1-1
+14,1980-11-15,Bayer 05 Uerdingen,Eintracht Frankfurt,4-1,2-1
+15,1980-11-28,VfL Bochum,Bayer Leverkusen,1-1,0-1
+15,1980-11-29,TSV 1860 München,VfB Stuttgart,0-0,0-0
+15,1980-11-29,Hamburger SV,Karlsruher SC,3-1,2-1
+15,1980-11-29,Eintracht Frankfurt,Bayern München,0-0,0-0
+15,1980-11-29,1. FC Köln,Borussia Dortmund,2-1,1-0
+15,1980-11-29,1. FC Kaiserslautern,Fortuna Düsseldorf,3-0,1-0
+15,1980-11-29,1. FC Nürnberg,FC Schalke 04,2-0,0-0
+15,1980-11-29,MSV Duisburg,Arminia Bielefeld,1-1,0-0
+15,1980-11-29,Bayer 05 Uerdingen,Bor. Mönchengladbach,2-0,1-0
+16,1980-12-06,Bayern München,Bor. Mönchengladbach,4-0,0-0
+16,1980-12-06,VfB Stuttgart,VfL Bochum,4-1,2-1
+16,1980-12-06,Bayer Leverkusen,MSV Duisburg,1-1,0-0
+16,1980-12-06,Arminia Bielefeld,1. FC Nürnberg,0-2,0-0
+16,1980-12-06,Fortuna Düsseldorf,1. FC Köln,0-0,0-0
+16,1980-12-06,Borussia Dortmund,Eintracht Frankfurt,2-1,1-0
+16,1980-12-09,FC Schalke 04,1. FC Kaiserslautern,0-2,0-1
+16,1980-12-16,Hamburger SV,TSV 1860 München,4-1,1-0
+16,1980-12-16,Karlsruher SC,Bayer 05 Uerdingen,3-1,1-0
+17,1980-12-12,Bor. Mönchengladbach,Borussia Dortmund,1-0,0-0
+17,1980-12-13,TSV 1860 München,Karlsruher SC,4-2,3-0
+17,1980-12-13,Eintracht Frankfurt,Fortuna Düsseldorf,2-2,0-0
+17,1980-12-13,1. FC Köln,FC Schalke 04,0-2,0-0
+17,1980-12-13,1. FC Kaiserslautern,Arminia Bielefeld,1-3,0-3
+17,1980-12-13,1. FC Nürnberg,Bayer Leverkusen,1-1,1-0
+17,1980-12-13,MSV Duisburg,VfB Stuttgart,0-3,0-1
+17,1980-12-13,VfL Bochum,Hamburger SV,0-3,0-0
+17,1980-12-13,Bayer 05 Uerdingen,Bayern München,2-2,2-0
+18,1981-01-17,1. FC Nürnberg,VfB Stuttgart,1-2,0-2
+18,1981-01-17,Bayern München,Karlsruher SC,1-1,0-1
+18,1981-01-27,VfL Bochum,TSV 1860 München,4-1,0-1
+18,1981-01-27,MSV Duisburg,Hamburger SV,2-0,0-0
+18,1981-01-27,Eintracht Frankfurt,FC Schalke 04,5-0,2-0
+18,1981-01-27,Bor. Mönchengladbach,Fortuna Düsseldorf,2-2,1-2
+18,1981-01-28,Bayer 05 Uerdingen,Borussia Dortmund,2-1,1-1
+18,1981-01-31,1. FC Köln,Arminia Bielefeld,1-0,1-0
+18,1981-03-17,1. FC Kaiserslautern,Bayer Leverkusen,3-1,1-1
+19,1981-01-24,FC Schalke 04,Bor. Mönchengladbach,2-2,1-2
+19,1981-01-24,Arminia Bielefeld,Eintracht Frankfurt,1-1,0-1
+19,1981-01-24,Bayer Leverkusen,1. FC Köln,1-1,0-0
+19,1981-01-24,VfB Stuttgart,1. FC Kaiserslautern,1-0,0-0
+19,1981-01-24,Hamburger SV,1. FC Nürnberg,1-0,1-0
+19,1981-01-24,TSV 1860 München,MSV Duisburg,1-3,0-0
+19,1981-01-24,Karlsruher SC,VfL Bochum,0-0,0-0
+19,1981-01-24,Fortuna Düsseldorf,Bayer 05 Uerdingen,4-2,2-0
+19,1981-02-03,Borussia Dortmund,Bayern München,2-2,1-1
+20,1981-02-07,1. FC Kaiserslautern,Hamburger SV,2-2,2-1
+20,1981-02-07,1. FC Köln,VfB Stuttgart,3-1,2-1
+20,1981-02-07,Eintracht Frankfurt,Bayer Leverkusen,2-0,2-0
+20,1981-02-07,Bor. Mönchengladbach,Arminia Bielefeld,4-2,1-1
+20,1981-02-07,Bayer 05 Uerdingen,FC Schalke 04,1-3,1-1
+20,1981-02-07,Bayern München,Fortuna Düsseldorf,3-2,2-0
+20,1981-02-07,MSV Duisburg,VfL Bochum,0-3,0-1
+20,1981-02-07,Borussia Dortmund,Karlsruher SC,3-3,3-3
+20,1981-02-28,1. FC Nürnberg,TSV 1860 München,1-2,0-1
+21,1981-02-14,FC Schalke 04,Bayern München,2-2,1-0
+21,1981-02-14,Bayer Leverkusen,Bor. Mönchengladbach,1-5,0-1
+21,1981-02-14,VfB Stuttgart,Eintracht Frankfurt,1-1,1-0
+21,1981-02-14,Hamburger SV,1. FC Köln,2-0,1-0
+21,1981-02-14,TSV 1860 München,1. FC Kaiserslautern,1-1,0-1
+21,1981-02-14,VfL Bochum,1. FC Nürnberg,4-0,1-0
+21,1981-02-14,Karlsruher SC,MSV Duisburg,2-0,2-0
+21,1981-02-14,Fortuna Düsseldorf,Borussia Dortmund,2-2,1-0
+21,1981-02-14,Arminia Bielefeld,Bayer 05 Uerdingen,3-1,1-1
+22,1981-02-21,1. FC Köln,TSV 1860 München,4-1,4-1
+22,1981-02-21,Eintracht Frankfurt,Hamburger SV,1-1,0-0
+22,1981-02-21,Bayer 05 Uerdingen,Bayer Leverkusen,3-0,2-0
+22,1981-02-21,Bayern München,Arminia Bielefeld,5-1,4-0
+22,1981-02-21,Borussia Dortmund,FC Schalke 04,2-2,1-0
+22,1981-02-21,1. FC Nürnberg,MSV Duisburg,1-0,0-0
+22,1981-02-21,Fortuna Düsseldorf,Karlsruher SC,1-2,0-2
+22,1981-03-24,1. FC Kaiserslautern,VfL Bochum,0-0,0-0
+22,1981-04-24,Bor. Mönchengladbach,VfB Stuttgart,1-3,0-1
+23,1981-03-07,Bayer Leverkusen,Bayern München,3-0,3-0
+23,1981-03-07,Hamburger SV,Bor. Mönchengladbach,2-1,2-0
+23,1981-03-07,TSV 1860 München,Eintracht Frankfurt,0-2,0-1
+23,1981-03-07,VfL Bochum,1. FC Köln,1-1,0-0
+23,1981-03-07,MSV Duisburg,1. FC Kaiserslautern,1-1,0-0
+23,1981-03-07,Karlsruher SC,1. FC Nürnberg,4-1,1-1
+23,1981-03-07,Arminia Bielefeld,Borussia Dortmund,1-0,0-0
+23,1981-03-07,VfB Stuttgart,Bayer 05 Uerdingen,3-2,1-0
+23,1981-05-09,FC Schalke 04,Fortuna Düsseldorf,0-4,0-2
+24,1981-03-14,Bor. Mönchengladbach,TSV 1860 München,3-2,2-1
+24,1981-03-14,Bayer 05 Uerdingen,Hamburger SV,0-3,0-0
+24,1981-03-14,Bayern München,VfB Stuttgart,1-1,1-1
+24,1981-03-14,Borussia Dortmund,Bayer Leverkusen,5-3,3-1
+24,1981-03-14,Fortuna Düsseldorf,Arminia Bielefeld,3-1,2-1
+24,1981-03-14,1. FC Kaiserslautern,1. FC Nürnberg,3-1,3-1
+24,1981-03-14,1. FC Köln,MSV Duisburg,1-0,1-0
+24,1981-03-14,Eintracht Frankfurt,VfL Bochum,2-2,2-1
+24,1981-03-14,FC Schalke 04,Karlsruher SC,1-0,0-0
+25,1981-03-21,Hamburger SV,Bayern München,2-2,0-0
+25,1981-03-21,VfL Bochum,Bor. Mönchengladbach,1-1,1-0
+25,1981-03-21,MSV Duisburg,Eintracht Frankfurt,0-0,0-0
+25,1981-03-21,1. FC Nürnberg,1. FC Köln,2-1,0-1
+25,1981-03-21,Karlsruher SC,1. FC Kaiserslautern,1-1,0-1
+25,1981-03-21,Arminia Bielefeld,FC Schalke 04,1-0,0-0
+25,1981-03-21,Bayer Leverkusen,Fortuna Düsseldorf,2-0,1-0
+25,1981-03-21,VfB Stuttgart,Borussia Dortmund,3-1,2-0
+25,1981-03-21,TSV 1860 München,Bayer 05 Uerdingen,4-0,3-0
+26,1981-03-27,FC Schalke 04,Bayer Leverkusen,3-1,1-1
+26,1981-03-27,Bayer 05 Uerdingen,VfL Bochum,1-0,0-0
+26,1981-03-28,Bayern München,TSV 1860 München,1-1,0-0
+26,1981-03-28,Borussia Dortmund,Hamburger SV,6-2,2-2
+26,1981-03-28,Fortuna Düsseldorf,VfB Stuttgart,3-1,1-1
+26,1981-03-28,1. FC Köln,1. FC Kaiserslautern,2-2,1-1
+26,1981-03-28,Eintracht Frankfurt,1. FC Nürnberg,3-0,2-0
+26,1981-03-28,Bor. Mönchengladbach,MSV Duisburg,4-1,1-1
+26,1981-03-28,Arminia Bielefeld,Karlsruher SC,4-1,1-0
+27,1981-04-03,MSV Duisburg,Bayer 05 Uerdingen,3-2,2-0
+27,1981-04-04,VfL Bochum,Bayern München,1-3,1-1
+27,1981-04-04,1. FC Nürnberg,Bor. Mönchengladbach,2-0,0-0
+27,1981-04-04,Karlsruher SC,1. FC Köln,1-1,0-1
+27,1981-04-04,Bayer Leverkusen,Arminia Bielefeld,2-0,1-0
+27,1981-04-04,VfB Stuttgart,FC Schalke 04,3-0,1-0
+27,1981-04-04,Hamburger SV,Fortuna Düsseldorf,2-1,0-0
+27,1981-04-04,TSV 1860 München,Borussia Dortmund,0-1,0-0
+27,1981-04-14,1. FC Kaiserslautern,Eintracht Frankfurt,2-0,0-0
+28,1981-04-10,Borussia Dortmund,VfL Bochum,1-3,0-2
+28,1981-04-11,Fortuna Düsseldorf,TSV 1860 München,2-1,1-1
+28,1981-04-11,FC Schalke 04,Hamburger SV,2-1,1-0
+28,1981-04-11,Arminia Bielefeld,VfB Stuttgart,1-0,0-0
+28,1981-04-11,Eintracht Frankfurt,1. FC Köln,4-0,2-0
+28,1981-04-11,Bor. Mönchengladbach,1. FC Kaiserslautern,1-0,0-0
+28,1981-04-11,Bayer 05 Uerdingen,1. FC Nürnberg,3-2,2-1
+28,1981-04-11,Bayern München,MSV Duisburg,5-1,2-1
+28,1981-04-11,Bayer Leverkusen,Karlsruher SC,3-0,2-0
+29,1981-04-16,1. FC Nürnberg,Bayern München,0-1,0-0
+29,1981-04-16,Hamburger SV,Arminia Bielefeld,4-1,2-0
+29,1981-04-16,VfL Bochum,Fortuna Düsseldorf,2-1,1-1
+29,1981-04-16,MSV Duisburg,Borussia Dortmund,2-1,0-1
+29,1981-04-18,1. FC Köln,Bor. Mönchengladbach,2-3,0-1
+29,1981-04-18,Karlsruher SC,Eintracht Frankfurt,1-1,0-1
+29,1981-04-18,VfB Stuttgart,Bayer Leverkusen,2-1,1-1
+29,1981-04-18,TSV 1860 München,FC Schalke 04,3-1,2-0
+29,1981-04-18,1. FC Kaiserslautern,Bayer 05 Uerdingen,4-2,2-1
+30,1981-05-08,Bor. Mönchengladbach,Eintracht Frankfurt,2-2,0-2
+30,1981-05-08,Fortuna Düsseldorf,MSV Duisburg,0-1,0-1
+30,1981-05-09,Arminia Bielefeld,TSV 1860 München,3-2,1-1
+30,1981-05-09,Bayer Leverkusen,Hamburger SV,1-2,1-1
+30,1981-05-09,Bayer 05 Uerdingen,1. FC Köln,0-1,0-0
+30,1981-05-09,Bayern München,1. FC Kaiserslautern,3-0,1-0
+30,1981-05-09,Borussia Dortmund,1. FC Nürnberg,1-0,0-0
+30,1981-05-09,FC Schalke 04,VfL Bochum,0-6,0-2
+30,1981-05-09,VfB Stuttgart,Karlsruher SC,5-2,4-1
+31,1981-05-15,Karlsruher SC,Bor. Mönchengladbach,3-4,1-1
+31,1981-05-15,MSV Duisburg,FC Schalke 04,5-1,1-1
+31,1981-05-15,1. FC Kaiserslautern,Borussia Dortmund,1-1,0-1
+31,1981-05-16,1. FC Köln,Bayern München,0-3,0-2
+31,1981-05-16,Hamburger SV,VfB Stuttgart,1-3,0-2
+31,1981-05-16,TSV 1860 München,Bayer Leverkusen,1-0,0-0
+31,1981-05-16,VfL Bochum,Arminia Bielefeld,0-2,0-1
+31,1981-05-16,1. FC Nürnberg,Fortuna Düsseldorf,2-1,0-0
+31,1981-05-16,Eintracht Frankfurt,Bayer 05 Uerdingen,2-2,1-1
+32,1981-05-29,Fortuna Düsseldorf,1. FC Kaiserslautern,0-2,0-0
+32,1981-05-29,Bayer Leverkusen,VfL Bochum,2-0,1-0
+32,1981-05-30,VfB Stuttgart,TSV 1860 München,2-1,0-1
+32,1981-05-30,Karlsruher SC,Hamburger SV,1-1,0-0
+32,1981-05-30,Bayern München,Eintracht Frankfurt,7-2,0-0
+32,1981-05-30,Borussia Dortmund,1. FC Köln,2-2,1-1
+32,1981-05-30,FC Schalke 04,1. FC Nürnberg,1-1,1-1
+32,1981-05-30,Arminia Bielefeld,MSV Duisburg,2-1,1-1
+32,1981-05-30,Bor. Mönchengladbach,Bayer 05 Uerdingen,7-1,4-0
+33,1981-06-06,Bor. Mönchengladbach,Bayern München,1-4,0-1
+33,1981-06-06,TSV 1860 München,Hamburger SV,0-0,0-0
+33,1981-06-06,VfL Bochum,VfB Stuttgart,1-1,0-1
+33,1981-06-06,MSV Duisburg,Bayer Leverkusen,2-4,0-2
+33,1981-06-06,1. FC Nürnberg,Arminia Bielefeld,2-0,1-0
+33,1981-06-06,1. FC Kaiserslautern,FC Schalke 04,2-0,1-0
+33,1981-06-06,1. FC Köln,Fortuna Düsseldorf,1-2,0-1
+33,1981-06-06,Eintracht Frankfurt,Borussia Dortmund,0-4,0-4
+33,1981-06-06,Bayer 05 Uerdingen,Karlsruher SC,0-3,0-1
+34,1981-06-13,Karlsruher SC,TSV 1860 München,7-2,1-1
+34,1981-06-13,Borussia Dortmund,Bor. Mönchengladbach,0-3,0-1
+34,1981-06-13,Fortuna Düsseldorf,Eintracht Frankfurt,2-2,1-1
+34,1981-06-13,FC Schalke 04,1. FC Köln,1-2,0-2
+34,1981-06-13,Arminia Bielefeld,1. FC Kaiserslautern,0-1,0-0
+34,1981-06-13,Bayer Leverkusen,1. FC Nürnberg,1-1,0-0
+34,1981-06-13,VfB Stuttgart,MSV Duisburg,2-0,0-0
+34,1981-06-13,Hamburger SV,VfL Bochum,2-1,0-1
+34,1981-06-13,Bayern München,Bayer 05 Uerdingen,4-0,0-0

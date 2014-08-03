@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,Team 2,FT,HT
-1,2010-08-20,20:30,Bayern München,VfL Wolfsburg,2-1,1-0
-1,2010-08-21,15:30,1899 Hoffenheim,Werder Bremen,4-1,4-1
-1,2010-08-21,15:30,Bor. Mönchengladbach,1. FC Nürnberg,1-1,1-1
-1,2010-08-21,15:30,1. FC Köln,1. FC Kaiserslautern,1-3,1-0
-1,2010-08-21,15:30,SC Freiburg,FC St. Pauli,1-3,0-0
-1,2010-08-21,15:30,Hannover 96,Eintracht Frankfurt,2-1,1-1
-1,2010-08-21,18:30,Hamburger SV,FC Schalke 04,2-1,0-0
-1,2010-08-22,15:30,1. FSV Mainz 05,VfB Stuttgart,2-0,1-0
-1,2010-08-22,17:30,Borussia Dortmund,Bayer Leverkusen,0-2,0-2
-2,2010-08-27,20:30,1. FC Kaiserslautern,Bayern München,2-0,2-0
-2,2010-08-28,15:30,FC Schalke 04,Hannover 96,1-2,0-1
-2,2010-08-28,15:30,Werder Bremen,1. FC Köln,4-2,2-1
-2,2010-08-28,15:30,VfL Wolfsburg,1. FSV Mainz 05,3-4,3-1
-2,2010-08-28,15:30,Eintracht Frankfurt,Hamburger SV,1-3,1-0
-2,2010-08-28,15:30,1. FC Nürnberg,SC Freiburg,1-2,1-1
-2,2010-08-28,18:30,FC St. Pauli,1899 Hoffenheim,0-1,0-0
-2,2010-08-29,15:30,Bayer Leverkusen,Bor. Mönchengladbach,3-6,1-3
-2,2010-08-29,17:30,VfB Stuttgart,Borussia Dortmund,1-3,0-3
-3,2010-09-10,20:30,1899 Hoffenheim,FC Schalke 04,2-0,1-0
-3,2010-09-11,15:30,Borussia Dortmund,VfL Wolfsburg,2-0,0-0
-3,2010-09-11,15:30,Hamburger SV,1. FC Nürnberg,1-1,0-0
-3,2010-09-11,15:30,Bor. Mönchengladbach,Eintracht Frankfurt,0-4,0-2
-3,2010-09-11,15:30,SC Freiburg,VfB Stuttgart,2-1,0-1
-3,2010-09-11,15:30,Hannover 96,Bayer Leverkusen,2-2,1-0
-3,2010-09-11,18:30,Bayern München,Werder Bremen,0-0,0-0
-3,2010-09-12,15:30,1. FSV Mainz 05,1. FC Kaiserslautern,2-1,0-1
-3,2010-09-12,17:30,1. FC Köln,FC St. Pauli,1-0,1-0
-4,2010-09-17,20:30,Eintracht Frankfurt,SC Freiburg,0-1,0-0
-4,2010-09-18,15:30,Bayern München,1. FC Köln,0-0,0-0
-4,2010-09-18,15:30,Werder Bremen,1. FSV Mainz 05,0-2,0-0
-4,2010-09-18,15:30,VfB Stuttgart,Bor. Mönchengladbach,7-0,2-0
-4,2010-09-18,15:30,VfL Wolfsburg,Hannover 96,2-0,0-0
-4,2010-09-18,15:30,1. FC Kaiserslautern,1899 Hoffenheim,2-2,0-1
-4,2010-09-19,15:30,FC St. Pauli,Hamburger SV,1-1,0-0
-4,2010-09-19,17:30,FC Schalke 04,Borussia Dortmund,1-3,0-1
-4,2010-09-19,17:30,Bayer Leverkusen,1. FC Nürnberg,0-0,0-0
-5,2010-09-21,20:00,1. FSV Mainz 05,1. FC Köln,2-0,0-0
-5,2010-09-21,20:00,1899 Hoffenheim,Bayern München,1-2,1-0
-5,2010-09-21,20:00,Hannover 96,Werder Bremen,4-1,1-1
-5,2010-09-22,20:00,Bayer Leverkusen,Eintracht Frankfurt,2-1,1-1
-5,2010-09-22,20:00,Borussia Dortmund,1. FC Kaiserslautern,5-0,2-0
-5,2010-09-22,20:00,Hamburger SV,VfL Wolfsburg,1-3,1-1
-5,2010-09-22,20:00,Bor. Mönchengladbach,FC St. Pauli,1-2,1-0
-5,2010-09-22,20:00,SC Freiburg,FC Schalke 04,1-2,0-1
-5,2010-09-22,20:00,1. FC Nürnberg,VfB Stuttgart,2-1,1-0
-6,2010-09-24,20:30,1. FC Köln,1899 Hoffenheim,1-1,1-0
-6,2010-09-25,15:30,Bayern München,1. FSV Mainz 05,1-2,1-1
-6,2010-09-25,15:30,FC Schalke 04,Bor. Mönchengladbach,2-2,0-2
-6,2010-09-25,15:30,VfB Stuttgart,Bayer Leverkusen,1-4,0-2
-6,2010-09-25,15:30,Eintracht Frankfurt,1. FC Nürnberg,2-0,1-0
-6,2010-09-25,15:30,FC St. Pauli,Borussia Dortmund,1-3,1-1
-6,2010-09-25,18:30,Werder Bremen,Hamburger SV,3-2,2-0
-6,2010-09-26,15:30,VfL Wolfsburg,SC Freiburg,2-1,1-1
-6,2010-09-26,17:30,1. FC Kaiserslautern,Hannover 96,0-1,0-1
-7,2010-10-01,20:30,Hannover 96,FC St. Pauli,0-1,0-1
-7,2010-10-02,15:30,Hamburger SV,1. FC Kaiserslautern,2-1,0-1
-7,2010-10-02,15:30,1. FSV Mainz 05,1899 Hoffenheim,4-2,1-1
-7,2010-10-02,15:30,Bor. Mönchengladbach,VfL Wolfsburg,1-1,0-1
-7,2010-10-02,15:30,SC Freiburg,1. FC Köln,3-2,2-1
-7,2010-10-02,15:30,1. FC Nürnberg,FC Schalke 04,2-1,0-0
-7,2010-10-03,15:30,VfB Stuttgart,Eintracht Frankfurt,1-2,0-1
-7,2010-10-03,17:30,Borussia Dortmund,Bayern München,2-0,0-0
-7,2010-10-03,17:45,Bayer Leverkusen,Werder Bremen,2-2,1-0
-8,2010-10-15,20:30,1. FC Köln,Borussia Dortmund,1-2,0-1
-8,2010-10-16,15:30,Bayern München,Hannover 96,3-0,1-0
-8,2010-10-16,15:30,FC Schalke 04,VfB Stuttgart,2-2,1-1
-8,2010-10-16,15:30,Werder Bremen,SC Freiburg,2-1,1-0
-8,2010-10-16,15:30,1. FSV Mainz 05,Hamburger SV,0-1,0-0
-8,2010-10-16,15:30,FC St. Pauli,1. FC Nürnberg,3-2,1-0
-8,2010-10-16,18:30,VfL Wolfsburg,Bayer Leverkusen,2-3,1-0
-8,2010-10-17,15:30,1. FC Kaiserslautern,Eintracht Frankfurt,0-3,0-1
-8,2010-10-17,17:30,1899 Hoffenheim,Bor. Mönchengladbach,3-2,0-1
-9,2010-10-22,20:30,Hamburger SV,Bayern München,0-0,0-0
-9,2010-10-23,15:30,Eintracht Frankfurt,FC Schalke 04,0-0,0-0
-9,2010-10-23,15:30,Bor. Mönchengladbach,Werder Bremen,1-4,0-2
-9,2010-10-23,15:30,SC Freiburg,1. FC Kaiserslautern,2-1,1-1
-9,2010-10-23,15:30,Hannover 96,1. FC Köln,2-1,2-0
-9,2010-10-23,15:30,1. FC Nürnberg,VfL Wolfsburg,2-1,1-1
-9,2010-10-24,15:30,Borussia Dortmund,1899 Hoffenheim,1-1,0-1
-9,2010-10-24,17:30,Bayer Leverkusen,1. FSV Mainz 05,0-1,0-0
-9,2010-10-24,17:30,VfB Stuttgart,FC St. Pauli,2-0,1-0
-10,2010-10-29,20:30,Bayern München,SC Freiburg,4-2,1-0
-10,2010-10-30,15:30,Werder Bremen,1. FC Nürnberg,2-3,1-1
-10,2010-10-30,15:30,VfL Wolfsburg,VfB Stuttgart,2-0,1-0
-10,2010-10-30,15:30,1. FC Köln,Hamburger SV,3-2,2-2
-10,2010-10-30,15:30,1. FC Kaiserslautern,Bor. Mönchengladbach,3-0,0-0
-10,2010-10-30,15:30,FC St. Pauli,Eintracht Frankfurt,1-3,1-1
-10,2010-10-30,18:30,FC Schalke 04,Bayer Leverkusen,0-1,0-0
-10,2010-10-31,15:30,1. FSV Mainz 05,Borussia Dortmund,0-2,0-1
-10,2010-10-31,17:30,1899 Hoffenheim,Hannover 96,4-0,1-0
-11,2010-11-05,20:30,FC Schalke 04,FC St. Pauli,3-0,1-0
-11,2010-11-06,15:30,Hamburger SV,1899 Hoffenheim,2-1,1-1
-11,2010-11-06,15:30,Eintracht Frankfurt,VfL Wolfsburg,3-1,2-0
-11,2010-11-06,15:30,Bor. Mönchengladbach,Bayern München,3-3,1-2
-11,2010-11-06,15:30,SC Freiburg,1. FSV Mainz 05,1-0,0-0
-11,2010-11-06,15:30,1. FC Nürnberg,1. FC Köln,3-1,2-1
-11,2010-11-07,15:30,Hannover 96,Borussia Dortmund,0-4,0-1
-11,2010-11-07,17:30,Bayer Leverkusen,1. FC Kaiserslautern,3-1,1-1
-11,2010-11-07,17:30,VfB Stuttgart,Werder Bremen,6-0,3-0
-12,2010-11-12,20:30,Borussia Dortmund,Hamburger SV,2-0,0-0
-12,2010-11-13,15:30,Werder Bremen,Eintracht Frankfurt,0-0,0-0
-12,2010-11-13,15:30,VfL Wolfsburg,FC Schalke 04,2-2,2-1
-12,2010-11-13,15:30,1. FC Köln,Bor. Mönchengladbach,0-4,0-0
-12,2010-11-13,15:30,1. FC Kaiserslautern,VfB Stuttgart,3-3,0-2
-12,2010-11-13,15:30,FC St. Pauli,Bayer Leverkusen,0-1,0-0
-12,2010-11-13,18:30,1. FSV Mainz 05,Hannover 96,0-1,0-1
-12,2010-11-14,15:30,1899 Hoffenheim,SC Freiburg,0-1,0-0
-12,2010-11-14,17:30,Bayern München,1. FC Nürnberg,3-0,1-0
-13,2010-11-20,15:30,FC Schalke 04,Werder Bremen,4-0,2-0
-13,2010-11-20,15:30,Eintracht Frankfurt,1899 Hoffenheim,0-4,0-1
-13,2010-11-20,15:30,Bor. Mönchengladbach,1. FSV Mainz 05,2-3,0-0
-13,2010-11-20,15:30,SC Freiburg,Borussia Dortmund,1-2,1-0
-13,2010-11-20,15:30,Hannover 96,Hamburger SV,3-2,1-1
-13,2010-11-20,15:30,1. FC Nürnberg,1. FC Kaiserslautern,1-3,0-3
-13,2010-11-20,18:30,Bayer Leverkusen,Bayern München,1-1,1-1
-13,2010-11-21,15:30,VfB Stuttgart,1. FC Köln,0-1,0-0
-13,2010-11-21,17:30,FC St. Pauli,VfL Wolfsburg,1-1,1-0
-14,2010-11-26,20:30,1. FSV Mainz 05,1. FC Nürnberg,3-0,1-0
-14,2010-11-27,15:30,Bayern München,Eintracht Frankfurt,4-1,1-1
-14,2010-11-27,15:30,Hamburger SV,VfB Stuttgart,4-2,3-1
-14,2010-11-27,15:30,1899 Hoffenheim,Bayer Leverkusen,2-2,1-2
-14,2010-11-27,15:30,Hannover 96,SC Freiburg,3-0,1-0
-14,2010-11-27,15:30,1. FC Kaiserslautern,FC Schalke 04,5-0,2-0
-14,2010-11-27,18:30,Borussia Dortmund,Bor. Mönchengladbach,4-1,1-1
-14,2010-11-28,15:30,Werder Bremen,FC St. Pauli,3-0,2-0
-14,2010-11-28,17:30,1. FC Köln,VfL Wolfsburg,1-1,0-0
-15,2010-12-03,20:30,FC St. Pauli,1. FC Kaiserslautern,1-0,0-0
-15,2010-12-04,15:30,VfB Stuttgart,1899 Hoffenheim,1-1,1-1
-15,2010-12-04,15:30,VfL Wolfsburg,Werder Bremen,0-0,0-0
-15,2010-12-04,15:30,Eintracht Frankfurt,1. FSV Mainz 05,2-1,1-1
-15,2010-12-04,15:30,Bor. Mönchengladbach,Hannover 96,1-2,1-0
-15,2010-12-04,15:30,SC Freiburg,Hamburger SV,1-0,1-0
-15,2010-12-04,18:30,FC Schalke 04,Bayern München,2-0,0-0
-15,2010-12-05,15:30,Bayer Leverkusen,1. FC Köln,3-2,1-1
-15,2010-12-05,17:30,1. FC Nürnberg,Borussia Dortmund,0-2,0-1
-16,2010-12-10,20:30,Hannover 96,VfB Stuttgart,2-1,1-0
-16,2010-12-11,15:30,Bayern München,FC St. Pauli,3-0,1-0
-16,2010-12-11,15:30,Hamburger SV,Bayer Leverkusen,2-4,0-1
-16,2010-12-11,15:30,1899 Hoffenheim,1. FC Nürnberg,1-1,0-0
-16,2010-12-11,15:30,1. FC Köln,Eintracht Frankfurt,1-0,0-0
-16,2010-12-11,15:30,1. FC Kaiserslautern,VfL Wolfsburg,0-0,0-0
-16,2010-12-11,18:30,Borussia Dortmund,Werder Bremen,2-0,1-0
-16,2010-12-12,15:30,SC Freiburg,Bor. Mönchengladbach,3-0,2-0
-16,2010-12-12,17:30,1. FSV Mainz 05,FC Schalke 04,0-1,0-1
-17,2010-12-17,20:30,Bor. Mönchengladbach,Hamburger SV,1-2,0-0
-17,2010-12-18,15:30,FC Schalke 04,1. FC Köln,3-0,1-0
-17,2010-12-18,15:30,Werder Bremen,1. FC Kaiserslautern,1-2,1-1
-17,2010-12-18,15:30,VfL Wolfsburg,1899 Hoffenheim,2-2,0-2
-17,2010-12-18,15:30,Eintracht Frankfurt,Borussia Dortmund,1-0,0-0
-17,2010-12-18,15:30,1. FC Nürnberg,Hannover 96,3-1,2-0
-17,2010-12-18,18:30,FC St. Pauli,1. FSV Mainz 05,2-4,1-3
-17,2010-12-19,15:30,Bayer Leverkusen,SC Freiburg,2-2,1-1
-17,2010-12-19,17:30,VfB Stuttgart,Bayern München,3-5,0-3
-18,2011-01-14,20:30,Bayer Leverkusen,Borussia Dortmund,1-3,0-0
-18,2011-01-15,15:30,VfL Wolfsburg,Bayern München,1-1,0-1
-18,2011-01-15,15:30,Werder Bremen,1899 Hoffenheim,2-1,1-0
-18,2011-01-15,15:30,1. FC Nürnberg,Bor. Mönchengladbach,0-1,0-1
-18,2011-01-15,15:30,FC St. Pauli,SC Freiburg,2-2,1-0
-18,2011-01-15,15:30,VfB Stuttgart,1. FSV Mainz 05,1-0,0-0
-18,2011-01-15,18:30,FC Schalke 04,Hamburger SV,0-1,0-0
-18,2011-01-16,15:30,Eintracht Frankfurt,Hannover 96,0-3,0-2
-18,2011-01-16,17:30,1. FC Kaiserslautern,1. FC Köln,1-1,0-1
-19,2011-01-21,20:30,Hamburger SV,Eintracht Frankfurt,1-0,0-0
-19,2011-01-22,15:30,Hannover 96,FC Schalke 04,0-1,0-1
-19,2011-01-22,15:30,Borussia Dortmund,VfB Stuttgart,1-1,1-0
-19,2011-01-22,15:30,1. FSV Mainz 05,VfL Wolfsburg,0-1,0-0
-19,2011-01-22,15:30,SC Freiburg,1. FC Nürnberg,1-1,1-0
-19,2011-01-22,15:30,Bayern München,1. FC Kaiserslautern,5-1,1-0
-19,2011-01-22,18:30,1. FC Köln,Werder Bremen,3-0,2-0
-19,2011-01-23,15:30,Bor. Mönchengladbach,Bayer Leverkusen,1-3,0-2
-19,2011-01-23,17:30,1899 Hoffenheim,FC St. Pauli,2-2,1-0
-20,2011-01-28,20:30,Bayer Leverkusen,Hannover 96,2-0,2-0
-20,2011-01-29,15:30,Werder Bremen,Bayern München,1-3,0-0
-20,2011-01-29,15:30,VfL Wolfsburg,Borussia Dortmund,0-3,0-2
-20,2011-01-29,15:30,1. FC Nürnberg,Hamburger SV,2-0,0-0
-20,2011-01-29,15:30,FC Schalke 04,1899 Hoffenheim,0-1,0-1
-20,2011-01-29,15:30,FC St. Pauli,1. FC Köln,3-0,2-0
-20,2011-01-29,18:30,1. FC Kaiserslautern,1. FSV Mainz 05,0-1,0-1
-20,2011-01-30,15:30,VfB Stuttgart,SC Freiburg,0-1,0-1
-20,2011-01-30,17:30,Eintracht Frankfurt,Bor. Mönchengladbach,0-1,0-0
-21,2011-02-04,20:30,Borussia Dortmund,FC Schalke 04,0-0,0-0
-21,2011-02-05,15:30,1. FC Köln,Bayern München,3-2,0-2
-21,2011-02-05,15:30,1. FSV Mainz 05,Werder Bremen,1-1,1-0
-21,2011-02-05,15:30,1. FC Nürnberg,Bayer Leverkusen,1-0,0-0
-21,2011-02-05,15:30,Hannover 96,VfL Wolfsburg,1-0,1-0
-21,2011-02-05,15:30,1899 Hoffenheim,1. FC Kaiserslautern,3-2,2-0
-21,2011-02-05,18:30,Bor. Mönchengladbach,VfB Stuttgart,2-3,2-0
-21,2011-02-06,17:30,SC Freiburg,Eintracht Frankfurt,0-0,0-0
-21,2011-02-16,18:45,Hamburger SV,FC St. Pauli,0-1,0-0
-22,2011-02-12,15:30,Eintracht Frankfurt,Bayer Leverkusen,0-3,0-2
-22,2011-02-12,15:30,VfL Wolfsburg,Hamburger SV,0-1,0-1
-22,2011-02-12,15:30,Bayern München,1899 Hoffenheim,4-0,2-0
-22,2011-02-12,15:30,FC St. Pauli,Bor. Mönchengladbach,3-1,1-1
-22,2011-02-12,15:30,FC Schalke 04,SC Freiburg,1-0,0-0
-22,2011-02-12,15:30,VfB Stuttgart,1. FC Nürnberg,1-4,1-2
-22,2011-02-12,18:30,1. FC Kaiserslautern,Borussia Dortmund,1-1,0-0
-22,2011-02-13,15:30,1. FC Köln,1. FSV Mainz 05,4-2,2-1
-22,2011-02-13,17:30,Werder Bremen,Hannover 96,1-1,0-1
-23,2011-02-18,20:45,1. FC Nürnberg,Eintracht Frankfurt,3-0,0-0
-23,2011-02-19,15:30,Hamburger SV,Werder Bremen,4-0,1-0
-23,2011-02-19,15:30,SC Freiburg,VfL Wolfsburg,2-1,1-1
-23,2011-02-19,15:30,1899 Hoffenheim,1. FC Köln,1-1,0-0
-23,2011-02-19,15:30,Hannover 96,1. FC Kaiserslautern,3-0,2-0
-23,2011-02-19,15:30,Borussia Dortmund,FC St. Pauli,2-0,1-0
-23,2011-02-19,18:30,1. FSV Mainz 05,Bayern München,1-3,0-1
-23,2011-02-20,15:30,Bayer Leverkusen,VfB Stuttgart,4-2,2-1
-23,2011-02-20,17:30,Bor. Mönchengladbach,FC Schalke 04,2-1,2-1
-24,2011-02-25,20:30,VfL Wolfsburg,Bor. Mönchengladbach,2-1,2-0
-24,2011-02-26,15:30,1. FC Kaiserslautern,Hamburger SV,1-1,1-0
-24,2011-02-26,15:30,1899 Hoffenheim,1. FSV Mainz 05,1-2,0-1
-24,2011-02-26,15:30,1. FC Köln,SC Freiburg,1-0,0-0
-24,2011-02-26,15:30,FC St. Pauli,Hannover 96,0-1,0-0
-24,2011-02-26,15:30,FC Schalke 04,1. FC Nürnberg,1-1,0-1
-24,2011-02-26,18:30,Bayern München,Borussia Dortmund,1-3,1-2
-24,2011-02-27,15:30,Eintracht Frankfurt,VfB Stuttgart,0-2,0-0
-24,2011-02-27,17:30,Werder Bremen,Bayer Leverkusen,2-2,0-1
-25,2011-03-04,20:30,Borussia Dortmund,1. FC Köln,1-0,1-0
-25,2011-03-05,15:30,Hannover 96,Bayern München,3-1,1-0
-25,2011-03-05,15:30,VfB Stuttgart,FC Schalke 04,1-0,1-0
-25,2011-03-05,15:30,Bor. Mönchengladbach,1899 Hoffenheim,2-0,0-0
-25,2011-03-05,15:30,1. FC Nürnberg,FC St. Pauli,5-0,3-0
-25,2011-03-05,15:45,Eintracht Frankfurt,1. FC Kaiserslautern,0-0,0-0
-25,2011-03-05,18:30,Bayer Leverkusen,VfL Wolfsburg,3-0,3-0
-25,2011-03-06,15:30,SC Freiburg,Werder Bremen,1-3,0-1
-25,2011-03-06,17:30,Hamburger SV,1. FSV Mainz 05,2-4,1-0
-26,2011-03-11,20:30,1. FC Köln,Hannover 96,4-0,1-0
-26,2011-03-12,15:30,1899 Hoffenheim,Borussia Dortmund,1-0,0-0
-26,2011-03-12,15:30,Bayern München,Hamburger SV,6-0,1-0
-26,2011-03-12,15:30,FC Schalke 04,Eintracht Frankfurt,2-1,1-0
-26,2011-03-12,15:30,1. FC Kaiserslautern,SC Freiburg,2-1,1-1
-26,2011-03-12,15:30,VfL Wolfsburg,1. FC Nürnberg,1-2,1-1
-26,2011-03-12,18:30,Werder Bremen,Bor. Mönchengladbach,1-1,1-0
-26,2011-03-13,15:30,1. FSV Mainz 05,Bayer Leverkusen,0-1,0-0
-26,2011-03-13,17:30,FC St. Pauli,VfB Stuttgart,1-2,1-1
-27,2011-03-18,20:30,Bor. Mönchengladbach,1. FC Kaiserslautern,0-1,0-0
-27,2011-03-19,15:30,SC Freiburg,Bayern München,1-2,1-1
-27,2011-03-19,15:30,1. FC Nürnberg,Werder Bremen,1-3,1-1
-27,2011-03-19,15:30,Hannover 96,1899 Hoffenheim,2-0,1-0
-27,2011-03-19,15:30,Hamburger SV,1. FC Köln,6-2,4-0
-27,2011-03-19,15:30,Eintracht Frankfurt,FC St. Pauli,2-1,1-1
-27,2011-03-19,18:30,Borussia Dortmund,1. FSV Mainz 05,1-1,1-0
-27,2011-03-20,15:30,Bayer Leverkusen,FC Schalke 04,2-0,2-0
-27,2011-03-20,17:30,VfB Stuttgart,VfL Wolfsburg,1-1,0-1
-28,2011-04-01,20:30,FC St. Pauli,FC Schalke 04,0-2,0-1
-28,2011-04-02,15:30,1. FC Kaiserslautern,Bayer Leverkusen,0-1,0-0
-28,2011-04-02,15:30,Werder Bremen,VfB Stuttgart,1-1,1-1
-28,2011-04-02,15:30,Bayern München,Bor. Mönchengladbach,1-0,0-0
-28,2011-04-02,15:30,1. FSV Mainz 05,SC Freiburg,1-1,0-1
-28,2011-04-02,15:30,Borussia Dortmund,Hannover 96,4-1,0-0
-28,2011-04-02,18:30,1899 Hoffenheim,Hamburger SV,0-0,0-0
-28,2011-04-03,15:30,1. FC Köln,1. FC Nürnberg,1-0,0-0
-28,2011-04-03,17:30,VfL Wolfsburg,Eintracht Frankfurt,1-1,0-0
-29,2011-04-08,20:30,Eintracht Frankfurt,Werder Bremen,1-1,0-0
-29,2011-04-09,15:30,1. FC Nürnberg,Bayern München,1-1,0-1
-29,2011-04-09,15:30,Hamburger SV,Borussia Dortmund,1-1,1-0
-29,2011-04-09,15:30,FC Schalke 04,VfL Wolfsburg,1-0,0-0
-29,2011-04-09,15:30,Hannover 96,1. FSV Mainz 05,2-0,1-0
-29,2011-04-09,15:30,SC Freiburg,1899 Hoffenheim,3-2,1-2
-29,2011-04-09,18:30,VfB Stuttgart,1. FC Kaiserslautern,2-4,2-1
-29,2011-04-10,15:30,Bor. Mönchengladbach,1. FC Köln,5-1,3-0
-29,2011-04-10,17:30,Bayer Leverkusen,FC St. Pauli,2-1,0-0
-30,2011-04-15,20:30,1. FSV Mainz 05,Bor. Mönchengladbach,1-0,0-0
-30,2011-04-16,15:30,1. FC Köln,VfB Stuttgart,1-3,0-0
-30,2011-04-16,15:30,1899 Hoffenheim,Eintracht Frankfurt,1-0,0-0
-30,2011-04-16,15:30,Hamburger SV,Hannover 96,0-0,0-0
-30,2011-04-16,15:30,1. FC Kaiserslautern,1. FC Nürnberg,0-2,0-1
-30,2011-04-16,15:30,VfL Wolfsburg,FC St. Pauli,2-2,1-0
-30,2011-04-16,18:30,Werder Bremen,FC Schalke 04,1-1,0-0
-30,2011-04-17,15:30,Bayern München,Bayer Leverkusen,5-1,4-0
-30,2011-04-17,17:30,Borussia Dortmund,SC Freiburg,3-0,2-0
-31,2011-04-21,20:30,SC Freiburg,Hannover 96,1-3,0-2
-31,2011-04-23,15:30,Eintracht Frankfurt,Bayern München,1-1,0-0
-31,2011-04-23,15:30,FC St. Pauli,Werder Bremen,1-3,1-0
-31,2011-04-23,15:30,VfB Stuttgart,Hamburger SV,3-0,1-0
-31,2011-04-23,15:30,Bayer Leverkusen,1899 Hoffenheim,2-1,1-1
-31,2011-04-23,15:30,FC Schalke 04,1. FC Kaiserslautern,0-1,0-1
-31,2011-04-23,18:30,Bor. Mönchengladbach,Borussia Dortmund,1-0,1-0
-31,2011-04-24,15:30,VfL Wolfsburg,1. FC Köln,4-1,2-1
-31,2011-04-24,17:30,1. FC Nürnberg,1. FSV Mainz 05,0-0,0-0
-32,2011-04-29,20:30,Werder Bremen,VfL Wolfsburg,0-1,0-1
-32,2011-04-29,20:30,1. FC Kaiserslautern,FC St. Pauli,2-0,1-0
-32,2011-04-30,15:30,1. FC Köln,Bayer Leverkusen,2-0,0-0
-32,2011-04-30,15:30,1899 Hoffenheim,VfB Stuttgart,1-2,1-0
-32,2011-04-30,15:30,1. FSV Mainz 05,Eintracht Frankfurt,3-0,3-0
-32,2011-04-30,15:30,Hannover 96,Bor. Mönchengladbach,0-1,0-0
-32,2011-04-30,15:30,Hamburger SV,SC Freiburg,0-2,0-1
-32,2011-04-30,15:30,Borussia Dortmund,1. FC Nürnberg,2-0,2-0
-32,2011-04-30,18:30,Bayern München,FC Schalke 04,4-1,3-1
-33,2011-05-07,15:30,FC St. Pauli,Bayern München,1-8,0-2
-33,2011-05-07,15:30,Werder Bremen,Borussia Dortmund,2-0,1-0
-33,2011-05-07,15:30,Bayer Leverkusen,Hamburger SV,1-1,0-1
-33,2011-05-07,15:30,FC Schalke 04,1. FSV Mainz 05,1-3,0-0
-33,2011-05-07,15:30,1. FC Nürnberg,1899 Hoffenheim,1-2,1-1
-33,2011-05-07,15:30,Eintracht Frankfurt,1. FC Köln,0-2,0-1
-33,2011-05-07,15:30,Bor. Mönchengladbach,SC Freiburg,2-0,0-0
-33,2011-05-07,15:30,VfB Stuttgart,Hannover 96,2-1,0-0
-33,2011-05-07,15:30,VfL Wolfsburg,1. FC Kaiserslautern,1-2,1-2
-34,2011-05-14,15:30,1. FC Köln,FC Schalke 04,2-1,1-0
-34,2011-05-14,15:30,1. FC Kaiserslautern,Werder Bremen,3-2,3-1
-34,2011-05-14,15:30,SC Freiburg,Bayer Leverkusen,0-1,0-1
-34,2011-05-14,15:30,Bayern München,VfB Stuttgart,2-1,1-1
-34,2011-05-14,15:30,1899 Hoffenheim,VfL Wolfsburg,1-3,0-0
-34,2011-05-14,15:30,Borussia Dortmund,Eintracht Frankfurt,3-1,0-0
-34,2011-05-14,15:30,Hamburger SV,Bor. Mönchengladbach,1-1,0-1
-34,2011-05-14,15:30,Hannover 96,1. FC Nürnberg,3-1,1-1
-34,2011-05-14,15:30,1. FSV Mainz 05,FC St. Pauli,2-1,0-1
+Round,Date,Team 1,Team 2,FT,HT
+1,2010-08-20,Bayern München,VfL Wolfsburg,2-1,1-0
+1,2010-08-21,1899 Hoffenheim,Werder Bremen,4-1,4-1
+1,2010-08-21,Bor. Mönchengladbach,1. FC Nürnberg,1-1,1-1
+1,2010-08-21,1. FC Köln,1. FC Kaiserslautern,1-3,1-0
+1,2010-08-21,SC Freiburg,FC St. Pauli,1-3,0-0
+1,2010-08-21,Hannover 96,Eintracht Frankfurt,2-1,1-1
+1,2010-08-21,Hamburger SV,FC Schalke 04,2-1,0-0
+1,2010-08-22,1. FSV Mainz 05,VfB Stuttgart,2-0,1-0
+1,2010-08-22,Borussia Dortmund,Bayer Leverkusen,0-2,0-2
+2,2010-08-27,1. FC Kaiserslautern,Bayern München,2-0,2-0
+2,2010-08-28,FC Schalke 04,Hannover 96,1-2,0-1
+2,2010-08-28,Werder Bremen,1. FC Köln,4-2,2-1
+2,2010-08-28,VfL Wolfsburg,1. FSV Mainz 05,3-4,3-1
+2,2010-08-28,Eintracht Frankfurt,Hamburger SV,1-3,1-0
+2,2010-08-28,1. FC Nürnberg,SC Freiburg,1-2,1-1
+2,2010-08-28,FC St. Pauli,1899 Hoffenheim,0-1,0-0
+2,2010-08-29,Bayer Leverkusen,Bor. Mönchengladbach,3-6,1-3
+2,2010-08-29,VfB Stuttgart,Borussia Dortmund,1-3,0-3
+3,2010-09-10,1899 Hoffenheim,FC Schalke 04,2-0,1-0
+3,2010-09-11,Borussia Dortmund,VfL Wolfsburg,2-0,0-0
+3,2010-09-11,Hamburger SV,1. FC Nürnberg,1-1,0-0
+3,2010-09-11,Bor. Mönchengladbach,Eintracht Frankfurt,0-4,0-2
+3,2010-09-11,SC Freiburg,VfB Stuttgart,2-1,0-1
+3,2010-09-11,Hannover 96,Bayer Leverkusen,2-2,1-0
+3,2010-09-11,Bayern München,Werder Bremen,0-0,0-0
+3,2010-09-12,1. FSV Mainz 05,1. FC Kaiserslautern,2-1,0-1
+3,2010-09-12,1. FC Köln,FC St. Pauli,1-0,1-0
+4,2010-09-17,Eintracht Frankfurt,SC Freiburg,0-1,0-0
+4,2010-09-18,Bayern München,1. FC Köln,0-0,0-0
+4,2010-09-18,Werder Bremen,1. FSV Mainz 05,0-2,0-0
+4,2010-09-18,VfB Stuttgart,Bor. Mönchengladbach,7-0,2-0
+4,2010-09-18,VfL Wolfsburg,Hannover 96,2-0,0-0
+4,2010-09-18,1. FC Kaiserslautern,1899 Hoffenheim,2-2,0-1
+4,2010-09-19,FC St. Pauli,Hamburger SV,1-1,0-0
+4,2010-09-19,FC Schalke 04,Borussia Dortmund,1-3,0-1
+4,2010-09-19,Bayer Leverkusen,1. FC Nürnberg,0-0,0-0
+5,2010-09-21,1. FSV Mainz 05,1. FC Köln,2-0,0-0
+5,2010-09-21,1899 Hoffenheim,Bayern München,1-2,1-0
+5,2010-09-21,Hannover 96,Werder Bremen,4-1,1-1
+5,2010-09-22,Bayer Leverkusen,Eintracht Frankfurt,2-1,1-1
+5,2010-09-22,Borussia Dortmund,1. FC Kaiserslautern,5-0,2-0
+5,2010-09-22,Hamburger SV,VfL Wolfsburg,1-3,1-1
+5,2010-09-22,Bor. Mönchengladbach,FC St. Pauli,1-2,1-0
+5,2010-09-22,SC Freiburg,FC Schalke 04,1-2,0-1
+5,2010-09-22,1. FC Nürnberg,VfB Stuttgart,2-1,1-0
+6,2010-09-24,1. FC Köln,1899 Hoffenheim,1-1,1-0
+6,2010-09-25,Bayern München,1. FSV Mainz 05,1-2,1-1
+6,2010-09-25,FC Schalke 04,Bor. Mönchengladbach,2-2,0-2
+6,2010-09-25,VfB Stuttgart,Bayer Leverkusen,1-4,0-2
+6,2010-09-25,Eintracht Frankfurt,1. FC Nürnberg,2-0,1-0
+6,2010-09-25,FC St. Pauli,Borussia Dortmund,1-3,1-1
+6,2010-09-25,Werder Bremen,Hamburger SV,3-2,2-0
+6,2010-09-26,VfL Wolfsburg,SC Freiburg,2-1,1-1
+6,2010-09-26,1. FC Kaiserslautern,Hannover 96,0-1,0-1
+7,2010-10-01,Hannover 96,FC St. Pauli,0-1,0-1
+7,2010-10-02,Hamburger SV,1. FC Kaiserslautern,2-1,0-1
+7,2010-10-02,1. FSV Mainz 05,1899 Hoffenheim,4-2,1-1
+7,2010-10-02,Bor. Mönchengladbach,VfL Wolfsburg,1-1,0-1
+7,2010-10-02,SC Freiburg,1. FC Köln,3-2,2-1
+7,2010-10-02,1. FC Nürnberg,FC Schalke 04,2-1,0-0
+7,2010-10-03,VfB Stuttgart,Eintracht Frankfurt,1-2,0-1
+7,2010-10-03,Borussia Dortmund,Bayern München,2-0,0-0
+7,2010-10-03,Bayer Leverkusen,Werder Bremen,2-2,1-0
+8,2010-10-15,1. FC Köln,Borussia Dortmund,1-2,0-1
+8,2010-10-16,Bayern München,Hannover 96,3-0,1-0
+8,2010-10-16,FC Schalke 04,VfB Stuttgart,2-2,1-1
+8,2010-10-16,Werder Bremen,SC Freiburg,2-1,1-0
+8,2010-10-16,1. FSV Mainz 05,Hamburger SV,0-1,0-0
+8,2010-10-16,FC St. Pauli,1. FC Nürnberg,3-2,1-0
+8,2010-10-16,VfL Wolfsburg,Bayer Leverkusen,2-3,1-0
+8,2010-10-17,1. FC Kaiserslautern,Eintracht Frankfurt,0-3,0-1
+8,2010-10-17,1899 Hoffenheim,Bor. Mönchengladbach,3-2,0-1
+9,2010-10-22,Hamburger SV,Bayern München,0-0,0-0
+9,2010-10-23,Eintracht Frankfurt,FC Schalke 04,0-0,0-0
+9,2010-10-23,Bor. Mönchengladbach,Werder Bremen,1-4,0-2
+9,2010-10-23,SC Freiburg,1. FC Kaiserslautern,2-1,1-1
+9,2010-10-23,Hannover 96,1. FC Köln,2-1,2-0
+9,2010-10-23,1. FC Nürnberg,VfL Wolfsburg,2-1,1-1
+9,2010-10-24,Borussia Dortmund,1899 Hoffenheim,1-1,0-1
+9,2010-10-24,Bayer Leverkusen,1. FSV Mainz 05,0-1,0-0
+9,2010-10-24,VfB Stuttgart,FC St. Pauli,2-0,1-0
+10,2010-10-29,Bayern München,SC Freiburg,4-2,1-0
+10,2010-10-30,Werder Bremen,1. FC Nürnberg,2-3,1-1
+10,2010-10-30,VfL Wolfsburg,VfB Stuttgart,2-0,1-0
+10,2010-10-30,1. FC Köln,Hamburger SV,3-2,2-2
+10,2010-10-30,1. FC Kaiserslautern,Bor. Mönchengladbach,3-0,0-0
+10,2010-10-30,FC St. Pauli,Eintracht Frankfurt,1-3,1-1
+10,2010-10-30,FC Schalke 04,Bayer Leverkusen,0-1,0-0
+10,2010-10-31,1. FSV Mainz 05,Borussia Dortmund,0-2,0-1
+10,2010-10-31,1899 Hoffenheim,Hannover 96,4-0,1-0
+11,2010-11-05,FC Schalke 04,FC St. Pauli,3-0,1-0
+11,2010-11-06,Hamburger SV,1899 Hoffenheim,2-1,1-1
+11,2010-11-06,Eintracht Frankfurt,VfL Wolfsburg,3-1,2-0
+11,2010-11-06,Bor. Mönchengladbach,Bayern München,3-3,1-2
+11,2010-11-06,SC Freiburg,1. FSV Mainz 05,1-0,0-0
+11,2010-11-06,1. FC Nürnberg,1. FC Köln,3-1,2-1
+11,2010-11-07,Hannover 96,Borussia Dortmund,0-4,0-1
+11,2010-11-07,Bayer Leverkusen,1. FC Kaiserslautern,3-1,1-1
+11,2010-11-07,VfB Stuttgart,Werder Bremen,6-0,3-0
+12,2010-11-12,Borussia Dortmund,Hamburger SV,2-0,0-0
+12,2010-11-13,Werder Bremen,Eintracht Frankfurt,0-0,0-0
+12,2010-11-13,VfL Wolfsburg,FC Schalke 04,2-2,2-1
+12,2010-11-13,1. FC Köln,Bor. Mönchengladbach,0-4,0-0
+12,2010-11-13,1. FC Kaiserslautern,VfB Stuttgart,3-3,0-2
+12,2010-11-13,FC St. Pauli,Bayer Leverkusen,0-1,0-0
+12,2010-11-13,1. FSV Mainz 05,Hannover 96,0-1,0-1
+12,2010-11-14,1899 Hoffenheim,SC Freiburg,0-1,0-0
+12,2010-11-14,Bayern München,1. FC Nürnberg,3-0,1-0
+13,2010-11-20,FC Schalke 04,Werder Bremen,4-0,2-0
+13,2010-11-20,Eintracht Frankfurt,1899 Hoffenheim,0-4,0-1
+13,2010-11-20,Bor. Mönchengladbach,1. FSV Mainz 05,2-3,0-0
+13,2010-11-20,SC Freiburg,Borussia Dortmund,1-2,1-0
+13,2010-11-20,Hannover 96,Hamburger SV,3-2,1-1
+13,2010-11-20,1. FC Nürnberg,1. FC Kaiserslautern,1-3,0-3
+13,2010-11-20,Bayer Leverkusen,Bayern München,1-1,1-1
+13,2010-11-21,VfB Stuttgart,1. FC Köln,0-1,0-0
+13,2010-11-21,FC St. Pauli,VfL Wolfsburg,1-1,1-0
+14,2010-11-26,1. FSV Mainz 05,1. FC Nürnberg,3-0,1-0
+14,2010-11-27,Bayern München,Eintracht Frankfurt,4-1,1-1
+14,2010-11-27,Hamburger SV,VfB Stuttgart,4-2,3-1
+14,2010-11-27,1899 Hoffenheim,Bayer Leverkusen,2-2,1-2
+14,2010-11-27,Hannover 96,SC Freiburg,3-0,1-0
+14,2010-11-27,1. FC Kaiserslautern,FC Schalke 04,5-0,2-0
+14,2010-11-27,Borussia Dortmund,Bor. Mönchengladbach,4-1,1-1
+14,2010-11-28,Werder Bremen,FC St. Pauli,3-0,2-0
+14,2010-11-28,1. FC Köln,VfL Wolfsburg,1-1,0-0
+15,2010-12-03,FC St. Pauli,1. FC Kaiserslautern,1-0,0-0
+15,2010-12-04,VfB Stuttgart,1899 Hoffenheim,1-1,1-1
+15,2010-12-04,VfL Wolfsburg,Werder Bremen,0-0,0-0
+15,2010-12-04,Eintracht Frankfurt,1. FSV Mainz 05,2-1,1-1
+15,2010-12-04,Bor. Mönchengladbach,Hannover 96,1-2,1-0
+15,2010-12-04,SC Freiburg,Hamburger SV,1-0,1-0
+15,2010-12-04,FC Schalke 04,Bayern München,2-0,0-0
+15,2010-12-05,Bayer Leverkusen,1. FC Köln,3-2,1-1
+15,2010-12-05,1. FC Nürnberg,Borussia Dortmund,0-2,0-1
+16,2010-12-10,Hannover 96,VfB Stuttgart,2-1,1-0
+16,2010-12-11,Bayern München,FC St. Pauli,3-0,1-0
+16,2010-12-11,Hamburger SV,Bayer Leverkusen,2-4,0-1
+16,2010-12-11,1899 Hoffenheim,1. FC Nürnberg,1-1,0-0
+16,2010-12-11,1. FC Köln,Eintracht Frankfurt,1-0,0-0
+16,2010-12-11,1. FC Kaiserslautern,VfL Wolfsburg,0-0,0-0
+16,2010-12-11,Borussia Dortmund,Werder Bremen,2-0,1-0
+16,2010-12-12,SC Freiburg,Bor. Mönchengladbach,3-0,2-0
+16,2010-12-12,1. FSV Mainz 05,FC Schalke 04,0-1,0-1
+17,2010-12-17,Bor. Mönchengladbach,Hamburger SV,1-2,0-0
+17,2010-12-18,FC Schalke 04,1. FC Köln,3-0,1-0
+17,2010-12-18,Werder Bremen,1. FC Kaiserslautern,1-2,1-1
+17,2010-12-18,VfL Wolfsburg,1899 Hoffenheim,2-2,0-2
+17,2010-12-18,Eintracht Frankfurt,Borussia Dortmund,1-0,0-0
+17,2010-12-18,1. FC Nürnberg,Hannover 96,3-1,2-0
+17,2010-12-18,FC St. Pauli,1. FSV Mainz 05,2-4,1-3
+17,2010-12-19,Bayer Leverkusen,SC Freiburg,2-2,1-1
+17,2010-12-19,VfB Stuttgart,Bayern München,3-5,0-3
+18,2011-01-14,Bayer Leverkusen,Borussia Dortmund,1-3,0-0
+18,2011-01-15,VfL Wolfsburg,Bayern München,1-1,0-1
+18,2011-01-15,Werder Bremen,1899 Hoffenheim,2-1,1-0
+18,2011-01-15,1. FC Nürnberg,Bor. Mönchengladbach,0-1,0-1
+18,2011-01-15,FC St. Pauli,SC Freiburg,2-2,1-0
+18,2011-01-15,VfB Stuttgart,1. FSV Mainz 05,1-0,0-0
+18,2011-01-15,FC Schalke 04,Hamburger SV,0-1,0-0
+18,2011-01-16,Eintracht Frankfurt,Hannover 96,0-3,0-2
+18,2011-01-16,1. FC Kaiserslautern,1. FC Köln,1-1,0-1
+19,2011-01-21,Hamburger SV,Eintracht Frankfurt,1-0,0-0
+19,2011-01-22,Hannover 96,FC Schalke 04,0-1,0-1
+19,2011-01-22,Borussia Dortmund,VfB Stuttgart,1-1,1-0
+19,2011-01-22,1. FSV Mainz 05,VfL Wolfsburg,0-1,0-0
+19,2011-01-22,SC Freiburg,1. FC Nürnberg,1-1,1-0
+19,2011-01-22,Bayern München,1. FC Kaiserslautern,5-1,1-0
+19,2011-01-22,1. FC Köln,Werder Bremen,3-0,2-0
+19,2011-01-23,Bor. Mönchengladbach,Bayer Leverkusen,1-3,0-2
+19,2011-01-23,1899 Hoffenheim,FC St. Pauli,2-2,1-0
+20,2011-01-28,Bayer Leverkusen,Hannover 96,2-0,2-0
+20,2011-01-29,Werder Bremen,Bayern München,1-3,0-0
+20,2011-01-29,VfL Wolfsburg,Borussia Dortmund,0-3,0-2
+20,2011-01-29,1. FC Nürnberg,Hamburger SV,2-0,0-0
+20,2011-01-29,FC Schalke 04,1899 Hoffenheim,0-1,0-1
+20,2011-01-29,FC St. Pauli,1. FC Köln,3-0,2-0
+20,2011-01-29,1. FC Kaiserslautern,1. FSV Mainz 05,0-1,0-1
+20,2011-01-30,VfB Stuttgart,SC Freiburg,0-1,0-1
+20,2011-01-30,Eintracht Frankfurt,Bor. Mönchengladbach,0-1,0-0
+21,2011-02-04,Borussia Dortmund,FC Schalke 04,0-0,0-0
+21,2011-02-05,1. FC Köln,Bayern München,3-2,0-2
+21,2011-02-05,1. FSV Mainz 05,Werder Bremen,1-1,1-0
+21,2011-02-05,1. FC Nürnberg,Bayer Leverkusen,1-0,0-0
+21,2011-02-05,Hannover 96,VfL Wolfsburg,1-0,1-0
+21,2011-02-05,1899 Hoffenheim,1. FC Kaiserslautern,3-2,2-0
+21,2011-02-05,Bor. Mönchengladbach,VfB Stuttgart,2-3,2-0
+21,2011-02-06,SC Freiburg,Eintracht Frankfurt,0-0,0-0
+21,2011-02-16,Hamburger SV,FC St. Pauli,0-1,0-0
+22,2011-02-12,Eintracht Frankfurt,Bayer Leverkusen,0-3,0-2
+22,2011-02-12,VfL Wolfsburg,Hamburger SV,0-1,0-1
+22,2011-02-12,Bayern München,1899 Hoffenheim,4-0,2-0
+22,2011-02-12,FC St. Pauli,Bor. Mönchengladbach,3-1,1-1
+22,2011-02-12,FC Schalke 04,SC Freiburg,1-0,0-0
+22,2011-02-12,VfB Stuttgart,1. FC Nürnberg,1-4,1-2
+22,2011-02-12,1. FC Kaiserslautern,Borussia Dortmund,1-1,0-0
+22,2011-02-13,1. FC Köln,1. FSV Mainz 05,4-2,2-1
+22,2011-02-13,Werder Bremen,Hannover 96,1-1,0-1
+23,2011-02-18,1. FC Nürnberg,Eintracht Frankfurt,3-0,0-0
+23,2011-02-19,Hamburger SV,Werder Bremen,4-0,1-0
+23,2011-02-19,SC Freiburg,VfL Wolfsburg,2-1,1-1
+23,2011-02-19,1899 Hoffenheim,1. FC Köln,1-1,0-0
+23,2011-02-19,Hannover 96,1. FC Kaiserslautern,3-0,2-0
+23,2011-02-19,Borussia Dortmund,FC St. Pauli,2-0,1-0
+23,2011-02-19,1. FSV Mainz 05,Bayern München,1-3,0-1
+23,2011-02-20,Bayer Leverkusen,VfB Stuttgart,4-2,2-1
+23,2011-02-20,Bor. Mönchengladbach,FC Schalke 04,2-1,2-1
+24,2011-02-25,VfL Wolfsburg,Bor. Mönchengladbach,2-1,2-0
+24,2011-02-26,1. FC Kaiserslautern,Hamburger SV,1-1,1-0
+24,2011-02-26,1899 Hoffenheim,1. FSV Mainz 05,1-2,0-1
+24,2011-02-26,1. FC Köln,SC Freiburg,1-0,0-0
+24,2011-02-26,FC St. Pauli,Hannover 96,0-1,0-0
+24,2011-02-26,FC Schalke 04,1. FC Nürnberg,1-1,0-1
+24,2011-02-26,Bayern München,Borussia Dortmund,1-3,1-2
+24,2011-02-27,Eintracht Frankfurt,VfB Stuttgart,0-2,0-0
+24,2011-02-27,Werder Bremen,Bayer Leverkusen,2-2,0-1
+25,2011-03-04,Borussia Dortmund,1. FC Köln,1-0,1-0
+25,2011-03-05,Hannover 96,Bayern München,3-1,1-0
+25,2011-03-05,VfB Stuttgart,FC Schalke 04,1-0,1-0
+25,2011-03-05,Bor. Mönchengladbach,1899 Hoffenheim,2-0,0-0
+25,2011-03-05,1. FC Nürnberg,FC St. Pauli,5-0,3-0
+25,2011-03-05,Eintracht Frankfurt,1. FC Kaiserslautern,0-0,0-0
+25,2011-03-05,Bayer Leverkusen,VfL Wolfsburg,3-0,3-0
+25,2011-03-06,SC Freiburg,Werder Bremen,1-3,0-1
+25,2011-03-06,Hamburger SV,1. FSV Mainz 05,2-4,1-0
+26,2011-03-11,1. FC Köln,Hannover 96,4-0,1-0
+26,2011-03-12,1899 Hoffenheim,Borussia Dortmund,1-0,0-0
+26,2011-03-12,Bayern München,Hamburger SV,6-0,1-0
+26,2011-03-12,FC Schalke 04,Eintracht Frankfurt,2-1,1-0
+26,2011-03-12,1. FC Kaiserslautern,SC Freiburg,2-1,1-1
+26,2011-03-12,VfL Wolfsburg,1. FC Nürnberg,1-2,1-1
+26,2011-03-12,Werder Bremen,Bor. Mönchengladbach,1-1,1-0
+26,2011-03-13,1. FSV Mainz 05,Bayer Leverkusen,0-1,0-0
+26,2011-03-13,FC St. Pauli,VfB Stuttgart,1-2,1-1
+27,2011-03-18,Bor. Mönchengladbach,1. FC Kaiserslautern,0-1,0-0
+27,2011-03-19,SC Freiburg,Bayern München,1-2,1-1
+27,2011-03-19,1. FC Nürnberg,Werder Bremen,1-3,1-1
+27,2011-03-19,Hannover 96,1899 Hoffenheim,2-0,1-0
+27,2011-03-19,Hamburger SV,1. FC Köln,6-2,4-0
+27,2011-03-19,Eintracht Frankfurt,FC St. Pauli,2-1,1-1
+27,2011-03-19,Borussia Dortmund,1. FSV Mainz 05,1-1,1-0
+27,2011-03-20,Bayer Leverkusen,FC Schalke 04,2-0,2-0
+27,2011-03-20,VfB Stuttgart,VfL Wolfsburg,1-1,0-1
+28,2011-04-01,FC St. Pauli,FC Schalke 04,0-2,0-1
+28,2011-04-02,1. FC Kaiserslautern,Bayer Leverkusen,0-1,0-0
+28,2011-04-02,Werder Bremen,VfB Stuttgart,1-1,1-1
+28,2011-04-02,Bayern München,Bor. Mönchengladbach,1-0,0-0
+28,2011-04-02,1. FSV Mainz 05,SC Freiburg,1-1,0-1
+28,2011-04-02,Borussia Dortmund,Hannover 96,4-1,0-0
+28,2011-04-02,1899 Hoffenheim,Hamburger SV,0-0,0-0
+28,2011-04-03,1. FC Köln,1. FC Nürnberg,1-0,0-0
+28,2011-04-03,VfL Wolfsburg,Eintracht Frankfurt,1-1,0-0
+29,2011-04-08,Eintracht Frankfurt,Werder Bremen,1-1,0-0
+29,2011-04-09,1. FC Nürnberg,Bayern München,1-1,0-1
+29,2011-04-09,Hamburger SV,Borussia Dortmund,1-1,1-0
+29,2011-04-09,FC Schalke 04,VfL Wolfsburg,1-0,0-0
+29,2011-04-09,Hannover 96,1. FSV Mainz 05,2-0,1-0
+29,2011-04-09,SC Freiburg,1899 Hoffenheim,3-2,1-2
+29,2011-04-09,VfB Stuttgart,1. FC Kaiserslautern,2-4,2-1
+29,2011-04-10,Bor. Mönchengladbach,1. FC Köln,5-1,3-0
+29,2011-04-10,Bayer Leverkusen,FC St. Pauli,2-1,0-0
+30,2011-04-15,1. FSV Mainz 05,Bor. Mönchengladbach,1-0,0-0
+30,2011-04-16,1. FC Köln,VfB Stuttgart,1-3,0-0
+30,2011-04-16,1899 Hoffenheim,Eintracht Frankfurt,1-0,0-0
+30,2011-04-16,Hamburger SV,Hannover 96,0-0,0-0
+30,2011-04-16,1. FC Kaiserslautern,1. FC Nürnberg,0-2,0-1
+30,2011-04-16,VfL Wolfsburg,FC St. Pauli,2-2,1-0
+30,2011-04-16,Werder Bremen,FC Schalke 04,1-1,0-0
+30,2011-04-17,Bayern München,Bayer Leverkusen,5-1,4-0
+30,2011-04-17,Borussia Dortmund,SC Freiburg,3-0,2-0
+31,2011-04-21,SC Freiburg,Hannover 96,1-3,0-2
+31,2011-04-23,Eintracht Frankfurt,Bayern München,1-1,0-0
+31,2011-04-23,FC St. Pauli,Werder Bremen,1-3,1-0
+31,2011-04-23,VfB Stuttgart,Hamburger SV,3-0,1-0
+31,2011-04-23,Bayer Leverkusen,1899 Hoffenheim,2-1,1-1
+31,2011-04-23,FC Schalke 04,1. FC Kaiserslautern,0-1,0-1
+31,2011-04-23,Bor. Mönchengladbach,Borussia Dortmund,1-0,1-0
+31,2011-04-24,VfL Wolfsburg,1. FC Köln,4-1,2-1
+31,2011-04-24,1. FC Nürnberg,1. FSV Mainz 05,0-0,0-0
+32,2011-04-29,Werder Bremen,VfL Wolfsburg,0-1,0-1
+32,2011-04-29,1. FC Kaiserslautern,FC St. Pauli,2-0,1-0
+32,2011-04-30,1. FC Köln,Bayer Leverkusen,2-0,0-0
+32,2011-04-30,1899 Hoffenheim,VfB Stuttgart,1-2,1-0
+32,2011-04-30,1. FSV Mainz 05,Eintracht Frankfurt,3-0,3-0
+32,2011-04-30,Hannover 96,Bor. Mönchengladbach,0-1,0-0
+32,2011-04-30,Hamburger SV,SC Freiburg,0-2,0-1
+32,2011-04-30,Borussia Dortmund,1. FC Nürnberg,2-0,2-0
+32,2011-04-30,Bayern München,FC Schalke 04,4-1,3-1
+33,2011-05-07,FC St. Pauli,Bayern München,1-8,0-2
+33,2011-05-07,Werder Bremen,Borussia Dortmund,2-0,1-0
+33,2011-05-07,Bayer Leverkusen,Hamburger SV,1-1,0-1
+33,2011-05-07,FC Schalke 04,1. FSV Mainz 05,1-3,0-0
+33,2011-05-07,1. FC Nürnberg,1899 Hoffenheim,1-2,1-1
+33,2011-05-07,Eintracht Frankfurt,1. FC Köln,0-2,0-1
+33,2011-05-07,Bor. Mönchengladbach,SC Freiburg,2-0,0-0
+33,2011-05-07,VfB Stuttgart,Hannover 96,2-1,0-0
+33,2011-05-07,VfL Wolfsburg,1. FC Kaiserslautern,1-2,1-2
+34,2011-05-14,1. FC Köln,FC Schalke 04,2-1,1-0
+34,2011-05-14,1. FC Kaiserslautern,Werder Bremen,3-2,3-1
+34,2011-05-14,SC Freiburg,Bayer Leverkusen,0-1,0-1
+34,2011-05-14,Bayern München,VfB Stuttgart,2-1,1-1
+34,2011-05-14,1899 Hoffenheim,VfL Wolfsburg,1-3,0-0
+34,2011-05-14,Borussia Dortmund,Eintracht Frankfurt,3-1,0-0
+34,2011-05-14,Hamburger SV,Bor. Mönchengladbach,1-1,0-1
+34,2011-05-14,Hannover 96,1. FC Nürnberg,3-1,1-1
+34,2011-05-14,1. FSV Mainz 05,FC St. Pauli,2-1,0-1
