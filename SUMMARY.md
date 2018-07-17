@@ -1,51 +1,53 @@
 # Summary
 
-25 seasons, 2 levels (1 2), 83 teams in 50 datafiles
+25 seasons, 2 levels (1 2), 78 teams in 50 datafiles
 
 level 1
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
-- 43 teams: Aachen (1) Augsburg (7) Bayern Munich (25) Bielefeld (9) Bochum (12) Braunschweig (1) Cottbus (6) Darmstadt (2) Dortmund (25) Dresden (2) Duisburg (8) Dusseldorf (2) Ein Frankfurt (19) FC Koln (17) Fortuna Dusseldorf (1) Freiburg (18) Greuther Furth (1) Hamburg (25) Hannover (15) Hansa Rostock (11) Hertha (19) Hoffenheim (10) Ingolstadt (2) Kaiserslautern (14) Karlsruhe (7) Leipzig (1) Leverkusen (25) M'Gladbach (1) M'gladbach (21) Mainz (12) Munich 1860 (10) Nurnberg (13) Paderborn (1) RB Leipzig (2) Schalke 04 (25) St Pauli (4) Stuttgart (24) Uerdingen (2) Ulm (1) Unterhaching (2) Wattenscheid (1) Werder Bremen (25) Wolfsburg (21) 
-  - 25 seasons: Bayern Munich, Dortmund, Hamburg, Leverkusen, Schalke 04, Werder Bremen
-  - 24 seasons: Stuttgart
-  - 21 seasons: M'gladbach, Wolfsburg
-  - 19 seasons: Ein Frankfurt, Hertha
-  - 18 seasons: Freiburg
-  - 17 seasons: FC Koln
-  - 15 seasons: Hannover
-  - 14 seasons: Kaiserslautern
-  - 13 seasons: Nurnberg
-  - 12 seasons: Bochum, Mainz
+- 41 teams: 1. FC Kaiserslautern (14) 1. FC Köln (17) 1. FC Nürnberg (13) 1. FSV Mainz 05 (12) Alemannia Aachen (1) Arminia Bielefeld (9) Bayer 04 Leverkusen (25) Bayern München (25) Bor. Mönchengladbach (22) Borussia Dortmund (25) Dynamo Dresden (2) Eintracht Braunschweig (1) Eintracht Frankfurt (19) Energie Cottbus (6) FC Augsburg (7) FC Ingolstadt 04 (2) FC Schalke 04 (25) FC St. Pauli (4) Fortuna Düsseldorf (3) Greuther Fürth (1) Hamburger SV (25) Hannover 96 (15) Hansa Rostock (11) Hertha BSC (19) KFC Uerdingen (2) Karlsruher SC (7) MSV Duisburg (8) RB Leipzig (2) SC Freiburg (18) SC Paderborn 07 (1) SG Wattenscheid 09 (1) SSV Ulm 1846 (1) SV Darmstadt 98 (2) SpVgg Unterhaching (2) TSG 1899 Hoffenheim (10) TSV 1860 München (10) VfB Leipzig (1) VfB Stuttgart (24) VfL Bochum (12) VfL Wolfsburg (21) Werder Bremen (25) 
+  - 25 seasons: Bayer 04 Leverkusen, Bayern München, Borussia Dortmund, FC Schalke 04, Hamburger SV, Werder Bremen
+  - 24 seasons: VfB Stuttgart
+  - 22 seasons: Bor. Mönchengladbach
+  - 21 seasons: VfL Wolfsburg
+  - 19 seasons: Eintracht Frankfurt, Hertha BSC
+  - 18 seasons: SC Freiburg
+  - 17 seasons: 1. FC Köln
+  - 15 seasons: Hannover 96
+  - 14 seasons: 1. FC Kaiserslautern
+  - 13 seasons: 1. FC Nürnberg
+  - 12 seasons: 1. FSV Mainz 05, VfL Bochum
   - 11 seasons: Hansa Rostock
-  - 10 seasons: Hoffenheim, Munich 1860
-  - 9 seasons: Bielefeld
-  - 8 seasons: Duisburg
-  - 7 seasons: Augsburg, Karlsruhe
-  - 6 seasons: Cottbus
-  - 4 seasons: St Pauli
-  - 2 seasons: Darmstadt, Dresden, Dusseldorf, Ingolstadt, RB Leipzig, Uerdingen, Unterhaching
-  - 1 seasons: Aachen, Braunschweig, Fortuna Dusseldorf, Greuther Furth, Leipzig, M'Gladbach, Paderborn, Ulm, Wattenscheid
+  - 10 seasons: TSG 1899 Hoffenheim, TSV 1860 München
+  - 9 seasons: Arminia Bielefeld
+  - 8 seasons: MSV Duisburg
+  - 7 seasons: FC Augsburg, Karlsruher SC
+  - 6 seasons: Energie Cottbus
+  - 4 seasons: FC St. Pauli
+  - 3 seasons: Fortuna Düsseldorf
+  - 2 seasons: Dynamo Dresden, FC Ingolstadt 04, KFC Uerdingen, RB Leipzig, SV Darmstadt 98, SpVgg Unterhaching
+  - 1 seasons: Alemannia Aachen, Eintracht Braunschweig, Greuther Fürth, SC Paderborn 07, SG Wattenscheid 09, SSV Ulm 1846, VfB Leipzig
 
 
 level 2
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
-- 76 teams: Aachen (12) Aalen (3) Ahlen (8) Augsburg (5) Babelsberg (1) Bielefeld (11) Bochum (13) Braunschweig (9) Burghausen (5) CZ Jena (6) Chemnitz (5) Cottbus (11) Darmstadt (2) Dresden (7) Duisburg (14) Dusseldorf (3) Ein Frankfurt (6) Ein Trier (3) Erfurt (1) Erzgebirge Aue (12) Essen (3) F Koln (7) FC Koln (8) FSV Frankfurt (1) Fortuna Dusseldorf (8) Frankfurt FSV (8) Freiburg (7) Greuther Furth (20) Gutersloh (3) Hannover (8) Hansa Rostock (7) Heidenheim (4) Hertha (6) Hoffenheim (1) Holstein Kiel (1) Homburg (2) Ingolstadt (7) Kaiserslautern (11) Karlsruhe (15) Koblenz (4) Leipzig (4) Lubeck (4) M'gladbach (3) Mainz (13) Mannheim (8) Meppen (5) Munich 1860 (14) Nurnberg (11) Oberhausen (10) Offenbach (4) Oldenburg (1) Osnabruck (5) Paderborn (9) RB Leipzig (2) RW Essen (1) Regensburg (3) Reutlingen (3) Saarbrucken (6) Sandhausen (6) Schweinfurt (1) Siegen (1) St Pauli (17) St. Pauli (1) Stuttgart (1) Stuttgarter K (6) TB Berlin (3) Uerdingen (4) Ulm (2) Union Berlin (12) Unterhaching (9) Wattenscheid (4) Wehen (2) Wolfsburg (4) Wuppertaler (1) Wurzburger Kickers (1) Zwickau (4) 
-  - 20 seasons: Greuther Furth
-  - 17 seasons: St Pauli
-  - 15 seasons: Karlsruhe
-  - 14 seasons: Duisburg, Munich 1860
-  - 13 seasons: Bochum, Mainz
-  - 12 seasons: Aachen, Erzgebirge Aue, Union Berlin
-  - 11 seasons: Bielefeld, Cottbus, Kaiserslautern, Nurnberg
-  - 10 seasons: Oberhausen
-  - 9 seasons: Braunschweig, Paderborn, Unterhaching
-  - 8 seasons: Ahlen, FC Koln, Fortuna Dusseldorf, Frankfurt FSV, Hannover, Mannheim
-  - 7 seasons: Dresden, F Koln, Freiburg, Hansa Rostock, Ingolstadt
-  - 6 seasons: CZ Jena, Ein Frankfurt, Hertha, Saarbrucken, Sandhausen, Stuttgarter K
-  - 5 seasons: Augsburg, Burghausen, Chemnitz, Meppen, Osnabruck
-  - 4 seasons: Heidenheim, Koblenz, Leipzig, Lubeck, Offenbach, Uerdingen, Wattenscheid, Wolfsburg, Zwickau
-  - 3 seasons: Aalen, Dusseldorf, Ein Trier, Essen, Gutersloh, M'gladbach, Regensburg, Reutlingen, TB Berlin
-  - 2 seasons: Darmstadt, Homburg, RB Leipzig, Ulm, Wehen
-  - 1 seasons: Babelsberg, Erfurt, FSV Frankfurt, Hoffenheim, Holstein Kiel, Oldenburg, RW Essen, Schweinfurt, Siegen, St. Pauli, Stuttgart, Wuppertaler, Wurzburger Kickers
+- 72 teams: 1. FC Heidenheim (4) 1. FC Kaiserslautern (11) 1. FC Köln (8) 1. FC Nürnberg (11) 1. FC Saarbrücken (6) 1. FC Schweinfurt 05 (1) 1. FC Union Berlin (12) 1. FSV Mainz 05 (13) Alemannia Aachen (12) Arminia Bielefeld (11) Bor. Mönchengladbach (3) Chemnitzer FC (5) Dynamo Dresden (7) Eintracht Braunschweig (9) Eintracht Frankfurt (6) Eintracht Trier (3) Energie Cottbus (11) FC 08 Homburg (2) FC Augsburg (5) FC Carl Zeiss Jena (6) FC Erzgebirge Aue (12) FC Ingolstadt 04 (7) FC Rot-Weiß Erfurt (1) FC St. Pauli (17) FSV Frankfurt (9) FSV Zwickau (4) Fortuna Düsseldorf (11) Fortuna Köln (7) Greuther Fürth (20) Gütersloh (3) Hannover 96 (8) Hansa Rostock (7) Hertha BSC (6) Holstein Kiel (1) KFC Uerdingen (4) Karlsruher SC (15) Kickers Offenbach (4) Lübeck (4) MSV Duisburg (14) Osnabrück (5) RB Leipzig (2) Rot Weiss Ahlen (8) Rot-Weiss Essen (4) Rot-Weiß Oberhausen (10) SC Freiburg (7) SC Paderborn 07 (9) SG Wattenscheid 09 (4) SSV Jahn Regensburg (3) SSV Reutlingen 05 (3) SSV Ulm 1846 (2) SV Babelsberg 03 (1) SV Darmstadt 98 (2) SV Meppen (5) SV Sandhausen (6) SV Wehen Wiesbaden (2) SpVgg Unterhaching (9) Sportfreunde Siegen (1) Stuttgarter Kickers (6) TSG 1899 Hoffenheim (1) TSV 1860 München (14) Tennis Borussia Berlin (3) TuS Koblenz (4) VfB Leipzig (4) VfB Oldenburg (1) VfB Stuttgart (1) VfL Bochum (13) VfL Wolfsburg (4) VfR Aalen (3) VfR Mannheim (8) Wacker Burghausen (5) Wuppertaler SV (1) Würzburger Kickers (1) 
+  - 20 seasons: Greuther Fürth
+  - 17 seasons: FC St. Pauli
+  - 15 seasons: Karlsruher SC
+  - 14 seasons: MSV Duisburg, TSV 1860 München
+  - 13 seasons: 1. FSV Mainz 05, VfL Bochum
+  - 12 seasons: 1. FC Union Berlin, Alemannia Aachen, FC Erzgebirge Aue
+  - 11 seasons: 1. FC Kaiserslautern, 1. FC Nürnberg, Arminia Bielefeld, Energie Cottbus, Fortuna Düsseldorf
+  - 10 seasons: Rot-Weiß Oberhausen
+  - 9 seasons: Eintracht Braunschweig, FSV Frankfurt, SC Paderborn 07, SpVgg Unterhaching
+  - 8 seasons: 1. FC Köln, Hannover 96, Rot Weiss Ahlen, VfR Mannheim
+  - 7 seasons: Dynamo Dresden, FC Ingolstadt 04, Fortuna Köln, Hansa Rostock, SC Freiburg
+  - 6 seasons: 1. FC Saarbrücken, Eintracht Frankfurt, FC Carl Zeiss Jena, Hertha BSC, SV Sandhausen, Stuttgarter Kickers
+  - 5 seasons: Chemnitzer FC, FC Augsburg, Osnabrück, SV Meppen, Wacker Burghausen
+  - 4 seasons: 1. FC Heidenheim, FSV Zwickau, KFC Uerdingen, Kickers Offenbach, Lübeck, Rot-Weiss Essen, SG Wattenscheid 09, TuS Koblenz, VfB Leipzig, VfL Wolfsburg
+  - 3 seasons: Bor. Mönchengladbach, Eintracht Trier, Gütersloh, SSV Jahn Regensburg, SSV Reutlingen 05, Tennis Borussia Berlin, VfR Aalen
+  - 2 seasons: FC 08 Homburg, RB Leipzig, SSV Ulm 1846, SV Darmstadt 98, SV Wehen Wiesbaden
+  - 1 seasons: 1. FC Schweinfurt 05, FC Rot-Weiß Erfurt, Holstein Kiel, SV Babelsberg 03, Sportfreunde Siegen, TSG 1899 Hoffenheim, VfB Oldenburg, VfB Stuttgart, Wuppertaler SV, Würzburger Kickers
 
 
 level 1 - 25 seasons:
@@ -86,7 +88,7 @@ level 2 - 25 seasons:
 - [`2011-12/2-bundesliga2.csv`](2011-12/2-bundesliga2.csv) =>  18 teams,  306 matches,  855 goals,  34 rounds,  Fri 15 Jul 2011 - Sun 06 May 2012
 - [`2010-11/2-bundesliga2.csv`](2010-11/2-bundesliga2.csv) =>  18 teams,  306 matches,  835 goals,  34 rounds,  Fri 20 Aug 2010 - Sun 15 May 2011
 - [`2009-10/2-bundesliga2.csv`](2009-10/2-bundesliga2.csv) =>  18 teams,  306 matches,  809 goals,  34 rounds,  Fri 07 Aug 2009 - Sun 09 May 2010
-- [`2008-09/2-bundesliga2.csv`](2008-09/2-bundesliga2.csv) =>  19 teams,  306 matches,  852 goals,  **WARN - unbalanced rounds - fix/double check?!** Fri 15 Aug 2008 - Sun 24 May 2009
+- [`2008-09/2-bundesliga2.csv`](2008-09/2-bundesliga2.csv) =>  18 teams,  306 matches,  852 goals,  34 rounds,  Fri 15 Aug 2008 - Sun 24 May 2009
 - [`2007-08/2-bundesliga2.csv`](2007-08/2-bundesliga2.csv) =>  18 teams,  306 matches,  872 goals,  34 rounds,  Fri 10 Aug 2007 - Sun 18 May 2008
 - [`2006-07/2-bundesliga2.csv`](2006-07/2-bundesliga2.csv) =>  18 teams,  306 matches,  804 goals,  34 rounds,  Fri 11 Aug 2006 - Sun 20 May 2007
 - [`2005-06/2-bundesliga2.csv`](2005-06/2-bundesliga2.csv) =>  18 teams,  306 matches,  794 goals,  34 rounds,  Sat 06 Aug 2005 - Sun 14 May 2006
@@ -106,272 +108,273 @@ level 2 - 25 seasons:
 
 2017-18 - 2 levels (1 2)
   - 1: [`2017-18/1-bundesliga.csv`](2017-18/1-bundesliga.csv) -  18 teams,  306 matches,  855 goals,  34 rounds,  Fri 18 Aug 2017 - Sat 12 May 2018
-    - Augsburg, Bayern Munich, Dortmund, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Hannover, Hertha, Hoffenheim, Leverkusen, M'gladbach, Mainz, RB Leipzig, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2017-18: (2) Hannover, Stuttgart
-      - (--) out down: (2) Darmstadt, Ingolstadt
+    - 1. FC Köln, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Augsburg, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, RB Leipzig, SC Freiburg, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2017-18: (2) Hannover 96, VfB Stuttgart
+      - (--) out down: (2) FC Ingolstadt 04, SV Darmstadt 98
 
   - 2: [`2017-18/2-bundesliga2.csv`](2017-18/2-bundesliga2.csv) -  18 teams,  306 matches,  843 goals,  34 rounds,  Fri 28 Jul 2017 - Sun 13 May 2018
-    - Bielefeld, Bochum, Braunschweig, Darmstadt, Dresden, Duisburg, Erzgebirge Aue, Fortuna Dusseldorf, Greuther Furth, Heidenheim, Holstein Kiel, Ingolstadt, Kaiserslautern, Nurnberg, Regensburg, Sandhausen, St Pauli, Union Berlin
-      - (++) new in season 2017-18: (5) Darmstadt, Duisburg, Holstein Kiel, Ingolstadt, Regensburg
-      - (--) out up/down: (5) Hannover, Karlsruhe, Munich 1860, Stuttgart, Wurzburger Kickers
+    - 1. FC Heidenheim, 1. FC Kaiserslautern, 1. FC Nürnberg, 1. FC Union Berlin, Arminia Bielefeld, Dynamo Dresden, Eintracht Braunschweig, FC Erzgebirge Aue, FC Ingolstadt 04, FC St. Pauli, Fortuna Düsseldorf, Greuther Fürth, Holstein Kiel, MSV Duisburg, SSV Jahn Regensburg, SV Darmstadt 98, SV Sandhausen, VfL Bochum
+      - (++) new in season 2017-18: (5) FC Ingolstadt 04, Holstein Kiel, MSV Duisburg, SSV Jahn Regensburg, SV Darmstadt 98
+      - (--) out up/down: (5) Hannover 96, Karlsruher SC, TSV 1860 München, VfB Stuttgart, Würzburger Kickers
 
 2016-17 - 2 levels (1 2)
   - 1: [`2016-17/1-bundesliga.csv`](2016-17/1-bundesliga.csv) -  18 teams,  306 matches,  877 goals,  34 rounds,  Fri 26 Aug 2016 - Sat 20 May 2017
-    - Augsburg, Bayern Munich, Darmstadt, Dortmund, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Hertha, Hoffenheim, Ingolstadt, Leverkusen, M'gladbach, Mainz, RB Leipzig, Schalke 04, Werder Bremen, Wolfsburg
-      - (++) new in season 2016-17: (2) Freiburg, RB Leipzig
-      - (--) out down: (2) Hannover, Stuttgart
+    - 1. FC Köln, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Augsburg, FC Ingolstadt 04, FC Schalke 04, Hamburger SV, Hertha BSC, RB Leipzig, SC Freiburg, SV Darmstadt 98, TSG 1899 Hoffenheim, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2016-17: (2) RB Leipzig, SC Freiburg
+      - (--) out down: (2) Hannover 96, VfB Stuttgart
 
   - 2: [`2016-17/2-bundesliga2.csv`](2016-17/2-bundesliga2.csv) -  18 teams,  306 matches,  761 goals,  34 rounds,  Fri 5 Aug 2016 - Sun 21 May 2017
-    - Bielefeld, Bochum, Braunschweig, Dresden, Erzgebirge Aue, Fortuna Dusseldorf, Greuther Furth, Hannover, Heidenheim, Kaiserslautern, Karlsruhe, Munich 1860, Nurnberg, Sandhausen, St Pauli, Stuttgart, Union Berlin, Wurzburger Kickers
-      - (++) new in season 2016-17: (5) Dresden, Erzgebirge Aue, Hannover, Stuttgart, Wurzburger Kickers
-      - (--) out up/down: (5) Duisburg, Frankfurt FSV, Freiburg, Paderborn, RB Leipzig
+    - 1. FC Heidenheim, 1. FC Kaiserslautern, 1. FC Nürnberg, 1. FC Union Berlin, Arminia Bielefeld, Dynamo Dresden, Eintracht Braunschweig, FC Erzgebirge Aue, FC St. Pauli, Fortuna Düsseldorf, Greuther Fürth, Hannover 96, Karlsruher SC, SV Sandhausen, TSV 1860 München, VfB Stuttgart, VfL Bochum, Würzburger Kickers
+      - (++) new in season 2016-17: (5) Dynamo Dresden, FC Erzgebirge Aue, Hannover 96, VfB Stuttgart, Würzburger Kickers
+      - (--) out up/down: (5) FSV Frankfurt, MSV Duisburg, RB Leipzig, SC Freiburg, SC Paderborn 07
 
 2015-16 - 2 levels (1 2)
   - 1: [`2015-16/1-bundesliga.csv`](2015-16/1-bundesliga.csv) -  18 teams,  306 matches,  866 goals,  34 rounds,  Fri 14 Aug 2015 - Sat 14 May 2016
-    - Augsburg, Bayern Munich, Darmstadt, Dortmund, Ein Frankfurt, FC Koln, Hamburg, Hannover, Hertha, Hoffenheim, Ingolstadt, Leverkusen, M'gladbach, Mainz, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2015-16: (2) Darmstadt, Ingolstadt
-      - (--) out down: (2) Freiburg, Paderborn
+    - 1. FC Köln, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Augsburg, FC Ingolstadt 04, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, SV Darmstadt 98, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2015-16: (2) FC Ingolstadt 04, SV Darmstadt 98
+      - (--) out down: (2) SC Freiburg, SC Paderborn 07
 
   - 2: [`2015-16/2-bundesliga2.csv`](2015-16/2-bundesliga2.csv) -  18 teams,  306 matches,  808 goals,  34 rounds,  Fri 24 Jul 2015 - Sun 15 May 2016
-    - Bielefeld, Bochum, Braunschweig, Duisburg, Fortuna Dusseldorf, Frankfurt FSV, Freiburg, Greuther Furth, Heidenheim, Kaiserslautern, Karlsruhe, Munich 1860, Nurnberg, Paderborn, RB Leipzig, Sandhausen, St Pauli, Union Berlin
-      - (++) new in season 2015-16: (4) Bielefeld, Duisburg, Freiburg, Paderborn
-      - (--) out up/down: (4) Aalen, Darmstadt, Erzgebirge Aue, Ingolstadt
+    - 1. FC Heidenheim, 1. FC Kaiserslautern, 1. FC Nürnberg, 1. FC Union Berlin, Arminia Bielefeld, Eintracht Braunschweig, FC St. Pauli, FSV Frankfurt, Fortuna Düsseldorf, Greuther Fürth, Karlsruher SC, MSV Duisburg, RB Leipzig, SC Freiburg, SC Paderborn 07, SV Sandhausen, TSV 1860 München, VfL Bochum
+      - (++) new in season 2015-16: (4) Arminia Bielefeld, MSV Duisburg, SC Freiburg, SC Paderborn 07
+      - (--) out up/down: (4) FC Erzgebirge Aue, FC Ingolstadt 04, SV Darmstadt 98, VfR Aalen
 
 2014-15 - 2 levels (1 2)
   - 1: [`2014-15/1-bundesliga.csv`](2014-15/1-bundesliga.csv) -  18 teams,  306 matches,  843 goals,  34 rounds,  Fri 22 Aug 2014 - Sat 23 May 2015
-    - Augsburg, Bayern Munich, Dortmund, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Hannover, Hertha, Hoffenheim, Leverkusen, M'gladbach, Mainz, Paderborn, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2014-15: (2) FC Koln, Paderborn
-      - (--) out down: (2) Braunschweig, Nurnberg
+    - 1. FC Köln, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Augsburg, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, SC Freiburg, SC Paderborn 07, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2014-15: (2) 1. FC Köln, SC Paderborn 07
+      - (--) out down: (2) 1. FC Nürnberg, Eintracht Braunschweig
 
   - 2: [`2014-15/2-bundesliga2.csv`](2014-15/2-bundesliga2.csv) -  18 teams,  306 matches,  763 goals,  34 rounds,  Fri 1 Aug 2014 - Sun 24 May 2015
-    - Aalen, Bochum, Braunschweig, Darmstadt, Erzgebirge Aue, Fortuna Dusseldorf, Frankfurt FSV, Greuther Furth, Heidenheim, Ingolstadt, Kaiserslautern, Karlsruhe, Munich 1860, Nurnberg, RB Leipzig, Sandhausen, St Pauli, Union Berlin
-      - (++) new in season 2014-15: (5) Braunschweig, Darmstadt, Heidenheim, Nurnberg, RB Leipzig
-      - (--) out up/down: (5) Bielefeld, Cottbus, Dresden, FC Koln, Paderborn
+    - 1. FC Heidenheim, 1. FC Kaiserslautern, 1. FC Nürnberg, 1. FC Union Berlin, Eintracht Braunschweig, FC Erzgebirge Aue, FC Ingolstadt 04, FC St. Pauli, FSV Frankfurt, Fortuna Düsseldorf, Greuther Fürth, Karlsruher SC, RB Leipzig, SV Darmstadt 98, SV Sandhausen, TSV 1860 München, VfL Bochum, VfR Aalen
+      - (++) new in season 2014-15: (5) 1. FC Heidenheim, 1. FC Nürnberg, Eintracht Braunschweig, RB Leipzig, SV Darmstadt 98
+      - (--) out up/down: (5) 1. FC Köln, Arminia Bielefeld, Dynamo Dresden, Energie Cottbus, SC Paderborn 07
 
 2013-14 - 2 levels (1 2)
   - 1: [`2013-14/1-bundesliga.csv`](2013-14/1-bundesliga.csv) -  18 teams,  306 matches,  967 goals,  34 rounds,  Fri 9 Aug 2013 - Sat 10 May 2014
-    - Augsburg, Bayern Munich, Braunschweig, Dortmund, Ein Frankfurt, Freiburg, Hamburg, Hannover, Hertha, Hoffenheim, Leverkusen, M'gladbach, Mainz, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2013-14: (2) Braunschweig, Hertha
-      - (--) out down: (2) Fortuna Dusseldorf, Greuther Furth
+    - 1. FC Nürnberg, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Braunschweig, Eintracht Frankfurt, FC Augsburg, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, SC Freiburg, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2013-14: (2) Eintracht Braunschweig, Hertha BSC
+      - (--) out down: (2) Fortuna Düsseldorf, Greuther Fürth
 
   - 2: [`2013-14/2-bundesliga2.csv`](2013-14/2-bundesliga2.csv) -  18 teams,  306 matches,  785 goals,  34 rounds,  Fri 19 Jul 2013 - Sun 11 May 2014
-    - Aalen, Bielefeld, Bochum, Cottbus, Dresden, Erzgebirge Aue, FC Koln, Fortuna Dusseldorf, Frankfurt FSV, Greuther Furth, Ingolstadt, Kaiserslautern, Karlsruhe, Munich 1860, Paderborn, Sandhausen, St Pauli, Union Berlin
-      - (++) new in season 2013-14: (4) Bielefeld, Fortuna Dusseldorf, Greuther Furth, Karlsruhe
-      - (--) out up/down: (4) Braunschweig, Duisburg, Hertha, Regensburg
+    - 1. FC Kaiserslautern, 1. FC Köln, 1. FC Union Berlin, Arminia Bielefeld, Dynamo Dresden, Energie Cottbus, FC Erzgebirge Aue, FC Ingolstadt 04, FC St. Pauli, FSV Frankfurt, Fortuna Düsseldorf, Greuther Fürth, Karlsruher SC, SC Paderborn 07, SV Sandhausen, TSV 1860 München, VfL Bochum, VfR Aalen
+      - (++) new in season 2013-14: (4) Arminia Bielefeld, Fortuna Düsseldorf, Greuther Fürth, Karlsruher SC
+      - (--) out up/down: (4) Eintracht Braunschweig, Hertha BSC, MSV Duisburg, SSV Jahn Regensburg
 
 2012-13 - 2 levels (1 2)
   - 1: [`2012-13/1-bundesliga.csv`](2012-13/1-bundesliga.csv) -  18 teams,  306 matches,  898 goals,  34 rounds,  Fri 24 Aug 2012 - Sat 18 May 2013
-    - Augsburg, Bayern Munich, Dortmund, Ein Frankfurt, Fortuna Dusseldorf, Freiburg, Greuther Furth, Hamburg, Hannover, Hoffenheim, Leverkusen, M'gladbach, Mainz, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2012-13: (3) Ein Frankfurt, Fortuna Dusseldorf, Greuther Furth
-      - (--) out down: (3) FC Koln, Hertha, Kaiserslautern
+    - 1. FC Nürnberg, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Augsburg, FC Schalke 04, Fortuna Düsseldorf, Greuther Fürth, Hamburger SV, Hannover 96, SC Freiburg, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2012-13: (3) Eintracht Frankfurt, Fortuna Düsseldorf, Greuther Fürth
+      - (--) out down: (3) 1. FC Kaiserslautern, 1. FC Köln, Hertha BSC
 
   - 2: [`2012-13/2-bundesliga2.csv`](2012-13/2-bundesliga2.csv) -  18 teams,  306 matches,  790 goals,  34 rounds,  Fri 3 Aug 2012 - Sun 19 May 2013
-    - Aalen, Bochum, Braunschweig, Cottbus, Dresden, Duisburg, Erzgebirge Aue, FC Koln, Frankfurt FSV, Hertha, Ingolstadt, Kaiserslautern, Munich 1860, Paderborn, Regensburg, Sandhausen, St Pauli, Union Berlin
-      - (++) new in season 2012-13: (6) Aalen, FC Koln, Hertha, Kaiserslautern, Regensburg, Sandhausen
-      - (--) out up/down: (6) Aachen, Ein Frankfurt, Fortuna Dusseldorf, Greuther Furth, Hansa Rostock, Karlsruhe
+    - 1. FC Kaiserslautern, 1. FC Köln, 1. FC Union Berlin, Dynamo Dresden, Eintracht Braunschweig, Energie Cottbus, FC Erzgebirge Aue, FC Ingolstadt 04, FC St. Pauli, FSV Frankfurt, Hertha BSC, MSV Duisburg, SC Paderborn 07, SSV Jahn Regensburg, SV Sandhausen, TSV 1860 München, VfL Bochum, VfR Aalen
+      - (++) new in season 2012-13: (6) 1. FC Kaiserslautern, 1. FC Köln, Hertha BSC, SSV Jahn Regensburg, SV Sandhausen, VfR Aalen
+      - (--) out up/down: (6) Alemannia Aachen, Eintracht Frankfurt, Fortuna Düsseldorf, Greuther Fürth, Hansa Rostock, Karlsruher SC
 
 2011-12 - 2 levels (1 2)
   - 1: [`2011-12/1-bundesliga.csv`](2011-12/1-bundesliga.csv) -  18 teams,  306 matches,  875 goals,  34 rounds,  Fri 5 Aug 2011 - Sat 5 May 2012
-    - Augsburg, Bayern Munich, Dortmund, FC Koln, Freiburg, Hamburg, Hannover, Hertha, Hoffenheim, Kaiserslautern, Leverkusen, M'gladbach, Mainz, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2011-12: (2) Augsburg, Hertha
-      - (--) out down: (2) Ein Frankfurt, St Pauli
+    - 1. FC Kaiserslautern, 1. FC Köln, 1. FC Nürnberg, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, FC Augsburg, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, SC Freiburg, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2011-12: (2) FC Augsburg, Hertha BSC
+      - (--) out down: (2) Eintracht Frankfurt, FC St. Pauli
 
   - 2: [`2011-12/2-bundesliga2.csv`](2011-12/2-bundesliga2.csv) -  18 teams,  306 matches,  855 goals,  34 rounds,  Fri 15 Jul 2011 - Sun 6 May 2012
-    - Aachen, Bochum, Braunschweig, Cottbus, Dresden, Duisburg, Ein Frankfurt, Erzgebirge Aue, Fortuna Dusseldorf, Frankfurt FSV, Greuther Furth, Hansa Rostock, Ingolstadt, Karlsruhe, Munich 1860, Paderborn, St Pauli, Union Berlin
-      - (++) new in season 2011-12: (5) Braunschweig, Dresden, Ein Frankfurt, Hansa Rostock, St Pauli
-      - (--) out up/down: (5) Augsburg, Bielefeld, Hertha, Oberhausen, Osnabruck
+    - 1. FC Union Berlin, Alemannia Aachen, Dynamo Dresden, Eintracht Braunschweig, Eintracht Frankfurt, Energie Cottbus, FC Erzgebirge Aue, FC Ingolstadt 04, FC St. Pauli, FSV Frankfurt, Fortuna Düsseldorf, Greuther Fürth, Hansa Rostock, Karlsruher SC, MSV Duisburg, SC Paderborn 07, TSV 1860 München, VfL Bochum
+      - (++) new in season 2011-12: (5) Dynamo Dresden, Eintracht Braunschweig, Eintracht Frankfurt, FC St. Pauli, Hansa Rostock
+      - (--) out up/down: (5) Arminia Bielefeld, FC Augsburg, Hertha BSC, Osnabrück, Rot-Weiß Oberhausen
 
 2010-11 - 2 levels (1 2)
   - 1: [`2010-11/1-bundesliga.csv`](2010-11/1-bundesliga.csv) -  18 teams,  306 matches,  894 goals,  34 rounds,  Fri 20 Aug 2010 - Sat 14 May 2011
-    - Bayern Munich, Dortmund, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Hannover, Hoffenheim, Kaiserslautern, Leverkusen, M'gladbach, Mainz, Nurnberg, Schalke 04, St Pauli, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2010-11: (2) Kaiserslautern, St Pauli
-      - (--) out down: (2) Bochum, Hertha
+    - 1. FC Kaiserslautern, 1. FC Köln, 1. FC Nürnberg, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Schalke 04, FC St. Pauli, Hamburger SV, Hannover 96, SC Freiburg, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2010-11: (2) 1. FC Kaiserslautern, FC St. Pauli
+      - (--) out down: (2) Hertha BSC, VfL Bochum
 
   - 2: [`2010-11/2-bundesliga2.csv`](2010-11/2-bundesliga2.csv) -  18 teams,  306 matches,  835 goals,  34 rounds,  Fri 20 Aug 2010 - Sun 15 May 2011
-    - Aachen, Augsburg, Bielefeld, Bochum, Cottbus, Duisburg, Erzgebirge Aue, Fortuna Dusseldorf, Frankfurt FSV, Greuther Furth, Hertha, Ingolstadt, Karlsruhe, Munich 1860, Oberhausen, Osnabruck, Paderborn, Union Berlin
-      - (++) new in season 2010-11: (5) Bochum, Erzgebirge Aue, Hertha, Ingolstadt, Osnabruck
-      - (--) out up/down: (5) Ahlen, Hansa Rostock, Kaiserslautern, Koblenz, St Pauli
+    - 1. FC Union Berlin, Alemannia Aachen, Arminia Bielefeld, Energie Cottbus, FC Augsburg, FC Erzgebirge Aue, FC Ingolstadt 04, FSV Frankfurt, Fortuna Düsseldorf, Greuther Fürth, Hertha BSC, Karlsruher SC, MSV Duisburg, Osnabrück, Rot-Weiß Oberhausen, SC Paderborn 07, TSV 1860 München, VfL Bochum
+      - (++) new in season 2010-11: (5) FC Erzgebirge Aue, FC Ingolstadt 04, Hertha BSC, Osnabrück, VfL Bochum
+      - (--) out up/down: (5) 1. FC Kaiserslautern, FC St. Pauli, Hansa Rostock, Rot Weiss Ahlen, TuS Koblenz
 
 2009-10 - 2 levels (1 2)
   - 1: [`2009-10/1-bundesliga.csv`](2009-10/1-bundesliga.csv) -  18 teams,  306 matches,  866 goals,  34 rounds,  Fri 7 Aug 2009 - Sat 8 May 2010
-    - Bayern Munich, Bochum, Dortmund, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Hannover, Hertha, Hoffenheim, Leverkusen, M'gladbach, Mainz, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2009-10: (3) Freiburg, Mainz, Nurnberg
-      - (--) out down: (3) Bielefeld, Cottbus, Karlsruhe
+    - 1. FC Köln, 1. FC Nürnberg, 1. FSV Mainz 05, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, SC Freiburg, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2009-10: (3) 1. FC Nürnberg, 1. FSV Mainz 05, SC Freiburg
+      - (--) out down: (3) Arminia Bielefeld, Energie Cottbus, Karlsruher SC
 
   - 2: [`2009-10/2-bundesliga2.csv`](2009-10/2-bundesliga2.csv) -  18 teams,  306 matches,  809 goals,  34 rounds,  Fri 7 Aug 2009 - Sun 9 May 2010
-    - Aachen, Ahlen, Augsburg, Bielefeld, Cottbus, Duisburg, Fortuna Dusseldorf, Frankfurt FSV, Greuther Furth, Hansa Rostock, Kaiserslautern, Karlsruhe, Koblenz, Munich 1860, Oberhausen, Paderborn, St Pauli, Union Berlin
-      - (++) new in season 2009-10: (6) Bielefeld, Cottbus, Fortuna Dusseldorf, Karlsruhe, Paderborn, Union Berlin
-      - (--) out up/down: (7) Freiburg, Ingolstadt, Mainz, Nurnberg, Osnabruck, St. Pauli, Wehen
+    - 1. FC Kaiserslautern, 1. FC Union Berlin, Alemannia Aachen, Arminia Bielefeld, Energie Cottbus, FC Augsburg, FC St. Pauli, FSV Frankfurt, Fortuna Düsseldorf, Greuther Fürth, Hansa Rostock, Karlsruher SC, MSV Duisburg, Rot Weiss Ahlen, Rot-Weiß Oberhausen, SC Paderborn 07, TSV 1860 München, TuS Koblenz
+      - (++) new in season 2009-10: (6) 1. FC Union Berlin, Arminia Bielefeld, Energie Cottbus, Fortuna Düsseldorf, Karlsruher SC, SC Paderborn 07
+      - (--) out up/down: (6) 1. FC Nürnberg, 1. FSV Mainz 05, FC Ingolstadt 04, Osnabrück, SC Freiburg, SV Wehen Wiesbaden
 
 2008-09 - 2 levels (1 2)
   - 1: [`2008-09/1-bundesliga.csv`](2008-09/1-bundesliga.csv) -  18 teams,  306 matches,  894 goals,  34 rounds,  Fri 15 Aug 2008 - Sat 23 May 2009
-    - Bayern Munich, Bielefeld, Bochum, Cottbus, Dortmund, Ein Frankfurt, FC Koln, Hamburg, Hannover, Hertha, Hoffenheim, Karlsruhe, Leverkusen, M'gladbach, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2008-09: (3) FC Koln, Hoffenheim, M'gladbach
-      - (--) out down: (3) Duisburg, Hansa Rostock, Nurnberg
+    - 1. FC Köln, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, Energie Cottbus, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, Karlsruher SC, TSG 1899 Hoffenheim, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2008-09: (3) 1. FC Köln, Bor. Mönchengladbach, TSG 1899 Hoffenheim
+      - (--) out down: (3) 1. FC Nürnberg, Hansa Rostock, MSV Duisburg
 
-  - 2: [`2008-09/2-bundesliga2.csv`](2008-09/2-bundesliga2.csv) -  19 teams,  306 matches,  852 goals,  Fri 15 Aug 2008 - Sun 24 May 2009
-      - (++) new in season 2008-09: (8) Ahlen, Duisburg, Frankfurt FSV, Hansa Rostock, Ingolstadt, Nurnberg, Oberhausen, St. Pauli
-      - (--) out up/down: (7) CZ Jena, Erzgebirge Aue, FC Koln, Hoffenheim, M'gladbach, Offenbach, Paderborn
+  - 2: [`2008-09/2-bundesliga2.csv`](2008-09/2-bundesliga2.csv) -  18 teams,  306 matches,  852 goals,  34 rounds,  Fri 15 Aug 2008 - Sun 24 May 2009
+    - 1. FC Kaiserslautern, 1. FC Nürnberg, 1. FSV Mainz 05, Alemannia Aachen, FC Augsburg, FC Ingolstadt 04, FC St. Pauli, FSV Frankfurt, Greuther Fürth, Hansa Rostock, MSV Duisburg, Osnabrück, Rot Weiss Ahlen, Rot-Weiß Oberhausen, SC Freiburg, SV Wehen Wiesbaden, TSV 1860 München, TuS Koblenz
+      - (++) new in season 2008-09: (7) 1. FC Nürnberg, FC Ingolstadt 04, FSV Frankfurt, Hansa Rostock, MSV Duisburg, Rot Weiss Ahlen, Rot-Weiß Oberhausen
+      - (--) out up/down: (7) 1. FC Köln, Bor. Mönchengladbach, FC Carl Zeiss Jena, FC Erzgebirge Aue, Kickers Offenbach, SC Paderborn 07, TSG 1899 Hoffenheim
 
 2007-08 - 2 levels (1 2)
   - 1: [`2007-08/1-bundesliga.csv`](2007-08/1-bundesliga.csv) -  18 teams,  306 matches,  860 goals,  34 rounds,  Fri 10 Aug 2007 - Sat 17 May 2008
-    - Bayern Munich, Bielefeld, Bochum, Cottbus, Dortmund, Duisburg, Ein Frankfurt, Hamburg, Hannover, Hansa Rostock, Hertha, Karlsruhe, Leverkusen, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2007-08: (3) Duisburg, Hansa Rostock, Karlsruhe
-      - (--) out down: (3) Aachen, M'gladbach, Mainz
+    - 1. FC Nürnberg, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Borussia Dortmund, Eintracht Frankfurt, Energie Cottbus, FC Schalke 04, Hamburger SV, Hannover 96, Hansa Rostock, Hertha BSC, Karlsruher SC, MSV Duisburg, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2007-08: (3) Hansa Rostock, Karlsruher SC, MSV Duisburg
+      - (--) out down: (3) 1. FSV Mainz 05, Alemannia Aachen, Bor. Mönchengladbach
 
   - 2: [`2007-08/2-bundesliga2.csv`](2007-08/2-bundesliga2.csv) -  18 teams,  306 matches,  872 goals,  34 rounds,  Fri 10 Aug 2007 - Sun 18 May 2008
-    - Aachen, Augsburg, CZ Jena, Erzgebirge Aue, FC Koln, Freiburg, Greuther Furth, Hoffenheim, Kaiserslautern, Koblenz, M'gladbach, Mainz, Munich 1860, Offenbach, Osnabruck, Paderborn, St Pauli, Wehen
-      - (++) new in season 2007-08: (7) Aachen, Hoffenheim, M'gladbach, Mainz, Osnabruck, St Pauli, Wehen
-      - (--) out up/down: (7) Braunschweig, Burghausen, Duisburg, Essen, Hansa Rostock, Karlsruhe, Unterhaching
+    - 1. FC Kaiserslautern, 1. FC Köln, 1. FSV Mainz 05, Alemannia Aachen, Bor. Mönchengladbach, FC Augsburg, FC Carl Zeiss Jena, FC Erzgebirge Aue, FC St. Pauli, Greuther Fürth, Kickers Offenbach, Osnabrück, SC Freiburg, SC Paderborn 07, SV Wehen Wiesbaden, TSG 1899 Hoffenheim, TSV 1860 München, TuS Koblenz
+      - (++) new in season 2007-08: (7) 1. FSV Mainz 05, Alemannia Aachen, Bor. Mönchengladbach, FC St. Pauli, Osnabrück, SV Wehen Wiesbaden, TSG 1899 Hoffenheim
+      - (--) out up/down: (7) Eintracht Braunschweig, Hansa Rostock, Karlsruher SC, MSV Duisburg, Rot-Weiss Essen, SpVgg Unterhaching, Wacker Burghausen
 
 2006-07 - 2 levels (1 2)
   - 1: [`2006-07/1-bundesliga.csv`](2006-07/1-bundesliga.csv) -  18 teams,  306 matches,  837 goals,  34 rounds,  Fri 11 Aug 2006 - Sat 19 May 2007
-    - Aachen, Bayern Munich, Bielefeld, Bochum, Cottbus, Dortmund, Ein Frankfurt, Hamburg, Hannover, Hertha, Leverkusen, M'gladbach, Mainz, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2006-07: (3) Aachen, Bochum, Cottbus
-      - (--) out down: (3) Duisburg, FC Koln, Kaiserslautern
+    - 1. FC Nürnberg, 1. FSV Mainz 05, Alemannia Aachen, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, Energie Cottbus, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2006-07: (3) Alemannia Aachen, Energie Cottbus, VfL Bochum
+      - (--) out down: (3) 1. FC Kaiserslautern, 1. FC Köln, MSV Duisburg
 
   - 2: [`2006-07/2-bundesliga2.csv`](2006-07/2-bundesliga2.csv) -  18 teams,  306 matches,  804 goals,  34 rounds,  Fri 11 Aug 2006 - Sun 20 May 2007
-    - Augsburg, Braunschweig, Burghausen, CZ Jena, Duisburg, Erzgebirge Aue, Essen, FC Koln, Freiburg, Greuther Furth, Hansa Rostock, Kaiserslautern, Karlsruhe, Koblenz, Munich 1860, Offenbach, Paderborn, Unterhaching
-      - (++) new in season 2006-07: (7) Augsburg, CZ Jena, Duisburg, Essen, FC Koln, Kaiserslautern, Koblenz
-      - (--) out up/down: (7) Aachen, Ahlen, Bochum, Cottbus, Dresden, Saarbrucken, Siegen
+    - 1. FC Kaiserslautern, 1. FC Köln, Eintracht Braunschweig, FC Augsburg, FC Carl Zeiss Jena, FC Erzgebirge Aue, Greuther Fürth, Hansa Rostock, Karlsruher SC, Kickers Offenbach, MSV Duisburg, Rot-Weiss Essen, SC Freiburg, SC Paderborn 07, SpVgg Unterhaching, TSV 1860 München, TuS Koblenz, Wacker Burghausen
+      - (++) new in season 2006-07: (7) 1. FC Kaiserslautern, 1. FC Köln, FC Augsburg, FC Carl Zeiss Jena, MSV Duisburg, Rot-Weiss Essen, TuS Koblenz
+      - (--) out up/down: (7) 1. FC Saarbrücken, Alemannia Aachen, Dynamo Dresden, Energie Cottbus, Rot Weiss Ahlen, Sportfreunde Siegen, VfL Bochum
 
 2005-06 - 2 levels (1 2)
   - 1: [`2005-06/1-bundesliga.csv`](2005-06/1-bundesliga.csv) -  18 teams,  306 matches,  861 goals,  34 rounds,  Fri 5 Aug 2005 - Sat 13 May 2006
-    - Bayern Munich, Bielefeld, Dortmund, Duisburg, Ein Frankfurt, FC Koln, Hamburg, Hannover, Hertha, Kaiserslautern, Leverkusen, M'gladbach, Mainz, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2005-06: (3) Duisburg, Ein Frankfurt, FC Koln
-      - (--) out down: (3) Bochum, Freiburg, Hansa Rostock
+    - 1. FC Kaiserslautern, 1. FC Köln, 1. FC Nürnberg, 1. FSV Mainz 05, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Schalke 04, Hamburger SV, Hannover 96, Hertha BSC, MSV Duisburg, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2005-06: (3) 1. FC Köln, Eintracht Frankfurt, MSV Duisburg
+      - (--) out down: (3) Hansa Rostock, SC Freiburg, VfL Bochum
 
   - 2: [`2005-06/2-bundesliga2.csv`](2005-06/2-bundesliga2.csv) -  18 teams,  306 matches,  794 goals,  34 rounds,  Sat 6 Aug 2005 - Sun 14 May 2006
-    - Aachen, Ahlen, Bochum, Braunschweig, Burghausen, Cottbus, Dresden, Erzgebirge Aue, Freiburg, Greuther Furth, Hansa Rostock, Karlsruhe, Munich 1860, Offenbach, Paderborn, Saarbrucken, Siegen, Unterhaching
-      - (++) new in season 2005-06: (7) Bochum, Braunschweig, Freiburg, Hansa Rostock, Offenbach, Paderborn, Siegen
-      - (--) out up/down: (7) Duisburg, Ein Frankfurt, Ein Trier, Erfurt, Essen, FC Koln, Oberhausen
+    - 1. FC Saarbrücken, Alemannia Aachen, Dynamo Dresden, Eintracht Braunschweig, Energie Cottbus, FC Erzgebirge Aue, Greuther Fürth, Hansa Rostock, Karlsruher SC, Kickers Offenbach, Rot Weiss Ahlen, SC Freiburg, SC Paderborn 07, SpVgg Unterhaching, Sportfreunde Siegen, TSV 1860 München, VfL Bochum, Wacker Burghausen
+      - (++) new in season 2005-06: (7) Eintracht Braunschweig, Hansa Rostock, Kickers Offenbach, SC Freiburg, SC Paderborn 07, Sportfreunde Siegen, VfL Bochum
+      - (--) out up/down: (7) 1. FC Köln, Eintracht Frankfurt, Eintracht Trier, FC Rot-Weiß Erfurt, MSV Duisburg, Rot-Weiss Essen, Rot-Weiß Oberhausen
 
 2004-05 - 2 levels (1 2)
   - 1: [`2004-05/1-bundesliga.csv`](2004-05/1-bundesliga.csv) -  18 teams,  306 matches,  890 goals,  34 rounds,  Fri 6 Aug 2004 - Sat 21 May 2005
-    - Bayern Munich, Bielefeld, Bochum, Dortmund, Freiburg, Hamburg, Hannover, Hansa Rostock, Hertha, Kaiserslautern, Leverkusen, M'gladbach, Mainz, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2004-05: (3) Bielefeld, Mainz, Nurnberg
-      - (--) out down: (3) Ein Frankfurt, FC Koln, Munich 1860
+    - 1. FC Kaiserslautern, 1. FC Nürnberg, 1. FSV Mainz 05, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, FC Schalke 04, Hamburger SV, Hannover 96, Hansa Rostock, Hertha BSC, SC Freiburg, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2004-05: (3) 1. FC Nürnberg, 1. FSV Mainz 05, Arminia Bielefeld
+      - (--) out down: (3) 1. FC Köln, Eintracht Frankfurt, TSV 1860 München
 
   - 2: [`2004-05/2-bundesliga2.csv`](2004-05/2-bundesliga2.csv) -  18 teams,  306 matches,  841 goals,  34 rounds,  Sat 7 Aug 2004 - Sun 22 May 2005
-    - Aachen, Ahlen, Burghausen, Cottbus, Dresden, Duisburg, Ein Frankfurt, Ein Trier, Erfurt, Erzgebirge Aue, Essen, FC Koln, Greuther Furth, Karlsruhe, Munich 1860, Oberhausen, Saarbrucken, Unterhaching
-      - (++) new in season 2004-05: (7) Dresden, Ein Frankfurt, Erfurt, Essen, FC Koln, Munich 1860, Saarbrucken
-      - (--) out up/down: (7) Bielefeld, Lubeck, Mainz, Nurnberg, Osnabruck, Regensburg, Union Berlin
+    - 1. FC Köln, 1. FC Saarbrücken, Alemannia Aachen, Dynamo Dresden, Eintracht Frankfurt, Eintracht Trier, Energie Cottbus, FC Erzgebirge Aue, FC Rot-Weiß Erfurt, Greuther Fürth, Karlsruher SC, MSV Duisburg, Rot Weiss Ahlen, Rot-Weiss Essen, Rot-Weiß Oberhausen, SpVgg Unterhaching, TSV 1860 München, Wacker Burghausen
+      - (++) new in season 2004-05: (7) 1. FC Köln, 1. FC Saarbrücken, Dynamo Dresden, Eintracht Frankfurt, FC Rot-Weiß Erfurt, Rot-Weiss Essen, TSV 1860 München
+      - (--) out up/down: (7) 1. FC Nürnberg, 1. FC Union Berlin, 1. FSV Mainz 05, Arminia Bielefeld, Lübeck, Osnabrück, SSV Jahn Regensburg
 
 2003-04 - 2 levels (1 2)
   - 1: [`2003-04/1-bundesliga.csv`](2003-04/1-bundesliga.csv) -  18 teams,  306 matches,  909 goals,  34 rounds,  Fri 1 Aug 2003 - Sat 22 May 2004
-    - Bayern Munich, Bochum, Dortmund, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Hannover, Hansa Rostock, Hertha, Kaiserslautern, Leverkusen, M'gladbach, Munich 1860, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2003-04: (3) Ein Frankfurt, FC Koln, Freiburg
-      - (--) out down: (3) Bielefeld, Cottbus, Nurnberg
+    - 1. FC Kaiserslautern, 1. FC Köln, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Schalke 04, Hamburger SV, Hannover 96, Hansa Rostock, Hertha BSC, SC Freiburg, TSV 1860 München, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2003-04: (3) 1. FC Köln, Eintracht Frankfurt, SC Freiburg
+      - (--) out down: (3) 1. FC Nürnberg, Arminia Bielefeld, Energie Cottbus
 
   - 2: [`2003-04/2-bundesliga2.csv`](2003-04/2-bundesliga2.csv) -  18 teams,  306 matches,  842 goals,  34 rounds,  Sun 3 Aug 2003 - Sun 23 May 2004
-    - Aachen, Ahlen, Bielefeld, Burghausen, Cottbus, Duisburg, Ein Trier, Erzgebirge Aue, Greuther Furth, Karlsruhe, Lubeck, Mainz, Nurnberg, Oberhausen, Osnabruck, Regensburg, Union Berlin, Unterhaching
-      - (++) new in season 2003-04: (7) Bielefeld, Cottbus, Erzgebirge Aue, Nurnberg, Osnabruck, Regensburg, Unterhaching
-      - (--) out up/down: (7) Braunschweig, Ein Frankfurt, FC Koln, Freiburg, Mannheim, Reutlingen, St Pauli
+    - 1. FC Nürnberg, 1. FC Union Berlin, 1. FSV Mainz 05, Alemannia Aachen, Arminia Bielefeld, Eintracht Trier, Energie Cottbus, FC Erzgebirge Aue, Greuther Fürth, Karlsruher SC, Lübeck, MSV Duisburg, Osnabrück, Rot Weiss Ahlen, Rot-Weiß Oberhausen, SSV Jahn Regensburg, SpVgg Unterhaching, Wacker Burghausen
+      - (++) new in season 2003-04: (7) 1. FC Nürnberg, Arminia Bielefeld, Energie Cottbus, FC Erzgebirge Aue, Osnabrück, SSV Jahn Regensburg, SpVgg Unterhaching
+      - (--) out up/down: (7) 1. FC Köln, Eintracht Braunschweig, Eintracht Frankfurt, FC St. Pauli, SC Freiburg, SSV Reutlingen 05, VfR Mannheim
 
 2002-03 - 2 levels (1 2)
   - 1: [`2002-03/1-bundesliga.csv`](2002-03/1-bundesliga.csv) -  18 teams,  306 matches,  821 goals,  34 rounds,  Fri 9 Aug 2002 - Sat 24 May 2003
-    - Bayern Munich, Bielefeld, Bochum, Cottbus, Dortmund, Hamburg, Hannover, Hansa Rostock, Hertha, Kaiserslautern, Leverkusen, M'gladbach, Munich 1860, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2002-03: (3) Bielefeld, Bochum, Hannover
-      - (--) out down: (3) FC Koln, Freiburg, St Pauli
+    - 1. FC Kaiserslautern, 1. FC Nürnberg, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Energie Cottbus, FC Schalke 04, Hamburger SV, Hannover 96, Hansa Rostock, Hertha BSC, TSV 1860 München, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2002-03: (3) Arminia Bielefeld, Hannover 96, VfL Bochum
+      - (--) out down: (3) 1. FC Köln, FC St. Pauli, SC Freiburg
 
   - 2: [`2002-03/2-bundesliga2.csv`](2002-03/2-bundesliga2.csv) -  18 teams,  306 matches,  863 goals,  34 rounds,  Sat 10 Aug 2002 - Sun 25 May 2003
-    - Aachen, Ahlen, Braunschweig, Burghausen, Duisburg, Ein Frankfurt, Ein Trier, FC Koln, Freiburg, Greuther Furth, Karlsruhe, Lubeck, Mainz, Mannheim, Oberhausen, Reutlingen, St Pauli, Union Berlin
-      - (++) new in season 2002-03: (7) Braunschweig, Burghausen, Ein Trier, FC Koln, Freiburg, Lubeck, St Pauli
-      - (--) out up/down: (7) Babelsberg, Bielefeld, Bochum, Hannover, Saarbrucken, Schweinfurt, Unterhaching
+    - 1. FC Köln, 1. FC Union Berlin, 1. FSV Mainz 05, Alemannia Aachen, Eintracht Braunschweig, Eintracht Frankfurt, Eintracht Trier, FC St. Pauli, Greuther Fürth, Karlsruher SC, Lübeck, MSV Duisburg, Rot Weiss Ahlen, Rot-Weiß Oberhausen, SC Freiburg, SSV Reutlingen 05, VfR Mannheim, Wacker Burghausen
+      - (++) new in season 2002-03: (7) 1. FC Köln, Eintracht Braunschweig, Eintracht Trier, FC St. Pauli, Lübeck, SC Freiburg, Wacker Burghausen
+      - (--) out up/down: (7) 1. FC Saarbrücken, 1. FC Schweinfurt 05, Arminia Bielefeld, Hannover 96, SV Babelsberg 03, SpVgg Unterhaching, VfL Bochum
 
 2001-02 - 2 levels (1 2)
   - 1: [`2001-02/1-bundesliga.csv`](2001-02/1-bundesliga.csv) -  18 teams,  306 matches,  893 goals,  34 rounds,  Sat 28 Jul 2001 - Sat 4 May 2002
-    - Bayern Munich, Cottbus, Dortmund, FC Koln, Freiburg, Hamburg, Hansa Rostock, Hertha, Kaiserslautern, Leverkusen, M'gladbach, Munich 1860, Nurnberg, Schalke 04, St Pauli, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 2001-02: (3) M'gladbach, Nurnberg, St Pauli
-      - (--) out down: (3) Bochum, Ein Frankfurt, Unterhaching
+    - 1. FC Kaiserslautern, 1. FC Köln, 1. FC Nürnberg, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Energie Cottbus, FC Schalke 04, FC St. Pauli, Hamburger SV, Hansa Rostock, Hertha BSC, SC Freiburg, TSV 1860 München, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2001-02: (3) 1. FC Nürnberg, Bor. Mönchengladbach, FC St. Pauli
+      - (--) out down: (3) Eintracht Frankfurt, SpVgg Unterhaching, VfL Bochum
 
   - 2: [`2001-02/2-bundesliga2.csv`](2001-02/2-bundesliga2.csv) -  18 teams,  306 matches,  962 goals,  34 rounds,  Fri 27 Jul 2001 - Sun 5 May 2002
-    - Aachen, Ahlen, Babelsberg, Bielefeld, Bochum, Duisburg, Ein Frankfurt, Greuther Furth, Hannover, Karlsruhe, Mainz, Mannheim, Oberhausen, Reutlingen, Saarbrucken, Schweinfurt, Union Berlin, Unterhaching
-      - (++) new in season 2001-02: (7) Babelsberg, Bochum, Ein Frankfurt, Karlsruhe, Schweinfurt, Union Berlin, Unterhaching
-      - (--) out up/down: (7) Chemnitz, M'gladbach, Nurnberg, Osnabruck, St Pauli, Stuttgarter K, Ulm
+    - 1. FC Saarbrücken, 1. FC Schweinfurt 05, 1. FC Union Berlin, 1. FSV Mainz 05, Alemannia Aachen, Arminia Bielefeld, Eintracht Frankfurt, Greuther Fürth, Hannover 96, Karlsruher SC, MSV Duisburg, Rot Weiss Ahlen, Rot-Weiß Oberhausen, SSV Reutlingen 05, SV Babelsberg 03, SpVgg Unterhaching, VfL Bochum, VfR Mannheim
+      - (++) new in season 2001-02: (7) 1. FC Schweinfurt 05, 1. FC Union Berlin, Eintracht Frankfurt, Karlsruher SC, SV Babelsberg 03, SpVgg Unterhaching, VfL Bochum
+      - (--) out up/down: (7) 1. FC Nürnberg, Bor. Mönchengladbach, Chemnitzer FC, FC St. Pauli, Osnabrück, SSV Ulm 1846, Stuttgarter Kickers
 
 2000-01 - 2 levels (1 2)
   - 1: [`2000-01/1-bundesliga.csv`](2000-01/1-bundesliga.csv) -  18 teams,  306 matches,  897 goals,  34 rounds,  Fri 11 Aug 2000 - Sat 19 May 2001
-    - Bayern Munich, Bochum, Cottbus, Dortmund, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Hansa Rostock, Hertha, Kaiserslautern, Leverkusen, Munich 1860, Schalke 04, Stuttgart, Unterhaching, Werder Bremen, Wolfsburg
-      - (++) new in season 2000-01: (3) Bochum, Cottbus, FC Koln
-      - (--) out down: (3) Bielefeld, Duisburg, Ulm
+    - 1. FC Kaiserslautern, 1. FC Köln, Bayer 04 Leverkusen, Bayern München, Borussia Dortmund, Eintracht Frankfurt, Energie Cottbus, FC Schalke 04, Hamburger SV, Hansa Rostock, Hertha BSC, SC Freiburg, SpVgg Unterhaching, TSV 1860 München, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 2000-01: (3) 1. FC Köln, Energie Cottbus, VfL Bochum
+      - (--) out down: (3) Arminia Bielefeld, MSV Duisburg, SSV Ulm 1846
 
   - 2: [`2000-01/2-bundesliga2.csv`](2000-01/2-bundesliga2.csv) -  18 teams,  306 matches,  887 goals,  34 rounds,  Fri 11 Aug 2000 - Sun 20 May 2001
-    - Aachen, Ahlen, Bielefeld, Chemnitz, Duisburg, Greuther Furth, Hannover, M'gladbach, Mainz, Mannheim, Nurnberg, Oberhausen, Osnabruck, Reutlingen, Saarbrucken, St Pauli, Stuttgarter K, Ulm
-      - (++) new in season 2000-01: (7) Ahlen, Bielefeld, Duisburg, Osnabruck, Reutlingen, Saarbrucken, Ulm
-      - (--) out up/down: (7) Bochum, Cottbus, F Koln, FC Koln, Karlsruhe, Offenbach, TB Berlin
+    - 1. FC Nürnberg, 1. FC Saarbrücken, 1. FSV Mainz 05, Alemannia Aachen, Arminia Bielefeld, Bor. Mönchengladbach, Chemnitzer FC, FC St. Pauli, Greuther Fürth, Hannover 96, MSV Duisburg, Osnabrück, Rot Weiss Ahlen, Rot-Weiß Oberhausen, SSV Reutlingen 05, SSV Ulm 1846, Stuttgarter Kickers, VfR Mannheim
+      - (++) new in season 2000-01: (7) 1. FC Saarbrücken, Arminia Bielefeld, MSV Duisburg, Osnabrück, Rot Weiss Ahlen, SSV Reutlingen 05, SSV Ulm 1846
+      - (--) out up/down: (7) 1. FC Köln, Energie Cottbus, Fortuna Köln, Karlsruher SC, Kickers Offenbach, Tennis Borussia Berlin, VfL Bochum
 
 1999-00 - 2 levels (1 2)
   - 1: [`1999-00/1-bundesliga.csv`](1999-00/1-bundesliga.csv) -  18 teams,  306 matches,  885 goals,  34 rounds,  Fri 13 Aug 1999 - Sat 20 May 2000
-    - Bayern Munich, Bielefeld, Dortmund, Duisburg, Ein Frankfurt, Freiburg, Hamburg, Hansa Rostock, Hertha, Kaiserslautern, Leverkusen, Munich 1860, Schalke 04, Stuttgart, Ulm, Unterhaching, Werder Bremen, Wolfsburg
-      - (++) new in season 1999-00: (3) Bielefeld, Ulm, Unterhaching
-      - (--) out down: (3) Bochum, M'gladbach, Nurnberg
+    - 1. FC Kaiserslautern, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Borussia Dortmund, Eintracht Frankfurt, FC Schalke 04, Hamburger SV, Hansa Rostock, Hertha BSC, MSV Duisburg, SC Freiburg, SSV Ulm 1846, SpVgg Unterhaching, TSV 1860 München, VfB Stuttgart, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 1999-00: (3) Arminia Bielefeld, SSV Ulm 1846, SpVgg Unterhaching
+      - (--) out down: (3) 1. FC Nürnberg, Bor. Mönchengladbach, VfL Bochum
 
   - 2: [`1999-00/2-bundesliga2.csv`](1999-00/2-bundesliga2.csv) -  18 teams,  306 matches,  865 goals,  34 rounds,  Fri 13 Aug 1999 - Thu 25 May 2000
-    - Aachen, Bochum, Chemnitz, Cottbus, F Koln, FC Koln, Greuther Furth, Hannover, Karlsruhe, M'gladbach, Mainz, Mannheim, Nurnberg, Oberhausen, Offenbach, St Pauli, Stuttgarter K, TB Berlin
-      - (++) new in season 1999-00: (7) Aachen, Bochum, Chemnitz, M'gladbach, Mannheim, Nurnberg, Offenbach
-      - (--) out up/down: (7) Bielefeld, Dusseldorf, Gutersloh, Uerdingen, Ulm, Unterhaching, Wattenscheid
+    - 1. FC Köln, 1. FC Nürnberg, 1. FSV Mainz 05, Alemannia Aachen, Bor. Mönchengladbach, Chemnitzer FC, Energie Cottbus, FC St. Pauli, Fortuna Köln, Greuther Fürth, Hannover 96, Karlsruher SC, Kickers Offenbach, Rot-Weiß Oberhausen, Stuttgarter Kickers, Tennis Borussia Berlin, VfL Bochum, VfR Mannheim
+      - (++) new in season 1999-00: (7) 1. FC Nürnberg, Alemannia Aachen, Bor. Mönchengladbach, Chemnitzer FC, Kickers Offenbach, VfL Bochum, VfR Mannheim
+      - (--) out up/down: (7) Arminia Bielefeld, Fortuna Düsseldorf, Gütersloh, KFC Uerdingen, SG Wattenscheid 09, SSV Ulm 1846, SpVgg Unterhaching
 
 1998-99 - 2 levels (1 2)
   - 1: [`1998-99/1-bundesliga.csv`](1998-99/1-bundesliga.csv) -  18 teams,  306 matches,  866 goals,  34 rounds,  Fri 14 Aug 1998 - Sat 29 May 1999
-    - Bayern Munich, Bochum, Dortmund, Duisburg, Ein Frankfurt, Freiburg, Hamburg, Hansa Rostock, Hertha, Kaiserslautern, Leverkusen, M'gladbach, Munich 1860, Nurnberg, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 1998-99: (3) Ein Frankfurt, Freiburg, Nurnberg
-      - (--) out down: (3) Bielefeld, FC Koln, Karlsruhe
+    - 1. FC Kaiserslautern, 1. FC Nürnberg, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Schalke 04, Hamburger SV, Hansa Rostock, Hertha BSC, MSV Duisburg, SC Freiburg, TSV 1860 München, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 1998-99: (3) 1. FC Nürnberg, Eintracht Frankfurt, SC Freiburg
+      - (--) out down: (3) 1. FC Köln, Arminia Bielefeld, Karlsruher SC
 
   - 2: [`1998-99/2-bundesliga2.csv`](1998-99/2-bundesliga2.csv) -  18 teams,  306 matches,  822 goals,  34 rounds,  Thu 30 Jul 1998 - Thu 17 Jun 1999
-    - Bielefeld, Cottbus, Dusseldorf, F Koln, FC Koln, Greuther Furth, Gutersloh, Hannover, Karlsruhe, Mainz, Oberhausen, St Pauli, Stuttgarter K, TB Berlin, Uerdingen, Ulm, Unterhaching, Wattenscheid
-      - (++) new in season 1998-99: (7) Bielefeld, FC Koln, Hannover, Karlsruhe, Oberhausen, TB Berlin, Ulm
-      - (--) out up/down: (7) CZ Jena, Ein Frankfurt, Freiburg, Leipzig, Meppen, Nurnberg, Zwickau
+    - 1. FC Köln, 1. FSV Mainz 05, Arminia Bielefeld, Energie Cottbus, FC St. Pauli, Fortuna Düsseldorf, Fortuna Köln, Greuther Fürth, Gütersloh, Hannover 96, KFC Uerdingen, Karlsruher SC, Rot-Weiß Oberhausen, SG Wattenscheid 09, SSV Ulm 1846, SpVgg Unterhaching, Stuttgarter Kickers, Tennis Borussia Berlin
+      - (++) new in season 1998-99: (7) 1. FC Köln, Arminia Bielefeld, Hannover 96, Karlsruher SC, Rot-Weiß Oberhausen, SSV Ulm 1846, Tennis Borussia Berlin
+      - (--) out up/down: (7) 1. FC Nürnberg, Eintracht Frankfurt, FC Carl Zeiss Jena, FSV Zwickau, SC Freiburg, SV Meppen, VfB Leipzig
 
 1997-98 - 2 levels (1 2)
   - 1: [`1997-98/1-bundesliga.csv`](1997-98/1-bundesliga.csv) -  18 teams,  306 matches,  883 goals,  34 rounds,  Fri 1 Aug 1997 - Sat 9 May 1998
-    - Bayern Munich, Bielefeld, Bochum, Dortmund, Duisburg, FC Koln, Hamburg, Hansa Rostock, Hertha, Kaiserslautern, Karlsruhe, Leverkusen, M'gladbach, Munich 1860, Schalke 04, Stuttgart, Werder Bremen, Wolfsburg
-      - (++) new in season 1997-98: (3) Hertha, Kaiserslautern, Wolfsburg
-      - (--) out down: (3) Dusseldorf, Freiburg, St Pauli
+    - 1. FC Kaiserslautern, 1. FC Köln, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, FC Schalke 04, Hamburger SV, Hansa Rostock, Hertha BSC, Karlsruher SC, MSV Duisburg, TSV 1860 München, VfB Stuttgart, VfL Bochum, VfL Wolfsburg, Werder Bremen
+      - (++) new in season 1997-98: (3) 1. FC Kaiserslautern, Hertha BSC, VfL Wolfsburg
+      - (--) out down: (3) FC St. Pauli, Fortuna Düsseldorf, SC Freiburg
 
   - 2: [`1997-98/2-bundesliga2.csv`](1997-98/2-bundesliga2.csv) -  18 teams,  306 matches,  774 goals,  34 rounds,  Fri 25 Jul 1997 - Sun 7 Jun 1998
-    - CZ Jena, Cottbus, Dusseldorf, Ein Frankfurt, F Koln, Freiburg, Greuther Furth, Gutersloh, Leipzig, Mainz, Meppen, Nurnberg, St Pauli, Stuttgarter K, Uerdingen, Unterhaching, Wattenscheid, Zwickau
-      - (++) new in season 1997-98: (7) Cottbus, Dusseldorf, Freiburg, Greuther Furth, Nurnberg, St Pauli, Wattenscheid
-      - (--) out up/down: (7) Essen, Hertha, Kaiserslautern, Lubeck, Mannheim, Oldenburg, Wolfsburg
+    - 1. FC Nürnberg, 1. FSV Mainz 05, Eintracht Frankfurt, Energie Cottbus, FC Carl Zeiss Jena, FC St. Pauli, FSV Zwickau, Fortuna Düsseldorf, Fortuna Köln, Greuther Fürth, Gütersloh, KFC Uerdingen, SC Freiburg, SG Wattenscheid 09, SV Meppen, SpVgg Unterhaching, Stuttgarter Kickers, VfB Leipzig
+      - (++) new in season 1997-98: (7) 1. FC Nürnberg, Energie Cottbus, FC St. Pauli, Fortuna Düsseldorf, Greuther Fürth, SC Freiburg, SG Wattenscheid 09
+      - (--) out up/down: (7) 1. FC Kaiserslautern, Hertha BSC, Lübeck, Rot-Weiss Essen, VfB Oldenburg, VfL Wolfsburg, VfR Mannheim
 
 1996-97 - 2 levels (1 2)
   - 1: [`1996-97/1-bundesliga.csv`](1996-97/1-bundesliga.csv) -  18 teams,  306 matches,  911 goals,  34 rounds,  Fri 16 Aug 1996 - Sat 31 May 1997
-    - Bayern Munich, Bielefeld, Bochum, Dortmund, Duisburg, Dusseldorf, FC Koln, Freiburg, Hamburg, Hansa Rostock, Karlsruhe, Leverkusen, M'gladbach, Munich 1860, Schalke 04, St Pauli, Stuttgart, Werder Bremen
-      - (++) new in season 1996-97: (3) Bielefeld, Bochum, Duisburg
-      - (--) out down: (3) Ein Frankfurt, Kaiserslautern, Uerdingen
+    - 1. FC Köln, Arminia Bielefeld, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, FC Schalke 04, FC St. Pauli, Fortuna Düsseldorf, Hamburger SV, Hansa Rostock, Karlsruher SC, MSV Duisburg, SC Freiburg, TSV 1860 München, VfB Stuttgart, VfL Bochum, Werder Bremen
+      - (++) new in season 1996-97: (3) Arminia Bielefeld, MSV Duisburg, VfL Bochum
+      - (--) out down: (3) 1. FC Kaiserslautern, Eintracht Frankfurt, KFC Uerdingen
 
   - 2: [`1996-97/2-bundesliga2.csv`](1996-97/2-bundesliga2.csv) -  18 teams,  306 matches,  822 goals,  34 rounds,  Fri 2 Aug 1996 - Wed 11 Jun 1997
-    - CZ Jena, Ein Frankfurt, Essen, F Koln, Gutersloh, Hertha, Kaiserslautern, Leipzig, Lubeck, Mainz, Mannheim, Meppen, Oldenburg, Stuttgarter K, Uerdingen, Unterhaching, Wolfsburg, Zwickau
-      - (++) new in season 1996-97: (7) Ein Frankfurt, Essen, Gutersloh, Kaiserslautern, Oldenburg, Stuttgarter K, Uerdingen
-      - (--) out up/down: (7) Bielefeld, Bochum, Chemnitz, Duisburg, Hannover, Nurnberg, Wattenscheid
+    - 1. FC Kaiserslautern, 1. FSV Mainz 05, Eintracht Frankfurt, FC Carl Zeiss Jena, FSV Zwickau, Fortuna Köln, Gütersloh, Hertha BSC, KFC Uerdingen, Lübeck, Rot-Weiss Essen, SV Meppen, SpVgg Unterhaching, Stuttgarter Kickers, VfB Leipzig, VfB Oldenburg, VfL Wolfsburg, VfR Mannheim
+      - (++) new in season 1996-97: (7) 1. FC Kaiserslautern, Eintracht Frankfurt, Gütersloh, KFC Uerdingen, Rot-Weiss Essen, Stuttgarter Kickers, VfB Oldenburg
+      - (--) out up/down: (7) 1. FC Nürnberg, Arminia Bielefeld, Chemnitzer FC, Hannover 96, MSV Duisburg, SG Wattenscheid 09, VfL Bochum
 
 1995-96 - 2 levels (1 2)
   - 1: [`1995-96/1-bundesliga.csv`](1995-96/1-bundesliga.csv) -  18 teams,  306 matches,  831 goals,  34 rounds,  Fri 11 Aug 1995 - Sat 18 May 1996
-    - Bayern Munich, Dortmund, Dusseldorf, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Hansa Rostock, Kaiserslautern, Karlsruhe, Leverkusen, M'gladbach, Munich 1860, Schalke 04, St Pauli, Stuttgart, Uerdingen, Werder Bremen
-      - (++) new in season 1995-96: (3) Dusseldorf, Hansa Rostock, St Pauli
-      - (--) out down: (3) Bochum, Dresden, Duisburg
+    - 1. FC Kaiserslautern, 1. FC Köln, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Eintracht Frankfurt, FC Schalke 04, FC St. Pauli, Fortuna Düsseldorf, Hamburger SV, Hansa Rostock, KFC Uerdingen, Karlsruher SC, SC Freiburg, TSV 1860 München, VfB Stuttgart, Werder Bremen
+      - (++) new in season 1995-96: (3) FC St. Pauli, Fortuna Düsseldorf, Hansa Rostock
+      - (--) out down: (3) Dynamo Dresden, MSV Duisburg, VfL Bochum
 
   - 2: [`1995-96/2-bundesliga2.csv`](1995-96/2-bundesliga2.csv) -  18 teams,  306 matches,  791 goals,  34 rounds,  Fri 4 Aug 1995 - Sat 8 Jun 1996
-    - Bielefeld, Bochum, CZ Jena, Chemnitz, Duisburg, F Koln, Hannover, Hertha, Leipzig, Lubeck, Mainz, Mannheim, Meppen, Nurnberg, Unterhaching, Wattenscheid, Wolfsburg, Zwickau
-      - (++) new in season 1995-96: (6) Bielefeld, Bochum, CZ Jena, Duisburg, Lubeck, Unterhaching
-      - (--) out up/down: (6) Dusseldorf, FSV Frankfurt, Hansa Rostock, Homburg, Saarbrucken, St Pauli
+    - 1. FC Nürnberg, 1. FSV Mainz 05, Arminia Bielefeld, Chemnitzer FC, FC Carl Zeiss Jena, FSV Zwickau, Fortuna Köln, Hannover 96, Hertha BSC, Lübeck, MSV Duisburg, SG Wattenscheid 09, SV Meppen, SpVgg Unterhaching, VfB Leipzig, VfL Bochum, VfL Wolfsburg, VfR Mannheim
+      - (++) new in season 1995-96: (6) Arminia Bielefeld, FC Carl Zeiss Jena, Lübeck, MSV Duisburg, SpVgg Unterhaching, VfL Bochum
+      - (--) out up/down: (6) 1. FC Saarbrücken, FC 08 Homburg, FC St. Pauli, FSV Frankfurt, Fortuna Düsseldorf, Hansa Rostock
 
 1994-95 - 2 levels (1 2)
   - 1: [`1994-95/1-bundesliga.csv`](1994-95/1-bundesliga.csv) -  18 teams,  306 matches,  918 goals,  34 rounds,  Fri 19 Aug 1994 - Sat 17 Jun 1995
-    - Bayern Munich, Bochum, Dortmund, Dresden, Duisburg, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Kaiserslautern, Karlsruhe, Leverkusen, M'gladbach, Munich 1860, Schalke 04, Stuttgart, Uerdingen, Werder Bremen
-      - (++) new in season 1994-95: (4) Bochum, M'gladbach, Munich 1860, Uerdingen
-      - (--) out down: (4) Leipzig, M'Gladbach, Nurnberg, Wattenscheid
+    - 1. FC Kaiserslautern, 1. FC Köln, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Dynamo Dresden, Eintracht Frankfurt, FC Schalke 04, Hamburger SV, KFC Uerdingen, Karlsruher SC, MSV Duisburg, SC Freiburg, TSV 1860 München, VfB Stuttgart, VfL Bochum, Werder Bremen
+      - (++) new in season 1994-95: (3) KFC Uerdingen, TSV 1860 München, VfL Bochum
+      - (--) out down: (3) 1. FC Nürnberg, SG Wattenscheid 09, VfB Leipzig
 
   - 2: [`1994-95/2-bundesliga2.csv`](1994-95/2-bundesliga2.csv) -  18 teams,  306 matches,  858 goals,  34 rounds,  Sat 20 Aug 1994 - Sun 18 Jun 1995
-    - Chemnitz, Dusseldorf, F Koln, FSV Frankfurt, Hannover, Hansa Rostock, Hertha, Homburg, Leipzig, Mainz, Mannheim, Meppen, Nurnberg, Saarbrucken, St Pauli, Wattenscheid, Wolfsburg, Zwickau
-      - (++) new in season 1994-95: (6) Dusseldorf, FSV Frankfurt, Leipzig, Nurnberg, Wattenscheid, Zwickau
-      - (--) out up/down: (8) Bochum, CZ Jena, Munich 1860, RW Essen, Stuttgarter K, TB Berlin, Uerdingen, Wuppertaler
+    - 1. FC Nürnberg, 1. FC Saarbrücken, 1. FSV Mainz 05, Chemnitzer FC, FC 08 Homburg, FC St. Pauli, FSV Frankfurt, FSV Zwickau, Fortuna Düsseldorf, Fortuna Köln, Hannover 96, Hansa Rostock, Hertha BSC, SG Wattenscheid 09, SV Meppen, VfB Leipzig, VfL Wolfsburg, VfR Mannheim
+      - (++) new in season 1994-95: (6) 1. FC Nürnberg, FSV Frankfurt, FSV Zwickau, Fortuna Düsseldorf, SG Wattenscheid 09, VfB Leipzig
+      - (--) out up/down: (8) FC Carl Zeiss Jena, KFC Uerdingen, Rot-Weiss Essen, Stuttgarter Kickers, TSV 1860 München, Tennis Borussia Berlin, VfL Bochum, Wuppertaler SV
 
 1993-94 - 2 levels (1 2)
   - 1: [`1993-94/1-bundesliga.csv`](1993-94/1-bundesliga.csv) -  18 teams,  306 matches,  895 goals,  34 rounds,  Sat 7 Aug 1993 - Sat 7 May 1994
-    - Bayern Munich, Dortmund, Dresden, Duisburg, Ein Frankfurt, FC Koln, Freiburg, Hamburg, Kaiserslautern, Karlsruhe, Leipzig, Leverkusen, M'Gladbach, Nurnberg, Schalke 04, Stuttgart, Wattenscheid, Werder Bremen
+    - 1. FC Kaiserslautern, 1. FC Köln, 1. FC Nürnberg, Bayer 04 Leverkusen, Bayern München, Bor. Mönchengladbach, Borussia Dortmund, Dynamo Dresden, Eintracht Frankfurt, FC Schalke 04, Hamburger SV, Karlsruher SC, MSV Duisburg, SC Freiburg, SG Wattenscheid 09, VfB Leipzig, VfB Stuttgart, Werder Bremen
   - 2: [`1993-94/2-bundesliga2.csv`](1993-94/2-bundesliga2.csv) -  20 teams,  380 matches,  949 goals,  38 rounds,  Wed 28 Jul 1993 - Sat 11 Jun 1994
-    - Bochum, CZ Jena, Chemnitz, F Koln, Hannover, Hansa Rostock, Hertha, Homburg, Mainz, Mannheim, Meppen, Munich 1860, RW Essen, Saarbrucken, St Pauli, Stuttgarter K, TB Berlin, Uerdingen, Wolfsburg, Wuppertaler
+    - 1. FC Saarbrücken, 1. FSV Mainz 05, Chemnitzer FC, FC 08 Homburg, FC Carl Zeiss Jena, FC St. Pauli, Fortuna Köln, Hannover 96, Hansa Rostock, Hertha BSC, KFC Uerdingen, Rot-Weiss Essen, SV Meppen, Stuttgarter Kickers, TSV 1860 München, Tennis Borussia Berlin, VfL Bochum, VfL Wolfsburg, VfR Mannheim, Wuppertaler SV
 
 
 
@@ -379,488 +382,460 @@ level 2 - 25 seasons:
 ## Teams
 
 ```
-  83 teams:
-    [1]   x Aachen (???)                 ::  442 matches in  13 seasons / 2 levels - 1 (1)     2 (12)    
-    [2]   x Aalen (???)                  ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
-    [3]   x Ahlen (???)                  ::  272 matches in   8 seasons / 1 levels -    x      2 (8)     
-    [4]   x Augsburg (???)               ::  408 matches in  12 seasons / 2 levels - 1 (7)     2 (5)     
-    [5]   x Babelsberg (???)             ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
-    [6]   x Bayern Munich (???)          ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
-    [7]   x Bielefeld (???)              ::  680 matches in  20 seasons / 2 levels - 1 (9)     2 (11)    
-    [8]   x Bochum (???)                 ::  854 matches in  25 seasons / 2 levels - 1 (12)    2 (13)    
-    [9]   x Braunschweig (???)           ::  340 matches in  10 seasons / 2 levels - 1 (1)     2 (9)     
-   [10]   x Burghausen (???)             ::  170 matches in   5 seasons / 1 levels -    x      2 (5)     
-   [11]   x CZ Jena (???)                ::  208 matches in   6 seasons / 1 levels -    x      2 (6)     
-   [12]   x Chemnitz (???)               ::  174 matches in   5 seasons / 1 levels -    x      2 (5)     
-   [13]   x Cottbus (???)                ::  578 matches in  17 seasons / 2 levels - 1 (6)     2 (11)    
-   [14]   x Darmstadt (???)              ::  136 matches in   4 seasons / 2 levels - 1 (2)     2 (2)     
-   [15]   x Dortmund (???)               ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
-   [16]   x Dresden (???)                ::  306 matches in   9 seasons / 2 levels - 1 (2)     2 (7)     
-   [17]   x Duisburg (???)               ::  748 matches in  22 seasons / 2 levels - 1 (8)     2 (14)    
-   [18]   x Dusseldorf (???)             ::  170 matches in   5 seasons / 2 levels - 1 (2)     2 (3)     
-   [19]   x Ein Frankfurt (???)          ::  850 matches in  25 seasons / 2 levels - 1 (19)    2 (6)     
-   [20]   x Ein Trier (???)              ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
-   [21]   x Erfurt (???)                 ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [22]   x Erzgebirge Aue (???)         ::  408 matches in  12 seasons / 1 levels -    x      2 (12)    
-   [23]   x Essen (???)                  ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
-   [24]   x F Koln (???)                 ::  242 matches in   7 seasons / 1 levels -    x      2 (7)     
-   [25]   x FC Koln (???)                ::  850 matches in  25 seasons / 2 levels - 1 (17)    2 (8)     
-   [26]   x FSV Frankfurt (???)          ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [27]   x Fortuna Dusseldorf (???)     ::  306 matches in   9 seasons / 2 levels - 1 (1)     2 (8)     
-   [28]   x Frankfurt FSV (???)          ::  272 matches in   8 seasons / 1 levels -    x      2 (8)     
-   [29]   x Freiburg (???)               ::  850 matches in  25 seasons / 2 levels - 1 (18)    2 (7)     
-   [30]   x Greuther Furth (???)         ::  714 matches in  21 seasons / 2 levels - 1 (1)     2 (20)    
-   [31]   x Gutersloh (???)              ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
-   [32]   x Hamburg (???)                ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
-   [33]   x Hannover (???)               ::  786 matches in  23 seasons / 2 levels - 1 (15)    2 (8)     
-   [34]   x Hansa Rostock (???)          ::  616 matches in  18 seasons / 2 levels - 1 (11)    2 (7)     
-   [35]   x Heidenheim (???)             ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
-   [36]   x Hertha (???)                 ::  854 matches in  25 seasons / 2 levels - 1 (19)    2 (6)     
-   [37]   x Hoffenheim (???)             ::  374 matches in  11 seasons / 2 levels - 1 (10)    2 (1)     
-   [38]   x Holstein Kiel (???)          ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [39]   x Homburg (???)                ::   72 matches in   2 seasons / 1 levels -    x      2 (2)     
-   [40]   x Ingolstadt (???)             ::  306 matches in   9 seasons / 2 levels - 1 (2)     2 (7)     
-   [41]   x Kaiserslautern (???)         ::  850 matches in  25 seasons / 2 levels - 1 (14)    2 (11)    
-   [42]   x Karlsruhe (???)              ::  748 matches in  22 seasons / 2 levels - 1 (7)     2 (15)    
-   [43]   x Koblenz (???)                ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
-   [44]   x Leipzig (???)                ::  170 matches in   5 seasons / 2 levels - 1 (1)     2 (4)     
-   [45]   x Leverkusen (???)             ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
-   [46]   x Lubeck (???)                 ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
-   [47]   x M'Gladbach (???)             ::   34 matches in   1 seasons / 1 levels - 1 (1)        x      
-   [48]   x M'gladbach (???)             ::  816 matches in  24 seasons / 2 levels - 1 (21)    2 (3)     
-   [49]   x Mainz (???)                  ::  854 matches in  25 seasons / 2 levels - 1 (12)    2 (13)    
-   [50]   x Mannheim (???)               ::  276 matches in   8 seasons / 1 levels -    x      2 (8)     
-   [51]   x Meppen (???)                 ::  174 matches in   5 seasons / 1 levels -    x      2 (5)     
-   [52]   x Munich 1860 (???)            ::  820 matches in  24 seasons / 2 levels - 1 (10)    2 (14)    
-   [53]   x Nurnberg (???)               ::  816 matches in  24 seasons / 2 levels - 1 (13)    2 (11)    
-   [54]   x Oberhausen (???)             ::  340 matches in  10 seasons / 1 levels -    x      2 (10)    
-   [55]   x Offenbach (???)              ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
-   [56]   x Oldenburg (???)              ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [57]   x Osnabruck (???)              ::  170 matches in   5 seasons / 1 levels -    x      2 (5)     
-   [58]   x Paderborn (???)              ::  340 matches in  10 seasons / 2 levels - 1 (1)     2 (9)     
-   [59]   x RB Leipzig (???)             ::  136 matches in   4 seasons / 2 levels - 1 (2)     2 (2)     
-   [60]   x RW Essen (???)               ::   38 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [61]   x Regensburg (???)             ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
-   [62]   x Reutlingen (???)             ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
-   [63]   x Saarbrucken (???)            ::  208 matches in   6 seasons / 1 levels -    x      2 (6)     
-   [64]   x Sandhausen (???)             ::  204 matches in   6 seasons / 1 levels -    x      2 (6)     
-   [65]   x Schalke 04 (???)             ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
-   [66]   x Schweinfurt (???)            ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [67]   x Siegen (???)                 ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [68]   x St Pauli (???)               ::  717 matches in  21 seasons / 2 levels - 1 (4)     2 (17)    
-   [69]   x St. Pauli (???)              ::    1 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [70]   x Stuttgart (???)              ::  850 matches in  25 seasons / 2 levels - 1 (24)    2 (1)     
-   [71]   x Stuttgarter K (???)          ::  208 matches in   6 seasons / 1 levels -    x      2 (6)     
-   [72]   x TB Berlin (???)              ::  106 matches in   3 seasons / 1 levels -    x      2 (3)     
-   [73]   x Uerdingen (???)              ::  208 matches in   6 seasons / 2 levels - 1 (2)     2 (4)     
-   [74]   x Ulm (???)                    ::  102 matches in   3 seasons / 2 levels - 1 (1)     2 (2)     
-   [75]   x Union Berlin (???)           ::  408 matches in  12 seasons / 1 levels -    x      2 (12)    
-   [76]   x Unterhaching (???)           ::  374 matches in  11 seasons / 2 levels - 1 (2)     2 (9)     
-   [77]   x Wattenscheid (???)           ::  170 matches in   5 seasons / 2 levels - 1 (1)     2 (4)     
-   [78]   x Wehen (???)                  ::   68 matches in   2 seasons / 1 levels -    x      2 (2)     
-   [79]   x Werder Bremen (???)          ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
-   [80]   x Wolfsburg (???)              ::  854 matches in  25 seasons / 2 levels - 1 (21)    2 (4)     
-   [81]   x Wuppertaler (???)            ::   38 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [82]   x Wurzburger Kickers (???)     ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
-   [83]   x Zwickau (???)                ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
+  78 teams:
+    [1]  1. FC Heidenheim                ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
+    [2]  1. FC Kaiserslautern            ::  850 matches in  25 seasons / 2 levels - 1 (14)    2 (11)    
+    [3]  1. FC Köln                      ::  850 matches in  25 seasons / 2 levels - 1 (17)    2 (8)     
+    [4]  1. FC Nürnberg                  ::  816 matches in  24 seasons / 2 levels - 1 (13)    2 (11)    
+    [5]  1. FC Saarbrücken               ::  208 matches in   6 seasons / 1 levels -    x      2 (6)     
+    [6]  1. FC Schweinfurt 05            ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
+    [7]  1. FC Union Berlin              ::  408 matches in  12 seasons / 1 levels -    x      2 (12)    
+    [8]  1. FSV Mainz 05                 ::  854 matches in  25 seasons / 2 levels - 1 (12)    2 (13)    
+    [9]  Alemannia Aachen                ::  442 matches in  13 seasons / 2 levels - 1 (1)     2 (12)    
+   [10]  Arminia Bielefeld               ::  680 matches in  20 seasons / 2 levels - 1 (9)     2 (11)    
+   [11]  Bayer 04 Leverkusen             ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
+   [12]  Bayern München                  ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
+   [13]  Bor. Mönchengladbach            ::  850 matches in  25 seasons / 2 levels - 1 (22)    2 (3)     
+   [14]  Borussia Dortmund               ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
+   [15]  Chemnitzer FC                   ::  174 matches in   5 seasons / 1 levels -    x      2 (5)     
+   [16]  Dynamo Dresden                  ::  306 matches in   9 seasons / 2 levels - 1 (2)     2 (7)     
+   [17]  Eintracht Braunschweig          ::  340 matches in  10 seasons / 2 levels - 1 (1)     2 (9)     
+   [18]  Eintracht Frankfurt             ::  850 matches in  25 seasons / 2 levels - 1 (19)    2 (6)     
+   [19]  Eintracht Trier                 ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
+   [20]  Energie Cottbus                 ::  578 matches in  17 seasons / 2 levels - 1 (6)     2 (11)    
+   [21]  FC 08 Homburg                   ::   72 matches in   2 seasons / 1 levels -    x      2 (2)     
+   [22]  FC Augsburg                     ::  408 matches in  12 seasons / 2 levels - 1 (7)     2 (5)     
+   [23]  FC Carl Zeiss Jena              ::  208 matches in   6 seasons / 1 levels -    x      2 (6)     
+   [24]  FC Erzgebirge Aue               ::  408 matches in  12 seasons / 1 levels -    x      2 (12)    
+   [25]  FC Ingolstadt 04                ::  306 matches in   9 seasons / 2 levels - 1 (2)     2 (7)     
+   [26]  FC Rot-Weiß Erfurt              ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
+   [27]  FC Schalke 04                   ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
+   [28]  FC St. Pauli                    ::  718 matches in  21 seasons / 2 levels - 1 (4)     2 (17)    
+   [29]  FSV Frankfurt                   ::  306 matches in   9 seasons / 1 levels -    x      2 (9)     
+   [30]  FSV Zwickau                     ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
+   [31]  Fortuna Düsseldorf              ::  476 matches in  14 seasons / 2 levels - 1 (3)     2 (11)    
+   [32]  Fortuna Köln                    ::  242 matches in   7 seasons / 1 levels -    x      2 (7)     
+   [33]  Greuther Fürth                  ::  714 matches in  21 seasons / 2 levels - 1 (1)     2 (20)    
+   [34]  Gütersloh                       ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
+   [35]  Hamburger SV                    ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
+   [36]  Hannover 96                     ::  786 matches in  23 seasons / 2 levels - 1 (15)    2 (8)     
+   [37]  Hansa Rostock                   ::  616 matches in  18 seasons / 2 levels - 1 (11)    2 (7)     
+   [38]  Hertha BSC                      ::  854 matches in  25 seasons / 2 levels - 1 (19)    2 (6)     
+   [39]  Holstein Kiel                   ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
+   [40]  KFC Uerdingen                   ::  208 matches in   6 seasons / 2 levels - 1 (2)     2 (4)     
+   [41]  Karlsruher SC                   ::  748 matches in  22 seasons / 2 levels - 1 (7)     2 (15)    
+   [42]  Kickers Offenbach               ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
+   [43]  Lübeck                          ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
+   [44]  MSV Duisburg                    ::  748 matches in  22 seasons / 2 levels - 1 (8)     2 (14)    
+   [45]  Osnabrück                       ::  170 matches in   5 seasons / 1 levels -    x      2 (5)     
+   [46]  RB Leipzig                      ::  136 matches in   4 seasons / 2 levels - 1 (2)     2 (2)     
+   [47]  Rot Weiss Ahlen                 ::  272 matches in   8 seasons / 1 levels -    x      2 (8)     
+   [48]  Rot-Weiss Essen                 ::  140 matches in   4 seasons / 1 levels -    x      2 (4)     
+   [49]  Rot-Weiß Oberhausen             ::  340 matches in  10 seasons / 1 levels -    x      2 (10)    
+   [50]  SC Freiburg                     ::  850 matches in  25 seasons / 2 levels - 1 (18)    2 (7)     
+   [51]  SC Paderborn 07                 ::  340 matches in  10 seasons / 2 levels - 1 (1)     2 (9)     
+   [52]  SG Wattenscheid 09              ::  170 matches in   5 seasons / 2 levels - 1 (1)     2 (4)     
+   [53]  SSV Jahn Regensburg             ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
+   [54]  SSV Reutlingen 05               ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
+   [55]  SSV Ulm 1846                    ::  102 matches in   3 seasons / 2 levels - 1 (1)     2 (2)     
+   [56]  SV Babelsberg 03                ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
+   [57]  SV Darmstadt 98                 ::  136 matches in   4 seasons / 2 levels - 1 (2)     2 (2)     
+   [58]  SV Meppen                       ::  174 matches in   5 seasons / 1 levels -    x      2 (5)     
+   [59]  SV Sandhausen                   ::  204 matches in   6 seasons / 1 levels -    x      2 (6)     
+   [60]  SV Wehen Wiesbaden              ::   68 matches in   2 seasons / 1 levels -    x      2 (2)     
+   [61]  SpVgg Unterhaching              ::  374 matches in  11 seasons / 2 levels - 1 (2)     2 (9)     
+   [62]  Sportfreunde Siegen             ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
+   [63]  Stuttgarter Kickers             ::  208 matches in   6 seasons / 1 levels -    x      2 (6)     
+   [64]  TSG 1899 Hoffenheim             ::  374 matches in  11 seasons / 2 levels - 1 (10)    2 (1)     
+   [65]  TSV 1860 München                ::  820 matches in  24 seasons / 2 levels - 1 (10)    2 (14)    
+   [66]  Tennis Borussia Berlin          ::  106 matches in   3 seasons / 1 levels -    x      2 (3)     
+   [67]  TuS Koblenz                     ::  136 matches in   4 seasons / 1 levels -    x      2 (4)     
+   [68]  VfB Leipzig                     ::  170 matches in   5 seasons / 2 levels - 1 (1)     2 (4)     
+   [69]  VfB Oldenburg                   ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
+   [70]  VfB Stuttgart                   ::  850 matches in  25 seasons / 2 levels - 1 (24)    2 (1)     
+   [71]  VfL Bochum                      ::  854 matches in  25 seasons / 2 levels - 1 (12)    2 (13)    
+   [72]  VfL Wolfsburg                   ::  854 matches in  25 seasons / 2 levels - 1 (21)    2 (4)     
+   [73]  VfR Aalen                       ::  102 matches in   3 seasons / 1 levels -    x      2 (3)     
+   [74]  VfR Mannheim                    ::  276 matches in   8 seasons / 1 levels -    x      2 (8)     
+   [75]  Wacker Burghausen               ::  170 matches in   5 seasons / 1 levels -    x      2 (5)     
+   [76]  Werder Bremen                   ::  850 matches in  25 seasons / 1 levels - 1 (25)       x      
+   [77]  Wuppertaler SV                  ::   38 matches in   1 seasons / 1 levels -    x      2 (1)     
+   [78]  Würzburger Kickers              ::   34 matches in   1 seasons / 1 levels -    x      2 (1)     
 ```
 
 
 ### Team Name Mappings
 
-83 missing / unknown / (???) teams:
-Aachen, Aalen, Ahlen, Augsburg, Babelsberg, Bayern Munich, Bielefeld, Bochum, Braunschweig, Burghausen, CZ Jena, Chemnitz, Cottbus, Darmstadt, Dortmund, Dresden, Duisburg, Dusseldorf, Ein Frankfurt, Ein Trier, Erfurt, Erzgebirge Aue, Essen, F Koln, FC Koln, FSV Frankfurt, Fortuna Dusseldorf, Frankfurt FSV, Freiburg, Greuther Furth, Gutersloh, Hamburg, Hannover, Hansa Rostock, Heidenheim, Hertha, Hoffenheim, Holstein Kiel, Homburg, Ingolstadt, Kaiserslautern, Karlsruhe, Koblenz, Leipzig, Leverkusen, Lubeck, M'Gladbach, M'gladbach, Mainz, Mannheim, Meppen, Munich 1860, Nurnberg, Oberhausen, Offenbach, Oldenburg, Osnabruck, Paderborn, RB Leipzig, RW Essen, Regensburg, Reutlingen, Saarbrucken, Sandhausen, Schalke 04, Schweinfurt, Siegen, St Pauli, St. Pauli, Stuttgart, Stuttgarter K, TB Berlin, Uerdingen, Ulm, Union Berlin, Unterhaching, Wattenscheid, Wehen, Werder Bremen, Wolfsburg, Wuppertaler, Wurzburger Kickers, Zwickau
 
 
 ```
-Aachen                 =>
-Aalen                  =>
-Ahlen                  =>
-Augsburg               =>
-Babelsberg             =>
-Bayern Munich          =>
-Bielefeld              =>
-Bochum                 =>
-Braunschweig           =>
-Burghausen             =>
-CZ Jena                =>
-Chemnitz               =>
-Cottbus                =>
-Darmstadt              =>
-Dortmund               =>
-Dresden                =>
-Duisburg               =>
-Dusseldorf             =>
-Ein Frankfurt          =>
-Ein Trier              =>
-Erfurt                 =>
-Erzgebirge Aue         =>
-Essen                  =>
-F Koln                 =>
-FC Koln                =>
-FSV Frankfurt          =>
-Fortuna Dusseldorf     =>
-Frankfurt FSV          =>
-Freiburg               =>
-Greuther Furth         =>
-Gutersloh              =>
-Hamburg                =>
-Hannover               =>
-Hansa Rostock          =>
-Heidenheim             =>
-Hertha                 =>
-Hoffenheim             =>
-Holstein Kiel          =>
-Homburg                =>
-Ingolstadt             =>
-Kaiserslautern         =>
-Karlsruhe              =>
-Koblenz                =>
-Leipzig                =>
-Leverkusen             =>
-Lubeck                 =>
-M'Gladbach             =>
-M'gladbach             =>
-Mainz                  =>
-Mannheim               =>
-Meppen                 =>
-Munich 1860            =>
-Nurnberg               =>
-Oberhausen             =>
-Offenbach              =>
-Oldenburg              =>
-Osnabruck              =>
-Paderborn              =>
-RB Leipzig             =>
-RW Essen               =>
-Regensburg             =>
-Reutlingen             =>
-Saarbrucken            =>
-Sandhausen             =>
-Schalke 04             =>
-Schweinfurt            =>
-Siegen                 =>
-St Pauli               =>
-St. Pauli              =>
-Stuttgart              =>
-Stuttgarter K          =>
-TB Berlin              =>
-Uerdingen              =>
-Ulm                    =>
-Union Berlin           =>
-Unterhaching           =>
-Wattenscheid           =>
-Wehen                  =>
-Werder Bremen          =>
-Wolfsburg              =>
-Wuppertaler            =>
-Wurzburger Kickers     =>
-Zwickau                =>
-```
-
-
-
-```
- x Aachen (???)
- x Aalen (???)
- x Ahlen (???)
- x Augsburg (???)
- x Babelsberg (???)
- x Bayern Munich (???)
- x Bielefeld (???)
- x Bochum (???)
- x Braunschweig (???)
- x Burghausen (???)
- x CZ Jena (???)
- x Chemnitz (???)
- x Cottbus (???)
- x Darmstadt (???)
- x Dortmund (???)
- x Dresden (???)
- x Duisburg (???)
- x Dusseldorf (???)
- x Ein Frankfurt (???)
- x Ein Trier (???)
- x Erfurt (???)
- x Erzgebirge Aue (???)
- x Essen (???)
- x F Koln (???)
- x FC Koln (???)
- x FSV Frankfurt (???)
- x Fortuna Dusseldorf (???)
- x Frankfurt FSV (???)
- x Freiburg (???)
- x Greuther Furth (???)
- x Gutersloh (???)
- x Hamburg (???)
- x Hannover (???)
- x Hansa Rostock (???)
- x Heidenheim (???)
- x Hertha (???)
- x Hoffenheim (???)
- x Holstein Kiel (???)
- x Homburg (???)
- x Ingolstadt (???)
- x Kaiserslautern (???)
- x Karlsruhe (???)
- x Koblenz (???)
- x Leipzig (???)
- x Leverkusen (???)
- x Lubeck (???)
- x M'Gladbach (???)
- x M'gladbach (???)
- x Mainz (???)
- x Mannheim (???)
- x Meppen (???)
- x Munich 1860 (???)
- x Nurnberg (???)
- x Oberhausen (???)
- x Offenbach (???)
- x Oldenburg (???)
- x Osnabruck (???)
- x Paderborn (???)
- x RB Leipzig (???)
- x RW Essen (???)
- x Regensburg (???)
- x Reutlingen (???)
- x Saarbrucken (???)
- x Sandhausen (???)
- x Schalke 04 (???)
- x Schweinfurt (???)
- x Siegen (???)
- x St Pauli (???)
- x St. Pauli (???)
- x Stuttgart (???)
- x Stuttgarter K (???)
- x TB Berlin (???)
- x Uerdingen (???)
- x Ulm (???)
- x Union Berlin (???)
- x Unterhaching (???)
- x Wattenscheid (???)
- x Wehen (???)
- x Werder Bremen (???)
- x Wolfsburg (???)
- x Wuppertaler (???)
- x Wurzburger Kickers (???)
- x Zwickau (???)
+1. FC Heidenheim            => Heidenheim
+1. FC Kaiserslautern        => Kaiserslautern
+1. FC Köln                  => (2) FC Koln • 1. FC Koeln
+1. FC Nürnberg              => (2) Nurnberg • 1. FC Nuernberg
+1. FC Saarbrücken           => (2) Saarbrucken • 1. FC Saarbruecken
+1. FC Schweinfurt 05        => Schweinfurt
+1. FC Union Berlin          => Union Berlin
+1. FSV Mainz 05             => Mainz
+Alemannia Aachen            => Aachen
+Arminia Bielefeld           => Bielefeld
+Bayer 04 Leverkusen         => Leverkusen
+Bayern München              => (2) Bayern Munich • Bayern Muenchen
+Bor. Mönchengladbach        => (3) M'gladbach • M'Gladbach • Bor. Moenchengladbach
+Borussia Dortmund           => Dortmund
+Chemnitzer FC               => Chemnitz
+Dynamo Dresden              => Dresden
+Eintracht Braunschweig      => Braunschweig
+Eintracht Frankfurt         => Ein Frankfurt
+Eintracht Trier             => Ein Trier
+Energie Cottbus             => Cottbus
+FC 08 Homburg               => Homburg
+FC Augsburg                 => Augsburg
+FC Carl Zeiss Jena          => CZ Jena
+FC Erzgebirge Aue           => Erzgebirge Aue
+FC Ingolstadt 04            => Ingolstadt
+FC Rot-Weiß Erfurt          => Erfurt
+FC Schalke 04               => Schalke 04
+FC St. Pauli                => (2) St Pauli • St. Pauli
+FSV Frankfurt               => Frankfurt FSV
+FSV Zwickau                 => Zwickau
+Fortuna Düsseldorf          => (3) Dusseldorf • Fortuna Dusseldorf • Fortuna Duesseldorf
+Fortuna Köln                => F Koln
+Greuther Fürth              => Greuther Furth
+Gütersloh                   => Gutersloh
+Hamburger SV                => Hamburg
+Hannover 96                 => Hannover
+Hansa Rostock               
+Hertha BSC                  => Hertha
+Holstein Kiel               
+KFC Uerdingen               => Uerdingen
+Karlsruher SC               => Karlsruhe
+Kickers Offenbach           => Offenbach
+Lübeck                      => Lubeck
+MSV Duisburg                => Duisburg
+Osnabrück                   => Osnabruck
+RB Leipzig                  
+Rot Weiss Ahlen             => Ahlen
+Rot-Weiss Essen             => (2) Essen • RW Essen
+Rot-Weiß Oberhausen         => Oberhausen
+SC Freiburg                 => Freiburg
+SC Paderborn 07             => Paderborn
+SG Wattenscheid 09          => Wattenscheid
+SSV Jahn Regensburg         => Regensburg
+SSV Reutlingen 05           => Reutlingen
+SSV Ulm 1846                => Ulm
+SV Babelsberg 03            => Babelsberg
+SV Darmstadt 98             => Darmstadt
+SV Meppen                   => Meppen
+SV Sandhausen               => Sandhausen
+SV Wehen Wiesbaden          => Wehen
+SpVgg Unterhaching          => Unterhaching
+Sportfreunde Siegen         => Siegen
+Stuttgarter Kickers         => Stuttgarter K
+TSG 1899 Hoffenheim         => Hoffenheim
+TSV 1860 München            => (2) Munich 1860 • TSV 1860 Muenchen
+Tennis Borussia Berlin      => TB Berlin
+TuS Koblenz                 => Koblenz
+VfB Leipzig                 => Leipzig
+VfB Oldenburg               => Oldenburg
+VfB Stuttgart               => Stuttgart
+VfL Bochum                  => Bochum
+VfL Wolfsburg               => Wolfsburg
+VfR Aalen                   => Aalen
+VfR Mannheim                => Mannheim
+Wacker Burghausen           => Burghausen
+Werder Bremen               
+Wuppertaler SV              => Wuppertaler
+Würzburger Kickers          => Wurzburger Kickers
 ```
 
 
 
 ### Teams by City
 
-83 missing / unknown / (???) teams:
-Aachen, Aalen, Ahlen, Augsburg, Babelsberg, Bayern Munich, Bielefeld, Bochum, Braunschweig, Burghausen, CZ Jena, Chemnitz, Cottbus, Darmstadt, Dortmund, Dresden, Duisburg, Dusseldorf, Ein Frankfurt, Ein Trier, Erfurt, Erzgebirge Aue, Essen, F Koln, FC Koln, FSV Frankfurt, Fortuna Dusseldorf, Frankfurt FSV, Freiburg, Greuther Furth, Gutersloh, Hamburg, Hannover, Hansa Rostock, Heidenheim, Hertha, Hoffenheim, Holstein Kiel, Homburg, Ingolstadt, Kaiserslautern, Karlsruhe, Koblenz, Leipzig, Leverkusen, Lubeck, M'Gladbach, M'gladbach, Mainz, Mannheim, Meppen, Munich 1860, Nurnberg, Oberhausen, Offenbach, Oldenburg, Osnabruck, Paderborn, RB Leipzig, RW Essen, Regensburg, Reutlingen, Saarbrucken, Sandhausen, Schalke 04, Schweinfurt, Siegen, St Pauli, St. Pauli, Stuttgart, Stuttgarter K, TB Berlin, Uerdingen, Ulm, Union Berlin, Unterhaching, Wattenscheid, Wehen, Werder Bremen, Wolfsburg, Wuppertaler, Wurzburger Kickers, Zwickau
-
+- **Berlin › Berlin** (3): 
+  - 1. FC Union Berlin  (1) Union Berlin
+  - Hertha BSC  (1) Hertha
+  - Tennis Borussia Berlin  (1) TB Berlin
+- **Bochum › Nordrhein-Westfalen** (2): 
+  - SG Wattenscheid 09  (1) Wattenscheid
+  - VfL Bochum  (1) Bochum
+- **Frankfurt am Main › Hessen** (2): 
+  - Eintracht Frankfurt  (1) Ein Frankfurt
+  - FSV Frankfurt  (1) Frankfurt FSV
+- **Hamburg › Hamburg** (2): 
+  - FC St. Pauli  (2) St Pauli • St. Pauli
+  - Hamburger SV  (1) Hamburg
+- **Köln › Nordrhein-Westfalen** (2): 
+  - 1. FC Köln  (2) FC Koln • 1. FC Koeln
+  - Fortuna Köln  (1) F Koln
+- **Leipzig › Sachsen** (2): 
+  - RB Leipzig 
+  - VfB Leipzig  (1) Leipzig
+- **München › Bayern** (2): 
+  - Bayern München  (2) Bayern Munich • Bayern Muenchen
+  - TSV 1860 München  (2) Munich 1860 • TSV 1860 Muenchen
+- **Stuttgart › Baden-Württemberg** (2): 
+  - Stuttgarter Kickers  (1) Stuttgarter K
+  - VfB Stuttgart  (1) Stuttgart
+- **Aachen › Nordrhein-Westfalen** (1): Alemannia Aachen  (1) Aachen
+- **Aalen › Baden-Württemberg** (1): VfR Aalen  (1) Aalen
+- **Ahlen › Nordrhein-Westfalen** (1): Rot Weiss Ahlen  (1) Ahlen
+- **Aue › Sachsen** (1): FC Erzgebirge Aue  (1) Erzgebirge Aue
+- **Augsburg › Bayern** (1): FC Augsburg  (1) Augsburg
+- **Bielefeld › Nordrhein-Westfalen** (1): Arminia Bielefeld  (1) Bielefeld
+- **Braunschweig › Niedersachsen** (1): Eintracht Braunschweig  (1) Braunschweig
+- **Bremen › Bremen** (1): Werder Bremen 
+- **Burghausen › Bayern** (1): Wacker Burghausen  (1) Burghausen
+- **Chemnitz › Sachsen** (1): Chemnitzer FC  (1) Chemnitz
+- **Cottbus › Brandenburg** (1): Energie Cottbus  (1) Cottbus
+- **Darmstadt › Hessen** (1): SV Darmstadt 98  (1) Darmstadt
+- **Dortmund › Nordrhein-Westfalen** (1): Borussia Dortmund  (1) Dortmund
+- **Dresden › Sachsen** (1): Dynamo Dresden  (1) Dresden
+- **Duisburg › Nordrhein-Westfalen** (1): MSV Duisburg  (1) Duisburg
+- **Düsseldorf › Nordrhein-Westfalen** (1): Fortuna Düsseldorf  (3) Dusseldorf • Fortuna Dusseldorf • Fortuna Duesseldorf
+- **Erfurt › Thüringen** (1): FC Rot-Weiß Erfurt  (1) Erfurt
+- **Essen › Nordrhein-Westfalen** (1): Rot-Weiss Essen  (2) Essen • RW Essen
+- **Freiburg › Baden-Württemberg** (1): SC Freiburg  (1) Freiburg
+- **Fürth › Bayern** (1): Greuther Fürth  (1) Greuther Furth
+- **Gelsenkirchen › Nordrhein-Westfalen** (1): FC Schalke 04  (1) Schalke 04
+- **Gütersloh › Nordrhein-Westfalen** (1): Gütersloh  (1) Gutersloh
+- **Hannover › Niedersachsen** (1): Hannover 96  (1) Hannover
+- **Heidenheim an der Brenz › Baden-Württemberg** (1): 1. FC Heidenheim  (1) Heidenheim
+- **Homburg › Saarland** (1): FC 08 Homburg  (1) Homburg
+- **Ingolstadt › Bayern** (1): FC Ingolstadt 04  (1) Ingolstadt
+- **Jena › Thüringen** (1): FC Carl Zeiss Jena  (1) CZ Jena
+- **Kaiserslautern › Rheinland-Pfalz** (1): 1. FC Kaiserslautern  (1) Kaiserslautern
+- **Karlsruhe › Baden-Württemberg** (1): Karlsruher SC  (1) Karlsruhe
+- **Kiel › Schleswig-Holstein** (1): Holstein Kiel 
+- **Koblenz › Rheinland-Pfalz** (1): TuS Koblenz  (1) Koblenz
+- **Krefeld › Nordrhein-Westfalen** (1): KFC Uerdingen  (1) Uerdingen
+- **Leverkusen › Nordrhein-Westfalen** (1): Bayer 04 Leverkusen  (1) Leverkusen
+- **Lübeck › Schleswig-Holstein** (1): Lübeck  (1) Lubeck
+- **Mainz › Rheinland-Pfalz** (1): 1. FSV Mainz 05  (1) Mainz
+- **Mannheim › Baden-Württemberg** (1): VfR Mannheim  (1) Mannheim
+- **Meppen › Niedersachsen** (1): SV Meppen  (1) Meppen
+- **Mönchengladbach › Nordrhein-Westfalen** (1): Bor. Mönchengladbach  (3) Bor. Moenchengladbach • M'Gladbach • M'gladbach
+- **Nürnberg › Bayern** (1): 1. FC Nürnberg  (2) Nurnberg • 1. FC Nuernberg
+- **Oberhausen › Nordrhein-Westfalen** (1): Rot-Weiß Oberhausen  (1) Oberhausen
+- **Offenbach am Main › Hessen** (1): Kickers Offenbach  (1) Offenbach
+- **Oldenburg › Niedersachsen** (1): VfB Oldenburg  (1) Oldenburg
+- **Osnabrück › Niedersachsen** (1): Osnabrück  (1) Osnabruck
+- **Paderborn › Nordrhein-Westfalen** (1): SC Paderborn 07  (1) Paderborn
+- **Potsdam › Brandenburg** (1): SV Babelsberg 03  (1) Babelsberg
+- **Regensburg › Bayern** (1): SSV Jahn Regensburg  (1) Regensburg
+- **Reutlingen › Baden-Württemberg** (1): SSV Reutlingen 05  (1) Reutlingen
+- **Rostock › Mecklenburg-Vorpommern** (1): Hansa Rostock 
+- **Saarbrücken › Saarland** (1): 1. FC Saarbrücken  (2) Saarbrucken • 1. FC Saarbruecken
+- **Sandhausen › Baden-Württemberg** (1): SV Sandhausen  (1) Sandhausen
+- **Schweinfurt › Bayern** (1): 1. FC Schweinfurt 05  (1) Schweinfurt
+- **Siegen › Nordrhein-Westfalen** (1): Sportfreunde Siegen  (1) Siegen
+- **Sinsheim › Baden-Württemberg** (1): TSG 1899 Hoffenheim  (1) Hoffenheim
+- **Trier › Rheinland-Pfalz** (1): Eintracht Trier  (1) Ein Trier
+- **Ulm › Baden-Württemberg** (1): SSV Ulm 1846  (1) Ulm
+- **Unterhaching › Bayern** (1): SpVgg Unterhaching  (1) Unterhaching
+- **Wiesbaden › Hessen** (1): SV Wehen Wiesbaden  (1) Wehen
+- **Wolfsburg › Niedersachsen** (1): VfL Wolfsburg  (1) Wolfsburg
+- **Wuppertal › Nordrhein-Westfalen** (1): Wuppertaler SV  (1) Wuppertaler
+- **Würzburg › Bayern** (1): Würzburger Kickers  (1) Wurzburger Kickers
+- **Zwickau › Sachsen** (1): FSV Zwickau  (1) Zwickau
 
 
 
 
 ### Season
 
-- x Aachen (???) - 13 seasons in 2 levels
-  - 1 (1): 2006-07
-  - 2 (12): 2011-12.....2007-08 (5) 2005-06.......1999-00 (7)
-- x Aalen (???) - 3 seasons in 1 level
-  - 2 (3): 2014-15...2012-13 (3)
-- x Ahlen (???) - 8 seasons in 1 level
-  - 2 (8): 2009-10..2008-09 (2) 2005-06......2000-01 (6)
-- x Augsburg (???) - 12 seasons in 2 levels
-  - 1 (7): 2017-18.......2011-12 (7)
-  - 2 (5): 2010-11.....2006-07 (5)
-- x Babelsberg (???) - 1 season in 1 level
-  - 2 (1): 2001-02
-- x Bayern Munich (???) - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
-- x Bielefeld (???) - 20 seasons in 2 levels
-  - 1 (9): 2008-09.....2004-05 (5) 2002-03 1999-00 1997-98..1996-97 (2)
-  - 2 (11): 2017-18...2015-16 (3) 2013-14 2010-11..2009-10 (2) 2003-04 2001-02..2000-01 (2) 1998-99 1995-96
-- x Bochum (???) - 25 seasons in 2 levels
-  - 1 (12): 2009-10....2006-07 (4) 2004-05...2002-03 (3) 2000-01 1998-99...1996-97 (3) 1994-95
-  - 2 (13): 2017-18........2010-11 (8) 2005-06 2001-02 1999-00 1995-96 1993-94
-- x Braunschweig (???) - 10 seasons in 2 levels
-  - 1 (1): 2013-14
-  - 2 (9): 2017-18....2014-15 (4) 2012-13..2011-12 (2) 2006-07..2005-06 (2) 2002-03
-- x Burghausen (???) - 5 seasons in 1 level
-  - 2 (5): 2006-07.....2002-03 (5)
-- x CZ Jena (???) - 6 seasons in 1 level
-  - 2 (6): 2007-08..2006-07 (2) 1997-98...1995-96 (3) 1993-94
-- x Chemnitz (???) - 5 seasons in 1 level
-  - 2 (5): 2000-01..1999-00 (2) 1995-96...1993-94 (3)
-- x Cottbus (???) - 17 seasons in 2 levels
-  - 1 (6): 2008-09...2006-07 (3) 2002-03...2000-01 (3)
-  - 2 (11): 2013-14.....2009-10 (5) 2005-06...2003-04 (3) 1999-00...1997-98 (3)
-- x Darmstadt (???) - 4 seasons in 2 levels
-  - 1 (2): 2016-17..2015-16 (2)
-  - 2 (2): 2017-18 2014-15
-- x Dortmund (???) - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
-- x Dresden (???) - 9 seasons in 2 levels
-  - 1 (2): 1994-95..1993-94 (2)
-  - 2 (7): 2017-18..2016-17 (2) 2013-14...2011-12 (3) 2005-06..2004-05 (2)
-- x Duisburg (???) - 22 seasons in 2 levels
-  - 1 (8): 2007-08 2005-06 1999-00....1996-97 (4) 1994-95..1993-94 (2)
-  - 2 (14): 2017-18 2015-16 2012-13.....2008-09 (5) 2006-07 2004-05.....2000-01 (5) 1995-96
-- x Dusseldorf (???) - 5 seasons in 2 levels
-  - 1 (2): 1996-97..1995-96 (2)
-  - 2 (3): 1998-99..1997-98 (2) 1994-95
-- x Ein Frankfurt (???) - 25 seasons in 2 levels
-  - 1 (19): 2017-18......2012-13 (6) 2010-11......2005-06 (6) 2003-04 2000-01...1998-99 (3) 1995-96...1993-94 (3)
-  - 2 (6): 2011-12 2004-05 2002-03..2001-02 (2) 1997-98..1996-97 (2)
-- x Ein Trier (???) - 3 seasons in 1 level
-  - 2 (3): 2004-05...2002-03 (3)
-- x Erfurt (???) - 1 season in 1 level
-  - 2 (1): 2004-05
-- x Erzgebirge Aue (???) - 12 seasons in 1 level
-  - 2 (12): 2017-18..2016-17 (2) 2014-15.....2010-11 (5) 2007-08.....2003-04 (5)
-- x Essen (???) - 3 seasons in 1 level
-  - 2 (3): 2006-07 2004-05 1996-97
-- x F Koln (???) - 7 seasons in 1 level
-  - 2 (7): 1999-00.......1993-94 (7)
-- x FC Koln (???) - 25 seasons in 2 levels
-  - 1 (17): 2017-18....2014-15 (4) 2011-12....2008-09 (4) 2005-06 2003-04 2001-02..2000-01 (2) 1997-98.....1993-94 (5)
-  - 2 (8): 2013-14..2012-13 (2) 2007-08..2006-07 (2) 2004-05 2002-03 1999-00..1998-99 (2)
-- x FSV Frankfurt (???) - 1 season in 1 level
-  - 2 (1): 1994-95
-- x Fortuna Dusseldorf (???) - 9 seasons in 2 levels
-  - 1 (1): 2012-13
-  - 2 (8): 2017-18.....2013-14 (5) 2011-12...2009-10 (3)
-- x Frankfurt FSV (???) - 8 seasons in 1 level
-  - 2 (8): 2015-16........2008-09 (8)
-- x Freiburg (???) - 25 seasons in 2 levels
-  - 1 (18): 2017-18..2016-17 (2) 2014-15......2009-10 (6) 2004-05..2003-04 (2) 2001-02....1998-99 (4) 1996-97....1993-94 (4)
-  - 2 (7): 2015-16 2008-09....2005-06 (4) 2002-03 1997-98
-- x Greuther Furth (???) - 21 seasons in 2 levels
-  - 1 (1): 2012-13
-  - 2 (20): 2017-18.....2013-14 (5) 2011-12...............1997-98 (15)
-- x Gutersloh (???) - 3 seasons in 1 level
-  - 2 (3): 1998-99...1996-97 (3)
-- x Hamburg (???) - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
-- x Hannover (???) - 23 seasons in 2 levels
-  - 1 (15): 2017-18 2015-16..............2002-03 (14)
-  - 2 (8): 2016-17 2001-02....1998-99 (4) 1995-96...1993-94 (3)
-- x Hansa Rostock (???) - 18 seasons in 2 levels
-  - 1 (11): 2007-08 2004-05..........1995-96 (10)
-  - 2 (7): 2011-12 2009-10..2008-09 (2) 2006-07..2005-06 (2) 1994-95..1993-94 (2)
-- x Heidenheim (???) - 4 seasons in 1 level
+- **1. FC Heidenheim** - 4 seasons in 1 level
   - 2 (4): 2017-18....2014-15 (4)
-- x Hertha (???) - 25 seasons in 2 levels
-  - 1 (19): 2017-18.....2013-14 (5) 2011-12 2009-10.............1997-98 (13)
-  - 2 (6): 2012-13 2010-11 1996-97....1993-94 (4)
-- x Hoffenheim (???) - 11 seasons in 2 levels
-  - 1 (10): 2017-18..........2008-09 (10)
-  - 2 (1): 2007-08
-- x Holstein Kiel (???) - 1 season in 1 level
-  - 2 (1): 2017-18
-- x Homburg (???) - 2 seasons in 1 level
-  - 2 (2): 1994-95..1993-94 (2)
-- x Ingolstadt (???) - 9 seasons in 2 levels
-  - 1 (2): 2016-17..2015-16 (2)
-  - 2 (7): 2017-18 2014-15.....2010-11 (5) 2008-09
-- x Kaiserslautern (???) - 25 seasons in 2 levels
+- **1. FC Kaiserslautern** - 25 seasons in 2 levels
   - 1 (14): 2011-12..2010-11 (2) 2005-06.........1997-98 (9) 1995-96...1993-94 (3)
   - 2 (11): 2017-18......2012-13 (6) 2009-10....2006-07 (4) 1996-97
-- x Karlsruhe (???) - 22 seasons in 2 levels
-  - 1 (7): 2008-09..2007-08 (2) 1997-98.....1993-94 (5)
-  - 2 (15): 2016-17....2013-14 (4) 2011-12...2009-10 (3) 2006-07......2001-02 (6) 1999-00..1998-99 (2)
-- x Koblenz (???) - 4 seasons in 1 level
-  - 2 (4): 2009-10....2006-07 (4)
-- x Leipzig (???) - 5 seasons in 2 levels
-  - 1 (1): 1993-94
-  - 2 (4): 1997-98....1994-95 (4)
-- x Leverkusen (???) - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
-- x Lubeck (???) - 4 seasons in 1 level
-  - 2 (4): 2003-04..2002-03 (2) 1996-97..1995-96 (2)
-- x M'Gladbach (???) - 1 season in 1 level
-  - 1 (1): 1993-94
-- x M'gladbach (???) - 24 seasons in 2 levels
-  - 1 (21): 2017-18..........2008-09 (10) 2006-07......2001-02 (6) 1998-99.....1994-95 (5)
-  - 2 (3): 2007-08 2000-01..1999-00 (2)
-- x Mainz (???) - 25 seasons in 2 levels
-  - 1 (12): 2017-18.........2009-10 (9) 2006-07...2004-05 (3)
-  - 2 (13): 2008-09..2007-08 (2) 2003-04...........1993-94 (11)
-- x Mannheim (???) - 8 seasons in 1 level
-  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
-- x Meppen (???) - 5 seasons in 1 level
-  - 2 (5): 1997-98.....1993-94 (5)
-- x Munich 1860 (???) - 24 seasons in 2 levels
-  - 1 (10): 2003-04..........1994-95 (10)
-  - 2 (14): 2016-17.............2004-05 (13) 1993-94
-- x Nurnberg (???) - 24 seasons in 2 levels
+- **1. FC Köln** - 25 seasons in 2 levels
+  - 1 (17): 2017-18....2014-15 (4) 2011-12....2008-09 (4) 2005-06 2003-04 2001-02..2000-01 (2) 1997-98.....1993-94 (5)
+  - 2 (8): 2013-14..2012-13 (2) 2007-08..2006-07 (2) 2004-05 2002-03 1999-00..1998-99 (2)
+- **1. FC Nürnberg** - 24 seasons in 2 levels
   - 1 (13): 2013-14.....2009-10 (5) 2007-08....2004-05 (4) 2002-03..2001-02 (2) 1998-99 1993-94
   - 2 (11): 2017-18....2014-15 (4) 2008-09 2003-04 2000-01..1999-00 (2) 1997-98 1995-96..1994-95 (2)
-- x Oberhausen (???) - 10 seasons in 1 level
-  - 2 (10): 2010-11...2008-09 (3) 2004-05.......1998-99 (7)
-- x Offenbach (???) - 4 seasons in 1 level
-  - 2 (4): 2007-08...2005-06 (3) 1999-00
-- x Oldenburg (???) - 1 season in 1 level
-  - 2 (1): 1996-97
-- x Osnabruck (???) - 5 seasons in 1 level
-  - 2 (5): 2010-11 2008-09..2007-08 (2) 2003-04 2000-01
-- x Paderborn (???) - 10 seasons in 2 levels
-  - 1 (1): 2014-15
-  - 2 (9): 2015-16 2013-14.....2009-10 (5) 2007-08...2005-06 (3)
-- x RB Leipzig (???) - 4 seasons in 2 levels
-  - 1 (2): 2017-18..2016-17 (2)
-  - 2 (2): 2015-16..2014-15 (2)
-- x RW Essen (???) - 1 season in 1 level
-  - 2 (1): 1993-94
-- x Regensburg (???) - 3 seasons in 1 level
-  - 2 (3): 2017-18 2012-13 2003-04
-- x Reutlingen (???) - 3 seasons in 1 level
-  - 2 (3): 2002-03...2000-01 (3)
-- x Saarbrucken (???) - 6 seasons in 1 level
+- **1. FC Saarbrücken** - 6 seasons in 1 level
   - 2 (6): 2005-06..2004-05 (2) 2001-02..2000-01 (2) 1994-95..1993-94 (2)
-- x Sandhausen (???) - 6 seasons in 1 level
-  - 2 (6): 2017-18......2012-13 (6)
-- x Schalke 04 (???) - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
-- x Schweinfurt (???) - 1 season in 1 level
+- **1. FC Schweinfurt 05** - 1 season in 1 level
   - 2 (1): 2001-02
-- x Siegen (???) - 1 season in 1 level
-  - 2 (1): 2005-06
-- x St Pauli (???) - 21 seasons in 2 levels
+- **1. FC Union Berlin** - 12 seasons in 1 level
+  - 2 (12): 2017-18.........2009-10 (9) 2003-04...2001-02 (3)
+- **1. FSV Mainz 05** - 25 seasons in 2 levels
+  - 1 (12): 2017-18.........2009-10 (9) 2006-07...2004-05 (3)
+  - 2 (13): 2008-09..2007-08 (2) 2003-04...........1993-94 (11)
+- **Alemannia Aachen** - 13 seasons in 2 levels
+  - 1 (1): 2006-07
+  - 2 (12): 2011-12.....2007-08 (5) 2005-06.......1999-00 (7)
+- **Arminia Bielefeld** - 20 seasons in 2 levels
+  - 1 (9): 2008-09.....2004-05 (5) 2002-03 1999-00 1997-98..1996-97 (2)
+  - 2 (11): 2017-18...2015-16 (3) 2013-14 2010-11..2009-10 (2) 2003-04 2001-02..2000-01 (2) 1998-99 1995-96
+- **Bayer 04 Leverkusen** - 25 seasons in 1 level
+  - 1 (25): 2017-18.........................1993-94 (25)
+- **Bayern München** - 25 seasons in 1 level
+  - 1 (25): 2017-18.........................1993-94 (25)
+- **Bor. Mönchengladbach** - 25 seasons in 2 levels
+  - 1 (22): 2017-18..........2008-09 (10) 2006-07......2001-02 (6) 1998-99......1993-94 (6)
+  - 2 (3): 2007-08 2000-01..1999-00 (2)
+- **Borussia Dortmund** - 25 seasons in 1 level
+  - 1 (25): 2017-18.........................1993-94 (25)
+- **Chemnitzer FC** - 5 seasons in 1 level
+  - 2 (5): 2000-01..1999-00 (2) 1995-96...1993-94 (3)
+- **Dynamo Dresden** - 9 seasons in 2 levels
+  - 1 (2): 1994-95..1993-94 (2)
+  - 2 (7): 2017-18..2016-17 (2) 2013-14...2011-12 (3) 2005-06..2004-05 (2)
+- **Eintracht Braunschweig** - 10 seasons in 2 levels
+  - 1 (1): 2013-14
+  - 2 (9): 2017-18....2014-15 (4) 2012-13..2011-12 (2) 2006-07..2005-06 (2) 2002-03
+- **Eintracht Frankfurt** - 25 seasons in 2 levels
+  - 1 (19): 2017-18......2012-13 (6) 2010-11......2005-06 (6) 2003-04 2000-01...1998-99 (3) 1995-96...1993-94 (3)
+  - 2 (6): 2011-12 2004-05 2002-03..2001-02 (2) 1997-98..1996-97 (2)
+- **Eintracht Trier** - 3 seasons in 1 level
+  - 2 (3): 2004-05...2002-03 (3)
+- **Energie Cottbus** - 17 seasons in 2 levels
+  - 1 (6): 2008-09...2006-07 (3) 2002-03...2000-01 (3)
+  - 2 (11): 2013-14.....2009-10 (5) 2005-06...2003-04 (3) 1999-00...1997-98 (3)
+- **FC 08 Homburg** - 2 seasons in 1 level
+  - 2 (2): 1994-95..1993-94 (2)
+- **FC Augsburg** - 12 seasons in 2 levels
+  - 1 (7): 2017-18.......2011-12 (7)
+  - 2 (5): 2010-11.....2006-07 (5)
+- **FC Carl Zeiss Jena** - 6 seasons in 1 level
+  - 2 (6): 2007-08..2006-07 (2) 1997-98...1995-96 (3) 1993-94
+- **FC Erzgebirge Aue** - 12 seasons in 1 level
+  - 2 (12): 2017-18..2016-17 (2) 2014-15.....2010-11 (5) 2007-08.....2003-04 (5)
+- **FC Ingolstadt 04** - 9 seasons in 2 levels
+  - 1 (2): 2016-17..2015-16 (2)
+  - 2 (7): 2017-18 2014-15.....2010-11 (5) 2008-09
+- **FC Rot-Weiß Erfurt** - 1 season in 1 level
+  - 2 (1): 2004-05
+- **FC Schalke 04** - 25 seasons in 1 level
+  - 1 (25): 2017-18.........................1993-94 (25)
+- **FC St. Pauli** - 21 seasons in 2 levels
   - 1 (4): 2010-11 2001-02 1996-97..1995-96 (2)
   - 2 (17): 2017-18.......2011-12 (7) 2009-10...2007-08 (3) 2002-03 2000-01....1997-98 (4) 1994-95..1993-94 (2)
-- x St. Pauli (???) - 1 season in 1 level
-  - 2 (1): 2008-09
-- x Stuttgart (???) - 25 seasons in 2 levels
-  - 1 (24): 2017-18 2015-16.......................1993-94 (23)
-  - 2 (1): 2016-17
-- x Stuttgarter K (???) - 6 seasons in 1 level
-  - 2 (6): 2000-01.....1996-97 (5) 1993-94
-- x TB Berlin (???) - 3 seasons in 1 level
-  - 2 (3): 1999-00..1998-99 (2) 1993-94
-- x Uerdingen (???) - 6 seasons in 2 levels
+- **FSV Frankfurt** - 9 seasons in 1 level
+  - 2 (9): 2015-16........2008-09 (8) 1994-95
+- **FSV Zwickau** - 4 seasons in 1 level
+  - 2 (4): 1997-98....1994-95 (4)
+- **Fortuna Düsseldorf** - 14 seasons in 2 levels
+  - 1 (3): 2012-13 1996-97..1995-96 (2)
+  - 2 (11): 2017-18.....2013-14 (5) 2011-12...2009-10 (3) 1998-99..1997-98 (2) 1994-95
+- **Fortuna Köln** - 7 seasons in 1 level
+  - 2 (7): 1999-00.......1993-94 (7)
+- **Greuther Fürth** - 21 seasons in 2 levels
+  - 1 (1): 2012-13
+  - 2 (20): 2017-18.....2013-14 (5) 2011-12...............1997-98 (15)
+- **Gütersloh** - 3 seasons in 1 level
+  - 2 (3): 1998-99...1996-97 (3)
+- **Hamburger SV** - 25 seasons in 1 level
+  - 1 (25): 2017-18.........................1993-94 (25)
+- **Hannover 96** - 23 seasons in 2 levels
+  - 1 (15): 2017-18 2015-16..............2002-03 (14)
+  - 2 (8): 2016-17 2001-02....1998-99 (4) 1995-96...1993-94 (3)
+- **Hansa Rostock** - 18 seasons in 2 levels
+  - 1 (11): 2007-08 2004-05..........1995-96 (10)
+  - 2 (7): 2011-12 2009-10..2008-09 (2) 2006-07..2005-06 (2) 1994-95..1993-94 (2)
+- **Hertha BSC** - 25 seasons in 2 levels
+  - 1 (19): 2017-18.....2013-14 (5) 2011-12 2009-10.............1997-98 (13)
+  - 2 (6): 2012-13 2010-11 1996-97....1993-94 (4)
+- **Holstein Kiel** - 1 season in 1 level
+  - 2 (1): 2017-18
+- **KFC Uerdingen** - 6 seasons in 2 levels
   - 1 (2): 1995-96..1994-95 (2)
   - 2 (4): 1998-99...1996-97 (3) 1993-94
-- x Ulm (???) - 3 seasons in 2 levels
-  - 1 (1): 1999-00
-  - 2 (2): 2000-01 1998-99
-- x Union Berlin (???) - 12 seasons in 1 level
-  - 2 (12): 2017-18.........2009-10 (9) 2003-04...2001-02 (3)
-- x Unterhaching (???) - 11 seasons in 2 levels
-  - 1 (2): 2000-01..1999-00 (2)
-  - 2 (9): 2006-07....2003-04 (4) 2001-02 1998-99....1995-96 (4)
-- x Wattenscheid (???) - 5 seasons in 2 levels
+- **Karlsruher SC** - 22 seasons in 2 levels
+  - 1 (7): 2008-09..2007-08 (2) 1997-98.....1993-94 (5)
+  - 2 (15): 2016-17....2013-14 (4) 2011-12...2009-10 (3) 2006-07......2001-02 (6) 1999-00..1998-99 (2)
+- **Kickers Offenbach** - 4 seasons in 1 level
+  - 2 (4): 2007-08...2005-06 (3) 1999-00
+- **Lübeck** - 4 seasons in 1 level
+  - 2 (4): 2003-04..2002-03 (2) 1996-97..1995-96 (2)
+- **MSV Duisburg** - 22 seasons in 2 levels
+  - 1 (8): 2007-08 2005-06 1999-00....1996-97 (4) 1994-95..1993-94 (2)
+  - 2 (14): 2017-18 2015-16 2012-13.....2008-09 (5) 2006-07 2004-05.....2000-01 (5) 1995-96
+- **Osnabrück** - 5 seasons in 1 level
+  - 2 (5): 2010-11 2008-09..2007-08 (2) 2003-04 2000-01
+- **RB Leipzig** - 4 seasons in 2 levels
+  - 1 (2): 2017-18..2016-17 (2)
+  - 2 (2): 2015-16..2014-15 (2)
+- **Rot Weiss Ahlen** - 8 seasons in 1 level
+  - 2 (8): 2009-10..2008-09 (2) 2005-06......2000-01 (6)
+- **Rot-Weiss Essen** - 4 seasons in 1 level
+  - 2 (4): 2006-07 2004-05 1996-97 1993-94
+- **Rot-Weiß Oberhausen** - 10 seasons in 1 level
+  - 2 (10): 2010-11...2008-09 (3) 2004-05.......1998-99 (7)
+- **SC Freiburg** - 25 seasons in 2 levels
+  - 1 (18): 2017-18..2016-17 (2) 2014-15......2009-10 (6) 2004-05..2003-04 (2) 2001-02....1998-99 (4) 1996-97....1993-94 (4)
+  - 2 (7): 2015-16 2008-09....2005-06 (4) 2002-03 1997-98
+- **SC Paderborn 07** - 10 seasons in 2 levels
+  - 1 (1): 2014-15
+  - 2 (9): 2015-16 2013-14.....2009-10 (5) 2007-08...2005-06 (3)
+- **SG Wattenscheid 09** - 5 seasons in 2 levels
   - 1 (1): 1993-94
   - 2 (4): 1998-99..1997-98 (2) 1995-96..1994-95 (2)
-- x Wehen (???) - 2 seasons in 1 level
+- **SSV Jahn Regensburg** - 3 seasons in 1 level
+  - 2 (3): 2017-18 2012-13 2003-04
+- **SSV Reutlingen 05** - 3 seasons in 1 level
+  - 2 (3): 2002-03...2000-01 (3)
+- **SSV Ulm 1846** - 3 seasons in 2 levels
+  - 1 (1): 1999-00
+  - 2 (2): 2000-01 1998-99
+- **SV Babelsberg 03** - 1 season in 1 level
+  - 2 (1): 2001-02
+- **SV Darmstadt 98** - 4 seasons in 2 levels
+  - 1 (2): 2016-17..2015-16 (2)
+  - 2 (2): 2017-18 2014-15
+- **SV Meppen** - 5 seasons in 1 level
+  - 2 (5): 1997-98.....1993-94 (5)
+- **SV Sandhausen** - 6 seasons in 1 level
+  - 2 (6): 2017-18......2012-13 (6)
+- **SV Wehen Wiesbaden** - 2 seasons in 1 level
   - 2 (2): 2008-09..2007-08 (2)
-- x Werder Bremen (???) - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
-- x Wolfsburg (???) - 25 seasons in 2 levels
+- **SpVgg Unterhaching** - 11 seasons in 2 levels
+  - 1 (2): 2000-01..1999-00 (2)
+  - 2 (9): 2006-07....2003-04 (4) 2001-02 1998-99....1995-96 (4)
+- **Sportfreunde Siegen** - 1 season in 1 level
+  - 2 (1): 2005-06
+- **Stuttgarter Kickers** - 6 seasons in 1 level
+  - 2 (6): 2000-01.....1996-97 (5) 1993-94
+- **TSG 1899 Hoffenheim** - 11 seasons in 2 levels
+  - 1 (10): 2017-18..........2008-09 (10)
+  - 2 (1): 2007-08
+- **TSV 1860 München** - 24 seasons in 2 levels
+  - 1 (10): 2003-04..........1994-95 (10)
+  - 2 (14): 2016-17.............2004-05 (13) 1993-94
+- **Tennis Borussia Berlin** - 3 seasons in 1 level
+  - 2 (3): 1999-00..1998-99 (2) 1993-94
+- **TuS Koblenz** - 4 seasons in 1 level
+  - 2 (4): 2009-10....2006-07 (4)
+- **VfB Leipzig** - 5 seasons in 2 levels
+  - 1 (1): 1993-94
+  - 2 (4): 1997-98....1994-95 (4)
+- **VfB Oldenburg** - 1 season in 1 level
+  - 2 (1): 1996-97
+- **VfB Stuttgart** - 25 seasons in 2 levels
+  - 1 (24): 2017-18 2015-16.......................1993-94 (23)
+  - 2 (1): 2016-17
+- **VfL Bochum** - 25 seasons in 2 levels
+  - 1 (12): 2009-10....2006-07 (4) 2004-05...2002-03 (3) 2000-01 1998-99...1996-97 (3) 1994-95
+  - 2 (13): 2017-18........2010-11 (8) 2005-06 2001-02 1999-00 1995-96 1993-94
+- **VfL Wolfsburg** - 25 seasons in 2 levels
   - 1 (21): 2017-18.....................1997-98 (21)
   - 2 (4): 1996-97....1993-94 (4)
-- x Wuppertaler (???) - 1 season in 1 level
+- **VfR Aalen** - 3 seasons in 1 level
+  - 2 (3): 2014-15...2012-13 (3)
+- **VfR Mannheim** - 8 seasons in 1 level
+  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
+- **Wacker Burghausen** - 5 seasons in 1 level
+  - 2 (5): 2006-07.....2002-03 (5)
+- **Werder Bremen** - 25 seasons in 1 level
+  - 1 (25): 2017-18.........................1993-94 (25)
+- **Wuppertaler SV** - 1 season in 1 level
   - 2 (1): 1993-94
-- x Wurzburger Kickers (???) - 1 season in 1 level
+- **Würzburger Kickers** - 1 season in 1 level
   - 2 (1): 2016-17
-- x Zwickau (???) - 4 seasons in 1 level
-  - 2 (4): 1997-98....1994-95 (4)
 
 
 
