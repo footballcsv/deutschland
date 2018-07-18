@@ -5,49 +5,49 @@
 level 1
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
 - 41 teams: 1. FC Kaiserslautern (14) 1. FC Köln (17) 1. FC Nürnberg (13) 1. FSV Mainz 05 (12) Alemannia Aachen (1) Arminia Bielefeld (9) Bayer 04 Leverkusen (25) Bayern München (25) Bor. Mönchengladbach (22) Borussia Dortmund (25) Dynamo Dresden (2) Eintracht Braunschweig (1) Eintracht Frankfurt (19) Energie Cottbus (6) FC Augsburg (7) FC Ingolstadt 04 (2) FC Schalke 04 (25) FC St. Pauli (4) Fortuna Düsseldorf (3) Greuther Fürth (1) Hamburger SV (25) Hannover 96 (15) Hansa Rostock (11) Hertha BSC (19) KFC Uerdingen (2) Karlsruher SC (7) MSV Duisburg (8) RB Leipzig (2) SC Freiburg (18) SC Paderborn 07 (1) SG Wattenscheid 09 (1) SSV Ulm 1846 (1) SV Darmstadt 98 (2) SpVgg Unterhaching (2) TSG 1899 Hoffenheim (10) TSV 1860 München (10) VfB Leipzig (1) VfB Stuttgart (24) VfL Bochum (12) VfL Wolfsburg (21) Werder Bremen (25) 
-  - 25 seasons: Bayer 04 Leverkusen, Bayern München, Borussia Dortmund, FC Schalke 04, Hamburger SV, Werder Bremen
-  - 24 seasons: VfB Stuttgart
-  - 22 seasons: Bor. Mönchengladbach
-  - 21 seasons: VfL Wolfsburg
-  - 19 seasons: Eintracht Frankfurt, Hertha BSC
-  - 18 seasons: SC Freiburg
-  - 17 seasons: 1. FC Köln
-  - 15 seasons: Hannover 96
-  - 14 seasons: 1. FC Kaiserslautern
-  - 13 seasons: 1. FC Nürnberg
-  - 12 seasons: 1. FSV Mainz 05, VfL Bochum
-  - 11 seasons: Hansa Rostock
-  - 10 seasons: TSG 1899 Hoffenheim, TSV 1860 München
-  - 9 seasons: Arminia Bielefeld
-  - 8 seasons: MSV Duisburg
-  - 7 seasons: FC Augsburg, Karlsruher SC
-  - 6 seasons: Energie Cottbus
-  - 4 seasons: FC St. Pauli
-  - 3 seasons: Fortuna Düsseldorf
-  - 2 seasons: Dynamo Dresden, FC Ingolstadt 04, KFC Uerdingen, RB Leipzig, SV Darmstadt 98, SpVgg Unterhaching
-  - 1 seasons: Alemannia Aachen, Eintracht Braunschweig, Greuther Fürth, SC Paderborn 07, SG Wattenscheid 09, SSV Ulm 1846, VfB Leipzig
+  - 25 seasons: **Bayer 04 Leverkusen**, **Bayern München**, **Borussia Dortmund**, **FC Schalke 04**, **Hamburger SV**, **Werder Bremen**
+  - 24 seasons: **VfB Stuttgart**
+  - 22 seasons: **Bor. Mönchengladbach**
+  - 21 seasons: **VfL Wolfsburg**
+  - 19 seasons: **Eintracht Frankfurt**, **Hertha BSC**
+  - 18 seasons: **SC Freiburg**
+  - 17 seasons: **1. FC Köln**
+  - 15 seasons: **Hannover 96**
+  - 14 seasons: **1. FC Kaiserslautern**
+  - 13 seasons: **1. FC Nürnberg**
+  - 12 seasons: **1. FSV Mainz 05**, **VfL Bochum**
+  - 11 seasons: **Hansa Rostock**
+  - 10 seasons: **TSG 1899 Hoffenheim**, **TSV 1860 München**
+  - 9 seasons: **Arminia Bielefeld**
+  - 8 seasons: **MSV Duisburg**
+  - 7 seasons: **FC Augsburg**, **Karlsruher SC**
+  - 6 seasons: **Energie Cottbus**
+  - 4 seasons: **FC St. Pauli**
+  - 3 seasons: **Fortuna Düsseldorf**
+  - 2 seasons: **Dynamo Dresden**, **FC Ingolstadt 04**, **KFC Uerdingen**, **RB Leipzig**, **SV Darmstadt 98**, **SpVgg Unterhaching**
+  - 1 seasons: **Alemannia Aachen**, **Eintracht Braunschweig**, **Greuther Fürth**, **SC Paderborn 07**, **SG Wattenscheid 09**, **SSV Ulm 1846**, **VfB Leipzig**
 
 
 level 2
 - 25 seasons: 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 1993-94 
 - 72 teams: 1. FC Heidenheim (4) 1. FC Kaiserslautern (11) 1. FC Köln (8) 1. FC Nürnberg (11) 1. FC Saarbrücken (6) 1. FC Schweinfurt 05 (1) 1. FC Union Berlin (12) 1. FSV Mainz 05 (13) Alemannia Aachen (12) Arminia Bielefeld (11) Bor. Mönchengladbach (3) Chemnitzer FC (5) Dynamo Dresden (7) Eintracht Braunschweig (9) Eintracht Frankfurt (6) Eintracht Trier (3) Energie Cottbus (11) FC 08 Homburg (2) FC Augsburg (5) FC Carl Zeiss Jena (6) FC Erzgebirge Aue (12) FC Ingolstadt 04 (7) FC Rot-Weiß Erfurt (1) FC St. Pauli (17) FSV Frankfurt (9) FSV Zwickau (4) Fortuna Düsseldorf (11) Fortuna Köln (7) Greuther Fürth (20) Gütersloh (3) Hannover 96 (8) Hansa Rostock (7) Hertha BSC (6) Holstein Kiel (1) KFC Uerdingen (4) Karlsruher SC (15) Kickers Offenbach (4) Lübeck (4) MSV Duisburg (14) Osnabrück (5) RB Leipzig (2) Rot Weiss Ahlen (8) Rot-Weiss Essen (4) Rot-Weiß Oberhausen (10) SC Freiburg (7) SC Paderborn 07 (9) SG Wattenscheid 09 (4) SSV Jahn Regensburg (3) SSV Reutlingen 05 (3) SSV Ulm 1846 (2) SV Babelsberg 03 (1) SV Darmstadt 98 (2) SV Meppen (5) SV Sandhausen (6) SV Wehen Wiesbaden (2) SpVgg Unterhaching (9) Sportfreunde Siegen (1) Stuttgarter Kickers (6) TSG 1899 Hoffenheim (1) TSV 1860 München (14) Tennis Borussia Berlin (3) TuS Koblenz (4) VfB Leipzig (4) VfB Oldenburg (1) VfB Stuttgart (1) VfL Bochum (13) VfL Wolfsburg (4) VfR Aalen (3) VfR Mannheim (8) Wacker Burghausen (5) Wuppertaler SV (1) Würzburger Kickers (1) 
-  - 20 seasons: Greuther Fürth
-  - 17 seasons: FC St. Pauli
-  - 15 seasons: Karlsruher SC
-  - 14 seasons: MSV Duisburg, TSV 1860 München
-  - 13 seasons: 1. FSV Mainz 05, VfL Bochum
-  - 12 seasons: 1. FC Union Berlin, Alemannia Aachen, FC Erzgebirge Aue
-  - 11 seasons: 1. FC Kaiserslautern, 1. FC Nürnberg, Arminia Bielefeld, Energie Cottbus, Fortuna Düsseldorf
-  - 10 seasons: Rot-Weiß Oberhausen
-  - 9 seasons: Eintracht Braunschweig, FSV Frankfurt, SC Paderborn 07, SpVgg Unterhaching
-  - 8 seasons: 1. FC Köln, Hannover 96, Rot Weiss Ahlen, VfR Mannheim
-  - 7 seasons: Dynamo Dresden, FC Ingolstadt 04, Fortuna Köln, Hansa Rostock, SC Freiburg
-  - 6 seasons: 1. FC Saarbrücken, Eintracht Frankfurt, FC Carl Zeiss Jena, Hertha BSC, SV Sandhausen, Stuttgarter Kickers
-  - 5 seasons: Chemnitzer FC, FC Augsburg, Osnabrück, SV Meppen, Wacker Burghausen
-  - 4 seasons: 1. FC Heidenheim, FSV Zwickau, KFC Uerdingen, Kickers Offenbach, Lübeck, Rot-Weiss Essen, SG Wattenscheid 09, TuS Koblenz, VfB Leipzig, VfL Wolfsburg
-  - 3 seasons: Bor. Mönchengladbach, Eintracht Trier, Gütersloh, SSV Jahn Regensburg, SSV Reutlingen 05, Tennis Borussia Berlin, VfR Aalen
-  - 2 seasons: FC 08 Homburg, RB Leipzig, SSV Ulm 1846, SV Darmstadt 98, SV Wehen Wiesbaden
-  - 1 seasons: 1. FC Schweinfurt 05, FC Rot-Weiß Erfurt, Holstein Kiel, SV Babelsberg 03, Sportfreunde Siegen, TSG 1899 Hoffenheim, VfB Oldenburg, VfB Stuttgart, Wuppertaler SV, Würzburger Kickers
+  - 20 seasons: **Greuther Fürth**
+  - 17 seasons: **FC St. Pauli**
+  - 15 seasons: **Karlsruher SC**
+  - 14 seasons: **MSV Duisburg**, **TSV 1860 München**
+  - 13 seasons: **1. FSV Mainz 05**, **VfL Bochum**
+  - 12 seasons: **1. FC Union Berlin**, **Alemannia Aachen**, **FC Erzgebirge Aue**
+  - 11 seasons: **1. FC Kaiserslautern**, **1. FC Nürnberg**, **Arminia Bielefeld**, **Energie Cottbus**, **Fortuna Düsseldorf**
+  - 10 seasons: **Rot-Weiß Oberhausen**
+  - 9 seasons: **Eintracht Braunschweig**, **FSV Frankfurt**, **SC Paderborn 07**, **SpVgg Unterhaching**
+  - 8 seasons: **1. FC Köln**, **Hannover 96**, **Rot Weiss Ahlen**, **VfR Mannheim**
+  - 7 seasons: **Dynamo Dresden**, **FC Ingolstadt 04**, **Fortuna Köln**, **Hansa Rostock**, **SC Freiburg**
+  - 6 seasons: **1. FC Saarbrücken**, **Eintracht Frankfurt**, **FC Carl Zeiss Jena**, **Hertha BSC**, **SV Sandhausen**, **Stuttgarter Kickers**
+  - 5 seasons: **Chemnitzer FC**, **FC Augsburg**, **Osnabrück**, **SV Meppen**, **Wacker Burghausen**
+  - 4 seasons: **1. FC Heidenheim**, **FSV Zwickau**, **KFC Uerdingen**, **Kickers Offenbach**, **Lübeck**, **Rot-Weiss Essen**, **SG Wattenscheid 09**, **TuS Koblenz**, **VfB Leipzig**, **VfL Wolfsburg**
+  - 3 seasons: **Bor. Mönchengladbach**, **Eintracht Trier**, **Gütersloh**, **SSV Jahn Regensburg**, **SSV Reutlingen 05**, **Tennis Borussia Berlin**, **VfR Aalen**
+  - 2 seasons: **FC 08 Homburg**, **RB Leipzig**, **SSV Ulm 1846**, **SV Darmstadt 98**, **SV Wehen Wiesbaden**
+  - 1 seasons: **1. FC Schweinfurt 05**, **FC Rot-Weiß Erfurt**, **Holstein Kiel**, **SV Babelsberg 03**, **Sportfreunde Siegen**, **TSG 1899 Hoffenheim**, **VfB Oldenburg**, **VfB Stuttgart**, **Wuppertaler SV**, **Würzburger Kickers**
 
 
 level 1 - 25 seasons:
@@ -646,192 +646,227 @@ Würzburger Kickers          => Wurzburger Kickers
 ### Season
 
 - **1. FC Heidenheim** - 4 seasons in 1 level
-  - 2 (4): 2017-18....2014-15 (4)
+  - 2 (4): 2018....2014 (4)
 - **1. FC Kaiserslautern** - 25 seasons in 2 levels
-  - 1 (14): 2011-12..2010-11 (2) 2005-06.........1997-98 (9) 1995-96...1993-94 (3)
-  - 2 (11): 2017-18......2012-13 (6) 2009-10....2006-07 (4) 1996-97
+  - 1 (14): 2012..2010 (2) 2006.........1997 (9) 1996...1993 (3)
+  - 2 (11): 2018......2012 (6) 2010....2006 (4) 1996-97
+  - ⇑ (2) / ⇓ (3): 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 
 - **1. FC Köln** - 25 seasons in 2 levels
-  - 1 (17): 2017-18....2014-15 (4) 2011-12....2008-09 (4) 2005-06 2003-04 2001-02..2000-01 (2) 1997-98.....1993-94 (5)
-  - 2 (8): 2013-14..2012-13 (2) 2007-08..2006-07 (2) 2004-05 2002-03 1999-00..1998-99 (2)
+  - 1 (17): 2018....2014 (4) 2012....2008 (4) 2005-06 2003-04 2002..2000 (2) 1998.....1993 (5)
+  - 2 (8): 2014..2012 (2) 2008..2006 (2) 2004-05 2002-03 2000..1998 (2)
+  - ⇑ (5) / ⇓ (5): 1 1 1 1 ⇑2 2 ⇓1 1 1 1 ⇑2 2 ⇓1 ⇑2 ⇓1 ⇑2 ⇓1 1 ⇑2 2 ⇓1 1 1 1 1 
 - **1. FC Nürnberg** - 24 seasons in 2 levels
-  - 1 (13): 2013-14.....2009-10 (5) 2007-08....2004-05 (4) 2002-03..2001-02 (2) 1998-99 1993-94
-  - 2 (11): 2017-18....2014-15 (4) 2008-09 2003-04 2000-01..1999-00 (2) 1997-98 1995-96..1994-95 (2)
+  - 1 (13): 2014.....2009 (5) 2008....2004 (4) 2003..2001 (2) 1998-99 1993-94
+  - 2 (11): 2018....2014 (4) 2008-09 2003-04 2001..1999 (2) 1997-98 1996..1994 (2)
+  - ⇑ (4) / ⇓ (5): 2 2 2 2 ⇓1 1 1 1 1 ⇑2 ⇓1 1 1 1 ⇑2 ⇓1 1 ⇑2 2 ⇓1 ⇑2 2 2 ⇓1 
 - **1. FC Saarbrücken** - 6 seasons in 1 level
-  - 2 (6): 2005-06..2004-05 (2) 2001-02..2000-01 (2) 1994-95..1993-94 (2)
+  - 2 (6): 2006..2004 (2) 2002..2000 (2) 1995..1993 (2)
 - **1. FC Schweinfurt 05** - 1 season in 1 level
   - 2 (1): 2001-02
 - **1. FC Union Berlin** - 12 seasons in 1 level
-  - 2 (12): 2017-18.........2009-10 (9) 2003-04...2001-02 (3)
+  - 2 (12): 2018.........2009 (9) 2004...2001 (3)
 - **1. FSV Mainz 05** - 25 seasons in 2 levels
-  - 1 (12): 2017-18.........2009-10 (9) 2006-07...2004-05 (3)
-  - 2 (13): 2008-09..2007-08 (2) 2003-04...........1993-94 (11)
+  - 1 (12): 2018.........2009 (9) 2007...2004 (3)
+  - 2 (13): 2009..2007 (2) 2004...........1993 (11)
+  - ⇑ (2) / ⇓ (1): 1 1 1 1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 ⇑2 2 2 2 2 2 2 2 2 2 2 
 - **Alemannia Aachen** - 13 seasons in 2 levels
   - 1 (1): 2006-07
-  - 2 (12): 2011-12.....2007-08 (5) 2005-06.......1999-00 (7)
+  - 2 (12): 2012.....2007 (5) 2006.......1999 (7)
+  - ⇑ (1) / ⇓ (1): 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 
 - **Arminia Bielefeld** - 20 seasons in 2 levels
-  - 1 (9): 2008-09.....2004-05 (5) 2002-03 1999-00 1997-98..1996-97 (2)
-  - 2 (11): 2017-18...2015-16 (3) 2013-14 2010-11..2009-10 (2) 2003-04 2001-02..2000-01 (2) 1998-99 1995-96
+  - 1 (9): 2009.....2004 (5) 2002-03 1999-00 1998..1996 (2)
+  - 2 (11): 2018...2015 (3) 2013-14 2011..2009 (2) 2003-04 2002..2000 (2) 1998-99 1995-96
+  - ⇑ (4) / ⇓ (4): 2 2 2 2 2 2 ⇓1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 ⇑2 ⇓1 1 ⇑2 
 - **Bayer 04 Leverkusen** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Bayern München** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Bor. Mönchengladbach** - 25 seasons in 2 levels
-  - 1 (22): 2017-18..........2008-09 (10) 2006-07......2001-02 (6) 1998-99......1993-94 (6)
-  - 2 (3): 2007-08 2000-01..1999-00 (2)
+  - 1 (22): 2018..........2008 (10) 2007......2001 (6) 1999......1993 (6)
+  - 2 (3): 2007-08 2001..1999 (2)
+  - ⇑ (2) / ⇓ (2): 1 1 1 1 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 2 ⇓1 1 1 1 1 1 
 - **Borussia Dortmund** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Chemnitzer FC** - 5 seasons in 1 level
-  - 2 (5): 2000-01..1999-00 (2) 1995-96...1993-94 (3)
+  - 2 (5): 2001..1999 (2) 1996...1993 (3)
 - **Dynamo Dresden** - 9 seasons in 2 levels
-  - 1 (2): 1994-95..1993-94 (2)
-  - 2 (7): 2017-18..2016-17 (2) 2013-14...2011-12 (3) 2005-06..2004-05 (2)
+  - 1 (2): 1995..1993 (2)
+  - 2 (7): 2018..2016 (2) 2014...2011 (3) 2006..2004 (2)
+  - ⇓ (1): 2 2 2 2 2 2 2 ⇓1 1 
 - **Eintracht Braunschweig** - 10 seasons in 2 levels
   - 1 (1): 2013-14
-  - 2 (9): 2017-18....2014-15 (4) 2012-13..2011-12 (2) 2006-07..2005-06 (2) 2002-03
+  - 2 (9): 2018....2014 (4) 2013..2011 (2) 2007..2005 (2) 2002-03
+  - ⇑ (1) / ⇓ (1): 2 2 2 2 ⇓1 ⇑2 2 2 2 2 
 - **Eintracht Frankfurt** - 25 seasons in 2 levels
-  - 1 (19): 2017-18......2012-13 (6) 2010-11......2005-06 (6) 2003-04 2000-01...1998-99 (3) 1995-96...1993-94 (3)
-  - 2 (6): 2011-12 2004-05 2002-03..2001-02 (2) 1997-98..1996-97 (2)
+  - 1 (19): 2018......2012 (6) 2011......2005 (6) 2003-04 2001...1998 (3) 1996...1993 (3)
+  - 2 (6): 2011-12 2004-05 2003..2001 (2) 1998..1996 (2)
+  - ⇑ (4) / ⇓ (4): 1 1 1 1 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 ⇓1 ⇑2 2 ⇓1 1 1 ⇑2 2 ⇓1 1 1 
 - **Eintracht Trier** - 3 seasons in 1 level
-  - 2 (3): 2004-05...2002-03 (3)
+  - 2 (3): 2005...2002 (3)
 - **Energie Cottbus** - 17 seasons in 2 levels
-  - 1 (6): 2008-09...2006-07 (3) 2002-03...2000-01 (3)
-  - 2 (11): 2013-14.....2009-10 (5) 2005-06...2003-04 (3) 1999-00...1997-98 (3)
+  - 1 (6): 2009...2006 (3) 2003...2000 (3)
+  - 2 (11): 2014.....2009 (5) 2006...2003 (3) 2000...1997 (3)
+  - ⇑ (2) / ⇓ (2): 2 2 2 2 2 ⇓1 1 1 ⇑2 2 2 ⇓1 1 1 ⇑2 2 2 
 - **FC 08 Homburg** - 2 seasons in 1 level
-  - 2 (2): 1994-95..1993-94 (2)
+  - 2 (2): 1995..1993 (2)
 - **FC Augsburg** - 12 seasons in 2 levels
-  - 1 (7): 2017-18.......2011-12 (7)
-  - 2 (5): 2010-11.....2006-07 (5)
+  - 1 (7): 2018.......2011 (7)
+  - 2 (5): 2011.....2006 (5)
+  - ⇑ (1): 1 1 1 1 1 1 1 ⇑2 2 2 2 2 
 - **FC Carl Zeiss Jena** - 6 seasons in 1 level
-  - 2 (6): 2007-08..2006-07 (2) 1997-98...1995-96 (3) 1993-94
+  - 2 (6): 2008..2006 (2) 1998...1995 (3) 1993-94
 - **FC Erzgebirge Aue** - 12 seasons in 1 level
-  - 2 (12): 2017-18..2016-17 (2) 2014-15.....2010-11 (5) 2007-08.....2003-04 (5)
+  - 2 (12): 2018..2016 (2) 2015.....2010 (5) 2008.....2003 (5)
 - **FC Ingolstadt 04** - 9 seasons in 2 levels
-  - 1 (2): 2016-17..2015-16 (2)
-  - 2 (7): 2017-18 2014-15.....2010-11 (5) 2008-09
+  - 1 (2): 2017..2015 (2)
+  - 2 (7): 2017-18 2015.....2010 (5) 2008-09
+  - ⇑ (1) / ⇓ (1): 2 ⇓1 1 ⇑2 2 2 2 2 2 
 - **FC Rot-Weiß Erfurt** - 1 season in 1 level
   - 2 (1): 2004-05
 - **FC Schalke 04** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **FC St. Pauli** - 21 seasons in 2 levels
-  - 1 (4): 2010-11 2001-02 1996-97..1995-96 (2)
-  - 2 (17): 2017-18.......2011-12 (7) 2009-10...2007-08 (3) 2002-03 2000-01....1997-98 (4) 1994-95..1993-94 (2)
+  - 1 (4): 2010-11 2001-02 1997..1995 (2)
+  - 2 (17): 2018.......2011 (7) 2010...2007 (3) 2002-03 2001....1997 (4) 1995..1993 (2)
+  - ⇑ (3) / ⇓ (3): 2 2 2 2 2 2 2 ⇓1 ⇑2 2 2 2 ⇓1 ⇑2 2 2 2 ⇓1 1 ⇑2 2 
 - **FSV Frankfurt** - 9 seasons in 1 level
-  - 2 (9): 2015-16........2008-09 (8) 1994-95
+  - 2 (9): 2016........2008 (8) 1994-95
 - **FSV Zwickau** - 4 seasons in 1 level
-  - 2 (4): 1997-98....1994-95 (4)
+  - 2 (4): 1998....1994 (4)
 - **Fortuna Düsseldorf** - 14 seasons in 2 levels
-  - 1 (3): 2012-13 1996-97..1995-96 (2)
-  - 2 (11): 2017-18.....2013-14 (5) 2011-12...2009-10 (3) 1998-99..1997-98 (2) 1994-95
+  - 1 (3): 2012-13 1997..1995 (2)
+  - 2 (11): 2018.....2013 (5) 2012...2009 (3) 1999..1997 (2) 1994-95
+  - ⇑ (2) / ⇓ (2): 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 ⇓1 1 ⇑2 
 - **Fortuna Köln** - 7 seasons in 1 level
-  - 2 (7): 1999-00.......1993-94 (7)
+  - 2 (7): 2000.......1993 (7)
 - **Greuther Fürth** - 21 seasons in 2 levels
   - 1 (1): 2012-13
-  - 2 (20): 2017-18.....2013-14 (5) 2011-12...............1997-98 (15)
+  - 2 (20): 2018.....2013 (5) 2012...............1997 (15)
+  - ⇑ (1) / ⇓ (1): 2 2 2 2 2 ⇓1 ⇑2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
 - **Gütersloh** - 3 seasons in 1 level
-  - 2 (3): 1998-99...1996-97 (3)
+  - 2 (3): 1999...1996 (3)
 - **Hamburger SV** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Hannover 96** - 23 seasons in 2 levels
-  - 1 (15): 2017-18 2015-16..............2002-03 (14)
-  - 2 (8): 2016-17 2001-02....1998-99 (4) 1995-96...1993-94 (3)
+  - 1 (15): 2017-18 2016..............2002 (14)
+  - 2 (8): 2016-17 2002....1998 (4) 1996...1993 (3)
+  - ⇑ (2) / ⇓ (1): 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 2 2 2 
 - **Hansa Rostock** - 18 seasons in 2 levels
-  - 1 (11): 2007-08 2004-05..........1995-96 (10)
-  - 2 (7): 2011-12 2009-10..2008-09 (2) 2006-07..2005-06 (2) 1994-95..1993-94 (2)
+  - 1 (11): 2007-08 2005..........1995 (10)
+  - 2 (7): 2011-12 2010..2008 (2) 2007..2005 (2) 1995..1993 (2)
+  - ⇑ (2) / ⇓ (2): 2 2 2 ⇓1 ⇑2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 2 
 - **Hertha BSC** - 25 seasons in 2 levels
-  - 1 (19): 2017-18.....2013-14 (5) 2011-12 2009-10.............1997-98 (13)
-  - 2 (6): 2012-13 2010-11 1996-97....1993-94 (4)
+  - 1 (19): 2018.....2013 (5) 2011-12 2010.............1997 (13)
+  - 2 (6): 2012-13 2010-11 1997....1993 (4)
+  - ⇑ (3) / ⇓ (2): 1 1 1 1 1 ⇑2 ⇓1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 
 - **Holstein Kiel** - 1 season in 1 level
   - 2 (1): 2017-18
 - **KFC Uerdingen** - 6 seasons in 2 levels
-  - 1 (2): 1995-96..1994-95 (2)
-  - 2 (4): 1998-99...1996-97 (3) 1993-94
+  - 1 (2): 1996..1994 (2)
+  - 2 (4): 1999...1996 (3) 1993-94
+  - ⇑ (1) / ⇓ (1): 2 2 2 ⇓1 1 ⇑2 
 - **Karlsruher SC** - 22 seasons in 2 levels
-  - 1 (7): 2008-09..2007-08 (2) 1997-98.....1993-94 (5)
-  - 2 (15): 2016-17....2013-14 (4) 2011-12...2009-10 (3) 2006-07......2001-02 (6) 1999-00..1998-99 (2)
+  - 1 (7): 2009..2007 (2) 1998.....1993 (5)
+  - 2 (15): 2017....2013 (4) 2012...2009 (3) 2007......2001 (6) 2000..1998 (2)
+  - ⇑ (1) / ⇓ (2): 2 2 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 
 - **Kickers Offenbach** - 4 seasons in 1 level
-  - 2 (4): 2007-08...2005-06 (3) 1999-00
+  - 2 (4): 2008...2005 (3) 1999-00
 - **Lübeck** - 4 seasons in 1 level
-  - 2 (4): 2003-04..2002-03 (2) 1996-97..1995-96 (2)
+  - 2 (4): 2004..2002 (2) 1997..1995 (2)
 - **MSV Duisburg** - 22 seasons in 2 levels
-  - 1 (8): 2007-08 2005-06 1999-00....1996-97 (4) 1994-95..1993-94 (2)
-  - 2 (14): 2017-18 2015-16 2012-13.....2008-09 (5) 2006-07 2004-05.....2000-01 (5) 1995-96
+  - 1 (8): 2007-08 2005-06 2000....1996 (4) 1995..1993 (2)
+  - 2 (14): 2017-18 2015-16 2013.....2008 (5) 2006-07 2005.....2000 (5) 1995-96
+  - ⇑ (3) / ⇓ (4): 2 2 2 2 2 2 2 ⇓1 ⇑2 ⇓1 ⇑2 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇓1 1 
 - **Osnabrück** - 5 seasons in 1 level
-  - 2 (5): 2010-11 2008-09..2007-08 (2) 2003-04 2000-01
+  - 2 (5): 2010-11 2009..2007 (2) 2003-04 2000-01
 - **RB Leipzig** - 4 seasons in 2 levels
-  - 1 (2): 2017-18..2016-17 (2)
-  - 2 (2): 2015-16..2014-15 (2)
+  - 1 (2): 2018..2016 (2)
+  - 2 (2): 2016..2014 (2)
+  - ⇑ (1): 1 1 ⇑2 2 
 - **Rot Weiss Ahlen** - 8 seasons in 1 level
-  - 2 (8): 2009-10..2008-09 (2) 2005-06......2000-01 (6)
+  - 2 (8): 2010..2008 (2) 2006......2000 (6)
 - **Rot-Weiss Essen** - 4 seasons in 1 level
   - 2 (4): 2006-07 2004-05 1996-97 1993-94
 - **Rot-Weiß Oberhausen** - 10 seasons in 1 level
-  - 2 (10): 2010-11...2008-09 (3) 2004-05.......1998-99 (7)
+  - 2 (10): 2011...2008 (3) 2005.......1998 (7)
 - **SC Freiburg** - 25 seasons in 2 levels
-  - 1 (18): 2017-18..2016-17 (2) 2014-15......2009-10 (6) 2004-05..2003-04 (2) 2001-02....1998-99 (4) 1996-97....1993-94 (4)
-  - 2 (7): 2015-16 2008-09....2005-06 (4) 2002-03 1997-98
+  - 1 (18): 2018..2016 (2) 2015......2009 (6) 2005..2003 (2) 2002....1998 (4) 1997....1993 (4)
+  - 2 (7): 2015-16 2009....2005 (4) 2002-03 1997-98
+  - ⇑ (4) / ⇓ (4): 1 1 ⇑2 ⇓1 1 1 1 1 1 ⇑2 2 2 2 ⇓1 1 ⇑2 ⇓1 1 1 1 ⇑2 ⇓1 1 1 1 
 - **SC Paderborn 07** - 10 seasons in 2 levels
   - 1 (1): 2014-15
-  - 2 (9): 2015-16 2013-14.....2009-10 (5) 2007-08...2005-06 (3)
+  - 2 (9): 2015-16 2014.....2009 (5) 2008...2005 (3)
+  - ⇑ (1) / ⇓ (1): 2 ⇓1 ⇑2 2 2 2 2 2 2 2 
 - **SG Wattenscheid 09** - 5 seasons in 2 levels
   - 1 (1): 1993-94
-  - 2 (4): 1998-99..1997-98 (2) 1995-96..1994-95 (2)
+  - 2 (4): 1999..1997 (2) 1996..1994 (2)
+  - ⇓ (1): 2 2 2 2 ⇓1 
 - **SSV Jahn Regensburg** - 3 seasons in 1 level
   - 2 (3): 2017-18 2012-13 2003-04
 - **SSV Reutlingen 05** - 3 seasons in 1 level
-  - 2 (3): 2002-03...2000-01 (3)
+  - 2 (3): 2003...2000 (3)
 - **SSV Ulm 1846** - 3 seasons in 2 levels
   - 1 (1): 1999-00
   - 2 (2): 2000-01 1998-99
+  - ⇑ (1) / ⇓ (1): 2 ⇓1 ⇑2 
 - **SV Babelsberg 03** - 1 season in 1 level
   - 2 (1): 2001-02
 - **SV Darmstadt 98** - 4 seasons in 2 levels
-  - 1 (2): 2016-17..2015-16 (2)
+  - 1 (2): 2017..2015 (2)
   - 2 (2): 2017-18 2014-15
+  - ⇑ (1) / ⇓ (1): 2 ⇓1 1 ⇑2 
 - **SV Meppen** - 5 seasons in 1 level
-  - 2 (5): 1997-98.....1993-94 (5)
+  - 2 (5): 1998.....1993 (5)
 - **SV Sandhausen** - 6 seasons in 1 level
-  - 2 (6): 2017-18......2012-13 (6)
+  - 2 (6): 2018......2012 (6)
 - **SV Wehen Wiesbaden** - 2 seasons in 1 level
-  - 2 (2): 2008-09..2007-08 (2)
+  - 2 (2): 2009..2007 (2)
 - **SpVgg Unterhaching** - 11 seasons in 2 levels
-  - 1 (2): 2000-01..1999-00 (2)
-  - 2 (9): 2006-07....2003-04 (4) 2001-02 1998-99....1995-96 (4)
+  - 1 (2): 2001..1999 (2)
+  - 2 (9): 2007....2003 (4) 2001-02 1999....1995 (4)
+  - ⇑ (1) / ⇓ (1): 2 2 2 2 2 ⇓1 1 ⇑2 2 2 2 
 - **Sportfreunde Siegen** - 1 season in 1 level
   - 2 (1): 2005-06
 - **Stuttgarter Kickers** - 6 seasons in 1 level
-  - 2 (6): 2000-01.....1996-97 (5) 1993-94
+  - 2 (6): 2001.....1996 (5) 1993-94
 - **TSG 1899 Hoffenheim** - 11 seasons in 2 levels
-  - 1 (10): 2017-18..........2008-09 (10)
+  - 1 (10): 2018..........2008 (10)
   - 2 (1): 2007-08
+  - ⇑ (1): 1 1 1 1 1 1 1 1 1 1 ⇑2 
 - **TSV 1860 München** - 24 seasons in 2 levels
-  - 1 (10): 2003-04..........1994-95 (10)
-  - 2 (14): 2016-17.............2004-05 (13) 1993-94
+  - 1 (10): 2004..........1994 (10)
+  - 2 (14): 2017.............2004 (13) 1993-94
+  - ⇑ (1) / ⇓ (1): 2 2 2 2 2 2 2 2 2 2 2 2 2 ⇓1 1 1 1 1 1 1 1 1 1 ⇑2 
 - **Tennis Borussia Berlin** - 3 seasons in 1 level
-  - 2 (3): 1999-00..1998-99 (2) 1993-94
+  - 2 (3): 2000..1998 (2) 1993-94
 - **TuS Koblenz** - 4 seasons in 1 level
-  - 2 (4): 2009-10....2006-07 (4)
+  - 2 (4): 2010....2006 (4)
 - **VfB Leipzig** - 5 seasons in 2 levels
   - 1 (1): 1993-94
-  - 2 (4): 1997-98....1994-95 (4)
+  - 2 (4): 1998....1994 (4)
+  - ⇓ (1): 2 2 2 2 ⇓1 
 - **VfB Oldenburg** - 1 season in 1 level
   - 2 (1): 1996-97
 - **VfB Stuttgart** - 25 seasons in 2 levels
-  - 1 (24): 2017-18 2015-16.......................1993-94 (23)
+  - 1 (24): 2017-18 2016.......................1993 (23)
   - 2 (1): 2016-17
+  - ⇑ (1) / ⇓ (1): 1 ⇑2 ⇓1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
 - **VfL Bochum** - 25 seasons in 2 levels
-  - 1 (12): 2009-10....2006-07 (4) 2004-05...2002-03 (3) 2000-01 1998-99...1996-97 (3) 1994-95
-  - 2 (13): 2017-18........2010-11 (8) 2005-06 2001-02 1999-00 1995-96 1993-94
+  - 1 (12): 2010....2006 (4) 2005...2002 (3) 2000-01 1999...1996 (3) 1994-95
+  - 2 (13): 2018........2010 (8) 2005-06 2001-02 1999-00 1995-96 1993-94
+  - ⇑ (5) / ⇓ (5): 2 2 2 2 2 2 2 2 ⇓1 1 1 1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 ⇑2 ⇓1 1 1 ⇑2 ⇓1 ⇑2 
 - **VfL Wolfsburg** - 25 seasons in 2 levels
-  - 1 (21): 2017-18.....................1997-98 (21)
-  - 2 (4): 1996-97....1993-94 (4)
+  - 1 (21): 2018.....................1997 (21)
+  - 2 (4): 1997....1993 (4)
+  - ⇑ (1): 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ⇑2 2 2 2 
 - **VfR Aalen** - 3 seasons in 1 level
-  - 2 (3): 2014-15...2012-13 (3)
+  - 2 (3): 2015...2012 (3)
 - **VfR Mannheim** - 8 seasons in 1 level
-  - 2 (8): 2002-03....1999-00 (4) 1996-97....1993-94 (4)
+  - 2 (8): 2003....1999 (4) 1997....1993 (4)
 - **Wacker Burghausen** - 5 seasons in 1 level
-  - 2 (5): 2006-07.....2002-03 (5)
+  - 2 (5): 2007.....2002 (5)
 - **Werder Bremen** - 25 seasons in 1 level
-  - 1 (25): 2017-18.........................1993-94 (25)
+  - 1 (25): 2018.........................1993 (25)
 - **Wuppertaler SV** - 1 season in 1 level
   - 2 (1): 1993-94
 - **Würzburger Kickers** - 1 season in 1 level
