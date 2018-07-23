@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Hamburger SV                  34  11  6  0  59:17    7  6  4  36:28    95:45  +50   66
@@ -20,13 +20,13 @@
 12. Arminia Bielefeld             34   9  4  4  28:14    3  2 12  18:36    46:50   -4   42
 13. 1. FC Nürnberg                34  10  4  3  34:24    1  2 14  19:48    53:72  -19   39
 14. Karlsruher SC                 34   8  5  4  30:24    1  4 12  20:44    50:68  -18   36
-15. Bayer Leverkusen              34   6  5  6  20:23    3  2 12  25:49    45:72  -27   34
+15. Bayer 04 Leverkusen           34   6  5  6  20:23    3  2 12  25:49    45:72  -27   34
 16. Fortuna Düsseldorf            34   6  8  3  32:22    0  5 12  16:51    48:73  -25   31
 17. MSV Duisburg                  34   8  1  8  28:26    0  2 15  12:51    40:77  -37   27
 18. SV Darmstadt 98               34   4  6  7  27:37    1  5 11  19:45    46:82  -36   26
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

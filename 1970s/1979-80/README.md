@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bayern München                34  14  2  1  54:12    8  4  5  30:21    84:33  +51   72
@@ -17,16 +17,16 @@
  9. VfL Bochum                    34   9  5  3  24:13    4  1 12  17:31    41:44   -3   45
 10. Fortuna Düsseldorf            34  10  2  5  45:31    3  4 10  17:41    62:72  -10   45
 11. FC Schalke 04                 34   9  4  4  22:17    3  5  9  18:34    40:51  -11   45
-12. Bayer Leverkusen              34  11  5  1  30:14    1  3 13  15:47    45:61  -16   44
-13. Bayer 05 Uerdingen            34  11  1  5  31:24    1  4 12  12:37    43:61  -18   41
+12. Bayer 04 Leverkusen           34  11  5  1  30:14    1  3 13  15:47    45:61  -16   44
+13. KFC Uerdingen                 34  11  1  5  31:24    1  4 12  12:37    43:61  -18   41
 14. TSV 1860 München              34   9  4  4  28:16    1  6 10  14:37    42:53  -11   40
 15. MSV Duisburg                  34   7  5  5  26:16    4  2 11  17:41    43:57  -14   40
 16. Hertha BSC                    34   9  4  4  24:18    2  3 12  17:43    41:61  -20   40
 17. Werder Bremen                 34  10  2  5  39:32    1  1 15  13:61    52:93  -41   36
 18. Eintracht Braunschweig        34   6  5  6  23:21    0  3 14   9:43    32:64  -32   26
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

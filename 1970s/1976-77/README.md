@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bor. Mönchengladbach          34  11  5  1  39:13    6  5  6  19:21    58:34  +24   61
@@ -23,10 +23,10 @@
 15. 1. FC Saarbrücken             34   6  8  3  30:21    3  3 11  13:34    43:55  -12   38
 16. Karlsruher SC                 34   9  5  3  32:24    0  5 12  21:51    53:75  -22   37
 17. Rot-Weiss Essen               34   7  4  6  28:42    0  4 13  21:61    49:103 -54   29
-18. TeBe Berlin                   34   6  6  5  32:31    0  4 13  15:54    47:85  -38   28
-~~~
+18. Tennis Borussia Berlin        34   6  6  5  32:31    0  4 13  15:54    47:85  -38   28
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

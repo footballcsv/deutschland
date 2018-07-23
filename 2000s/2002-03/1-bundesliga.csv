@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT
-1,2002-08-09,Borussia Dortmund,Hertha BSC,2-2,2-1
-1,2002-08-10,Energie Cottbus,Bayer Leverkusen,1-1,0-0
-1,2002-08-10,1. FC Nürnberg,VfL Bochum,1-3,0-2
-1,2002-08-10,Bor. Mönchengladbach,Bayern München,0-0,0-0
-1,2002-08-10,FC Schalke 04,VfL Wolfsburg,1-0,0-0
-1,2002-08-10,VfB Stuttgart,1. FC Kaiserslautern,1-1,1-0
-1,2002-08-11,Hamburger SV,Hannover 96,2-1,0-1
-1,2002-08-11,Arminia Bielefeld,Werder Bremen,3-0,1-0
-1,2002-08-14,TSV 1860 München,Hansa Rostock,0-2,0-1
-2,2002-08-17,Hertha BSC,VfB Stuttgart,1-1,0-1
-2,2002-08-17,Bayern München,Arminia Bielefeld,6-2,3-0
-2,2002-08-17,Hannover 96,TSV 1860 München,1-3,1-2
-2,2002-08-17,Hansa Rostock,1. FC Nürnberg,2-0,1-0
-2,2002-08-17,VfL Bochum,Energie Cottbus,5-0,3-0
-2,2002-08-17,Bayer Leverkusen,Borussia Dortmund,1-1,1-0
-2,2002-08-17,1. FC Kaiserslautern,FC Schalke 04,1-3,1-0
-2,2002-08-18,VfL Wolfsburg,Bor. Mönchengladbach,1-0,0-0
-2,2002-08-18,Werder Bremen,Hamburger SV,2-1,1-1
-3,2002-08-24,Energie Cottbus,Hansa Rostock,0-4,0-2
-3,2002-08-24,TSV 1860 München,Werder Bremen,3-0,1-0
-3,2002-08-24,Hamburger SV,Bayern München,0-3,0-1
-3,2002-08-24,Arminia Bielefeld,VfL Wolfsburg,1-0,1-0
-3,2002-08-24,Bor. Mönchengladbach,1. FC Kaiserslautern,3-0,2-0
-3,2002-08-24,Bayer Leverkusen,VfL Bochum,2-4,1-3
-3,2002-08-24,Borussia Dortmund,VfB Stuttgart,3-1,1-0
-3,2002-08-25,1. FC Nürnberg,Hannover 96,3-1,2-0
-3,2002-08-25,FC Schalke 04,Hertha BSC,0-0,0-0
-4,2002-09-10,Hertha BSC,Bor. Mönchengladbach,1-2,0-1
-4,2002-09-10,Bayern München,TSV 1860 München,3-1,1-1
-4,2002-09-10,Werder Bremen,1. FC Nürnberg,4-1,1-0
-4,2002-09-10,VfL Bochum,Borussia Dortmund,0-0,0-0
-4,2002-09-11,VfL Wolfsburg,Hamburger SV,2-1,0-0
-4,2002-09-11,Hannover 96,Energie Cottbus,1-3,1-1
-4,2002-09-11,Hansa Rostock,Bayer Leverkusen,1-3,0-2
-4,2002-09-11,VfB Stuttgart,FC Schalke 04,1-1,1-0
-4,2002-09-11,1. FC Kaiserslautern,Arminia Bielefeld,1-1,0-0
-5,2002-09-14,Energie Cottbus,Werder Bremen,0-1,0-0
-5,2002-09-14,1. FC Nürnberg,Bayern München,1-2,1-1
-5,2002-09-14,TSV 1860 München,VfL Wolfsburg,2-2,0-0
-5,2002-09-14,Arminia Bielefeld,Hertha BSC,0-1,0-0
-5,2002-09-14,Bor. Mönchengladbach,VfB Stuttgart,1-1,0-0
-5,2002-09-14,Bayer Leverkusen,Hannover 96,1-3,1-1
-5,2002-09-14,Borussia Dortmund,FC Schalke 04,1-1,0-0
-5,2002-09-15,Hamburger SV,1. FC Kaiserslautern,2-0,0-0
-5,2002-09-15,VfL Bochum,Hansa Rostock,0-1,0-1
-6,2002-09-21,Hertha BSC,Hamburger SV,2-0,0-0
-6,2002-09-21,VfL Wolfsburg,1. FC Nürnberg,0-2,0-0
-6,2002-09-21,Bayern München,Energie Cottbus,3-1,1-1
-6,2002-09-21,Werder Bremen,Bayer Leverkusen,3-2,3-2
-6,2002-09-21,Hannover 96,VfL Bochum,2-2,1-1
-6,2002-09-21,Hansa Rostock,Borussia Dortmund,0-1,0-1
-6,2002-09-21,1. FC Kaiserslautern,TSV 1860 München,0-0,0-0
-6,2002-09-22,FC Schalke 04,Bor. Mönchengladbach,2-1,2-1
-6,2002-09-22,VfB Stuttgart,Arminia Bielefeld,3-0,1-0
-7,2002-09-28,Energie Cottbus,VfL Wolfsburg,0-1,0-0
-7,2002-09-28,TSV 1860 München,Hertha BSC,1-0,1-0
-7,2002-09-28,Hamburger SV,VfB Stuttgart,3-2,2-2
-7,2002-09-28,Arminia Bielefeld,FC Schalke 04,2-1,1-1
-7,2002-09-28,Hansa Rostock,Hannover 96,1-2,1-2
-7,2002-09-28,Bayer Leverkusen,Bayern München,2-1,1-0
-7,2002-09-28,Borussia Dortmund,Bor. Mönchengladbach,1-0,0-0
-7,2002-09-29,1. FC Nürnberg,1. FC Kaiserslautern,1-0,0-0
-7,2002-09-29,VfL Bochum,Werder Bremen,1-4,1-2
-8,2002-10-05,Hertha BSC,1. FC Nürnberg,2-1,0-1
-8,2002-10-05,VfL Wolfsburg,Bayer Leverkusen,2-0,1-0
-8,2002-10-05,Bayern München,VfL Bochum,4-1,2-0
-8,2002-10-05,Hannover 96,Borussia Dortmund,0-3,0-1
-8,2002-10-05,Bor. Mönchengladbach,Arminia Bielefeld,3-0,2-0
-8,2002-10-05,FC Schalke 04,Hamburger SV,3-0,3-0
-8,2002-10-05,1. FC Kaiserslautern,Energie Cottbus,4-0,1-0
-8,2002-10-06,Werder Bremen,Hansa Rostock,0-0,0-0
-8,2002-10-06,VfB Stuttgart,TSV 1860 München,4-1,0-1
-9,2002-10-19,Energie Cottbus,Hertha BSC,0-2,0-2
-9,2002-10-19,TSV 1860 München,FC Schalke 04,3-0,0-0
-9,2002-10-19,Hamburger SV,Bor. Mönchengladbach,1-0,0-0
-9,2002-10-19,Hannover 96,Werder Bremen,4-4,2-1
-9,2002-10-19,Hansa Rostock,Bayern München,0-1,0-0
-9,2002-10-19,Bayer Leverkusen,1. FC Kaiserslautern,1-0,1-0
-9,2002-10-19,Borussia Dortmund,Arminia Bielefeld,0-0,0-0
-9,2002-10-20,1. FC Nürnberg,VfB Stuttgart,1-2,1-0
-9,2002-10-20,VfL Bochum,VfL Wolfsburg,4-2,1-2
-10,2002-10-26,Hertha BSC,Bayer Leverkusen,1-1,1-0
-10,2002-10-26,Bayern München,Hannover 96,3-3,1-2
-10,2002-10-26,Werder Bremen,Borussia Dortmund,1-4,1-1
-10,2002-10-26,Arminia Bielefeld,Hamburger SV,2-1,1-0
-10,2002-10-26,Bor. Mönchengladbach,TSV 1860 München,0-1,0-0
-10,2002-10-26,FC Schalke 04,1. FC Nürnberg,1-1,0-1
-10,2002-10-26,VfB Stuttgart,Energie Cottbus,0-0,0-0
-10,2002-10-27,VfL Wolfsburg,Hansa Rostock,1-0,1-0
-10,2002-11-13,1. FC Kaiserslautern,VfL Bochum,0-2,0-2
-11,2002-11-02,Energie Cottbus,FC Schalke 04,0-1,0-0
-11,2002-11-02,1. FC Nürnberg,Bor. Mönchengladbach,2-1,2-0
-11,2002-11-02,TSV 1860 München,Arminia Bielefeld,3-1,3-1
-11,2002-11-02,Hannover 96,VfL Wolfsburg,3-1,2-0
-11,2002-11-02,Hansa Rostock,1. FC Kaiserslautern,2-2,1-1
-11,2002-11-02,Bayer Leverkusen,VfB Stuttgart,0-1,0-1
-11,2002-11-02,Borussia Dortmund,Hamburger SV,1-1,0-0
-11,2002-11-03,Werder Bremen,Bayern München,2-0,1-0
-11,2002-11-03,VfL Bochum,Hertha BSC,3-0,0-0
-12,2002-11-09,VfL Wolfsburg,Werder Bremen,3-1,1-0
-12,2002-11-09,Bayern München,Borussia Dortmund,2-1,0-1
-12,2002-11-09,Hamburger SV,TSV 1860 München,1-0,1-0
-12,2002-11-09,Arminia Bielefeld,1. FC Nürnberg,0-1,0-0
-12,2002-11-09,FC Schalke 04,Bayer Leverkusen,0-1,0-0
-12,2002-11-09,VfB Stuttgart,VfL Bochum,3-2,0-0
-12,2002-11-09,1. FC Kaiserslautern,Hannover 96,0-1,0-1
-12,2002-11-10,Hertha BSC,Hansa Rostock,3-1,2-1
-12,2002-11-10,Bor. Mönchengladbach,Energie Cottbus,3-0,3-0
-13,2002-11-16,Energie Cottbus,Arminia Bielefeld,2-1,1-0
-13,2002-11-16,1. FC Nürnberg,Hamburger SV,1-3,1-1
-13,2002-11-16,Bayern München,VfL Wolfsburg,1-0,1-0
-13,2002-11-16,Hannover 96,Hertha BSC,0-1,0-1
-13,2002-11-16,Hansa Rostock,VfB Stuttgart,1-1,1-0
-13,2002-11-16,Bayer Leverkusen,Bor. Mönchengladbach,2-2,1-1
-13,2002-11-16,Borussia Dortmund,TSV 1860 München,1-0,1-0
-13,2002-11-17,Werder Bremen,1. FC Kaiserslautern,5-3,1-2
-13,2002-11-17,VfL Bochum,FC Schalke 04,0-2,0-0
-14,2002-11-23,Hertha BSC,Werder Bremen,0-1,0-1
-14,2002-11-23,VfL Wolfsburg,Borussia Dortmund,2-0,1-0
-14,2002-11-23,Arminia Bielefeld,Bayer Leverkusen,2-2,1-1
-14,2002-11-23,Bor. Mönchengladbach,VfL Bochum,2-2,0-0
-14,2002-11-23,FC Schalke 04,Hansa Rostock,2-2,2-0
-14,2002-11-23,VfB Stuttgart,Hannover 96,3-0,1-0
-14,2002-11-23,1. FC Kaiserslautern,Bayern München,0-2,0-2
-14,2002-11-24,TSV 1860 München,1. FC Nürnberg,2-2,1-2
-14,2002-11-24,Hamburger SV,Energie Cottbus,1-1,0-0
-15,2002-11-30,Energie Cottbus,TSV 1860 München,3-4,0-1
-15,2002-11-30,1. FC Nürnberg,Borussia Dortmund,1-2,1-0
-15,2002-11-30,Bayern München,Hertha BSC,2-0,1-0
-15,2002-11-30,Hansa Rostock,Bor. Mönchengladbach,3-1,1-1
-15,2002-11-30,VfL Bochum,Arminia Bielefeld,0-3,0-1
-15,2002-11-30,Bayer Leverkusen,Hamburger SV,2-3,2-1
-15,2002-11-30,1. FC Kaiserslautern,VfL Wolfsburg,2-0,1-0
-15,2002-12-01,Werder Bremen,VfB Stuttgart,3-1,1-0
-15,2002-12-01,Hannover 96,FC Schalke 04,0-2,0-2
-16,2002-12-07,Hertha BSC,VfL Wolfsburg,2-2,1-0
-16,2002-12-07,1. FC Nürnberg,Energie Cottbus,2-2,1-1
-16,2002-12-07,TSV 1860 München,Bayer Leverkusen,0-3,0-1
-16,2002-12-07,Arminia Bielefeld,Hansa Rostock,3-0,1-0
-16,2002-12-07,FC Schalke 04,Werder Bremen,1-1,1-1
-16,2002-12-07,VfB Stuttgart,Bayern München,0-3,0-2
-16,2002-12-07,Borussia Dortmund,1. FC Kaiserslautern,3-1,1-1
-16,2002-12-08,Hamburger SV,VfL Bochum,1-1,0-0
-16,2002-12-08,Bor. Mönchengladbach,Hannover 96,1-0,1-0
-17,2002-12-14,Energie Cottbus,Borussia Dortmund,0-4,0-1
-17,2002-12-14,Bayern München,FC Schalke 04,0-0,0-0
-17,2002-12-14,Werder Bremen,Bor. Mönchengladbach,2-0,1-0
-17,2002-12-14,Hannover 96,Arminia Bielefeld,0-0,0-0
-17,2002-12-14,Hansa Rostock,Hamburger SV,0-0,0-0
-17,2002-12-14,VfL Bochum,TSV 1860 München,1-1,0-1
-17,2002-12-14,Bayer Leverkusen,1. FC Nürnberg,0-2,0-0
-17,2002-12-15,VfL Wolfsburg,VfB Stuttgart,1-2,0-1
-17,2002-12-15,1. FC Kaiserslautern,Hertha BSC,2-1,1-0
-18,2003-01-25,VfL Bochum,1. FC Nürnberg,2-1,2-1
-18,2003-01-25,Hansa Rostock,TSV 1860 München,1-4,0-3
-18,2003-01-25,Hannover 96,Hamburger SV,2-2,1-0
-18,2003-01-25,Werder Bremen,Arminia Bielefeld,2-2,2-2
-18,2003-01-25,VfL Wolfsburg,FC Schalke 04,1-2,0-0
-18,2003-01-25,1. FC Kaiserslautern,VfB Stuttgart,1-2,1-1
-18,2003-01-25,Hertha BSC,Borussia Dortmund,2-1,0-0
-18,2003-01-26,Bayer Leverkusen,Energie Cottbus,0-3,0-2
-18,2003-01-26,Bayern München,Bor. Mönchengladbach,3-0,1-0
-19,2003-02-01,VfB Stuttgart,Hertha BSC,3-1,1-0
-19,2003-02-01,Arminia Bielefeld,Bayern München,0-0,0-0
-19,2003-02-01,TSV 1860 München,Hannover 96,0-1,0-1
-19,2003-02-01,1. FC Nürnberg,Hansa Rostock,0-1,0-1
-19,2003-02-01,Energie Cottbus,VfL Bochum,2-1,1-0
-19,2003-02-01,FC Schalke 04,1. FC Kaiserslautern,2-2,1-1
-19,2003-02-02,Hamburger SV,Werder Bremen,1-0,0-0
-19,2003-02-02,Borussia Dortmund,Bayer Leverkusen,2-0,2-0
-19,2003-02-19,Bor. Mönchengladbach,VfL Wolfsburg,2-0,1-0
-20,2003-02-08,Hansa Rostock,Energie Cottbus,0-0,0-0
-20,2003-02-08,Hannover 96,1. FC Nürnberg,4-2,3-1
-20,2003-02-08,Werder Bremen,TSV 1860 München,1-2,1-0
-20,2003-02-08,VfL Wolfsburg,Arminia Bielefeld,2-0,1-0
-20,2003-02-08,1. FC Kaiserslautern,Bor. Mönchengladbach,2-0,1-0
-20,2003-02-08,Hertha BSC,FC Schalke 04,4-2,2-1
-20,2003-02-08,VfL Bochum,Bayer Leverkusen,2-1,0-0
-20,2003-02-09,Bayern München,Hamburger SV,1-1,1-0
-20,2003-02-09,VfB Stuttgart,Borussia Dortmund,1-0,0-0
-21,2003-02-15,Hamburger SV,VfL Wolfsburg,2-0,1-0
-21,2003-02-15,TSV 1860 München,Bayern München,0-5,0-0
-21,2003-02-15,1. FC Nürnberg,Werder Bremen,1-0,1-0
-21,2003-02-15,Bayer Leverkusen,Hansa Rostock,1-2,1-2
-21,2003-02-15,Borussia Dortmund,VfL Bochum,4-1,3-1
-21,2003-02-15,FC Schalke 04,VfB Stuttgart,2-0,2-0
-21,2003-02-15,Arminia Bielefeld,1. FC Kaiserslautern,1-1,1-1
-21,2003-02-16,Bor. Mönchengladbach,Hertha BSC,0-2,0-2
-21,2003-02-16,Energie Cottbus,Hannover 96,3-0,0-0
-22,2003-02-22,Werder Bremen,Energie Cottbus,0-1,0-1
-22,2003-02-22,Bayern München,1. FC Nürnberg,2-0,1-0
-22,2003-02-22,VfL Wolfsburg,TSV 1860 München,1-1,0-0
-22,2003-02-22,1. FC Kaiserslautern,Hamburger SV,2-0,0-0
-22,2003-02-22,Hansa Rostock,VfL Bochum,1-1,1-0
-22,2003-02-22,Hannover 96,Bayer Leverkusen,1-2,1-0
-22,2003-02-22,FC Schalke 04,Borussia Dortmund,2-2,2-0
-22,2003-02-23,Hertha BSC,Arminia Bielefeld,0-0,0-0
-22,2003-02-23,VfB Stuttgart,Bor. Mönchengladbach,4-0,2-0
-23,2003-03-01,1. FC Nürnberg,VfL Wolfsburg,1-1,1-0
-23,2003-03-01,Energie Cottbus,Bayern München,0-2,0-1
-23,2003-03-01,Bayer Leverkusen,Werder Bremen,3-0,1-0
-23,2003-03-01,VfL Bochum,Hannover 96,1-2,0-2
-23,2003-03-01,Borussia Dortmund,Hansa Rostock,2-0,1-0
-23,2003-03-01,Bor. Mönchengladbach,FC Schalke 04,2-2,0-1
-23,2003-03-01,TSV 1860 München,1. FC Kaiserslautern,0-0,0-0
-23,2003-03-02,Hamburger SV,Hertha BSC,1-0,0-0
-23,2003-03-02,Arminia Bielefeld,VfB Stuttgart,0-1,0-1
-24,2003-03-08,VfL Wolfsburg,Energie Cottbus,3-2,2-2
-24,2003-03-08,Hertha BSC,TSV 1860 München,6-0,3-0
-24,2003-03-08,VfB Stuttgart,Hamburger SV,1-1,1-1
-24,2003-03-08,FC Schalke 04,Arminia Bielefeld,1-1,0-0
-24,2003-03-08,Werder Bremen,VfL Bochum,2-0,0-0
-24,2003-03-08,Bayern München,Bayer Leverkusen,3-0,2-0
-24,2003-03-08,Bor. Mönchengladbach,Borussia Dortmund,1-0,0-0
-24,2003-03-09,1. FC Kaiserslautern,1. FC Nürnberg,5-0,2-0
-24,2003-03-09,Hannover 96,Hansa Rostock,3-1,2-1
-25,2003-03-15,Bayer Leverkusen,VfL Wolfsburg,1-1,0-0
-25,2003-03-15,VfL Bochum,Bayern München,1-4,0-2
-25,2003-03-15,Hansa Rostock,Werder Bremen,1-0,0-0
-25,2003-03-15,Borussia Dortmund,Hannover 96,2-0,1-0
-25,2003-03-15,Arminia Bielefeld,Bor. Mönchengladbach,4-1,1-0
-25,2003-03-15,Hamburger SV,FC Schalke 04,3-1,1-0
-25,2003-03-15,Energie Cottbus,1. FC Kaiserslautern,1-3,1-1
-25,2003-03-16,1. FC Nürnberg,Hertha BSC,0-3,0-2
-25,2003-03-16,TSV 1860 München,VfB Stuttgart,0-1,0-1
-26,2003-03-22,FC Schalke 04,TSV 1860 München,1-1,1-1
-26,2003-03-22,Bor. Mönchengladbach,Hamburger SV,2-0,0-0
-26,2003-03-22,Werder Bremen,Hannover 96,1-2,1-1
-26,2003-03-22,Bayern München,Hansa Rostock,1-0,0-0
-26,2003-03-22,VfL Wolfsburg,VfL Bochum,2-0,2-0
-26,2003-03-22,1. FC Kaiserslautern,Bayer Leverkusen,1-0,1-0
-26,2003-03-22,Arminia Bielefeld,Borussia Dortmund,0-0,0-0
-26,2003-03-23,Hertha BSC,Energie Cottbus,3-1,0-1
-26,2003-03-23,VfB Stuttgart,1. FC Nürnberg,0-2,0-1
-27,2003-04-05,Bayer Leverkusen,Hertha BSC,4-1,3-0
-27,2003-04-05,Hannover 96,Bayern München,2-2,2-0
-27,2003-04-05,Borussia Dortmund,Werder Bremen,1-2,1-0
-27,2003-04-05,Hamburger SV,Arminia Bielefeld,1-0,1-0
-27,2003-04-05,1. FC Nürnberg,FC Schalke 04,0-0,0-0
-27,2003-04-05,Energie Cottbus,VfB Stuttgart,2-3,1-1
-27,2003-04-05,VfL Bochum,1. FC Kaiserslautern,1-1,0-0
-27,2003-04-06,Hansa Rostock,VfL Wolfsburg,1-0,1-0
-27,2003-04-06,TSV 1860 München,Bor. Mönchengladbach,2-0,0-0
-28,2003-04-12,Bor. Mönchengladbach,1. FC Nürnberg,2-0,1-0
-28,2003-04-12,Arminia Bielefeld,TSV 1860 München,2-1,2-1
-28,2003-04-12,Bayern München,Werder Bremen,0-1,0-1
-28,2003-04-12,1. FC Kaiserslautern,Hansa Rostock,1-0,0-0
-28,2003-04-12,Hertha BSC,VfL Bochum,1-0,0-0
-28,2003-04-12,VfB Stuttgart,Bayer Leverkusen,3-0,2-0
-28,2003-04-12,Hamburger SV,Borussia Dortmund,1-1,0-0
-28,2003-04-13,FC Schalke 04,Energie Cottbus,3-0,1-0
-28,2003-04-13,VfL Wolfsburg,Hannover 96,1-0,0-0
-29,2003-04-19,Hansa Rostock,Hertha BSC,0-1,0-0
-29,2003-04-19,Werder Bremen,VfL Wolfsburg,0-1,0-0
-29,2003-04-19,Borussia Dortmund,Bayern München,1-0,0-0
-29,2003-04-19,TSV 1860 München,Hamburger SV,1-1,1-0
-29,2003-04-19,1. FC Nürnberg,Arminia Bielefeld,0-0,0-0
-29,2003-04-19,Energie Cottbus,Bor. Mönchengladbach,1-1,1-0
-29,2003-04-19,Hannover 96,1. FC Kaiserslautern,2-1,0-1
-29,2003-04-20,Bayer Leverkusen,FC Schalke 04,1-3,1-1
-29,2003-04-20,VfL Bochum,VfB Stuttgart,3-1,1-1
-30,2003-04-26,Hamburger SV,1. FC Nürnberg,4-0,2-0
-30,2003-04-26,VfL Wolfsburg,Bayern München,0-2,0-0
-30,2003-04-26,Hertha BSC,Hannover 96,2-0,2-0
-30,2003-04-26,VfB Stuttgart,Hansa Rostock,1-1,1-0
-30,2003-04-26,FC Schalke 04,VfL Bochum,1-2,1-1
-30,2003-04-26,Bor. Mönchengladbach,Bayer Leverkusen,2-2,1-1
-30,2003-04-26,TSV 1860 München,Borussia Dortmund,0-0,0-0
-30,2003-04-27,Arminia Bielefeld,Energie Cottbus,2-2,0-2
-30,2003-04-27,1. FC Kaiserslautern,Werder Bremen,1-0,0-0
-31,2003-05-03,Werder Bremen,Hertha BSC,4-2,3-1
-31,2003-05-03,Borussia Dortmund,VfL Wolfsburg,2-2,1-0
-31,2003-05-03,1. FC Nürnberg,TSV 1860 München,1-2,1-0
-31,2003-05-03,Energie Cottbus,Hamburger SV,0-0,0-0
-31,2003-05-03,VfL Bochum,Bor. Mönchengladbach,1-1,1-1
-31,2003-05-03,Hannover 96,VfB Stuttgart,1-2,0-2
-31,2003-05-03,Bayern München,1. FC Kaiserslautern,1-0,0-0
-31,2003-05-04,Bayer Leverkusen,Arminia Bielefeld,3-1,1-1
-31,2003-05-04,Hansa Rostock,FC Schalke 04,3-1,0-1
-32,2003-05-10,TSV 1860 München,Energie Cottbus,3-0,2-0
-32,2003-05-10,Borussia Dortmund,1. FC Nürnberg,4-1,1-0
-32,2003-05-10,Hertha BSC,Bayern München,3-6,1-5
-32,2003-05-10,VfB Stuttgart,Werder Bremen,0-1,0-0
-32,2003-05-10,Bor. Mönchengladbach,Hansa Rostock,3-0,1-0
-32,2003-05-10,Hamburger SV,Bayer Leverkusen,4-1,1-0
-32,2003-05-10,VfL Wolfsburg,1. FC Kaiserslautern,2-2,1-1
-32,2003-05-11,FC Schalke 04,Hannover 96,0-2,0-0
-32,2003-05-11,Arminia Bielefeld,VfL Bochum,1-3,1-1
-33,2003-05-17,VfL Wolfsburg,Hertha BSC,2-0,1-0
-33,2003-05-17,Energie Cottbus,1. FC Nürnberg,2-1,1-1
-33,2003-05-17,Bayer Leverkusen,TSV 1860 München,3-0,2-0
-33,2003-05-17,VfL Bochum,Hamburger SV,1-1,1-0
-33,2003-05-17,Hansa Rostock,Arminia Bielefeld,3-0,1-0
-33,2003-05-17,Hannover 96,Bor. Mönchengladbach,2-2,1-0
-33,2003-05-17,Werder Bremen,FC Schalke 04,2-1,1-1
-33,2003-05-17,Bayern München,VfB Stuttgart,2-1,0-0
-33,2003-05-17,1. FC Kaiserslautern,Borussia Dortmund,0-0,0-0
-34,2003-05-24,Borussia Dortmund,Energie Cottbus,1-1,1-0
-34,2003-05-24,VfB Stuttgart,VfL Wolfsburg,2-0,2-0
-34,2003-05-24,FC Schalke 04,Bayern München,1-0,1-0
-34,2003-05-24,Bor. Mönchengladbach,Werder Bremen,4-1,0-0
-34,2003-05-24,Arminia Bielefeld,Hannover 96,0-1,0-0
-34,2003-05-24,Hamburger SV,Hansa Rostock,2-0,1-0
-34,2003-05-24,TSV 1860 München,VfL Bochum,2-4,1-1
-34,2003-05-24,1. FC Nürnberg,Bayer Leverkusen,0-1,0-1
-34,2003-05-24,Hertha BSC,1. FC Kaiserslautern,2-0,1-0
+Round,Date,Team 1,FT,HT,Team 2
+1,(Fri) 9 Aug 2002 (31),Borussia Dortmund (1),2-2,2-1,Hertha BSC (1)
+1,(Sat) 10 Aug 2002 (31),Energie Cottbus (1),1-1,0-0,Bayer 04 Leverkusen (1)
+1,(Sat) 10 Aug 2002 (31),1. FC Nürnberg (1),1-3,0-2,VfL Bochum (1)
+1,(Sat) 10 Aug 2002 (31),Bor. Mönchengladbach (1),0-0,0-0,Bayern München (1)
+1,(Sat) 10 Aug 2002 (31),FC Schalke 04 (1),1-0,0-0,VfL Wolfsburg (1)
+1,(Sat) 10 Aug 2002 (31),VfB Stuttgart (1),1-1,1-0,1. FC Kaiserslautern (1)
+1,(Sun) 11 Aug 2002 (31),Hamburger SV (1),2-1,0-1,Hannover 96 (1)
+1,(Sun) 11 Aug 2002 (31),Arminia Bielefeld (1),3-0,1-0,Werder Bremen (1)
+1,(Wed) 14 Aug 2002 (32),TSV 1860 München (1),0-2,0-1,Hansa Rostock (1)
+2,(Sat) 17 Aug 2002 (32),Hertha BSC (2),1-1,0-1,VfB Stuttgart (2)
+2,(Sat) 17 Aug 2002 (32),Bayern München (2),6-2,3-0,Arminia Bielefeld (2)
+2,(Sat) 17 Aug 2002 (32),Hannover 96 (2),1-3,1-2,TSV 1860 München (2)
+2,(Sat) 17 Aug 2002 (32),Hansa Rostock (2),2-0,1-0,1. FC Nürnberg (2)
+2,(Sat) 17 Aug 2002 (32),VfL Bochum (2),5-0,3-0,Energie Cottbus (2)
+2,(Sat) 17 Aug 2002 (32),Bayer 04 Leverkusen (2),1-1,1-0,Borussia Dortmund (2)
+2,(Sat) 17 Aug 2002 (32),1. FC Kaiserslautern (2),1-3,1-0,FC Schalke 04 (2)
+2,(Sun) 18 Aug 2002 (32),VfL Wolfsburg (2),1-0,0-0,Bor. Mönchengladbach (2)
+2,(Sun) 18 Aug 2002 (32),Werder Bremen (2),2-1,1-1,Hamburger SV (2)
+3,(Sat) 24 Aug 2002 (33),Energie Cottbus (3),0-4,0-2,Hansa Rostock (3)
+3,(Sat) 24 Aug 2002 (33),TSV 1860 München (3),3-0,1-0,Werder Bremen (3)
+3,(Sat) 24 Aug 2002 (33),Hamburger SV (3),0-3,0-1,Bayern München (3)
+3,(Sat) 24 Aug 2002 (33),Arminia Bielefeld (3),1-0,1-0,VfL Wolfsburg (3)
+3,(Sat) 24 Aug 2002 (33),Bor. Mönchengladbach (3),3-0,2-0,1. FC Kaiserslautern (3)
+3,(Sat) 24 Aug 2002 (33),Bayer 04 Leverkusen (3),2-4,1-3,VfL Bochum (3)
+3,(Sat) 24 Aug 2002 (33),Borussia Dortmund (3),3-1,1-0,VfB Stuttgart (3)
+3,(Sun) 25 Aug 2002 (33),1. FC Nürnberg (3),3-1,2-0,Hannover 96 (3)
+3,(Sun) 25 Aug 2002 (33),FC Schalke 04 (3),0-0,0-0,Hertha BSC (3)
+4,(Tue) 10 Sep 2002 (36),Hertha BSC (4),1-2,0-1,Bor. Mönchengladbach (4)
+4,(Tue) 10 Sep 2002 (36),Bayern München (4),3-1,1-1,TSV 1860 München (4)
+4,(Tue) 10 Sep 2002 (36),Werder Bremen (4),4-1,1-0,1. FC Nürnberg (4)
+4,(Tue) 10 Sep 2002 (36),VfL Bochum (4),0-0,0-0,Borussia Dortmund (4)
+4,(Wed) 11 Sep 2002 (36),VfL Wolfsburg (4),2-1,0-0,Hamburger SV (4)
+4,(Wed) 11 Sep 2002 (36),Hannover 96 (4),1-3,1-1,Energie Cottbus (4)
+4,(Wed) 11 Sep 2002 (36),Hansa Rostock (4),1-3,0-2,Bayer 04 Leverkusen (4)
+4,(Wed) 11 Sep 2002 (36),VfB Stuttgart (4),1-1,1-0,FC Schalke 04 (4)
+4,(Wed) 11 Sep 2002 (36),1. FC Kaiserslautern (4),1-1,0-0,Arminia Bielefeld (4)
+5,(Sat) 14 Sep 2002 (36),Energie Cottbus (5),0-1,0-0,Werder Bremen (5)
+5,(Sat) 14 Sep 2002 (36),1. FC Nürnberg (5),1-2,1-1,Bayern München (5)
+5,(Sat) 14 Sep 2002 (36),TSV 1860 München (5),2-2,0-0,VfL Wolfsburg (5)
+5,(Sat) 14 Sep 2002 (36),Arminia Bielefeld (5),0-1,0-0,Hertha BSC (5)
+5,(Sat) 14 Sep 2002 (36),Bor. Mönchengladbach (5),1-1,0-0,VfB Stuttgart (5)
+5,(Sat) 14 Sep 2002 (36),Bayer 04 Leverkusen (5),1-3,1-1,Hannover 96 (5)
+5,(Sat) 14 Sep 2002 (36),Borussia Dortmund (5),1-1,0-0,FC Schalke 04 (5)
+5,(Sun) 15 Sep 2002 (36),Hamburger SV (5),2-0,0-0,1. FC Kaiserslautern (5)
+5,(Sun) 15 Sep 2002 (36),VfL Bochum (5),0-1,0-1,Hansa Rostock (5)
+6,(Sat) 21 Sep 2002 (37),Hertha BSC (6),2-0,0-0,Hamburger SV (6)
+6,(Sat) 21 Sep 2002 (37),VfL Wolfsburg (6),0-2,0-0,1. FC Nürnberg (6)
+6,(Sat) 21 Sep 2002 (37),Bayern München (6),3-1,1-1,Energie Cottbus (6)
+6,(Sat) 21 Sep 2002 (37),Werder Bremen (6),3-2,3-2,Bayer 04 Leverkusen (6)
+6,(Sat) 21 Sep 2002 (37),Hannover 96 (6),2-2,1-1,VfL Bochum (6)
+6,(Sat) 21 Sep 2002 (37),Hansa Rostock (6),0-1,0-1,Borussia Dortmund (6)
+6,(Sat) 21 Sep 2002 (37),1. FC Kaiserslautern (6),0-0,0-0,TSV 1860 München (6)
+6,(Sun) 22 Sep 2002 (37),FC Schalke 04 (6),2-1,2-1,Bor. Mönchengladbach (6)
+6,(Sun) 22 Sep 2002 (37),VfB Stuttgart (6),3-0,1-0,Arminia Bielefeld (6)
+7,(Sat) 28 Sep 2002 (38),Energie Cottbus (7),0-1,0-0,VfL Wolfsburg (7)
+7,(Sat) 28 Sep 2002 (38),TSV 1860 München (7),1-0,1-0,Hertha BSC (7)
+7,(Sat) 28 Sep 2002 (38),Hamburger SV (7),3-2,2-2,VfB Stuttgart (7)
+7,(Sat) 28 Sep 2002 (38),Arminia Bielefeld (7),2-1,1-1,FC Schalke 04 (7)
+7,(Sat) 28 Sep 2002 (38),Hansa Rostock (7),1-2,1-2,Hannover 96 (7)
+7,(Sat) 28 Sep 2002 (38),Bayer 04 Leverkusen (7),2-1,1-0,Bayern München (7)
+7,(Sat) 28 Sep 2002 (38),Borussia Dortmund (7),1-0,0-0,Bor. Mönchengladbach (7)
+7,(Sun) 29 Sep 2002 (38),1. FC Nürnberg (7),1-0,0-0,1. FC Kaiserslautern (7)
+7,(Sun) 29 Sep 2002 (38),VfL Bochum (7),1-4,1-2,Werder Bremen (7)
+8,(Sat) 5 Oct 2002 (39),Hertha BSC (8),2-1,0-1,1. FC Nürnberg (8)
+8,(Sat) 5 Oct 2002 (39),VfL Wolfsburg (8),2-0,1-0,Bayer 04 Leverkusen (8)
+8,(Sat) 5 Oct 2002 (39),Bayern München (8),4-1,2-0,VfL Bochum (8)
+8,(Sat) 5 Oct 2002 (39),Hannover 96 (8),0-3,0-1,Borussia Dortmund (8)
+8,(Sat) 5 Oct 2002 (39),Bor. Mönchengladbach (8),3-0,2-0,Arminia Bielefeld (8)
+8,(Sat) 5 Oct 2002 (39),FC Schalke 04 (8),3-0,3-0,Hamburger SV (8)
+8,(Sat) 5 Oct 2002 (39),1. FC Kaiserslautern (8),4-0,1-0,Energie Cottbus (8)
+8,(Sun) 6 Oct 2002 (39),Werder Bremen (8),0-0,0-0,Hansa Rostock (8)
+8,(Sun) 6 Oct 2002 (39),VfB Stuttgart (8),4-1,0-1,TSV 1860 München (8)
+9,(Sat) 19 Oct 2002 (41),Energie Cottbus (9),0-2,0-2,Hertha BSC (9)
+9,(Sat) 19 Oct 2002 (41),TSV 1860 München (9),3-0,0-0,FC Schalke 04 (9)
+9,(Sat) 19 Oct 2002 (41),Hamburger SV (9),1-0,0-0,Bor. Mönchengladbach (9)
+9,(Sat) 19 Oct 2002 (41),Hannover 96 (9),4-4,2-1,Werder Bremen (9)
+9,(Sat) 19 Oct 2002 (41),Hansa Rostock (9),0-1,0-0,Bayern München (9)
+9,(Sat) 19 Oct 2002 (41),Bayer 04 Leverkusen (9),1-0,1-0,1. FC Kaiserslautern (9)
+9,(Sat) 19 Oct 2002 (41),Borussia Dortmund (9),0-0,0-0,Arminia Bielefeld (9)
+9,(Sun) 20 Oct 2002 (41),1. FC Nürnberg (9),1-2,1-0,VfB Stuttgart (9)
+9,(Sun) 20 Oct 2002 (41),VfL Bochum (9),4-2,1-2,VfL Wolfsburg (9)
+10,(Sat) 26 Oct 2002 (42),Hertha BSC (10),1-1,1-0,Bayer 04 Leverkusen (10)
+10,(Sat) 26 Oct 2002 (42),Bayern München (10),3-3,1-2,Hannover 96 (10)
+10,(Sat) 26 Oct 2002 (42),Werder Bremen (10),1-4,1-1,Borussia Dortmund (10)
+10,(Sat) 26 Oct 2002 (42),Arminia Bielefeld (10),2-1,1-0,Hamburger SV (10)
+10,(Sat) 26 Oct 2002 (42),Bor. Mönchengladbach (10),0-1,0-0,TSV 1860 München (10)
+10,(Sat) 26 Oct 2002 (42),FC Schalke 04 (10),1-1,0-1,1. FC Nürnberg (10)
+10,(Sat) 26 Oct 2002 (42),VfB Stuttgart (10),0-0,0-0,Energie Cottbus (10)
+10,(Sun) 27 Oct 2002 (42),VfL Wolfsburg (10),1-0,1-0,Hansa Rostock (10)
+10,(Wed) 13 Nov 2002 (45),1. FC Kaiserslautern (10),0-2,0-2,VfL Bochum (10)
+11,(Sat) 2 Nov 2002 (43),Energie Cottbus (11),0-1,0-0,FC Schalke 04 (11)
+11,(Sat) 2 Nov 2002 (43),1. FC Nürnberg (11),2-1,2-0,Bor. Mönchengladbach (11)
+11,(Sat) 2 Nov 2002 (43),TSV 1860 München (11),3-1,3-1,Arminia Bielefeld (11)
+11,(Sat) 2 Nov 2002 (43),Hannover 96 (11),3-1,2-0,VfL Wolfsburg (11)
+11,(Sat) 2 Nov 2002 (43),Hansa Rostock (11),2-2,1-1,1. FC Kaiserslautern (11)
+11,(Sat) 2 Nov 2002 (43),Bayer 04 Leverkusen (11),0-1,0-1,VfB Stuttgart (11)
+11,(Sat) 2 Nov 2002 (43),Borussia Dortmund (11),1-1,0-0,Hamburger SV (11)
+11,(Sun) 3 Nov 2002 (43),Werder Bremen (11),2-0,1-0,Bayern München (11)
+11,(Sun) 3 Nov 2002 (43),VfL Bochum (11),3-0,0-0,Hertha BSC (11)
+12,(Sat) 9 Nov 2002 (44),VfL Wolfsburg (12),3-1,1-0,Werder Bremen (12)
+12,(Sat) 9 Nov 2002 (44),Bayern München (12),2-1,0-1,Borussia Dortmund (12)
+12,(Sat) 9 Nov 2002 (44),Hamburger SV (12),1-0,1-0,TSV 1860 München (12)
+12,(Sat) 9 Nov 2002 (44),Arminia Bielefeld (12),0-1,0-0,1. FC Nürnberg (12)
+12,(Sat) 9 Nov 2002 (44),FC Schalke 04 (12),0-1,0-0,Bayer 04 Leverkusen (12)
+12,(Sat) 9 Nov 2002 (44),VfB Stuttgart (12),3-2,0-0,VfL Bochum (12)
+12,(Sat) 9 Nov 2002 (44),1. FC Kaiserslautern (12),0-1,0-1,Hannover 96 (12)
+12,(Sun) 10 Nov 2002 (44),Hertha BSC (12),3-1,2-1,Hansa Rostock (12)
+12,(Sun) 10 Nov 2002 (44),Bor. Mönchengladbach (12),3-0,3-0,Energie Cottbus (12)
+13,(Sat) 16 Nov 2002 (45),Energie Cottbus (13),2-1,1-0,Arminia Bielefeld (13)
+13,(Sat) 16 Nov 2002 (45),1. FC Nürnberg (13),1-3,1-1,Hamburger SV (13)
+13,(Sat) 16 Nov 2002 (45),Bayern München (13),1-0,1-0,VfL Wolfsburg (13)
+13,(Sat) 16 Nov 2002 (45),Hannover 96 (13),0-1,0-1,Hertha BSC (13)
+13,(Sat) 16 Nov 2002 (45),Hansa Rostock (13),1-1,1-0,VfB Stuttgart (13)
+13,(Sat) 16 Nov 2002 (45),Bayer 04 Leverkusen (13),2-2,1-1,Bor. Mönchengladbach (13)
+13,(Sat) 16 Nov 2002 (45),Borussia Dortmund (13),1-0,1-0,TSV 1860 München (13)
+13,(Sun) 17 Nov 2002 (45),Werder Bremen (13),5-3,1-2,1. FC Kaiserslautern (13)
+13,(Sun) 17 Nov 2002 (45),VfL Bochum (13),0-2,0-0,FC Schalke 04 (13)
+14,(Sat) 23 Nov 2002 (46),Hertha BSC (14),0-1,0-1,Werder Bremen (14)
+14,(Sat) 23 Nov 2002 (46),VfL Wolfsburg (14),2-0,1-0,Borussia Dortmund (14)
+14,(Sat) 23 Nov 2002 (46),Arminia Bielefeld (14),2-2,1-1,Bayer 04 Leverkusen (14)
+14,(Sat) 23 Nov 2002 (46),Bor. Mönchengladbach (14),2-2,0-0,VfL Bochum (14)
+14,(Sat) 23 Nov 2002 (46),FC Schalke 04 (14),2-2,2-0,Hansa Rostock (14)
+14,(Sat) 23 Nov 2002 (46),VfB Stuttgart (14),3-0,1-0,Hannover 96 (14)
+14,(Sat) 23 Nov 2002 (46),1. FC Kaiserslautern (14),0-2,0-2,Bayern München (14)
+14,(Sun) 24 Nov 2002 (46),TSV 1860 München (14),2-2,1-2,1. FC Nürnberg (14)
+14,(Sun) 24 Nov 2002 (46),Hamburger SV (14),1-1,0-0,Energie Cottbus (14)
+15,(Sat) 30 Nov 2002 (47),Energie Cottbus (15),3-4,0-1,TSV 1860 München (15)
+15,(Sat) 30 Nov 2002 (47),1. FC Nürnberg (15),1-2,1-0,Borussia Dortmund (15)
+15,(Sat) 30 Nov 2002 (47),Bayern München (15),2-0,1-0,Hertha BSC (15)
+15,(Sat) 30 Nov 2002 (47),Hansa Rostock (15),3-1,1-1,Bor. Mönchengladbach (15)
+15,(Sat) 30 Nov 2002 (47),VfL Bochum (15),0-3,0-1,Arminia Bielefeld (15)
+15,(Sat) 30 Nov 2002 (47),Bayer 04 Leverkusen (15),2-3,2-1,Hamburger SV (15)
+15,(Sat) 30 Nov 2002 (47),1. FC Kaiserslautern (15),2-0,1-0,VfL Wolfsburg (15)
+15,(Sun) 1 Dec 2002 (47),Werder Bremen (15),3-1,1-0,VfB Stuttgart (15)
+15,(Sun) 1 Dec 2002 (47),Hannover 96 (15),0-2,0-2,FC Schalke 04 (15)
+16,(Sat) 7 Dec 2002 (48),Hertha BSC (16),2-2,1-0,VfL Wolfsburg (16)
+16,(Sat) 7 Dec 2002 (48),1. FC Nürnberg (16),2-2,1-1,Energie Cottbus (16)
+16,(Sat) 7 Dec 2002 (48),TSV 1860 München (16),0-3,0-1,Bayer 04 Leverkusen (16)
+16,(Sat) 7 Dec 2002 (48),Arminia Bielefeld (16),3-0,1-0,Hansa Rostock (16)
+16,(Sat) 7 Dec 2002 (48),FC Schalke 04 (16),1-1,1-1,Werder Bremen (16)
+16,(Sat) 7 Dec 2002 (48),VfB Stuttgart (16),0-3,0-2,Bayern München (16)
+16,(Sat) 7 Dec 2002 (48),Borussia Dortmund (16),3-1,1-1,1. FC Kaiserslautern (16)
+16,(Sun) 8 Dec 2002 (48),Hamburger SV (16),1-1,0-0,VfL Bochum (16)
+16,(Sun) 8 Dec 2002 (48),Bor. Mönchengladbach (16),1-0,1-0,Hannover 96 (16)
+17,(Sat) 14 Dec 2002 (49),Energie Cottbus (17),0-4,0-1,Borussia Dortmund (17)
+17,(Sat) 14 Dec 2002 (49),Bayern München (17),0-0,0-0,FC Schalke 04 (17)
+17,(Sat) 14 Dec 2002 (49),Werder Bremen (17),2-0,1-0,Bor. Mönchengladbach (17)
+17,(Sat) 14 Dec 2002 (49),Hannover 96 (17),0-0,0-0,Arminia Bielefeld (17)
+17,(Sat) 14 Dec 2002 (49),Hansa Rostock (17),0-0,0-0,Hamburger SV (17)
+17,(Sat) 14 Dec 2002 (49),VfL Bochum (17),1-1,0-1,TSV 1860 München (17)
+17,(Sat) 14 Dec 2002 (49),Bayer 04 Leverkusen (17),0-2,0-0,1. FC Nürnberg (17)
+17,(Sun) 15 Dec 2002 (49),VfL Wolfsburg (17),1-2,0-1,VfB Stuttgart (17)
+17,(Sun) 15 Dec 2002 (49),1. FC Kaiserslautern (17),2-1,1-0,Hertha BSC (17)
+18,(Sat) 25 Jan 2003 (3),VfL Bochum (18),2-1,2-1,1. FC Nürnberg (18)
+18,(Sat) 25 Jan 2003 (3),Hansa Rostock (18),1-4,0-3,TSV 1860 München (18)
+18,(Sat) 25 Jan 2003 (3),Hannover 96 (18),2-2,1-0,Hamburger SV (18)
+18,(Sat) 25 Jan 2003 (3),Werder Bremen (18),2-2,2-2,Arminia Bielefeld (18)
+18,(Sat) 25 Jan 2003 (3),VfL Wolfsburg (18),1-2,0-0,FC Schalke 04 (18)
+18,(Sat) 25 Jan 2003 (3),1. FC Kaiserslautern (18),1-2,1-1,VfB Stuttgart (18)
+18,(Sat) 25 Jan 2003 (3),Hertha BSC (18),2-1,0-0,Borussia Dortmund (18)
+18,(Sun) 26 Jan 2003 (3),Bayer 04 Leverkusen (18),0-3,0-2,Energie Cottbus (18)
+18,(Sun) 26 Jan 2003 (3),Bayern München (18),3-0,1-0,Bor. Mönchengladbach (18)
+19,(Sat) 1 Feb 2003 (4),VfB Stuttgart (19),3-1,1-0,Hertha BSC (19)
+19,(Sat) 1 Feb 2003 (4),Arminia Bielefeld (19),0-0,0-0,Bayern München (19)
+19,(Sat) 1 Feb 2003 (4),TSV 1860 München (19),0-1,0-1,Hannover 96 (19)
+19,(Sat) 1 Feb 2003 (4),1. FC Nürnberg (19),0-1,0-1,Hansa Rostock (19)
+19,(Sat) 1 Feb 2003 (4),Energie Cottbus (19),2-1,1-0,VfL Bochum (19)
+19,(Sat) 1 Feb 2003 (4),FC Schalke 04 (19),2-2,1-1,1. FC Kaiserslautern (19)
+19,(Sun) 2 Feb 2003 (4),Hamburger SV (19),1-0,0-0,Werder Bremen (19)
+19,(Sun) 2 Feb 2003 (4),Borussia Dortmund (19),2-0,2-0,Bayer 04 Leverkusen (19)
+19,(Wed) 19 Feb 2003 (7),Bor. Mönchengladbach (19),2-0,1-0,VfL Wolfsburg (19)
+20,(Sat) 8 Feb 2003 (5),Hansa Rostock (20),0-0,0-0,Energie Cottbus (20)
+20,(Sat) 8 Feb 2003 (5),Hannover 96 (20),4-2,3-1,1. FC Nürnberg (20)
+20,(Sat) 8 Feb 2003 (5),Werder Bremen (20),1-2,1-0,TSV 1860 München (20)
+20,(Sat) 8 Feb 2003 (5),VfL Wolfsburg (20),2-0,1-0,Arminia Bielefeld (20)
+20,(Sat) 8 Feb 2003 (5),1. FC Kaiserslautern (20),2-0,1-0,Bor. Mönchengladbach (20)
+20,(Sat) 8 Feb 2003 (5),Hertha BSC (20),4-2,2-1,FC Schalke 04 (20)
+20,(Sat) 8 Feb 2003 (5),VfL Bochum (20),2-1,0-0,Bayer 04 Leverkusen (20)
+20,(Sun) 9 Feb 2003 (5),Bayern München (20),1-1,1-0,Hamburger SV (20)
+20,(Sun) 9 Feb 2003 (5),VfB Stuttgart (20),1-0,0-0,Borussia Dortmund (20)
+21,(Sat) 15 Feb 2003 (6),Hamburger SV (21),2-0,1-0,VfL Wolfsburg (21)
+21,(Sat) 15 Feb 2003 (6),TSV 1860 München (21),0-5,0-0,Bayern München (21)
+21,(Sat) 15 Feb 2003 (6),1. FC Nürnberg (21),1-0,1-0,Werder Bremen (21)
+21,(Sat) 15 Feb 2003 (6),Bayer 04 Leverkusen (21),1-2,1-2,Hansa Rostock (21)
+21,(Sat) 15 Feb 2003 (6),Borussia Dortmund (21),4-1,3-1,VfL Bochum (21)
+21,(Sat) 15 Feb 2003 (6),FC Schalke 04 (21),2-0,2-0,VfB Stuttgart (21)
+21,(Sat) 15 Feb 2003 (6),Arminia Bielefeld (21),1-1,1-1,1. FC Kaiserslautern (21)
+21,(Sun) 16 Feb 2003 (6),Bor. Mönchengladbach (21),0-2,0-2,Hertha BSC (21)
+21,(Sun) 16 Feb 2003 (6),Energie Cottbus (21),3-0,0-0,Hannover 96 (21)
+22,(Sat) 22 Feb 2003 (7),Werder Bremen (22),0-1,0-1,Energie Cottbus (22)
+22,(Sat) 22 Feb 2003 (7),Bayern München (22),2-0,1-0,1. FC Nürnberg (22)
+22,(Sat) 22 Feb 2003 (7),VfL Wolfsburg (22),1-1,0-0,TSV 1860 München (22)
+22,(Sat) 22 Feb 2003 (7),1. FC Kaiserslautern (22),2-0,0-0,Hamburger SV (22)
+22,(Sat) 22 Feb 2003 (7),Hansa Rostock (22),1-1,1-0,VfL Bochum (22)
+22,(Sat) 22 Feb 2003 (7),Hannover 96 (22),1-2,1-0,Bayer 04 Leverkusen (22)
+22,(Sat) 22 Feb 2003 (7),FC Schalke 04 (22),2-2,2-0,Borussia Dortmund (22)
+22,(Sun) 23 Feb 2003 (7),Hertha BSC (22),0-0,0-0,Arminia Bielefeld (22)
+22,(Sun) 23 Feb 2003 (7),VfB Stuttgart (22),4-0,2-0,Bor. Mönchengladbach (22)
+23,(Sat) 1 Mar 2003 (8),1. FC Nürnberg (23),1-1,1-0,VfL Wolfsburg (23)
+23,(Sat) 1 Mar 2003 (8),Energie Cottbus (23),0-2,0-1,Bayern München (23)
+23,(Sat) 1 Mar 2003 (8),Bayer 04 Leverkusen (23),3-0,1-0,Werder Bremen (23)
+23,(Sat) 1 Mar 2003 (8),VfL Bochum (23),1-2,0-2,Hannover 96 (23)
+23,(Sat) 1 Mar 2003 (8),Borussia Dortmund (23),2-0,1-0,Hansa Rostock (23)
+23,(Sat) 1 Mar 2003 (8),Bor. Mönchengladbach (23),2-2,0-1,FC Schalke 04 (23)
+23,(Sat) 1 Mar 2003 (8),TSV 1860 München (23),0-0,0-0,1. FC Kaiserslautern (23)
+23,(Sun) 2 Mar 2003 (8),Hamburger SV (23),1-0,0-0,Hertha BSC (23)
+23,(Sun) 2 Mar 2003 (8),Arminia Bielefeld (23),0-1,0-1,VfB Stuttgart (23)
+24,(Sat) 8 Mar 2003 (9),VfL Wolfsburg (24),3-2,2-2,Energie Cottbus (24)
+24,(Sat) 8 Mar 2003 (9),Hertha BSC (24),6-0,3-0,TSV 1860 München (24)
+24,(Sat) 8 Mar 2003 (9),VfB Stuttgart (24),1-1,1-1,Hamburger SV (24)
+24,(Sat) 8 Mar 2003 (9),FC Schalke 04 (24),1-1,0-0,Arminia Bielefeld (24)
+24,(Sat) 8 Mar 2003 (9),Werder Bremen (24),2-0,0-0,VfL Bochum (24)
+24,(Sat) 8 Mar 2003 (9),Bayern München (24),3-0,2-0,Bayer 04 Leverkusen (24)
+24,(Sat) 8 Mar 2003 (9),Bor. Mönchengladbach (24),1-0,0-0,Borussia Dortmund (24)
+24,(Sun) 9 Mar 2003 (9),1. FC Kaiserslautern (24),5-0,2-0,1. FC Nürnberg (24)
+24,(Sun) 9 Mar 2003 (9),Hannover 96 (24),3-1,2-1,Hansa Rostock (24)
+25,(Sat) 15 Mar 2003 (10),Bayer 04 Leverkusen (25),1-1,0-0,VfL Wolfsburg (25)
+25,(Sat) 15 Mar 2003 (10),VfL Bochum (25),1-4,0-2,Bayern München (25)
+25,(Sat) 15 Mar 2003 (10),Hansa Rostock (25),1-0,0-0,Werder Bremen (25)
+25,(Sat) 15 Mar 2003 (10),Borussia Dortmund (25),2-0,1-0,Hannover 96 (25)
+25,(Sat) 15 Mar 2003 (10),Arminia Bielefeld (25),4-1,1-0,Bor. Mönchengladbach (25)
+25,(Sat) 15 Mar 2003 (10),Hamburger SV (25),3-1,1-0,FC Schalke 04 (25)
+25,(Sat) 15 Mar 2003 (10),Energie Cottbus (25),1-3,1-1,1. FC Kaiserslautern (25)
+25,(Sun) 16 Mar 2003 (10),1. FC Nürnberg (25),0-3,0-2,Hertha BSC (25)
+25,(Sun) 16 Mar 2003 (10),TSV 1860 München (25),0-1,0-1,VfB Stuttgart (25)
+26,(Sat) 22 Mar 2003 (11),FC Schalke 04 (26),1-1,1-1,TSV 1860 München (26)
+26,(Sat) 22 Mar 2003 (11),Bor. Mönchengladbach (26),2-0,0-0,Hamburger SV (26)
+26,(Sat) 22 Mar 2003 (11),Werder Bremen (26),1-2,1-1,Hannover 96 (26)
+26,(Sat) 22 Mar 2003 (11),Bayern München (26),1-0,0-0,Hansa Rostock (26)
+26,(Sat) 22 Mar 2003 (11),VfL Wolfsburg (26),2-0,2-0,VfL Bochum (26)
+26,(Sat) 22 Mar 2003 (11),1. FC Kaiserslautern (26),1-0,1-0,Bayer 04 Leverkusen (26)
+26,(Sat) 22 Mar 2003 (11),Arminia Bielefeld (26),0-0,0-0,Borussia Dortmund (26)
+26,(Sun) 23 Mar 2003 (11),Hertha BSC (26),3-1,0-1,Energie Cottbus (26)
+26,(Sun) 23 Mar 2003 (11),VfB Stuttgart (26),0-2,0-1,1. FC Nürnberg (26)
+27,(Sat) 5 Apr 2003 (13),Bayer 04 Leverkusen (27),4-1,3-0,Hertha BSC (27)
+27,(Sat) 5 Apr 2003 (13),Hannover 96 (27),2-2,2-0,Bayern München (27)
+27,(Sat) 5 Apr 2003 (13),Borussia Dortmund (27),1-2,1-0,Werder Bremen (27)
+27,(Sat) 5 Apr 2003 (13),Hamburger SV (27),1-0,1-0,Arminia Bielefeld (27)
+27,(Sat) 5 Apr 2003 (13),1. FC Nürnberg (27),0-0,0-0,FC Schalke 04 (27)
+27,(Sat) 5 Apr 2003 (13),Energie Cottbus (27),2-3,1-1,VfB Stuttgart (27)
+27,(Sat) 5 Apr 2003 (13),VfL Bochum (27),1-1,0-0,1. FC Kaiserslautern (27)
+27,(Sun) 6 Apr 2003 (13),Hansa Rostock (27),1-0,1-0,VfL Wolfsburg (27)
+27,(Sun) 6 Apr 2003 (13),TSV 1860 München (27),2-0,0-0,Bor. Mönchengladbach (27)
+28,(Sat) 12 Apr 2003 (14),Bor. Mönchengladbach (28),2-0,1-0,1. FC Nürnberg (28)
+28,(Sat) 12 Apr 2003 (14),Arminia Bielefeld (28),2-1,2-1,TSV 1860 München (28)
+28,(Sat) 12 Apr 2003 (14),Bayern München (28),0-1,0-1,Werder Bremen (28)
+28,(Sat) 12 Apr 2003 (14),1. FC Kaiserslautern (28),1-0,0-0,Hansa Rostock (28)
+28,(Sat) 12 Apr 2003 (14),Hertha BSC (28),1-0,0-0,VfL Bochum (28)
+28,(Sat) 12 Apr 2003 (14),VfB Stuttgart (28),3-0,2-0,Bayer 04 Leverkusen (28)
+28,(Sat) 12 Apr 2003 (14),Hamburger SV (28),1-1,0-0,Borussia Dortmund (28)
+28,(Sun) 13 Apr 2003 (14),FC Schalke 04 (28),3-0,1-0,Energie Cottbus (28)
+28,(Sun) 13 Apr 2003 (14),VfL Wolfsburg (28),1-0,0-0,Hannover 96 (28)
+29,(Sat) 19 Apr 2003 (15),Hansa Rostock (29),0-1,0-0,Hertha BSC (29)
+29,(Sat) 19 Apr 2003 (15),Werder Bremen (29),0-1,0-0,VfL Wolfsburg (29)
+29,(Sat) 19 Apr 2003 (15),Borussia Dortmund (29),1-0,0-0,Bayern München (29)
+29,(Sat) 19 Apr 2003 (15),TSV 1860 München (29),1-1,1-0,Hamburger SV (29)
+29,(Sat) 19 Apr 2003 (15),1. FC Nürnberg (29),0-0,0-0,Arminia Bielefeld (29)
+29,(Sat) 19 Apr 2003 (15),Energie Cottbus (29),1-1,1-0,Bor. Mönchengladbach (29)
+29,(Sat) 19 Apr 2003 (15),Hannover 96 (29),2-1,0-1,1. FC Kaiserslautern (29)
+29,(Sun) 20 Apr 2003 (15),Bayer 04 Leverkusen (29),1-3,1-1,FC Schalke 04 (29)
+29,(Sun) 20 Apr 2003 (15),VfL Bochum (29),3-1,1-1,VfB Stuttgart (29)
+30,(Sat) 26 Apr 2003 (16),Hamburger SV (30),4-0,2-0,1. FC Nürnberg (30)
+30,(Sat) 26 Apr 2003 (16),VfL Wolfsburg (30),0-2,0-0,Bayern München (30)
+30,(Sat) 26 Apr 2003 (16),Hertha BSC (30),2-0,2-0,Hannover 96 (30)
+30,(Sat) 26 Apr 2003 (16),VfB Stuttgart (30),1-1,1-0,Hansa Rostock (30)
+30,(Sat) 26 Apr 2003 (16),FC Schalke 04 (30),1-2,1-1,VfL Bochum (30)
+30,(Sat) 26 Apr 2003 (16),Bor. Mönchengladbach (30),2-2,1-1,Bayer 04 Leverkusen (30)
+30,(Sat) 26 Apr 2003 (16),TSV 1860 München (30),0-0,0-0,Borussia Dortmund (30)
+30,(Sun) 27 Apr 2003 (16),Arminia Bielefeld (30),2-2,0-2,Energie Cottbus (30)
+30,(Sun) 27 Apr 2003 (16),1. FC Kaiserslautern (30),1-0,0-0,Werder Bremen (30)
+31,(Sat) 3 May 2003 (17),Werder Bremen (31),4-2,3-1,Hertha BSC (31)
+31,(Sat) 3 May 2003 (17),Borussia Dortmund (31),2-2,1-0,VfL Wolfsburg (31)
+31,(Sat) 3 May 2003 (17),1. FC Nürnberg (31),1-2,1-0,TSV 1860 München (31)
+31,(Sat) 3 May 2003 (17),Energie Cottbus (31),0-0,0-0,Hamburger SV (31)
+31,(Sat) 3 May 2003 (17),VfL Bochum (31),1-1,1-1,Bor. Mönchengladbach (31)
+31,(Sat) 3 May 2003 (17),Hannover 96 (31),1-2,0-2,VfB Stuttgart (31)
+31,(Sat) 3 May 2003 (17),Bayern München (31),1-0,0-0,1. FC Kaiserslautern (31)
+31,(Sun) 4 May 2003 (17),Bayer 04 Leverkusen (31),3-1,1-1,Arminia Bielefeld (31)
+31,(Sun) 4 May 2003 (17),Hansa Rostock (31),3-1,0-1,FC Schalke 04 (31)
+32,(Sat) 10 May 2003 (18),TSV 1860 München (32),3-0,2-0,Energie Cottbus (32)
+32,(Sat) 10 May 2003 (18),Borussia Dortmund (32),4-1,1-0,1. FC Nürnberg (32)
+32,(Sat) 10 May 2003 (18),Hertha BSC (32),3-6,1-5,Bayern München (32)
+32,(Sat) 10 May 2003 (18),VfB Stuttgart (32),0-1,0-0,Werder Bremen (32)
+32,(Sat) 10 May 2003 (18),Bor. Mönchengladbach (32),3-0,1-0,Hansa Rostock (32)
+32,(Sat) 10 May 2003 (18),Hamburger SV (32),4-1,1-0,Bayer 04 Leverkusen (32)
+32,(Sat) 10 May 2003 (18),VfL Wolfsburg (32),2-2,1-1,1. FC Kaiserslautern (32)
+32,(Sun) 11 May 2003 (18),FC Schalke 04 (32),0-2,0-0,Hannover 96 (32)
+32,(Sun) 11 May 2003 (18),Arminia Bielefeld (32),1-3,1-1,VfL Bochum (32)
+33,(Sat) 17 May 2003 (19),VfL Wolfsburg (33),2-0,1-0,Hertha BSC (33)
+33,(Sat) 17 May 2003 (19),Energie Cottbus (33),2-1,1-1,1. FC Nürnberg (33)
+33,(Sat) 17 May 2003 (19),Bayer 04 Leverkusen (33),3-0,2-0,TSV 1860 München (33)
+33,(Sat) 17 May 2003 (19),VfL Bochum (33),1-1,1-0,Hamburger SV (33)
+33,(Sat) 17 May 2003 (19),Hansa Rostock (33),3-0,1-0,Arminia Bielefeld (33)
+33,(Sat) 17 May 2003 (19),Hannover 96 (33),2-2,1-0,Bor. Mönchengladbach (33)
+33,(Sat) 17 May 2003 (19),Werder Bremen (33),2-1,1-1,FC Schalke 04 (33)
+33,(Sat) 17 May 2003 (19),Bayern München (33),2-1,0-0,VfB Stuttgart (33)
+33,(Sat) 17 May 2003 (19),1. FC Kaiserslautern (33),0-0,0-0,Borussia Dortmund (33)
+34,(Sat) 24 May 2003 (20),Borussia Dortmund (34),1-1,1-0,Energie Cottbus (34)
+34,(Sat) 24 May 2003 (20),VfB Stuttgart (34),2-0,2-0,VfL Wolfsburg (34)
+34,(Sat) 24 May 2003 (20),FC Schalke 04 (34),1-0,1-0,Bayern München (34)
+34,(Sat) 24 May 2003 (20),Bor. Mönchengladbach (34),4-1,0-0,Werder Bremen (34)
+34,(Sat) 24 May 2003 (20),Arminia Bielefeld (34),0-1,0-0,Hannover 96 (34)
+34,(Sat) 24 May 2003 (20),Hamburger SV (34),2-0,1-0,Hansa Rostock (34)
+34,(Sat) 24 May 2003 (20),TSV 1860 München (34),2-4,1-1,VfL Bochum (34)
+34,(Sat) 24 May 2003 (20),1. FC Nürnberg (34),0-1,0-1,Bayer 04 Leverkusen (34)
+34,(Sat) 24 May 2003 (20),Hertha BSC (34),2-0,1-0,1. FC Kaiserslautern (34)

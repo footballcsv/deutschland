@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT
-1,2008-08-15,Bayern München,Hamburger SV,2-2,2-1
-1,2008-08-16,FC Schalke 04,Hannover 96,3-0,2-0
-1,2008-08-16,VfL Wolfsburg,1. FC Köln,2-1,0-1
-1,2008-08-16,Bayer Leverkusen,Borussia Dortmund,2-3,1-2
-1,2008-08-16,Karlsruher SC,VfL Bochum,1-0,1-0
-1,2008-08-16,Energie Cottbus,1899 Hoffenheim,0-3,0-1
-1,2008-08-16,Arminia Bielefeld,Werder Bremen,2-2,0-0
-1,2008-08-17,Eintracht Frankfurt,Hertha BSC,0-2,0-1
-1,2008-08-17,Bor. Mönchengladbach,VfB Stuttgart,1-3,0-3
-2,2008-08-22,Hannover 96,Energie Cottbus,0-0,0-0
-2,2008-08-23,Werder Bremen,FC Schalke 04,1-1,0-0
-2,2008-08-23,Hamburger SV,Karlsruher SC,2-1,1-0
-2,2008-08-23,VfB Stuttgart,Bayer Leverkusen,0-2,0-1
-2,2008-08-23,Hertha BSC,Arminia Bielefeld,1-1,1-1
-2,2008-08-23,Borussia Dortmund,Bayern München,1-1,1-0
-2,2008-08-23,1899 Hoffenheim,Bor. Mönchengladbach,1-0,1-0
-2,2008-08-24,VfL Bochum,VfL Wolfsburg,2-2,1-0
-2,2008-08-24,1. FC Köln,Eintracht Frankfurt,1-1,1-0
-3,2008-08-29,Karlsruher SC,1. FC Köln,0-2,0-0
-3,2008-08-30,FC Schalke 04,VfL Bochum,1-0,1-0
-3,2008-08-30,VfL Wolfsburg,Eintracht Frankfurt,2-2,1-1
-3,2008-08-30,Bayer Leverkusen,1899 Hoffenheim,5-2,3-1
-3,2008-08-30,Energie Cottbus,Borussia Dortmund,0-1,0-1
-3,2008-08-30,Arminia Bielefeld,Hamburger SV,2-4,2-1
-3,2008-08-30,Bor. Mönchengladbach,Werder Bremen,3-2,2-0
-3,2008-08-31,Bayern München,Hertha BSC,4-1,1-0
-3,2008-08-31,VfB Stuttgart,Hannover 96,2-0,2-0
-4,2008-09-13,Werder Bremen,Energie Cottbus,3-0,0-0
-4,2008-09-13,Hamburger SV,Bayer Leverkusen,3-2,1-2
-4,2008-09-13,Hertha BSC,VfL Wolfsburg,2-2,0-1
-4,2008-09-13,Borussia Dortmund,FC Schalke 04,3-3,0-2
-4,2008-09-13,1899 Hoffenheim,VfB Stuttgart,0-0,0-0
-4,2008-09-13,1. FC Köln,Bayern München,0-3,0-0
-4,2008-09-14,Hannover 96,Bor. Mönchengladbach,5-1,2-0
-4,2008-09-14,VfL Bochum,Arminia Bielefeld,2-0,2-0
-4,2008-10-22,Eintracht Frankfurt,Karlsruher SC,2-1,0-0
-5,2008-09-19,Bayer Leverkusen,Hannover 96,4-0,2-0
-5,2008-09-20,Bayern München,Werder Bremen,2-5,0-2
-5,2008-09-20,FC Schalke 04,Eintracht Frankfurt,1-0,1-0
-5,2008-09-20,Energie Cottbus,VfL Bochum,1-1,1-0
-5,2008-09-20,Arminia Bielefeld,1. FC Köln,2-0,0-0
-5,2008-09-20,Bor. Mönchengladbach,Hertha BSC,0-1,0-1
-5,2008-09-21,VfL Wolfsburg,Hamburger SV,3-0,3-0
-5,2008-09-21,VfB Stuttgart,Karlsruher SC,3-1,1-1
-5,2008-09-21,1899 Hoffenheim,Borussia Dortmund,4-1,2-0
-6,2008-09-26,1. FC Köln,FC Schalke 04,1-0,1-0
-6,2008-09-27,Werder Bremen,1899 Hoffenheim,5-4,4-2
-6,2008-09-27,Hamburger SV,Bor. Mönchengladbach,1-0,1-0
-6,2008-09-27,Hannover 96,Bayern München,1-0,1-0
-6,2008-09-27,Hertha BSC,Energie Cottbus,0-1,0-1
-6,2008-09-27,VfL Bochum,Bayer Leverkusen,2-3,0-2
-6,2008-09-27,Borussia Dortmund,VfB Stuttgart,3-0,2-0
-6,2008-09-28,Eintracht Frankfurt,Arminia Bielefeld,1-1,0-1
-6,2008-09-28,Karlsruher SC,VfL Wolfsburg,2-1,0-0
-7,2008-10-03,Arminia Bielefeld,Karlsruher SC,1-2,0-1
-7,2008-10-04,Bayern München,VfL Bochum,3-3,2-1
-7,2008-10-04,VfB Stuttgart,Werder Bremen,4-1,2-0
-7,2008-10-04,Bayer Leverkusen,Hertha BSC,0-1,0-0
-7,2008-10-04,Bor. Mönchengladbach,1. FC Köln,1-2,1-1
-7,2008-10-04,1899 Hoffenheim,Eintracht Frankfurt,2-1,0-0
-7,2008-10-05,FC Schalke 04,VfL Wolfsburg,2-2,1-0
-7,2008-10-05,Borussia Dortmund,Hannover 96,1-1,1-1
-7,2008-10-05,Energie Cottbus,Hamburger SV,1-2,0-0
-8,2008-10-17,VfL Bochum,Bor. Mönchengladbach,2-2,0-1
-8,2008-10-18,Werder Bremen,Borussia Dortmund,3-3,0-0
-8,2008-10-18,VfL Wolfsburg,Arminia Bielefeld,4-1,2-0
-8,2008-10-18,Hannover 96,1899 Hoffenheim,2-5,0-1
-8,2008-10-18,Eintracht Frankfurt,Bayer Leverkusen,0-2,0-1
-8,2008-10-18,Hertha BSC,VfB Stuttgart,2-1,1-0
-8,2008-10-18,Karlsruher SC,Bayern München,0-1,0-0
-8,2008-10-18,1. FC Köln,Energie Cottbus,1-0,1-0
-8,2008-10-19,Hamburger SV,FC Schalke 04,1-1,1-0
-9,2008-10-24,Bayer Leverkusen,1. FC Köln,2-0,0-0
-9,2008-10-25,Bayern München,VfL Wolfsburg,4-2,1-2
-9,2008-10-25,FC Schalke 04,Arminia Bielefeld,0-0,0-0
-9,2008-10-25,Hannover 96,Werder Bremen,1-1,1-1
-9,2008-10-25,Energie Cottbus,Eintracht Frankfurt,2-3,2-1
-9,2008-10-25,Bor. Mönchengladbach,Karlsruher SC,1-0,0-0
-9,2008-10-26,VfB Stuttgart,VfL Bochum,2-0,0-0
-9,2008-10-26,Borussia Dortmund,Hertha BSC,1-1,0-1
-9,2008-10-26,1899 Hoffenheim,Hamburger SV,3-0,3-0
-10,2008-10-28,Werder Bremen,Bayer Leverkusen,0-2,0-0
-10,2008-10-28,VfL Wolfsburg,Bor. Mönchengladbach,3-0,1-0
-10,2008-10-28,Karlsruher SC,FC Schalke 04,0-3,0-2
-10,2008-10-28,Arminia Bielefeld,Energie Cottbus,1-1,0-1
-10,2008-10-29,Hamburger SV,VfB Stuttgart,2-0,1-0
-10,2008-10-29,Eintracht Frankfurt,Bayern München,1-2,0-0
-10,2008-10-29,Hertha BSC,Hannover 96,3-0,0-0
-10,2008-10-29,VfL Bochum,1899 Hoffenheim,1-3,1-0
-10,2008-10-29,1. FC Köln,Borussia Dortmund,0-1,0-0
-11,2008-10-31,Bayer Leverkusen,VfL Wolfsburg,2-0,0-0
-11,2008-11-01,Bayern München,Arminia Bielefeld,3-1,1-1
-11,2008-11-01,Werder Bremen,Hertha BSC,5-1,3-0
-11,2008-11-01,VfB Stuttgart,1. FC Köln,1-3,0-1
-11,2008-11-01,Hannover 96,Hamburger SV,3-0,2-0
-11,2008-11-01,Energie Cottbus,FC Schalke 04,0-2,0-0
-11,2008-11-01,1899 Hoffenheim,Karlsruher SC,4-1,1-1
-11,2008-11-02,Borussia Dortmund,VfL Bochum,1-1,1-1
-11,2008-11-02,Bor. Mönchengladbach,Eintracht Frankfurt,1-2,1-1
-12,2008-11-07,1. FC Köln,Hannover 96,2-1,1-1
-12,2008-11-08,Hamburger SV,Borussia Dortmund,2-1,2-0
-12,2008-11-08,VfL Wolfsburg,Energie Cottbus,3-0,1-0
-12,2008-11-08,Karlsruher SC,Bayer Leverkusen,3-3,1-3
-12,2008-11-08,VfL Bochum,Werder Bremen,0-0,0-0
-12,2008-11-08,Arminia Bielefeld,Bor. Mönchengladbach,0-2,0-1
-12,2008-11-09,FC Schalke 04,Bayern München,1-2,1-2
-12,2008-11-09,Eintracht Frankfurt,VfB Stuttgart,2-2,1-0
-12,2008-11-09,Hertha BSC,1899 Hoffenheim,1-0,0-0
-13,2008-11-14,Hannover 96,VfL Bochum,1-1,0-0
-13,2008-11-15,VfB Stuttgart,Arminia Bielefeld,0-0,0-0
-13,2008-11-15,Bayer Leverkusen,FC Schalke 04,2-1,2-0
-13,2008-11-15,Hertha BSC,Hamburger SV,2-1,0-1
-13,2008-11-15,Borussia Dortmund,Eintracht Frankfurt,4-0,3-0
-13,2008-11-15,Energie Cottbus,Karlsruher SC,1-0,0-0
-13,2008-11-15,Bor. Mönchengladbach,Bayern München,2-2,0-1
-13,2008-11-15,1899 Hoffenheim,VfL Wolfsburg,3-2,2-2
-13,2008-11-16,Werder Bremen,1. FC Köln,3-1,2-0
-14,2008-11-21,Karlsruher SC,Borussia Dortmund,0-1,0-1
-14,2008-11-22,Bayern München,Energie Cottbus,4-1,2-1
-14,2008-11-22,FC Schalke 04,Bor. Mönchengladbach,3-1,3-1
-14,2008-11-22,VfL Wolfsburg,VfB Stuttgart,4-1,0-1
-14,2008-11-22,Eintracht Frankfurt,Hannover 96,4-0,2-0
-14,2008-11-22,VfL Bochum,Hertha BSC,2-3,0-3
-14,2008-11-22,Arminia Bielefeld,Bayer Leverkusen,2-1,0-0
-14,2008-11-22,1. FC Köln,1899 Hoffenheim,1-3,0-1
-14,2008-11-23,Hamburger SV,Werder Bremen,2-1,1-1
-15,2008-11-28,Hertha BSC,1. FC Köln,2-1,1-1
-15,2008-11-29,Werder Bremen,Eintracht Frankfurt,5-0,3-0
-15,2008-11-29,Bayer Leverkusen,Bayern München,0-2,0-0
-15,2008-11-29,Hannover 96,Karlsruher SC,3-2,3-0
-15,2008-11-29,Bor. Mönchengladbach,Energie Cottbus,1-3,0-1
-15,2008-11-29,1899 Hoffenheim,Arminia Bielefeld,3-0,2-0
-15,2008-11-30,VfB Stuttgart,FC Schalke 04,2-0,0-0
-15,2008-11-30,VfL Bochum,Hamburger SV,1-1,1-0
-15,2008-11-30,Borussia Dortmund,VfL Wolfsburg,0-0,0-0
-16,2008-12-05,Bayern München,1899 Hoffenheim,2-1,0-0
-16,2008-12-06,FC Schalke 04,Hertha BSC,1-0,0-0
-16,2008-12-06,Eintracht Frankfurt,VfL Bochum,4-0,2-0
-16,2008-12-06,Karlsruher SC,Werder Bremen,1-0,0-0
-16,2008-12-06,Energie Cottbus,VfB Stuttgart,0-3,0-1
-16,2008-12-06,Arminia Bielefeld,Borussia Dortmund,0-0,0-0
-16,2008-12-06,Bor. Mönchengladbach,Bayer Leverkusen,1-3,0-2
-16,2008-12-07,VfL Wolfsburg,Hannover 96,2-1,1-0
-16,2008-12-07,1. FC Köln,Hamburger SV,1-2,0-2
-17,2008-12-12,Borussia Dortmund,Bor. Mönchengladbach,2-1,1-0
-17,2008-12-13,Werder Bremen,VfL Wolfsburg,2-1,1-1
-17,2008-12-13,Hamburger SV,Eintracht Frankfurt,1-0,0-0
-17,2008-12-13,VfB Stuttgart,Bayern München,2-2,1-0
-17,2008-12-13,Bayer Leverkusen,Energie Cottbus,1-1,0-0
-17,2008-12-13,Hannover 96,Arminia Bielefeld,1-1,1-0
-17,2008-12-13,Hertha BSC,Karlsruher SC,4-0,1-0
-17,2008-12-13,VfL Bochum,1. FC Köln,1-2,0-1
-17,2008-12-14,1899 Hoffenheim,FC Schalke 04,1-1,0-1
-18,2009-01-30,Hamburger SV,Bayern München,1-0,1-0
-18,2009-01-31,Hannover 96,FC Schalke 04,1-0,1-0
-18,2009-01-31,1. FC Köln,VfL Wolfsburg,1-1,1-0
-18,2009-01-31,Borussia Dortmund,Bayer Leverkusen,1-1,1-0
-18,2009-01-31,Hertha BSC,Eintracht Frankfurt,2-1,1-0
-18,2009-01-31,1899 Hoffenheim,Energie Cottbus,2-0,1-0
-18,2009-01-31,VfB Stuttgart,Bor. Mönchengladbach,2-0,0-0
-18,2009-02-01,VfL Bochum,Karlsruher SC,2-0,1-0
-18,2009-02-01,Werder Bremen,Arminia Bielefeld,1-2,1-1
-19,2009-02-06,Arminia Bielefeld,Hertha BSC,1-1,1-1
-19,2009-02-07,FC Schalke 04,Werder Bremen,1-0,0-0
-19,2009-02-07,Karlsruher SC,Hamburger SV,3-2,0-1
-19,2009-02-07,Bayer Leverkusen,VfB Stuttgart,2-4,0-1
-19,2009-02-07,VfL Wolfsburg,VfL Bochum,2-0,1-0
-19,2009-02-07,Bor. Mönchengladbach,1899 Hoffenheim,1-1,1-0
-19,2009-02-07,Eintracht Frankfurt,1. FC Köln,2-2,1-0
-19,2009-02-08,Energie Cottbus,Hannover 96,3-1,1-0
-19,2009-02-08,Bayern München,Borussia Dortmund,3-1,1-1
-20,2009-02-13,1899 Hoffenheim,Bayer Leverkusen,1-4,1-3
-20,2009-02-14,Hertha BSC,Bayern München,2-1,1-0
-20,2009-02-14,VfL Bochum,FC Schalke 04,2-1,1-1
-20,2009-02-14,Eintracht Frankfurt,VfL Wolfsburg,0-2,0-1
-20,2009-02-14,Hannover 96,VfB Stuttgart,3-3,2-2
-20,2009-02-14,1. FC Köln,Karlsruher SC,0-0,0-0
-20,2009-02-14,Werder Bremen,Bor. Mönchengladbach,1-1,0-0
-20,2009-02-15,Borussia Dortmund,Energie Cottbus,1-1,1-1
-20,2009-02-15,Hamburger SV,Arminia Bielefeld,2-0,1-0
-21,2009-02-20,FC Schalke 04,Borussia Dortmund,1-1,1-0
-21,2009-02-21,Energie Cottbus,Werder Bremen,2-1,0-0
-21,2009-02-21,Bor. Mönchengladbach,Hannover 96,3-2,2-0
-21,2009-02-21,Karlsruher SC,Eintracht Frankfurt,0-1,0-0
-21,2009-02-21,VfL Wolfsburg,Hertha BSC,2-1,0-0
-21,2009-02-21,Arminia Bielefeld,VfL Bochum,1-1,0-1
-21,2009-02-21,VfB Stuttgart,1899 Hoffenheim,3-3,2-2
-21,2009-02-21,Bayern München,1. FC Köln,1-2,0-2
-21,2009-02-22,Bayer Leverkusen,Hamburger SV,1-2,1-1
-22,2009-02-27,1. FC Köln,Arminia Bielefeld,1-1,1-1
-22,2009-02-28,Eintracht Frankfurt,FC Schalke 04,1-2,0-1
-22,2009-02-28,Hannover 96,Bayer Leverkusen,1-0,1-0
-22,2009-02-28,VfL Bochum,Energie Cottbus,3-2,1-1
-22,2009-02-28,Hertha BSC,Bor. Mönchengladbach,2-1,2-0
-22,2009-02-28,Borussia Dortmund,1899 Hoffenheim,0-0,0-0
-22,2009-03-01,Werder Bremen,Bayern München,0-0,0-0
-22,2009-03-01,Hamburger SV,VfL Wolfsburg,1-3,0-2
-22,2009-03-01,Karlsruher SC,VfB Stuttgart,0-2,0-0
-23,2009-03-06,FC Schalke 04,1. FC Köln,1-0,1-0
-23,2009-03-07,1899 Hoffenheim,Werder Bremen,0-0,0-0
-23,2009-03-07,Bor. Mönchengladbach,Hamburger SV,4-1,2-1
-23,2009-03-07,Bayern München,Hannover 96,5-1,3-1
-23,2009-03-07,Energie Cottbus,Hertha BSC,1-3,1-2
-23,2009-03-07,VfL Wolfsburg,Karlsruher SC,1-0,1-0
-23,2009-03-07,VfB Stuttgart,Borussia Dortmund,2-1,1-0
-23,2009-03-08,Arminia Bielefeld,Eintracht Frankfurt,0-0,0-0
-23,2009-03-08,Bayer Leverkusen,VfL Bochum,1-1,0-1
-24,2009-03-13,VfL Wolfsburg,FC Schalke 04,4-3,2-1
-24,2009-03-14,VfL Bochum,Bayern München,0-3,0-1
-24,2009-03-14,Hertha BSC,Bayer Leverkusen,1-0,0-0
-24,2009-03-14,Hannover 96,Borussia Dortmund,4-4,1-2
-24,2009-03-14,Karlsruher SC,Arminia Bielefeld,0-1,0-0
-24,2009-03-14,1. FC Köln,Bor. Mönchengladbach,2-4,0-2
-24,2009-03-14,Eintracht Frankfurt,1899 Hoffenheim,1-1,0-1
-24,2009-03-15,Werder Bremen,VfB Stuttgart,4-0,1-0
-24,2009-03-15,Hamburger SV,Energie Cottbus,2-0,2-0
-25,2009-03-20,Bor. Mönchengladbach,VfL Bochum,0-1,0-1
-25,2009-03-21,Borussia Dortmund,Werder Bremen,1-0,0-0
-25,2009-03-21,Arminia Bielefeld,VfL Wolfsburg,0-3,0-1
-25,2009-03-21,1899 Hoffenheim,Hannover 96,2-2,1-1
-25,2009-03-21,Bayer Leverkusen,Eintracht Frankfurt,1-1,1-1
-25,2009-03-21,VfB Stuttgart,Hertha BSC,2-0,0-0
-25,2009-03-21,Bayern München,Karlsruher SC,1-0,1-0
-25,2009-03-21,Energie Cottbus,1. FC Köln,0-2,0-0
-25,2009-03-22,FC Schalke 04,Hamburger SV,1-2,0-0
-26,2009-04-03,Arminia Bielefeld,FC Schalke 04,0-2,0-1
-26,2009-04-04,VfL Wolfsburg,Bayern München,5-1,1-1
-26,2009-04-04,VfL Bochum,VfB Stuttgart,1-2,0-0
-26,2009-04-04,Hertha BSC,Borussia Dortmund,1-3,0-1
-26,2009-04-04,Eintracht Frankfurt,Energie Cottbus,2-1,1-1
-26,2009-04-04,Hamburger SV,1899 Hoffenheim,1-0,1-0
-26,2009-04-05,1. FC Köln,Bayer Leverkusen,0-2,0-0
-26,2009-04-05,Werder Bremen,Hannover 96,4-1,1-0
-26,2009-04-05,Karlsruher SC,Bor. Mönchengladbach,0-0,0-0
-27,2009-04-11,Bor. Mönchengladbach,VfL Wolfsburg,1-2,0-1
-27,2009-04-11,Bayern München,Eintracht Frankfurt,4-0,3-0
-27,2009-04-11,Hannover 96,Hertha BSC,2-0,1-0
-27,2009-04-11,FC Schalke 04,Karlsruher SC,2-0,1-0
-27,2009-04-11,1899 Hoffenheim,VfL Bochum,0-3,0-1
-27,2009-04-11,Energie Cottbus,Arminia Bielefeld,2-1,1-0
-27,2009-04-11,Borussia Dortmund,1. FC Köln,3-1,1-1
-27,2009-04-12,Bayer Leverkusen,Werder Bremen,1-1,1-1
-27,2009-04-12,VfB Stuttgart,Hamburger SV,1-0,0-0
-28,2009-04-17,FC Schalke 04,Energie Cottbus,4-0,2-0
-28,2009-04-18,Arminia Bielefeld,Bayern München,0-1,0-0
-28,2009-04-18,1. FC Köln,VfB Stuttgart,0-3,0-1
-28,2009-04-18,VfL Wolfsburg,Bayer Leverkusen,2-1,1-0
-28,2009-04-18,VfL Bochum,Borussia Dortmund,0-2,0-1
-28,2009-04-18,Eintracht Frankfurt,Bor. Mönchengladbach,4-1,1-0
-28,2009-04-18,Karlsruher SC,1899 Hoffenheim,2-2,1-1
-28,2009-04-19,Hertha BSC,Werder Bremen,2-1,0-1
-28,2009-04-19,Hamburger SV,Hannover 96,2-1,1-0
-29,2009-04-24,1899 Hoffenheim,Hertha BSC,0-1,0-1
-29,2009-04-25,Bayern München,FC Schalke 04,0-1,0-1
-29,2009-04-25,Borussia Dortmund,Hamburger SV,2-0,1-0
-29,2009-04-25,VfB Stuttgart,Eintracht Frankfurt,2-0,1-0
-29,2009-04-25,Bayer Leverkusen,Karlsruher SC,0-1,0-0
-29,2009-04-25,Werder Bremen,VfL Bochum,3-2,0-2
-29,2009-04-25,Hannover 96,1. FC Köln,2-1,2-0
-29,2009-04-26,Energie Cottbus,VfL Wolfsburg,2-0,0-0
-29,2009-04-26,Bor. Mönchengladbach,Arminia Bielefeld,1-1,1-1
-30,2009-05-01,VfL Bochum,Hannover 96,0-2,0-2
-30,2009-05-02,Arminia Bielefeld,VfB Stuttgart,2-2,1-2
-30,2009-05-02,FC Schalke 04,Bayer Leverkusen,1-2,0-2
-30,2009-05-02,Eintracht Frankfurt,Borussia Dortmund,0-2,0-0
-30,2009-05-02,Karlsruher SC,Energie Cottbus,0-0,0-0
-30,2009-05-02,Bayern München,Bor. Mönchengladbach,2-1,2-1
-30,2009-05-02,VfL Wolfsburg,1899 Hoffenheim,4-0,0-0
-30,2009-05-03,1. FC Köln,Werder Bremen,1-0,0-0
-30,2009-05-03,Hamburger SV,Hertha BSC,1-1,1-0
-31,2009-05-08,Bayer Leverkusen,Arminia Bielefeld,2-2,1-2
-31,2009-05-09,Energie Cottbus,Bayern München,1-3,1-1
-31,2009-05-09,VfB Stuttgart,VfL Wolfsburg,4-1,2-1
-31,2009-05-09,Hannover 96,Eintracht Frankfurt,1-1,1-1
-31,2009-05-09,Borussia Dortmund,Karlsruher SC,4-0,1-0
-31,2009-05-09,Hertha BSC,VfL Bochum,2-0,1-0
-31,2009-05-09,1899 Hoffenheim,1. FC Köln,2-0,0-0
-31,2009-05-10,Bor. Mönchengladbach,FC Schalke 04,1-0,0-0
-31,2009-05-10,Werder Bremen,Hamburger SV,2-0,1-0
-32,2009-05-12,Bayern München,Bayer Leverkusen,3-0,0-0
-32,2009-05-12,Karlsruher SC,Hannover 96,2-3,2-2
-32,2009-05-12,1. FC Köln,Hertha BSC,1-2,0-1
-32,2009-05-12,VfL Wolfsburg,Borussia Dortmund,3-0,1-0
-32,2009-05-13,Eintracht Frankfurt,Werder Bremen,0-5,0-0
-32,2009-05-13,FC Schalke 04,VfB Stuttgart,1-2,1-1
-32,2009-05-13,Hamburger SV,VfL Bochum,3-1,2-0
-32,2009-05-13,Energie Cottbus,Bor. Mönchengladbach,0-1,0-0
-32,2009-05-13,Arminia Bielefeld,1899 Hoffenheim,0-2,0-1
-33,2009-05-16,1899 Hoffenheim,Bayern München,2-2,2-2
-33,2009-05-16,Hertha BSC,FC Schalke 04,0-0,0-0
-33,2009-05-16,Hannover 96,VfL Wolfsburg,0-5,0-3
-33,2009-05-16,VfL Bochum,Eintracht Frankfurt,2-0,1-0
-33,2009-05-16,Werder Bremen,Karlsruher SC,1-3,0-2
-33,2009-05-16,VfB Stuttgart,Energie Cottbus,2-0,1-0
-33,2009-05-16,Borussia Dortmund,Arminia Bielefeld,6-0,1-0
-33,2009-05-16,Bayer Leverkusen,Bor. Mönchengladbach,5-0,2-0
-33,2009-05-16,Hamburger SV,1. FC Köln,0-1,0-1
-34,2009-05-23,VfL Wolfsburg,Werder Bremen,5-1,3-1
-34,2009-05-23,Eintracht Frankfurt,Hamburger SV,2-3,0-1
-34,2009-05-23,Bayern München,VfB Stuttgart,2-1,1-0
-34,2009-05-23,Energie Cottbus,Bayer Leverkusen,3-0,0-0
-34,2009-05-23,Arminia Bielefeld,Hannover 96,2-2,1-0
-34,2009-05-23,Karlsruher SC,Hertha BSC,4-0,2-0
-34,2009-05-23,1. FC Köln,VfL Bochum,1-1,1-1
-34,2009-05-23,Bor. Mönchengladbach,Borussia Dortmund,1-1,0-0
-34,2009-05-23,FC Schalke 04,1899 Hoffenheim,2-3,2-1
+Round,Date,Team 1,FT,HT,Team 2
+1,(Fri) 15 Aug 2008 (32),Bayern München (1),2-2,2-1,Hamburger SV (1)
+1,(Sat) 16 Aug 2008 (32),FC Schalke 04 (1),3-0,2-0,Hannover 96 (1)
+1,(Sat) 16 Aug 2008 (32),VfL Wolfsburg (1),2-1,0-1,1. FC Köln (1)
+1,(Sat) 16 Aug 2008 (32),Bayer 04 Leverkusen (1),2-3,1-2,Borussia Dortmund (1)
+1,(Sat) 16 Aug 2008 (32),Karlsruher SC (1),1-0,1-0,VfL Bochum (1)
+1,(Sat) 16 Aug 2008 (32),Energie Cottbus (1),0-3,0-1,TSG 1899 Hoffenheim (1)
+1,(Sat) 16 Aug 2008 (32),Arminia Bielefeld (1),2-2,0-0,Werder Bremen (1)
+1,(Sun) 17 Aug 2008 (32),Eintracht Frankfurt (1),0-2,0-1,Hertha BSC (1)
+1,(Sun) 17 Aug 2008 (32),Bor. Mönchengladbach (1),1-3,0-3,VfB Stuttgart (1)
+2,(Fri) 22 Aug 2008 (33),Hannover 96 (2),0-0,0-0,Energie Cottbus (2)
+2,(Sat) 23 Aug 2008 (33),Werder Bremen (2),1-1,0-0,FC Schalke 04 (2)
+2,(Sat) 23 Aug 2008 (33),Hamburger SV (2),2-1,1-0,Karlsruher SC (2)
+2,(Sat) 23 Aug 2008 (33),VfB Stuttgart (2),0-2,0-1,Bayer 04 Leverkusen (2)
+2,(Sat) 23 Aug 2008 (33),Hertha BSC (2),1-1,1-1,Arminia Bielefeld (2)
+2,(Sat) 23 Aug 2008 (33),Borussia Dortmund (2),1-1,1-0,Bayern München (2)
+2,(Sat) 23 Aug 2008 (33),TSG 1899 Hoffenheim (2),1-0,1-0,Bor. Mönchengladbach (2)
+2,(Sun) 24 Aug 2008 (33),VfL Bochum (2),2-2,1-0,VfL Wolfsburg (2)
+2,(Sun) 24 Aug 2008 (33),1. FC Köln (2),1-1,1-0,Eintracht Frankfurt (2)
+3,(Fri) 29 Aug 2008 (34),Karlsruher SC (3),0-2,0-0,1. FC Köln (3)
+3,(Sat) 30 Aug 2008 (34),FC Schalke 04 (3),1-0,1-0,VfL Bochum (3)
+3,(Sat) 30 Aug 2008 (34),VfL Wolfsburg (3),2-2,1-1,Eintracht Frankfurt (3)
+3,(Sat) 30 Aug 2008 (34),Bayer 04 Leverkusen (3),5-2,3-1,TSG 1899 Hoffenheim (3)
+3,(Sat) 30 Aug 2008 (34),Energie Cottbus (3),0-1,0-1,Borussia Dortmund (3)
+3,(Sat) 30 Aug 2008 (34),Arminia Bielefeld (3),2-4,2-1,Hamburger SV (3)
+3,(Sat) 30 Aug 2008 (34),Bor. Mönchengladbach (3),3-2,2-0,Werder Bremen (3)
+3,(Sun) 31 Aug 2008 (34),Bayern München (3),4-1,1-0,Hertha BSC (3)
+3,(Sun) 31 Aug 2008 (34),VfB Stuttgart (3),2-0,2-0,Hannover 96 (3)
+4,(Sat) 13 Sep 2008 (36),Werder Bremen (4),3-0,0-0,Energie Cottbus (4)
+4,(Sat) 13 Sep 2008 (36),Hamburger SV (4),3-2,1-2,Bayer 04 Leverkusen (4)
+4,(Sat) 13 Sep 2008 (36),Hertha BSC (4),2-2,0-1,VfL Wolfsburg (4)
+4,(Sat) 13 Sep 2008 (36),Borussia Dortmund (4),3-3,0-2,FC Schalke 04 (4)
+4,(Sat) 13 Sep 2008 (36),TSG 1899 Hoffenheim (4),0-0,0-0,VfB Stuttgart (4)
+4,(Sat) 13 Sep 2008 (36),1. FC Köln (4),0-3,0-0,Bayern München (4)
+4,(Sun) 14 Sep 2008 (36),Hannover 96 (4),5-1,2-0,Bor. Mönchengladbach (4)
+4,(Sun) 14 Sep 2008 (36),VfL Bochum (4),2-0,2-0,Arminia Bielefeld (4)
+4,(Wed) 22 Oct 2008 (42),Eintracht Frankfurt (4),2-1,0-0,Karlsruher SC (4)
+5,(Fri) 19 Sep 2008 (37),Bayer 04 Leverkusen (5),4-0,2-0,Hannover 96 (5)
+5,(Sat) 20 Sep 2008 (37),Bayern München (5),2-5,0-2,Werder Bremen (5)
+5,(Sat) 20 Sep 2008 (37),FC Schalke 04 (5),1-0,1-0,Eintracht Frankfurt (5)
+5,(Sat) 20 Sep 2008 (37),Energie Cottbus (5),1-1,1-0,VfL Bochum (5)
+5,(Sat) 20 Sep 2008 (37),Arminia Bielefeld (5),2-0,0-0,1. FC Köln (5)
+5,(Sat) 20 Sep 2008 (37),Bor. Mönchengladbach (5),0-1,0-1,Hertha BSC (5)
+5,(Sun) 21 Sep 2008 (37),VfL Wolfsburg (5),3-0,3-0,Hamburger SV (5)
+5,(Sun) 21 Sep 2008 (37),VfB Stuttgart (5),3-1,1-1,Karlsruher SC (5)
+5,(Sun) 21 Sep 2008 (37),TSG 1899 Hoffenheim (5),4-1,2-0,Borussia Dortmund (5)
+6,(Fri) 26 Sep 2008 (38),1. FC Köln (6),1-0,1-0,FC Schalke 04 (6)
+6,(Sat) 27 Sep 2008 (38),Werder Bremen (6),5-4,4-2,TSG 1899 Hoffenheim (6)
+6,(Sat) 27 Sep 2008 (38),Hamburger SV (6),1-0,1-0,Bor. Mönchengladbach (6)
+6,(Sat) 27 Sep 2008 (38),Hannover 96 (6),1-0,1-0,Bayern München (6)
+6,(Sat) 27 Sep 2008 (38),Hertha BSC (6),0-1,0-1,Energie Cottbus (6)
+6,(Sat) 27 Sep 2008 (38),VfL Bochum (6),2-3,0-2,Bayer 04 Leverkusen (6)
+6,(Sat) 27 Sep 2008 (38),Borussia Dortmund (6),3-0,2-0,VfB Stuttgart (6)
+6,(Sun) 28 Sep 2008 (38),Eintracht Frankfurt (6),1-1,0-1,Arminia Bielefeld (6)
+6,(Sun) 28 Sep 2008 (38),Karlsruher SC (6),2-1,0-0,VfL Wolfsburg (6)
+7,(Fri) 3 Oct 2008 (39),Arminia Bielefeld (7),1-2,0-1,Karlsruher SC (7)
+7,(Sat) 4 Oct 2008 (39),Bayern München (7),3-3,2-1,VfL Bochum (7)
+7,(Sat) 4 Oct 2008 (39),VfB Stuttgart (7),4-1,2-0,Werder Bremen (7)
+7,(Sat) 4 Oct 2008 (39),Bayer 04 Leverkusen (7),0-1,0-0,Hertha BSC (7)
+7,(Sat) 4 Oct 2008 (39),Bor. Mönchengladbach (7),1-2,1-1,1. FC Köln (7)
+7,(Sat) 4 Oct 2008 (39),TSG 1899 Hoffenheim (7),2-1,0-0,Eintracht Frankfurt (7)
+7,(Sun) 5 Oct 2008 (39),FC Schalke 04 (7),2-2,1-0,VfL Wolfsburg (7)
+7,(Sun) 5 Oct 2008 (39),Borussia Dortmund (7),1-1,1-1,Hannover 96 (7)
+7,(Sun) 5 Oct 2008 (39),Energie Cottbus (7),1-2,0-0,Hamburger SV (7)
+8,(Fri) 17 Oct 2008 (41),VfL Bochum (8),2-2,0-1,Bor. Mönchengladbach (8)
+8,(Sat) 18 Oct 2008 (41),Werder Bremen (8),3-3,0-0,Borussia Dortmund (8)
+8,(Sat) 18 Oct 2008 (41),VfL Wolfsburg (8),4-1,2-0,Arminia Bielefeld (8)
+8,(Sat) 18 Oct 2008 (41),Hannover 96 (8),2-5,0-1,TSG 1899 Hoffenheim (8)
+8,(Sat) 18 Oct 2008 (41),Eintracht Frankfurt (8),0-2,0-1,Bayer 04 Leverkusen (8)
+8,(Sat) 18 Oct 2008 (41),Hertha BSC (8),2-1,1-0,VfB Stuttgart (8)
+8,(Sat) 18 Oct 2008 (41),Karlsruher SC (8),0-1,0-0,Bayern München (8)
+8,(Sat) 18 Oct 2008 (41),1. FC Köln (8),1-0,1-0,Energie Cottbus (8)
+8,(Sun) 19 Oct 2008 (41),Hamburger SV (8),1-1,1-0,FC Schalke 04 (8)
+9,(Fri) 24 Oct 2008 (42),Bayer 04 Leverkusen (9),2-0,0-0,1. FC Köln (9)
+9,(Sat) 25 Oct 2008 (42),Bayern München (9),4-2,1-2,VfL Wolfsburg (9)
+9,(Sat) 25 Oct 2008 (42),FC Schalke 04 (9),0-0,0-0,Arminia Bielefeld (9)
+9,(Sat) 25 Oct 2008 (42),Hannover 96 (9),1-1,1-1,Werder Bremen (9)
+9,(Sat) 25 Oct 2008 (42),Energie Cottbus (9),2-3,2-1,Eintracht Frankfurt (9)
+9,(Sat) 25 Oct 2008 (42),Bor. Mönchengladbach (9),1-0,0-0,Karlsruher SC (9)
+9,(Sun) 26 Oct 2008 (42),VfB Stuttgart (9),2-0,0-0,VfL Bochum (9)
+9,(Sun) 26 Oct 2008 (42),Borussia Dortmund (9),1-1,0-1,Hertha BSC (9)
+9,(Sun) 26 Oct 2008 (42),TSG 1899 Hoffenheim (9),3-0,3-0,Hamburger SV (9)
+10,(Tue) 28 Oct 2008 (43),Werder Bremen (10),0-2,0-0,Bayer 04 Leverkusen (10)
+10,(Tue) 28 Oct 2008 (43),VfL Wolfsburg (10),3-0,1-0,Bor. Mönchengladbach (10)
+10,(Tue) 28 Oct 2008 (43),Karlsruher SC (10),0-3,0-2,FC Schalke 04 (10)
+10,(Tue) 28 Oct 2008 (43),Arminia Bielefeld (10),1-1,0-1,Energie Cottbus (10)
+10,(Wed) 29 Oct 2008 (43),Hamburger SV (10),2-0,1-0,VfB Stuttgart (10)
+10,(Wed) 29 Oct 2008 (43),Eintracht Frankfurt (10),1-2,0-0,Bayern München (10)
+10,(Wed) 29 Oct 2008 (43),Hertha BSC (10),3-0,0-0,Hannover 96 (10)
+10,(Wed) 29 Oct 2008 (43),VfL Bochum (10),1-3,1-0,TSG 1899 Hoffenheim (10)
+10,(Wed) 29 Oct 2008 (43),1. FC Köln (10),0-1,0-0,Borussia Dortmund (10)
+11,(Fri) 31 Oct 2008 (43),Bayer 04 Leverkusen (11),2-0,0-0,VfL Wolfsburg (11)
+11,(Sat) 1 Nov 2008 (43),Bayern München (11),3-1,1-1,Arminia Bielefeld (11)
+11,(Sat) 1 Nov 2008 (43),Werder Bremen (11),5-1,3-0,Hertha BSC (11)
+11,(Sat) 1 Nov 2008 (43),VfB Stuttgart (11),1-3,0-1,1. FC Köln (11)
+11,(Sat) 1 Nov 2008 (43),Hannover 96 (11),3-0,2-0,Hamburger SV (11)
+11,(Sat) 1 Nov 2008 (43),Energie Cottbus (11),0-2,0-0,FC Schalke 04 (11)
+11,(Sat) 1 Nov 2008 (43),TSG 1899 Hoffenheim (11),4-1,1-1,Karlsruher SC (11)
+11,(Sun) 2 Nov 2008 (43),Borussia Dortmund (11),1-1,1-1,VfL Bochum (11)
+11,(Sun) 2 Nov 2008 (43),Bor. Mönchengladbach (11),1-2,1-1,Eintracht Frankfurt (11)
+12,(Fri) 7 Nov 2008 (44),1. FC Köln (12),2-1,1-1,Hannover 96 (12)
+12,(Sat) 8 Nov 2008 (44),Hamburger SV (12),2-1,2-0,Borussia Dortmund (12)
+12,(Sat) 8 Nov 2008 (44),VfL Wolfsburg (12),3-0,1-0,Energie Cottbus (12)
+12,(Sat) 8 Nov 2008 (44),Karlsruher SC (12),3-3,1-3,Bayer 04 Leverkusen (12)
+12,(Sat) 8 Nov 2008 (44),VfL Bochum (12),0-0,0-0,Werder Bremen (12)
+12,(Sat) 8 Nov 2008 (44),Arminia Bielefeld (12),0-2,0-1,Bor. Mönchengladbach (12)
+12,(Sun) 9 Nov 2008 (44),FC Schalke 04 (12),1-2,1-2,Bayern München (12)
+12,(Sun) 9 Nov 2008 (44),Eintracht Frankfurt (12),2-2,1-0,VfB Stuttgart (12)
+12,(Sun) 9 Nov 2008 (44),Hertha BSC (12),1-0,0-0,TSG 1899 Hoffenheim (12)
+13,(Fri) 14 Nov 2008 (45),Hannover 96 (13),1-1,0-0,VfL Bochum (13)
+13,(Sat) 15 Nov 2008 (45),VfB Stuttgart (13),0-0,0-0,Arminia Bielefeld (13)
+13,(Sat) 15 Nov 2008 (45),Bayer 04 Leverkusen (13),2-1,2-0,FC Schalke 04 (13)
+13,(Sat) 15 Nov 2008 (45),Hertha BSC (13),2-1,0-1,Hamburger SV (13)
+13,(Sat) 15 Nov 2008 (45),Borussia Dortmund (13),4-0,3-0,Eintracht Frankfurt (13)
+13,(Sat) 15 Nov 2008 (45),Energie Cottbus (13),1-0,0-0,Karlsruher SC (13)
+13,(Sat) 15 Nov 2008 (45),Bor. Mönchengladbach (13),2-2,0-1,Bayern München (13)
+13,(Sat) 15 Nov 2008 (45),TSG 1899 Hoffenheim (13),3-2,2-2,VfL Wolfsburg (13)
+13,(Sun) 16 Nov 2008 (45),Werder Bremen (13),3-1,2-0,1. FC Köln (13)
+14,(Fri) 21 Nov 2008 (46),Karlsruher SC (14),0-1,0-1,Borussia Dortmund (14)
+14,(Sat) 22 Nov 2008 (46),Bayern München (14),4-1,2-1,Energie Cottbus (14)
+14,(Sat) 22 Nov 2008 (46),FC Schalke 04 (14),3-1,3-1,Bor. Mönchengladbach (14)
+14,(Sat) 22 Nov 2008 (46),VfL Wolfsburg (14),4-1,0-1,VfB Stuttgart (14)
+14,(Sat) 22 Nov 2008 (46),Eintracht Frankfurt (14),4-0,2-0,Hannover 96 (14)
+14,(Sat) 22 Nov 2008 (46),VfL Bochum (14),2-3,0-3,Hertha BSC (14)
+14,(Sat) 22 Nov 2008 (46),Arminia Bielefeld (14),2-1,0-0,Bayer 04 Leverkusen (14)
+14,(Sat) 22 Nov 2008 (46),1. FC Köln (14),1-3,0-1,TSG 1899 Hoffenheim (14)
+14,(Sun) 23 Nov 2008 (46),Hamburger SV (14),2-1,1-1,Werder Bremen (14)
+15,(Fri) 28 Nov 2008 (47),Hertha BSC (15),2-1,1-1,1. FC Köln (15)
+15,(Sat) 29 Nov 2008 (47),Werder Bremen (15),5-0,3-0,Eintracht Frankfurt (15)
+15,(Sat) 29 Nov 2008 (47),Bayer 04 Leverkusen (15),0-2,0-0,Bayern München (15)
+15,(Sat) 29 Nov 2008 (47),Hannover 96 (15),3-2,3-0,Karlsruher SC (15)
+15,(Sat) 29 Nov 2008 (47),Bor. Mönchengladbach (15),1-3,0-1,Energie Cottbus (15)
+15,(Sat) 29 Nov 2008 (47),TSG 1899 Hoffenheim (15),3-0,2-0,Arminia Bielefeld (15)
+15,(Sun) 30 Nov 2008 (47),VfB Stuttgart (15),2-0,0-0,FC Schalke 04 (15)
+15,(Sun) 30 Nov 2008 (47),VfL Bochum (15),1-1,1-0,Hamburger SV (15)
+15,(Sun) 30 Nov 2008 (47),Borussia Dortmund (15),0-0,0-0,VfL Wolfsburg (15)
+16,(Fri) 5 Dec 2008 (48),Bayern München (16),2-1,0-0,TSG 1899 Hoffenheim (16)
+16,(Sat) 6 Dec 2008 (48),FC Schalke 04 (16),1-0,0-0,Hertha BSC (16)
+16,(Sat) 6 Dec 2008 (48),Eintracht Frankfurt (16),4-0,2-0,VfL Bochum (16)
+16,(Sat) 6 Dec 2008 (48),Karlsruher SC (16),1-0,0-0,Werder Bremen (16)
+16,(Sat) 6 Dec 2008 (48),Energie Cottbus (16),0-3,0-1,VfB Stuttgart (16)
+16,(Sat) 6 Dec 2008 (48),Arminia Bielefeld (16),0-0,0-0,Borussia Dortmund (16)
+16,(Sat) 6 Dec 2008 (48),Bor. Mönchengladbach (16),1-3,0-2,Bayer 04 Leverkusen (16)
+16,(Sun) 7 Dec 2008 (48),VfL Wolfsburg (16),2-1,1-0,Hannover 96 (16)
+16,(Sun) 7 Dec 2008 (48),1. FC Köln (16),1-2,0-2,Hamburger SV (16)
+17,(Fri) 12 Dec 2008 (49),Borussia Dortmund (17),2-1,1-0,Bor. Mönchengladbach (17)
+17,(Sat) 13 Dec 2008 (49),Werder Bremen (17),2-1,1-1,VfL Wolfsburg (17)
+17,(Sat) 13 Dec 2008 (49),Hamburger SV (17),1-0,0-0,Eintracht Frankfurt (17)
+17,(Sat) 13 Dec 2008 (49),VfB Stuttgart (17),2-2,1-0,Bayern München (17)
+17,(Sat) 13 Dec 2008 (49),Bayer 04 Leverkusen (17),1-1,0-0,Energie Cottbus (17)
+17,(Sat) 13 Dec 2008 (49),Hannover 96 (17),1-1,1-0,Arminia Bielefeld (17)
+17,(Sat) 13 Dec 2008 (49),Hertha BSC (17),4-0,1-0,Karlsruher SC (17)
+17,(Sat) 13 Dec 2008 (49),VfL Bochum (17),1-2,0-1,1. FC Köln (17)
+17,(Sun) 14 Dec 2008 (49),TSG 1899 Hoffenheim (17),1-1,0-1,FC Schalke 04 (17)
+18,(Fri) 30 Jan 2009 (4),Hamburger SV (18),1-0,1-0,Bayern München (18)
+18,(Sat) 31 Jan 2009 (4),Hannover 96 (18),1-0,1-0,FC Schalke 04 (18)
+18,(Sat) 31 Jan 2009 (4),1. FC Köln (18),1-1,1-0,VfL Wolfsburg (18)
+18,(Sat) 31 Jan 2009 (4),Borussia Dortmund (18),1-1,1-0,Bayer 04 Leverkusen (18)
+18,(Sat) 31 Jan 2009 (4),Hertha BSC (18),2-1,1-0,Eintracht Frankfurt (18)
+18,(Sat) 31 Jan 2009 (4),TSG 1899 Hoffenheim (18),2-0,1-0,Energie Cottbus (18)
+18,(Sat) 31 Jan 2009 (4),VfB Stuttgart (18),2-0,0-0,Bor. Mönchengladbach (18)
+18,(Sun) 1 Feb 2009 (4),VfL Bochum (18),2-0,1-0,Karlsruher SC (18)
+18,(Sun) 1 Feb 2009 (4),Werder Bremen (18),1-2,1-1,Arminia Bielefeld (18)
+19,(Fri) 6 Feb 2009 (5),Arminia Bielefeld (19),1-1,1-1,Hertha BSC (19)
+19,(Sat) 7 Feb 2009 (5),FC Schalke 04 (19),1-0,0-0,Werder Bremen (19)
+19,(Sat) 7 Feb 2009 (5),Karlsruher SC (19),3-2,0-1,Hamburger SV (19)
+19,(Sat) 7 Feb 2009 (5),Bayer 04 Leverkusen (19),2-4,0-1,VfB Stuttgart (19)
+19,(Sat) 7 Feb 2009 (5),VfL Wolfsburg (19),2-0,1-0,VfL Bochum (19)
+19,(Sat) 7 Feb 2009 (5),Bor. Mönchengladbach (19),1-1,1-0,TSG 1899 Hoffenheim (19)
+19,(Sat) 7 Feb 2009 (5),Eintracht Frankfurt (19),2-2,1-0,1. FC Köln (19)
+19,(Sun) 8 Feb 2009 (5),Energie Cottbus (19),3-1,1-0,Hannover 96 (19)
+19,(Sun) 8 Feb 2009 (5),Bayern München (19),3-1,1-1,Borussia Dortmund (19)
+20,(Fri) 13 Feb 2009 (6),TSG 1899 Hoffenheim (20),1-4,1-3,Bayer 04 Leverkusen (20)
+20,(Sat) 14 Feb 2009 (6),Hertha BSC (20),2-1,1-0,Bayern München (20)
+20,(Sat) 14 Feb 2009 (6),VfL Bochum (20),2-1,1-1,FC Schalke 04 (20)
+20,(Sat) 14 Feb 2009 (6),Eintracht Frankfurt (20),0-2,0-1,VfL Wolfsburg (20)
+20,(Sat) 14 Feb 2009 (6),Hannover 96 (20),3-3,2-2,VfB Stuttgart (20)
+20,(Sat) 14 Feb 2009 (6),1. FC Köln (20),0-0,0-0,Karlsruher SC (20)
+20,(Sat) 14 Feb 2009 (6),Werder Bremen (20),1-1,0-0,Bor. Mönchengladbach (20)
+20,(Sun) 15 Feb 2009 (6),Borussia Dortmund (20),1-1,1-1,Energie Cottbus (20)
+20,(Sun) 15 Feb 2009 (6),Hamburger SV (20),2-0,1-0,Arminia Bielefeld (20)
+21,(Fri) 20 Feb 2009 (7),FC Schalke 04 (21),1-1,1-0,Borussia Dortmund (21)
+21,(Sat) 21 Feb 2009 (7),Energie Cottbus (21),2-1,0-0,Werder Bremen (21)
+21,(Sat) 21 Feb 2009 (7),Bor. Mönchengladbach (21),3-2,2-0,Hannover 96 (21)
+21,(Sat) 21 Feb 2009 (7),Karlsruher SC (21),0-1,0-0,Eintracht Frankfurt (21)
+21,(Sat) 21 Feb 2009 (7),VfL Wolfsburg (21),2-1,0-0,Hertha BSC (21)
+21,(Sat) 21 Feb 2009 (7),Arminia Bielefeld (21),1-1,0-1,VfL Bochum (21)
+21,(Sat) 21 Feb 2009 (7),VfB Stuttgart (21),3-3,2-2,TSG 1899 Hoffenheim (21)
+21,(Sat) 21 Feb 2009 (7),Bayern München (21),1-2,0-2,1. FC Köln (21)
+21,(Sun) 22 Feb 2009 (7),Bayer 04 Leverkusen (21),1-2,1-1,Hamburger SV (21)
+22,(Fri) 27 Feb 2009 (8),1. FC Köln (22),1-1,1-1,Arminia Bielefeld (22)
+22,(Sat) 28 Feb 2009 (8),Eintracht Frankfurt (22),1-2,0-1,FC Schalke 04 (22)
+22,(Sat) 28 Feb 2009 (8),Hannover 96 (22),1-0,1-0,Bayer 04 Leverkusen (22)
+22,(Sat) 28 Feb 2009 (8),VfL Bochum (22),3-2,1-1,Energie Cottbus (22)
+22,(Sat) 28 Feb 2009 (8),Hertha BSC (22),2-1,2-0,Bor. Mönchengladbach (22)
+22,(Sat) 28 Feb 2009 (8),Borussia Dortmund (22),0-0,0-0,TSG 1899 Hoffenheim (22)
+22,(Sun) 1 Mar 2009 (8),Werder Bremen (22),0-0,0-0,Bayern München (22)
+22,(Sun) 1 Mar 2009 (8),Hamburger SV (22),1-3,0-2,VfL Wolfsburg (22)
+22,(Sun) 1 Mar 2009 (8),Karlsruher SC (22),0-2,0-0,VfB Stuttgart (22)
+23,(Fri) 6 Mar 2009 (9),FC Schalke 04 (23),1-0,1-0,1. FC Köln (23)
+23,(Sat) 7 Mar 2009 (9),TSG 1899 Hoffenheim (23),0-0,0-0,Werder Bremen (23)
+23,(Sat) 7 Mar 2009 (9),Bor. Mönchengladbach (23),4-1,2-1,Hamburger SV (23)
+23,(Sat) 7 Mar 2009 (9),Bayern München (23),5-1,3-1,Hannover 96 (23)
+23,(Sat) 7 Mar 2009 (9),Energie Cottbus (23),1-3,1-2,Hertha BSC (23)
+23,(Sat) 7 Mar 2009 (9),VfL Wolfsburg (23),1-0,1-0,Karlsruher SC (23)
+23,(Sat) 7 Mar 2009 (9),VfB Stuttgart (23),2-1,1-0,Borussia Dortmund (23)
+23,(Sun) 8 Mar 2009 (9),Arminia Bielefeld (23),0-0,0-0,Eintracht Frankfurt (23)
+23,(Sun) 8 Mar 2009 (9),Bayer 04 Leverkusen (23),1-1,0-1,VfL Bochum (23)
+24,(Fri) 13 Mar 2009 (10),VfL Wolfsburg (24),4-3,2-1,FC Schalke 04 (24)
+24,(Sat) 14 Mar 2009 (10),VfL Bochum (24),0-3,0-1,Bayern München (24)
+24,(Sat) 14 Mar 2009 (10),Hertha BSC (24),1-0,0-0,Bayer 04 Leverkusen (24)
+24,(Sat) 14 Mar 2009 (10),Hannover 96 (24),4-4,1-2,Borussia Dortmund (24)
+24,(Sat) 14 Mar 2009 (10),Karlsruher SC (24),0-1,0-0,Arminia Bielefeld (24)
+24,(Sat) 14 Mar 2009 (10),1. FC Köln (24),2-4,0-2,Bor. Mönchengladbach (24)
+24,(Sat) 14 Mar 2009 (10),Eintracht Frankfurt (24),1-1,0-1,TSG 1899 Hoffenheim (24)
+24,(Sun) 15 Mar 2009 (10),Werder Bremen (24),4-0,1-0,VfB Stuttgart (24)
+24,(Sun) 15 Mar 2009 (10),Hamburger SV (24),2-0,2-0,Energie Cottbus (24)
+25,(Fri) 20 Mar 2009 (11),Bor. Mönchengladbach (25),0-1,0-1,VfL Bochum (25)
+25,(Sat) 21 Mar 2009 (11),Borussia Dortmund (25),1-0,0-0,Werder Bremen (25)
+25,(Sat) 21 Mar 2009 (11),Arminia Bielefeld (25),0-3,0-1,VfL Wolfsburg (25)
+25,(Sat) 21 Mar 2009 (11),TSG 1899 Hoffenheim (25),2-2,1-1,Hannover 96 (25)
+25,(Sat) 21 Mar 2009 (11),Bayer 04 Leverkusen (25),1-1,1-1,Eintracht Frankfurt (25)
+25,(Sat) 21 Mar 2009 (11),VfB Stuttgart (25),2-0,0-0,Hertha BSC (25)
+25,(Sat) 21 Mar 2009 (11),Bayern München (25),1-0,1-0,Karlsruher SC (25)
+25,(Sat) 21 Mar 2009 (11),Energie Cottbus (25),0-2,0-0,1. FC Köln (25)
+25,(Sun) 22 Mar 2009 (11),FC Schalke 04 (25),1-2,0-0,Hamburger SV (25)
+26,(Fri) 3 Apr 2009 (13),Arminia Bielefeld (26),0-2,0-1,FC Schalke 04 (26)
+26,(Sat) 4 Apr 2009 (13),VfL Wolfsburg (26),5-1,1-1,Bayern München (26)
+26,(Sat) 4 Apr 2009 (13),VfL Bochum (26),1-2,0-0,VfB Stuttgart (26)
+26,(Sat) 4 Apr 2009 (13),Hertha BSC (26),1-3,0-1,Borussia Dortmund (26)
+26,(Sat) 4 Apr 2009 (13),Eintracht Frankfurt (26),2-1,1-1,Energie Cottbus (26)
+26,(Sat) 4 Apr 2009 (13),Hamburger SV (26),1-0,1-0,TSG 1899 Hoffenheim (26)
+26,(Sun) 5 Apr 2009 (13),1. FC Köln (26),0-2,0-0,Bayer 04 Leverkusen (26)
+26,(Sun) 5 Apr 2009 (13),Werder Bremen (26),4-1,1-0,Hannover 96 (26)
+26,(Sun) 5 Apr 2009 (13),Karlsruher SC (26),0-0,0-0,Bor. Mönchengladbach (26)
+27,(Sat) 11 Apr 2009 (14),Bor. Mönchengladbach (27),1-2,0-1,VfL Wolfsburg (27)
+27,(Sat) 11 Apr 2009 (14),Bayern München (27),4-0,3-0,Eintracht Frankfurt (27)
+27,(Sat) 11 Apr 2009 (14),Hannover 96 (27),2-0,1-0,Hertha BSC (27)
+27,(Sat) 11 Apr 2009 (14),FC Schalke 04 (27),2-0,1-0,Karlsruher SC (27)
+27,(Sat) 11 Apr 2009 (14),TSG 1899 Hoffenheim (27),0-3,0-1,VfL Bochum (27)
+27,(Sat) 11 Apr 2009 (14),Energie Cottbus (27),2-1,1-0,Arminia Bielefeld (27)
+27,(Sat) 11 Apr 2009 (14),Borussia Dortmund (27),3-1,1-1,1. FC Köln (27)
+27,(Sun) 12 Apr 2009 (14),Bayer 04 Leverkusen (27),1-1,1-1,Werder Bremen (27)
+27,(Sun) 12 Apr 2009 (14),VfB Stuttgart (27),1-0,0-0,Hamburger SV (27)
+28,(Fri) 17 Apr 2009 (15),FC Schalke 04 (28),4-0,2-0,Energie Cottbus (28)
+28,(Sat) 18 Apr 2009 (15),Arminia Bielefeld (28),0-1,0-0,Bayern München (28)
+28,(Sat) 18 Apr 2009 (15),1. FC Köln (28),0-3,0-1,VfB Stuttgart (28)
+28,(Sat) 18 Apr 2009 (15),VfL Wolfsburg (28),2-1,1-0,Bayer 04 Leverkusen (28)
+28,(Sat) 18 Apr 2009 (15),VfL Bochum (28),0-2,0-1,Borussia Dortmund (28)
+28,(Sat) 18 Apr 2009 (15),Eintracht Frankfurt (28),4-1,1-0,Bor. Mönchengladbach (28)
+28,(Sat) 18 Apr 2009 (15),Karlsruher SC (28),2-2,1-1,TSG 1899 Hoffenheim (28)
+28,(Sun) 19 Apr 2009 (15),Hertha BSC (28),2-1,0-1,Werder Bremen (28)
+28,(Sun) 19 Apr 2009 (15),Hamburger SV (28),2-1,1-0,Hannover 96 (28)
+29,(Fri) 24 Apr 2009 (16),TSG 1899 Hoffenheim (29),0-1,0-1,Hertha BSC (29)
+29,(Sat) 25 Apr 2009 (16),Bayern München (29),0-1,0-1,FC Schalke 04 (29)
+29,(Sat) 25 Apr 2009 (16),Borussia Dortmund (29),2-0,1-0,Hamburger SV (29)
+29,(Sat) 25 Apr 2009 (16),VfB Stuttgart (29),2-0,1-0,Eintracht Frankfurt (29)
+29,(Sat) 25 Apr 2009 (16),Bayer 04 Leverkusen (29),0-1,0-0,Karlsruher SC (29)
+29,(Sat) 25 Apr 2009 (16),Werder Bremen (29),3-2,0-2,VfL Bochum (29)
+29,(Sat) 25 Apr 2009 (16),Hannover 96 (29),2-1,2-0,1. FC Köln (29)
+29,(Sun) 26 Apr 2009 (16),Energie Cottbus (29),2-0,0-0,VfL Wolfsburg (29)
+29,(Sun) 26 Apr 2009 (16),Bor. Mönchengladbach (29),1-1,1-1,Arminia Bielefeld (29)
+30,(Fri) 1 May 2009 (17),VfL Bochum (30),0-2,0-2,Hannover 96 (30)
+30,(Sat) 2 May 2009 (17),Arminia Bielefeld (30),2-2,1-2,VfB Stuttgart (30)
+30,(Sat) 2 May 2009 (17),FC Schalke 04 (30),1-2,0-2,Bayer 04 Leverkusen (30)
+30,(Sat) 2 May 2009 (17),Eintracht Frankfurt (30),0-2,0-0,Borussia Dortmund (30)
+30,(Sat) 2 May 2009 (17),Karlsruher SC (30),0-0,0-0,Energie Cottbus (30)
+30,(Sat) 2 May 2009 (17),Bayern München (30),2-1,2-1,Bor. Mönchengladbach (30)
+30,(Sat) 2 May 2009 (17),VfL Wolfsburg (30),4-0,0-0,TSG 1899 Hoffenheim (30)
+30,(Sun) 3 May 2009 (17),1. FC Köln (30),1-0,0-0,Werder Bremen (30)
+30,(Sun) 3 May 2009 (17),Hamburger SV (30),1-1,1-0,Hertha BSC (30)
+31,(Fri) 8 May 2009 (18),Bayer 04 Leverkusen (31),2-2,1-2,Arminia Bielefeld (31)
+31,(Sat) 9 May 2009 (18),Energie Cottbus (31),1-3,1-1,Bayern München (31)
+31,(Sat) 9 May 2009 (18),VfB Stuttgart (31),4-1,2-1,VfL Wolfsburg (31)
+31,(Sat) 9 May 2009 (18),Hannover 96 (31),1-1,1-1,Eintracht Frankfurt (31)
+31,(Sat) 9 May 2009 (18),Borussia Dortmund (31),4-0,1-0,Karlsruher SC (31)
+31,(Sat) 9 May 2009 (18),Hertha BSC (31),2-0,1-0,VfL Bochum (31)
+31,(Sat) 9 May 2009 (18),TSG 1899 Hoffenheim (31),2-0,0-0,1. FC Köln (31)
+31,(Sun) 10 May 2009 (18),Bor. Mönchengladbach (31),1-0,0-0,FC Schalke 04 (31)
+31,(Sun) 10 May 2009 (18),Werder Bremen (31),2-0,1-0,Hamburger SV (31)
+32,(Tue) 12 May 2009 (19),Bayern München (32),3-0,0-0,Bayer 04 Leverkusen (32)
+32,(Tue) 12 May 2009 (19),Karlsruher SC (32),2-3,2-2,Hannover 96 (32)
+32,(Tue) 12 May 2009 (19),1. FC Köln (32),1-2,0-1,Hertha BSC (32)
+32,(Tue) 12 May 2009 (19),VfL Wolfsburg (32),3-0,1-0,Borussia Dortmund (32)
+32,(Wed) 13 May 2009 (19),Eintracht Frankfurt (32),0-5,0-0,Werder Bremen (32)
+32,(Wed) 13 May 2009 (19),FC Schalke 04 (32),1-2,1-1,VfB Stuttgart (32)
+32,(Wed) 13 May 2009 (19),Hamburger SV (32),3-1,2-0,VfL Bochum (32)
+32,(Wed) 13 May 2009 (19),Energie Cottbus (32),0-1,0-0,Bor. Mönchengladbach (32)
+32,(Wed) 13 May 2009 (19),Arminia Bielefeld (32),0-2,0-1,TSG 1899 Hoffenheim (32)
+33,(Sat) 16 May 2009 (19),TSG 1899 Hoffenheim (33),2-2,2-2,Bayern München (33)
+33,(Sat) 16 May 2009 (19),Hertha BSC (33),0-0,0-0,FC Schalke 04 (33)
+33,(Sat) 16 May 2009 (19),Hannover 96 (33),0-5,0-3,VfL Wolfsburg (33)
+33,(Sat) 16 May 2009 (19),VfL Bochum (33),2-0,1-0,Eintracht Frankfurt (33)
+33,(Sat) 16 May 2009 (19),Werder Bremen (33),1-3,0-2,Karlsruher SC (33)
+33,(Sat) 16 May 2009 (19),VfB Stuttgart (33),2-0,1-0,Energie Cottbus (33)
+33,(Sat) 16 May 2009 (19),Borussia Dortmund (33),6-0,1-0,Arminia Bielefeld (33)
+33,(Sat) 16 May 2009 (19),Bayer 04 Leverkusen (33),5-0,2-0,Bor. Mönchengladbach (33)
+33,(Sat) 16 May 2009 (19),Hamburger SV (33),0-1,0-1,1. FC Köln (33)
+34,(Sat) 23 May 2009 (20),VfL Wolfsburg (34),5-1,3-1,Werder Bremen (34)
+34,(Sat) 23 May 2009 (20),Eintracht Frankfurt (34),2-3,0-1,Hamburger SV (34)
+34,(Sat) 23 May 2009 (20),Bayern München (34),2-1,1-0,VfB Stuttgart (34)
+34,(Sat) 23 May 2009 (20),Energie Cottbus (34),3-0,0-0,Bayer 04 Leverkusen (34)
+34,(Sat) 23 May 2009 (20),Arminia Bielefeld (34),2-2,1-0,Hannover 96 (34)
+34,(Sat) 23 May 2009 (20),Karlsruher SC (34),4-0,2-0,Hertha BSC (34)
+34,(Sat) 23 May 2009 (20),1. FC Köln (34),1-1,1-1,VfL Bochum (34)
+34,(Sat) 23 May 2009 (20),Bor. Mönchengladbach (34),1-1,0-0,Borussia Dortmund (34)
+34,(Sat) 23 May 2009 (20),FC Schalke 04 (34),2-3,2-1,TSG 1899 Hoffenheim (34)

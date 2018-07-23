@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bor. Mönchengladbach          34  12  3  2  47:18    9  5  3  39:22    86:40  +46   71
@@ -22,11 +22,11 @@
 14. MSV Duisburg                  34   8  4  5  35:31    4  2 11  24:46    59:77  -18   42
 15. Werder Bremen                 34   8  4  5  30:23    1  3 13  15:46    45:69  -24   34
 16. VfB Stuttgart                 34   8  3  6  31:23    0  5 12  19:56    50:79  -29   32
-17. TeBe Berlin                   34   4  4  9  22:35    1  2 14  16:54    38:89  -51   21
+17. Tennis Borussia Berlin        34   4  4  9  22:35    1  2 14  16:54    38:89  -51   21
 18. Wuppertaler SV                34   2  5 10  20:38    0  3 14  12:48    32:86  -54   14
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

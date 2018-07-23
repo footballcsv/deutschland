@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bayern München                34  14  3  0  55:17    6  6  5  40:36    95:53  +42   69
@@ -22,11 +22,11 @@
 14. MSV Duisburg                  34   7  6  4  23:16    4  1 12  19:40    42:56  -14   40
 15. VfL Bochum                    34   7  6  4  28:21    2  6  9  17:36    45:57  -12   39
 16. Wuppertaler SV                34   7  5  5  31:27    1  4 12  11:38    42:65  -23   33
-17. Fortuna Koeln                 34   6  6  5  31:32    2  3 12  15:47    46:79  -33   33
+17. Fortuna Köln                  34   6  6  5  31:32    2  3 12  15:47    46:79  -33   33
 18. Hannover 96                   34   5  5  7  25:23    1  5 11  25:43    50:66  -16   28
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

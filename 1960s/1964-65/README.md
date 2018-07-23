@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Werder Bremen                 30   9  6  0  30:10    6  5  4  24:19    54:29  +25   56
@@ -22,9 +22,9 @@
 14. Karlsruher SC                 30   6  4  5  28:24    3  2 10  19:38    47:62  -15   33
 15. Hertha BSC                    30   4  7  4  18:21    3  4  8  22:41    40:62  -22   32
 16. FC Schalke 04                 30   5  5  5  24:26    2  3 10  21:34    45:60  -15   29
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

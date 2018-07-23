@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bor. Mönchengladbach          34  13  2  2  46:13    7  8  2  31:22    77:35  +42   70
@@ -21,12 +21,12 @@
 13. Arminia Bielefeld             34   9  4  4  20:14    3  1 13  14:39    34:53  -19   41
 14. Borussia Dortmund             34   7  6  4  35:19    3  3 11  19:41    54:60   -6   39
 15. Eintracht Frankfurt           34   9  4  4  29:19    2  2 13  10:37    39:56  -17   39
-16. Rot-Weiss Oberhausen          34   7  5  5  34:25    2  4 11  20:44    54:69  -15   36
+16. Rot-Weiß Oberhausen           34   7  5  5  34:25    2  4 11  20:44    54:69  -15   36
 17. Kickers Offenbach             34   7  4  6  32:28    2  5 10  17:37    49:65  -16   36
 18. Rot-Weiss Essen               34   6  4  7  27:25    1  5 11  21:43    48:68  -20   30
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

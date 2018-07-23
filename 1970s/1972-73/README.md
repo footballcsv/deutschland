@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bayern München                34  16  1  0  62:14    9  3  5  31:15    93:29  +64   79
@@ -23,10 +23,10 @@
 15. FC Schalke 04                 34   8  6  3  35:19    2  2 13  11:42    46:61  -15   38
 16. Hannover 96                   34   7  7  3  30:25    2  1 14  19:40    49:65  -16   35
 17. Eintracht Braunschweig        34   7  6  4  20:17    2  1 14  13:39    33:56  -23   34
-18. Rot-Weiss Oberhausen          34   9  3  5  28:26    0  1 16  17:58    45:84  -39   31
-~~~
+18. Rot-Weiß Oberhausen           34   9  3  5  28:26    0  1 16  17:58    45:84  -39   31
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

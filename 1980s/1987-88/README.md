@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Werder Bremen                 34  13  3  1  42:12    9  5  3  19:10    61:22  +39   74
@@ -14,19 +14,19 @@
  6. Hamburger SV                  34   9  7  1  42:27    4  4  9  21:41    63:68   -5   50
  7. Bor. Mönchengladbach          34   9  2  6  31:18    5  3  9  24:35    55:53   +2   47
  8. Hannover 96                   34   9  2  6  36:26    3  5  9  23:34    59:60   -1   43
- 9. Bayer 05 Uerdingen            34   9  4  4  38:25    2  5 10  21:36    59:61   -2   42
-10. Bayer Leverkusen              34   8  6  3  25:19    2  6  9  28:41    53:60   -7   42
+ 9. KFC Uerdingen                 34   9  4  4  38:25    2  5 10  21:36    59:61   -2   42
+10. Bayer 04 Leverkusen           34   8  6  3  25:19    2  6  9  28:41    53:60   -7   42
 11. Eintracht Frankfurt           34   8  4  5  31:18    2  7  8  20:32    51:50   +1   41
 12. VfL Bochum                    34   8  4  5  33:20    2  6  9  14:31    47:51   -4   40
 13. 1. FC Kaiserslautern          34   9  5  3  39:25    2  2 13  14:37    53:62   -9   40
 14. Borussia Dortmund             34   5  6  6  30:26    4  5  8  21:28    51:54   -3   38
 15. Karlsruher SC                 34   7  7  3  19:14    2  4 11  18:41    37:55  -18   38
-16. Waldhof Mannheim              34   5  6  6  20:23    2  8  7  15:27    35:50  -15   35
+16. SV Waldhof Mannheim           34   5  6  6  20:23    2  8  7  15:27    35:50  -15   35
 17. FC 08 Homburg                 34   6  8  3  25:25    1  2 14  12:45    37:70  -33   31
 18. FC Schalke 04                 34   7  5  5  29:25    1  2 14  19:59    48:84  -36   31
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

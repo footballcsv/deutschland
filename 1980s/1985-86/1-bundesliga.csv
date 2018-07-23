@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT
-1,1985-08-09,FC Schalke 04,Werder Bremen,0-1,0-1
-1,1985-08-10,Fortuna Düsseldorf,Waldhof Mannheim,4-1,2-1
-1,1985-08-10,1. FC Nürnberg,VfL Bochum,0-1,0-0
-1,1985-08-10,1. FC Köln,Eintracht Frankfurt,1-1,0-0
-1,1985-08-10,Hamburger SV,1. FC Kaiserslautern,4-1,1-1
-1,1985-08-10,1. FC Saarbrücken,Borussia Dortmund,1-1,1-1
-1,1985-08-10,Hannover 96,Bayer Leverkusen,1-1,1-0
-1,1985-08-10,VfB Stuttgart,Bor. Mönchengladbach,0-0,0-0
-1,1985-08-10,Bayer 05 Uerdingen,Bayern München,1-0,1-0
-2,1985-08-16,Werder Bremen,Hannover 96,8-2,4-2
-2,1985-08-16,Borussia Dortmund,Hamburger SV,1-1,0-0
-2,1985-08-16,Waldhof Mannheim,Bayer 05 Uerdingen,2-0,0-0
-2,1985-08-17,Bayern München,VfB Stuttgart,4-1,1-1
-2,1985-08-17,Bayer Leverkusen,1. FC Saarbrücken,2-0,1-0
-2,1985-08-17,1. FC Kaiserslautern,1. FC Köln,1-0,0-0
-2,1985-08-17,Eintracht Frankfurt,1. FC Nürnberg,1-1,0-1
-2,1985-08-17,VfL Bochum,Fortuna Düsseldorf,5-3,3-0
-2,1985-08-17,Bor. Mönchengladbach,FC Schalke 04,4-0,1-0
-3,1985-08-20,Fortuna Düsseldorf,Eintracht Frankfurt,0-1,0-0
-3,1985-08-20,Waldhof Mannheim,VfL Bochum,4-1,2-0
-3,1985-08-21,1. FC Nürnberg,1. FC Kaiserslautern,3-1,0-0
-3,1985-08-21,1. FC Köln,Borussia Dortmund,2-0,2-0
-3,1985-08-21,1. FC Saarbrücken,Werder Bremen,1-1,0-1
-3,1985-08-21,Hannover 96,Bor. Mönchengladbach,2-3,0-2
-3,1985-08-21,FC Schalke 04,Bayern München,0-1,0-0
-3,1985-08-21,Bayer 05 Uerdingen,VfB Stuttgart,1-4,1-2
-3,1985-10-08,Hamburger SV,Bayer Leverkusen,1-3,0-2
-4,1985-08-31,Werder Bremen,Hamburger SV,2-0,1-0
-4,1985-08-31,Bayer Leverkusen,1. FC Köln,1-1,1-0
-4,1985-08-31,Borussia Dortmund,1. FC Nürnberg,1-4,1-3
-4,1985-08-31,1. FC Kaiserslautern,Fortuna Düsseldorf,2-0,0-0
-4,1985-08-31,Eintracht Frankfurt,Waldhof Mannheim,0-0,0-0
-4,1985-08-31,VfL Bochum,Bayer 05 Uerdingen,1-2,0-2
-4,1985-08-31,VfB Stuttgart,FC Schalke 04,0-1,0-0
-4,1985-08-31,Bor. Mönchengladbach,1. FC Saarbrücken,2-0,0-0
-4,1985-10-08,Bayern München,Hannover 96,6-0,1-0
-5,1985-09-03,1. FC Saarbrücken,Bayern München,1-1,0-0
-5,1985-09-03,VfL Bochum,Eintracht Frankfurt,2-1,0-1
-5,1985-09-03,Waldhof Mannheim,1. FC Kaiserslautern,1-1,0-1
-5,1985-09-03,Bayer 05 Uerdingen,FC Schalke 04,3-2,1-1
-5,1985-09-04,Fortuna Düsseldorf,Borussia Dortmund,4-2,2-2
-5,1985-09-04,1. FC Nürnberg,Bayer Leverkusen,3-2,2-1
-5,1985-09-04,1. FC Köln,Werder Bremen,3-3,2-1
-5,1985-09-04,Hamburger SV,Bor. Mönchengladbach,4-1,3-0
-5,1985-09-04,Hannover 96,VfB Stuttgart,1-3,0-1
-6,1985-09-06,1. FC Kaiserslautern,VfL Bochum,2-0,1-0
-6,1985-09-07,Bayern München,Hamburger SV,2-0,0-0
-6,1985-09-07,Werder Bremen,1. FC Nürnberg,2-1,1-0
-6,1985-09-07,Bayer Leverkusen,Fortuna Düsseldorf,3-1,1-1
-6,1985-09-07,Borussia Dortmund,Waldhof Mannheim,0-0,0-0
-6,1985-09-07,Eintracht Frankfurt,Bayer 05 Uerdingen,1-1,1-1
-6,1985-09-07,FC Schalke 04,Hannover 96,2-2,0-1
-6,1985-09-07,VfB Stuttgart,1. FC Saarbrücken,3-1,2-1
-6,1985-09-07,Bor. Mönchengladbach,1. FC Köln,1-1,0-0
-7,1985-09-13,1. FC Saarbrücken,FC Schalke 04,3-2,2-2
-7,1985-09-13,Fortuna Düsseldorf,Werder Bremen,1-4,1-2
-7,1985-09-13,Eintracht Frankfurt,1. FC Kaiserslautern,1-1,1-0
-7,1985-09-14,1. FC Nürnberg,Bor. Mönchengladbach,2-4,0-2
-7,1985-09-14,1. FC Köln,Bayern München,1-1,0-1
-7,1985-09-14,Hamburger SV,VfB Stuttgart,2-0,1-0
-7,1985-09-14,VfL Bochum,Borussia Dortmund,6-1,2-1
-7,1985-09-14,Waldhof Mannheim,Bayer Leverkusen,1-0,0-0
-7,1985-09-14,Bayer 05 Uerdingen,Hannover 96,3-3,1-1
-8,1985-09-20,Bayer Leverkusen,VfL Bochum,4-2,3-0
-8,1985-09-20,Borussia Dortmund,Eintracht Frankfurt,4-2,0-1
-8,1985-09-21,Bayern München,1. FC Nürnberg,2-1,1-1
-8,1985-09-21,Werder Bremen,Waldhof Mannheim,2-2,1-1
-8,1985-09-21,1. FC Kaiserslautern,Bayer 05 Uerdingen,5-1,2-0
-8,1985-09-21,Hannover 96,1. FC Saarbrücken,2-0,1-0
-8,1985-09-21,FC Schalke 04,Hamburger SV,1-0,1-0
-8,1985-09-21,VfB Stuttgart,1. FC Köln,5-0,2-0
-8,1985-09-21,Bor. Mönchengladbach,Fortuna Düsseldorf,5-1,1-0
-9,1985-09-27,Bayer 05 Uerdingen,1. FC Saarbrücken,2-1,2-0
-9,1985-09-28,Fortuna Düsseldorf,Bayern München,4-0,1-0
-9,1985-09-28,1. FC Nürnberg,VfB Stuttgart,0-1,0-0
-9,1985-09-28,1. FC Köln,FC Schalke 04,4-2,2-1
-9,1985-09-28,Hamburger SV,Hannover 96,3-0,0-0
-9,1985-09-28,1. FC Kaiserslautern,Borussia Dortmund,2-0,1-0
-9,1985-09-28,Eintracht Frankfurt,Bayer Leverkusen,1-0,0-0
-9,1985-09-28,VfL Bochum,Werder Bremen,2-3,0-1
-9,1985-09-28,Waldhof Mannheim,Bor. Mönchengladbach,3-1,2-1
-10,1985-10-04,Bayer Leverkusen,1. FC Kaiserslautern,3-2,1-2
-10,1985-10-05,Bayern München,Waldhof Mannheim,3-1,0-1
-10,1985-10-05,Werder Bremen,Eintracht Frankfurt,4-0,1-0
-10,1985-10-05,Borussia Dortmund,Bayer 05 Uerdingen,5-2,1-1
-10,1985-10-05,1. FC Saarbrücken,Hamburger SV,2-2,2-1
-10,1985-10-05,Hannover 96,1. FC Köln,3-1,3-1
-10,1985-10-05,FC Schalke 04,1. FC Nürnberg,2-0,1-0
-10,1985-10-05,VfB Stuttgart,Fortuna Düsseldorf,5-0,2-0
-10,1985-10-05,Bor. Mönchengladbach,VfL Bochum,2-0,0-0
-11,1985-10-09,Waldhof Mannheim,VfB Stuttgart,5-3,1-2
-11,1985-10-10,Fortuna Düsseldorf,FC Schalke 04,1-1,0-0
-11,1985-10-11,1. FC Nürnberg,Hannover 96,3-3,1-1
-11,1985-10-11,1. FC Köln,1. FC Saarbrücken,3-1,2-0
-11,1985-10-11,1. FC Kaiserslautern,Werder Bremen,3-0,1-0
-11,1985-10-11,Eintracht Frankfurt,Bor. Mönchengladbach,1-1,1-1
-11,1985-10-11,VfL Bochum,Bayern München,3-0,1-0
-11,1985-10-11,Bayer 05 Uerdingen,Hamburger SV,0-3,0-1
-11,1985-10-12,Borussia Dortmund,Bayer Leverkusen,1-1,0-0
-12,1985-10-25,1. FC Saarbrücken,1. FC Nürnberg,3-0,2-0
-12,1985-10-26,Bayer Leverkusen,Bayer 05 Uerdingen,2-2,1-0
-12,1985-10-26,Bayern München,Eintracht Frankfurt,3-0,1-0
-12,1985-10-26,Werder Bremen,Borussia Dortmund,4-2,2-1
-12,1985-10-26,Hamburger SV,1. FC Köln,0-0,0-0
-12,1985-10-26,Hannover 96,Fortuna Düsseldorf,1-0,0-0
-12,1985-10-26,FC Schalke 04,Waldhof Mannheim,3-1,1-0
-12,1985-10-26,VfB Stuttgart,VfL Bochum,0-4,0-0
-12,1985-10-26,Bor. Mönchengladbach,1. FC Kaiserslautern,3-0,1-0
-13,1985-11-01,Bayer Leverkusen,Werder Bremen,5-1,3-0
-13,1985-11-01,Borussia Dortmund,Bor. Mönchengladbach,2-3,1-1
-13,1985-11-01,1. FC Kaiserslautern,Bayern München,0-2,0-0
-13,1985-11-02,Fortuna Düsseldorf,1. FC Saarbrücken,2-2,0-2
-13,1985-11-02,1. FC Nürnberg,Hamburger SV,0-1,0-0
-13,1985-11-02,Eintracht Frankfurt,VfB Stuttgart,1-1,0-0
-13,1985-11-02,VfL Bochum,FC Schalke 04,1-1,1-1
-13,1985-11-02,Waldhof Mannheim,Hannover 96,5-1,2-1
-13,1985-11-02,Bayer 05 Uerdingen,1. FC Köln,3-2,1-2
-14,1985-11-09,Bayern München,Borussia Dortmund,0-1,0-1
-14,1985-11-09,Werder Bremen,Bayer 05 Uerdingen,6-1,3-0
-14,1985-11-09,1. FC Köln,1. FC Nürnberg,3-1,1-1
-14,1985-11-09,Hamburger SV,Fortuna Düsseldorf,4-0,3-0
-14,1985-11-09,1. FC Saarbrücken,Waldhof Mannheim,2-1,1-1
-14,1985-11-09,Hannover 96,VfL Bochum,1-2,0-1
-14,1985-11-09,FC Schalke 04,Eintracht Frankfurt,3-1,3-1
-14,1985-11-09,VfB Stuttgart,1. FC Kaiserslautern,2-0,2-0
-14,1985-11-09,Bor. Mönchengladbach,Bayer Leverkusen,2-2,0-1
-15,1985-11-19,Fortuna Düsseldorf,1. FC Köln,1-3,0-2
-15,1985-11-19,1. FC Nürnberg,Bayer 05 Uerdingen,1-2,1-0
-15,1985-11-19,Eintracht Frankfurt,Hannover 96,1-3,1-0
-15,1985-11-19,VfL Bochum,1. FC Saarbrücken,3-1,0-1
-15,1985-11-19,Waldhof Mannheim,Hamburger SV,0-1,0-0
-15,1985-11-20,Bayer Leverkusen,Bayern München,1-2,0-1
-15,1985-11-20,Borussia Dortmund,VfB Stuttgart,2-0,0-0
-15,1985-11-20,1. FC Kaiserslautern,FC Schalke 04,0-0,0-0
-15,1985-11-20,Bor. Mönchengladbach,Werder Bremen,1-2,0-0
-16,1985-11-23,Bayern München,Werder Bremen,3-1,1-1
-16,1985-11-23,1. FC Nürnberg,Fortuna Düsseldorf,3-2,2-1
-16,1985-11-23,Hamburger SV,VfL Bochum,1-0,0-0
-16,1985-11-23,1. FC Saarbrücken,Eintracht Frankfurt,2-2,1-1
-16,1985-12-03,1. FC Köln,Waldhof Mannheim,0-1,0-1
-16,1985-12-03,Hannover 96,1. FC Kaiserslautern,3-2,2-1
-16,1985-12-03,VfB Stuttgart,Bayer Leverkusen,2-2,0-1
-16,1985-12-10,FC Schalke 04,Borussia Dortmund,6-1,0-0
-16,1985-12-18,Bayer 05 Uerdingen,Bor. Mönchengladbach,1-1,0-1
-17,1985-11-29,Werder Bremen,VfB Stuttgart,6-0,3-0
-17,1985-11-30,Fortuna Düsseldorf,Bayer 05 Uerdingen,1-1,0-1
-17,1985-11-30,Bayer Leverkusen,FC Schalke 04,2-0,1-0
-17,1985-11-30,Borussia Dortmund,Hannover 96,2-0,1-0
-17,1985-11-30,1. FC Kaiserslautern,1. FC Saarbrücken,1-1,0-0
-17,1985-11-30,Bor. Mönchengladbach,Bayern München,4-2,2-0
-17,1985-12-03,Eintracht Frankfurt,Hamburger SV,3-0,1-0
-17,1986-01-18,Waldhof Mannheim,1. FC Nürnberg,0-1,0-1
-17,1986-03-25,VfL Bochum,1. FC Köln,2-0,0-0
-18,1985-12-06,Bayer Leverkusen,Hannover 96,4-1,3-1
-18,1985-12-06,Waldhof Mannheim,Fortuna Düsseldorf,2-1,0-0
-18,1985-12-06,Borussia Dortmund,1. FC Saarbrücken,3-1,1-0
-18,1985-12-07,VfL Bochum,1. FC Nürnberg,2-1,1-0
-18,1985-12-07,Eintracht Frankfurt,1. FC Köln,2-2,2-0
-18,1985-12-07,1. FC Kaiserslautern,Hamburger SV,1-2,0-1
-18,1985-12-07,Werder Bremen,FC Schalke 04,3-1,1-1
-18,1985-12-07,Bor. Mönchengladbach,VfB Stuttgart,1-1,0-0
-18,1985-12-07,Bayern München,Bayer 05 Uerdingen,5-1,4-1
-19,1985-12-14,VfB Stuttgart,Bayern München,0-0,0-0
-19,1985-12-14,Hannover 96,Werder Bremen,2-4,2-1
-19,1985-12-14,1. FC Saarbrücken,Bayer Leverkusen,3-1,1-0
-19,1985-12-14,Hamburger SV,Borussia Dortmund,3-0,1-0
-19,1985-12-14,1. FC Köln,1. FC Kaiserslautern,1-1,1-1
-19,1985-12-14,1. FC Nürnberg,Eintracht Frankfurt,4-1,2-1
-19,1985-12-14,Fortuna Düsseldorf,VfL Bochum,2-1,0-1
-19,1985-12-14,Bayer 05 Uerdingen,Waldhof Mannheim,1-0,0-0
-19,1985-12-14,FC Schalke 04,Bor. Mönchengladbach,2-2,2-1
-20,1986-01-25,Eintracht Frankfurt,Fortuna Düsseldorf,2-0,0-0
-20,1986-01-25,1. FC Kaiserslautern,1. FC Nürnberg,0-3,0-1
-20,1986-01-25,Borussia Dortmund,1. FC Köln,5-1,2-0
-20,1986-01-25,Bayer Leverkusen,Hamburger SV,3-2,0-2
-20,1986-01-25,Werder Bremen,1. FC Saarbrücken,1-0,0-0
-20,1986-01-25,Bor. Mönchengladbach,Hannover 96,4-3,2-1
-20,1986-01-25,Bayern München,FC Schalke 04,3-2,1-1
-20,1986-01-25,VfB Stuttgart,Bayer 05 Uerdingen,0-2,0-2
-20,1986-03-11,VfL Bochum,Waldhof Mannheim,0-1,0-1
-21,1986-01-31,1. FC Köln,Bayer Leverkusen,2-3,2-0
-21,1986-02-01,Hannover 96,Bayern München,0-5,0-1
-21,1986-02-01,Hamburger SV,Werder Bremen,0-1,0-0
-21,1986-02-01,1. FC Nürnberg,Borussia Dortmund,0-0,0-0
-21,1986-02-01,Fortuna Düsseldorf,1. FC Kaiserslautern,0-0,0-0
-21,1986-02-01,Waldhof Mannheim,Eintracht Frankfurt,0-0,0-0
-21,1986-02-01,Bayer 05 Uerdingen,VfL Bochum,3-2,3-0
-21,1986-02-01,FC Schalke 04,VfB Stuttgart,1-2,0-0
-21,1986-02-01,1. FC Saarbrücken,Bor. Mönchengladbach,1-3,0-0
-22,1986-02-08,VfB Stuttgart,Hannover 96,7-0,2-0
-22,1986-02-08,Borussia Dortmund,Fortuna Düsseldorf,1-2,0-1
-22,1986-02-08,Bayer Leverkusen,1. FC Nürnberg,0-0,0-0
-22,1986-02-08,Werder Bremen,1. FC Köln,2-0,1-0
-22,1986-02-08,Bor. Mönchengladbach,Hamburger SV,2-1,0-1
-22,1986-02-08,Bayern München,1. FC Saarbrücken,5-1,1-1
-22,1986-02-08,Eintracht Frankfurt,VfL Bochum,1-0,0-0
-22,1986-02-08,FC Schalke 04,Bayer 05 Uerdingen,2-0,1-0
-22,1986-04-01,1. FC Kaiserslautern,Waldhof Mannheim,0-0,0-0
-23,1986-02-15,Hamburger SV,Bayern München,0-0,0-0
-23,1986-02-15,1. FC Nürnberg,Werder Bremen,2-2,0-1
-23,1986-02-15,Fortuna Düsseldorf,Bayer Leverkusen,2-1,1-1
-23,1986-02-15,VfL Bochum,1. FC Kaiserslautern,3-2,2-2
-23,1986-02-25,Waldhof Mannheim,Borussia Dortmund,0-0,0-0
-23,1986-02-25,1. FC Saarbrücken,VfB Stuttgart,1-1,1-1
-23,1986-04-01,Hannover 96,FC Schalke 04,1-2,0-1
-23,1986-04-08,1. FC Köln,Bor. Mönchengladbach,0-2,0-1
-23,1986-04-24,Bayer 05 Uerdingen,Eintracht Frankfurt,1-0,1-0
-24,1986-02-22,Werder Bremen,Fortuna Düsseldorf,7-3,3-0
-24,1986-02-22,Bor. Mönchengladbach,1. FC Nürnberg,3-0,2-0
-24,1986-02-22,Bayern München,1. FC Köln,3-1,2-0
-24,1986-02-22,1. FC Kaiserslautern,Eintracht Frankfurt,1-1,1-0
-24,1986-03-18,FC Schalke 04,1. FC Saarbrücken,3-2,0-1
-24,1986-04-01,VfB Stuttgart,Hamburger SV,1-0,0-0
-24,1986-04-08,Bayer Leverkusen,Waldhof Mannheim,3-1,2-1
-24,1986-04-15,Borussia Dortmund,VfL Bochum,1-0,1-0
-24,1986-04-20,Hannover 96,Bayer 05 Uerdingen,1-1,0-1
-25,1986-03-01,1. FC Nürnberg,Bayern München,0-1,0-0
-25,1986-03-01,Waldhof Mannheim,Werder Bremen,1-1,1-0
-25,1986-03-01,VfL Bochum,Bayer Leverkusen,1-1,0-0
-25,1986-03-01,Eintracht Frankfurt,Borussia Dortmund,2-1,1-1
-25,1986-03-01,1. FC Saarbrücken,Hannover 96,2-1,1-1
-25,1986-03-01,1. FC Köln,VfB Stuttgart,2-1,2-0
-25,1986-03-01,Fortuna Düsseldorf,Bor. Mönchengladbach,2-0,0-0
-25,1986-03-25,Bayer 05 Uerdingen,1. FC Kaiserslautern,3-1,2-1
-25,1986-04-15,Hamburger SV,FC Schalke 04,2-0,0-0
-26,1986-03-07,Borussia Dortmund,1. FC Kaiserslautern,4-2,1-0
-26,1986-03-08,Bayern München,Fortuna Düsseldorf,2-3,0-2
-26,1986-03-08,VfB Stuttgart,1. FC Nürnberg,3-1,1-0
-26,1986-03-08,FC Schalke 04,1. FC Köln,3-0,2-0
-26,1986-03-08,Werder Bremen,VfL Bochum,0-0,0-0
-26,1986-03-18,Hannover 96,Hamburger SV,0-2,0-1
-26,1986-03-18,Bor. Mönchengladbach,Waldhof Mannheim,1-1,1-0
-26,1986-03-25,Bayer Leverkusen,Eintracht Frankfurt,2-0,1-0
-26,1986-04-08,1. FC Saarbrücken,Bayer 05 Uerdingen,1-2,0-2
-27,1986-03-14,1. FC Kaiserslautern,Bayer Leverkusen,4-1,1-1
-27,1986-03-15,Waldhof Mannheim,Bayern München,0-4,0-4
-27,1986-03-15,Eintracht Frankfurt,Werder Bremen,0-2,0-0
-27,1986-03-15,Bayer 05 Uerdingen,Borussia Dortmund,2-0,0-0
-27,1986-03-15,Hamburger SV,1. FC Saarbrücken,4-0,2-0
-27,1986-03-15,1. FC Köln,Hannover 96,3-0,1-0
-27,1986-03-15,1. FC Nürnberg,FC Schalke 04,3-1,2-0
-27,1986-03-15,Fortuna Düsseldorf,VfB Stuttgart,0-7,0-2
-27,1986-03-15,VfL Bochum,Bor. Mönchengladbach,2-2,0-1
-28,1986-03-21,Bayer Leverkusen,Borussia Dortmund,2-1,2-1
-28,1986-03-21,Werder Bremen,1. FC Kaiserslautern,2-0,0-0
-28,1986-03-22,FC Schalke 04,Fortuna Düsseldorf,1-1,0-1
-28,1986-03-22,Hannover 96,1. FC Nürnberg,0-2,0-1
-28,1986-03-22,1. FC Saarbrücken,1. FC Köln,1-2,0-0
-28,1986-03-22,Bor. Mönchengladbach,Eintracht Frankfurt,1-1,0-1
-28,1986-03-22,Bayern München,VfL Bochum,6-1,2-0
-28,1986-03-22,VfB Stuttgart,Waldhof Mannheim,3-1,2-0
-28,1986-03-22,Hamburger SV,Bayer 05 Uerdingen,1-4,0-2
-29,1986-03-27,Fortuna Düsseldorf,Hannover 96,2-2,1-2
-29,1986-03-29,Eintracht Frankfurt,Bayern München,2-2,2-0
-29,1986-03-29,Bayer 05 Uerdingen,Bayer Leverkusen,2-1,1-0
-29,1986-03-29,1. FC Köln,Hamburger SV,1-1,0-0
-29,1986-03-29,1. FC Nürnberg,1. FC Saarbrücken,2-0,1-0
-29,1986-03-29,Waldhof Mannheim,FC Schalke 04,3-0,1-0
-29,1986-03-29,VfL Bochum,VfB Stuttgart,0-2,0-0
-29,1986-03-29,1. FC Kaiserslautern,Bor. Mönchengladbach,1-1,0-0
-29,1986-03-31,Borussia Dortmund,Werder Bremen,1-1,1-1
-30,1986-04-04,Werder Bremen,Bayer Leverkusen,5-0,2-0
-30,1986-04-05,1. FC Saarbrücken,Fortuna Düsseldorf,1-1,1-0
-30,1986-04-05,Hamburger SV,1. FC Nürnberg,2-1,2-1
-30,1986-04-05,Bor. Mönchengladbach,Borussia Dortmund,2-1,2-0
-30,1986-04-05,Bayern München,1. FC Kaiserslautern,5-0,4-0
-30,1986-04-05,VfB Stuttgart,Eintracht Frankfurt,2-1,2-0
-30,1986-04-05,FC Schalke 04,VfL Bochum,4-2,0-1
-30,1986-04-05,Hannover 96,Waldhof Mannheim,1-1,1-0
-30,1986-04-05,1. FC Köln,Bayer 05 Uerdingen,1-1,1-1
-31,1986-04-11,Bayer 05 Uerdingen,Werder Bremen,1-0,0-0
-31,1986-04-11,VfL Bochum,Hannover 96,3-2,0-1
-31,1986-04-11,1. FC Kaiserslautern,VfB Stuttgart,2-2,0-1
-31,1986-04-12,Borussia Dortmund,Bayern München,0-3,0-1
-31,1986-04-12,1. FC Nürnberg,1. FC Köln,3-0,1-0
-31,1986-04-12,Fortuna Düsseldorf,Hamburger SV,3-1,2-0
-31,1986-04-12,Waldhof Mannheim,1. FC Saarbrücken,1-0,1-0
-31,1986-04-12,Eintracht Frankfurt,FC Schalke 04,3-0,2-0
-31,1986-04-12,Bayer Leverkusen,Bor. Mönchengladbach,3-1,2-0
-32,1986-04-17,Hannover 96,Eintracht Frankfurt,0-0,0-0
-32,1986-04-17,Werder Bremen,Bor. Mönchengladbach,1-1,0-0
-32,1986-04-18,Bayer 05 Uerdingen,1. FC Nürnberg,6-2,3-1
-32,1986-04-19,1. FC Köln,Fortuna Düsseldorf,1-3,0-1
-32,1986-04-19,Bayern München,Bayer Leverkusen,0-0,0-0
-32,1986-04-19,VfB Stuttgart,Borussia Dortmund,4-0,2-0
-32,1986-04-19,FC Schalke 04,1. FC Kaiserslautern,2-3,1-2
-32,1986-04-19,1. FC Saarbrücken,VfL Bochum,0-1,0-1
-32,1986-04-19,Hamburger SV,Waldhof Mannheim,3-0,3-0
-33,1986-04-22,Werder Bremen,Bayern München,0-0,0-0
-33,1986-04-22,Fortuna Düsseldorf,1. FC Nürnberg,2-1,2-0
-33,1986-04-22,Waldhof Mannheim,1. FC Köln,1-1,1-0
-33,1986-04-22,VfL Bochum,Hamburger SV,2-0,1-0
-33,1986-04-22,Eintracht Frankfurt,1. FC Saarbrücken,1-3,0-1
-33,1986-04-22,1. FC Kaiserslautern,Hannover 96,1-0,1-0
-33,1986-04-22,Borussia Dortmund,FC Schalke 04,1-1,0-1
-33,1986-04-22,Bayer Leverkusen,VfB Stuttgart,2-1,0-1
-33,1986-04-22,Bor. Mönchengladbach,Bayer 05 Uerdingen,1-2,0-0
-34,1986-04-26,Bayer 05 Uerdingen,Fortuna Düsseldorf,5-2,2-1
-34,1986-04-26,VfB Stuttgart,Werder Bremen,2-1,1-0
-34,1986-04-26,FC Schalke 04,Bayer Leverkusen,2-2,1-0
-34,1986-04-26,Hannover 96,Borussia Dortmund,1-4,0-2
-34,1986-04-26,1. FC Saarbrücken,1. FC Kaiserslautern,0-6,0-3
-34,1986-04-26,Hamburger SV,Eintracht Frankfurt,1-0,0-0
-34,1986-04-26,1. FC Köln,VfL Bochum,3-0,1-0
-34,1986-04-26,1. FC Nürnberg,Waldhof Mannheim,2-0,1-0
-34,1986-04-26,Bayern München,Bor. Mönchengladbach,6-0,2-0
+Round,Date,Team 1,FT,HT,Team 2
+1,(Fri) 9 Aug 1985 (31),FC Schalke 04 (1),0-1,0-1,Werder Bremen (1)
+1,(Sat) 10 Aug 1985 (31),Fortuna Düsseldorf (1),4-1,2-1,SV Waldhof Mannheim (1)
+1,(Sat) 10 Aug 1985 (31),1. FC Nürnberg (1),0-1,0-0,VfL Bochum (1)
+1,(Sat) 10 Aug 1985 (31),1. FC Köln (1),1-1,0-0,Eintracht Frankfurt (1)
+1,(Sat) 10 Aug 1985 (31),Hamburger SV (1),4-1,1-1,1. FC Kaiserslautern (1)
+1,(Sat) 10 Aug 1985 (31),1. FC Saarbrücken (1),1-1,1-1,Borussia Dortmund (1)
+1,(Sat) 10 Aug 1985 (31),Hannover 96 (1),1-1,1-0,Bayer 04 Leverkusen (1)
+1,(Sat) 10 Aug 1985 (31),VfB Stuttgart (1),0-0,0-0,Bor. Mönchengladbach (1)
+1,(Sat) 10 Aug 1985 (31),KFC Uerdingen (1),1-0,1-0,Bayern München (1)
+2,(Fri) 16 Aug 1985 (32),Werder Bremen (2),8-2,4-2,Hannover 96 (2)
+2,(Fri) 16 Aug 1985 (32),Borussia Dortmund (2),1-1,0-0,Hamburger SV (2)
+2,(Fri) 16 Aug 1985 (32),SV Waldhof Mannheim (2),2-0,0-0,KFC Uerdingen (2)
+2,(Sat) 17 Aug 1985 (32),Bayern München (2),4-1,1-1,VfB Stuttgart (2)
+2,(Sat) 17 Aug 1985 (32),Bayer 04 Leverkusen (2),2-0,1-0,1. FC Saarbrücken (2)
+2,(Sat) 17 Aug 1985 (32),1. FC Kaiserslautern (2),1-0,0-0,1. FC Köln (2)
+2,(Sat) 17 Aug 1985 (32),Eintracht Frankfurt (2),1-1,0-1,1. FC Nürnberg (2)
+2,(Sat) 17 Aug 1985 (32),VfL Bochum (2),5-3,3-0,Fortuna Düsseldorf (2)
+2,(Sat) 17 Aug 1985 (32),Bor. Mönchengladbach (2),4-0,1-0,FC Schalke 04 (2)
+3,(Tue) 20 Aug 1985 (33),Fortuna Düsseldorf (3),0-1,0-0,Eintracht Frankfurt (3)
+3,(Tue) 20 Aug 1985 (33),SV Waldhof Mannheim (3),4-1,2-0,VfL Bochum (3)
+3,(Wed) 21 Aug 1985 (33),1. FC Nürnberg (3),3-1,0-0,1. FC Kaiserslautern (3)
+3,(Wed) 21 Aug 1985 (33),1. FC Köln (3),2-0,2-0,Borussia Dortmund (3)
+3,(Wed) 21 Aug 1985 (33),1. FC Saarbrücken (3),1-1,0-1,Werder Bremen (3)
+3,(Wed) 21 Aug 1985 (33),Hannover 96 (3),2-3,0-2,Bor. Mönchengladbach (3)
+3,(Wed) 21 Aug 1985 (33),FC Schalke 04 (3),0-1,0-0,Bayern München (3)
+3,(Wed) 21 Aug 1985 (33),KFC Uerdingen (3),1-4,1-2,VfB Stuttgart (3)
+3,(Tue) 8 Oct 1985 (40),Hamburger SV (3),1-3,0-2,Bayer 04 Leverkusen (3)
+4,(Sat) 31 Aug 1985 (34),Werder Bremen (4),2-0,1-0,Hamburger SV (4)
+4,(Sat) 31 Aug 1985 (34),Bayer 04 Leverkusen (4),1-1,1-0,1. FC Köln (4)
+4,(Sat) 31 Aug 1985 (34),Borussia Dortmund (4),1-4,1-3,1. FC Nürnberg (4)
+4,(Sat) 31 Aug 1985 (34),1. FC Kaiserslautern (4),2-0,0-0,Fortuna Düsseldorf (4)
+4,(Sat) 31 Aug 1985 (34),Eintracht Frankfurt (4),0-0,0-0,SV Waldhof Mannheim (4)
+4,(Sat) 31 Aug 1985 (34),VfL Bochum (4),1-2,0-2,KFC Uerdingen (4)
+4,(Sat) 31 Aug 1985 (34),VfB Stuttgart (4),0-1,0-0,FC Schalke 04 (4)
+4,(Sat) 31 Aug 1985 (34),Bor. Mönchengladbach (4),2-0,0-0,1. FC Saarbrücken (4)
+4,(Tue) 8 Oct 1985 (40),Bayern München (4),6-0,1-0,Hannover 96 (4)
+5,(Tue) 3 Sep 1985 (35),1. FC Saarbrücken (5),1-1,0-0,Bayern München (5)
+5,(Tue) 3 Sep 1985 (35),VfL Bochum (5),2-1,0-1,Eintracht Frankfurt (5)
+5,(Tue) 3 Sep 1985 (35),SV Waldhof Mannheim (5),1-1,0-1,1. FC Kaiserslautern (5)
+5,(Tue) 3 Sep 1985 (35),KFC Uerdingen (5),3-2,1-1,FC Schalke 04 (5)
+5,(Wed) 4 Sep 1985 (35),Fortuna Düsseldorf (5),4-2,2-2,Borussia Dortmund (5)
+5,(Wed) 4 Sep 1985 (35),1. FC Nürnberg (5),3-2,2-1,Bayer 04 Leverkusen (5)
+5,(Wed) 4 Sep 1985 (35),1. FC Köln (5),3-3,2-1,Werder Bremen (5)
+5,(Wed) 4 Sep 1985 (35),Hamburger SV (5),4-1,3-0,Bor. Mönchengladbach (5)
+5,(Wed) 4 Sep 1985 (35),Hannover 96 (5),1-3,0-1,VfB Stuttgart (5)
+6,(Fri) 6 Sep 1985 (35),1. FC Kaiserslautern (6),2-0,1-0,VfL Bochum (6)
+6,(Sat) 7 Sep 1985 (35),Bayern München (6),2-0,0-0,Hamburger SV (6)
+6,(Sat) 7 Sep 1985 (35),Werder Bremen (6),2-1,1-0,1. FC Nürnberg (6)
+6,(Sat) 7 Sep 1985 (35),Bayer 04 Leverkusen (6),3-1,1-1,Fortuna Düsseldorf (6)
+6,(Sat) 7 Sep 1985 (35),Borussia Dortmund (6),0-0,0-0,SV Waldhof Mannheim (6)
+6,(Sat) 7 Sep 1985 (35),Eintracht Frankfurt (6),1-1,1-1,KFC Uerdingen (6)
+6,(Sat) 7 Sep 1985 (35),FC Schalke 04 (6),2-2,0-1,Hannover 96 (6)
+6,(Sat) 7 Sep 1985 (35),VfB Stuttgart (6),3-1,2-1,1. FC Saarbrücken (6)
+6,(Sat) 7 Sep 1985 (35),Bor. Mönchengladbach (6),1-1,0-0,1. FC Köln (6)
+7,(Fri) 13 Sep 1985 (36),1. FC Saarbrücken (7),3-2,2-2,FC Schalke 04 (7)
+7,(Fri) 13 Sep 1985 (36),Fortuna Düsseldorf (7),1-4,1-2,Werder Bremen (7)
+7,(Fri) 13 Sep 1985 (36),Eintracht Frankfurt (7),1-1,1-0,1. FC Kaiserslautern (7)
+7,(Sat) 14 Sep 1985 (36),1. FC Nürnberg (7),2-4,0-2,Bor. Mönchengladbach (7)
+7,(Sat) 14 Sep 1985 (36),1. FC Köln (7),1-1,0-1,Bayern München (7)
+7,(Sat) 14 Sep 1985 (36),Hamburger SV (7),2-0,1-0,VfB Stuttgart (7)
+7,(Sat) 14 Sep 1985 (36),VfL Bochum (7),6-1,2-1,Borussia Dortmund (7)
+7,(Sat) 14 Sep 1985 (36),SV Waldhof Mannheim (7),1-0,0-0,Bayer 04 Leverkusen (7)
+7,(Sat) 14 Sep 1985 (36),KFC Uerdingen (7),3-3,1-1,Hannover 96 (7)
+8,(Fri) 20 Sep 1985 (37),Bayer 04 Leverkusen (8),4-2,3-0,VfL Bochum (8)
+8,(Fri) 20 Sep 1985 (37),Borussia Dortmund (8),4-2,0-1,Eintracht Frankfurt (8)
+8,(Sat) 21 Sep 1985 (37),Bayern München (8),2-1,1-1,1. FC Nürnberg (8)
+8,(Sat) 21 Sep 1985 (37),Werder Bremen (8),2-2,1-1,SV Waldhof Mannheim (8)
+8,(Sat) 21 Sep 1985 (37),1. FC Kaiserslautern (8),5-1,2-0,KFC Uerdingen (8)
+8,(Sat) 21 Sep 1985 (37),Hannover 96 (8),2-0,1-0,1. FC Saarbrücken (8)
+8,(Sat) 21 Sep 1985 (37),FC Schalke 04 (8),1-0,1-0,Hamburger SV (8)
+8,(Sat) 21 Sep 1985 (37),VfB Stuttgart (8),5-0,2-0,1. FC Köln (8)
+8,(Sat) 21 Sep 1985 (37),Bor. Mönchengladbach (8),5-1,1-0,Fortuna Düsseldorf (8)
+9,(Fri) 27 Sep 1985 (38),KFC Uerdingen (9),2-1,2-0,1. FC Saarbrücken (9)
+9,(Sat) 28 Sep 1985 (38),Fortuna Düsseldorf (9),4-0,1-0,Bayern München (9)
+9,(Sat) 28 Sep 1985 (38),1. FC Nürnberg (9),0-1,0-0,VfB Stuttgart (9)
+9,(Sat) 28 Sep 1985 (38),1. FC Köln (9),4-2,2-1,FC Schalke 04 (9)
+9,(Sat) 28 Sep 1985 (38),Hamburger SV (9),3-0,0-0,Hannover 96 (9)
+9,(Sat) 28 Sep 1985 (38),1. FC Kaiserslautern (9),2-0,1-0,Borussia Dortmund (9)
+9,(Sat) 28 Sep 1985 (38),Eintracht Frankfurt (9),1-0,0-0,Bayer 04 Leverkusen (9)
+9,(Sat) 28 Sep 1985 (38),VfL Bochum (9),2-3,0-1,Werder Bremen (9)
+9,(Sat) 28 Sep 1985 (38),SV Waldhof Mannheim (9),3-1,2-1,Bor. Mönchengladbach (9)
+10,(Fri) 4 Oct 1985 (39),Bayer 04 Leverkusen (10),3-2,1-2,1. FC Kaiserslautern (10)
+10,(Sat) 5 Oct 1985 (39),Bayern München (10),3-1,0-1,SV Waldhof Mannheim (10)
+10,(Sat) 5 Oct 1985 (39),Werder Bremen (10),4-0,1-0,Eintracht Frankfurt (10)
+10,(Sat) 5 Oct 1985 (39),Borussia Dortmund (10),5-2,1-1,KFC Uerdingen (10)
+10,(Sat) 5 Oct 1985 (39),1. FC Saarbrücken (10),2-2,2-1,Hamburger SV (10)
+10,(Sat) 5 Oct 1985 (39),Hannover 96 (10),3-1,3-1,1. FC Köln (10)
+10,(Sat) 5 Oct 1985 (39),FC Schalke 04 (10),2-0,1-0,1. FC Nürnberg (10)
+10,(Sat) 5 Oct 1985 (39),VfB Stuttgart (10),5-0,2-0,Fortuna Düsseldorf (10)
+10,(Sat) 5 Oct 1985 (39),Bor. Mönchengladbach (10),2-0,0-0,VfL Bochum (10)
+11,(Wed) 9 Oct 1985 (40),SV Waldhof Mannheim (11),5-3,1-2,VfB Stuttgart (11)
+11,(Thu) 10 Oct 1985 (40),Fortuna Düsseldorf (11),1-1,0-0,FC Schalke 04 (11)
+11,(Fri) 11 Oct 1985 (40),1. FC Nürnberg (11),3-3,1-1,Hannover 96 (11)
+11,(Fri) 11 Oct 1985 (40),1. FC Köln (11),3-1,2-0,1. FC Saarbrücken (11)
+11,(Fri) 11 Oct 1985 (40),1. FC Kaiserslautern (11),3-0,1-0,Werder Bremen (11)
+11,(Fri) 11 Oct 1985 (40),Eintracht Frankfurt (11),1-1,1-1,Bor. Mönchengladbach (11)
+11,(Fri) 11 Oct 1985 (40),VfL Bochum (11),3-0,1-0,Bayern München (11)
+11,(Fri) 11 Oct 1985 (40),KFC Uerdingen (11),0-3,0-1,Hamburger SV (11)
+11,(Sat) 12 Oct 1985 (40),Borussia Dortmund (11),1-1,0-0,Bayer 04 Leverkusen (11)
+12,(Fri) 25 Oct 1985 (42),1. FC Saarbrücken (12),3-0,2-0,1. FC Nürnberg (12)
+12,(Sat) 26 Oct 1985 (42),Bayer 04 Leverkusen (12),2-2,1-0,KFC Uerdingen (12)
+12,(Sat) 26 Oct 1985 (42),Bayern München (12),3-0,1-0,Eintracht Frankfurt (12)
+12,(Sat) 26 Oct 1985 (42),Werder Bremen (12),4-2,2-1,Borussia Dortmund (12)
+12,(Sat) 26 Oct 1985 (42),Hamburger SV (12),0-0,0-0,1. FC Köln (12)
+12,(Sat) 26 Oct 1985 (42),Hannover 96 (12),1-0,0-0,Fortuna Düsseldorf (12)
+12,(Sat) 26 Oct 1985 (42),FC Schalke 04 (12),3-1,1-0,SV Waldhof Mannheim (12)
+12,(Sat) 26 Oct 1985 (42),VfB Stuttgart (12),0-4,0-0,VfL Bochum (12)
+12,(Sat) 26 Oct 1985 (42),Bor. Mönchengladbach (12),3-0,1-0,1. FC Kaiserslautern (12)
+13,(Fri) 1 Nov 1985 (43),Bayer 04 Leverkusen (13),5-1,3-0,Werder Bremen (13)
+13,(Fri) 1 Nov 1985 (43),Borussia Dortmund (13),2-3,1-1,Bor. Mönchengladbach (13)
+13,(Fri) 1 Nov 1985 (43),1. FC Kaiserslautern (13),0-2,0-0,Bayern München (13)
+13,(Sat) 2 Nov 1985 (43),Fortuna Düsseldorf (13),2-2,0-2,1. FC Saarbrücken (13)
+13,(Sat) 2 Nov 1985 (43),1. FC Nürnberg (13),0-1,0-0,Hamburger SV (13)
+13,(Sat) 2 Nov 1985 (43),Eintracht Frankfurt (13),1-1,0-0,VfB Stuttgart (13)
+13,(Sat) 2 Nov 1985 (43),VfL Bochum (13),1-1,1-1,FC Schalke 04 (13)
+13,(Sat) 2 Nov 1985 (43),SV Waldhof Mannheim (13),5-1,2-1,Hannover 96 (13)
+13,(Sat) 2 Nov 1985 (43),KFC Uerdingen (13),3-2,1-2,1. FC Köln (13)
+14,(Sat) 9 Nov 1985 (44),Bayern München (14),0-1,0-1,Borussia Dortmund (14)
+14,(Sat) 9 Nov 1985 (44),Werder Bremen (14),6-1,3-0,KFC Uerdingen (14)
+14,(Sat) 9 Nov 1985 (44),1. FC Köln (14),3-1,1-1,1. FC Nürnberg (14)
+14,(Sat) 9 Nov 1985 (44),Hamburger SV (14),4-0,3-0,Fortuna Düsseldorf (14)
+14,(Sat) 9 Nov 1985 (44),1. FC Saarbrücken (14),2-1,1-1,SV Waldhof Mannheim (14)
+14,(Sat) 9 Nov 1985 (44),Hannover 96 (14),1-2,0-1,VfL Bochum (14)
+14,(Sat) 9 Nov 1985 (44),FC Schalke 04 (14),3-1,3-1,Eintracht Frankfurt (14)
+14,(Sat) 9 Nov 1985 (44),VfB Stuttgart (14),2-0,2-0,1. FC Kaiserslautern (14)
+14,(Sat) 9 Nov 1985 (44),Bor. Mönchengladbach (14),2-2,0-1,Bayer 04 Leverkusen (14)
+15,(Tue) 19 Nov 1985 (46),Fortuna Düsseldorf (15),1-3,0-2,1. FC Köln (15)
+15,(Tue) 19 Nov 1985 (46),1. FC Nürnberg (15),1-2,1-0,KFC Uerdingen (15)
+15,(Tue) 19 Nov 1985 (46),Eintracht Frankfurt (15),1-3,1-0,Hannover 96 (15)
+15,(Tue) 19 Nov 1985 (46),VfL Bochum (15),3-1,0-1,1. FC Saarbrücken (15)
+15,(Tue) 19 Nov 1985 (46),SV Waldhof Mannheim (15),0-1,0-0,Hamburger SV (15)
+15,(Wed) 20 Nov 1985 (46),Bayer 04 Leverkusen (15),1-2,0-1,Bayern München (15)
+15,(Wed) 20 Nov 1985 (46),Borussia Dortmund (15),2-0,0-0,VfB Stuttgart (15)
+15,(Wed) 20 Nov 1985 (46),1. FC Kaiserslautern (15),0-0,0-0,FC Schalke 04 (15)
+15,(Wed) 20 Nov 1985 (46),Bor. Mönchengladbach (15),1-2,0-0,Werder Bremen (15)
+16,(Sat) 23 Nov 1985 (46),Bayern München (16),3-1,1-1,Werder Bremen (16)
+16,(Sat) 23 Nov 1985 (46),1. FC Nürnberg (16),3-2,2-1,Fortuna Düsseldorf (16)
+16,(Sat) 23 Nov 1985 (46),Hamburger SV (16),1-0,0-0,VfL Bochum (16)
+16,(Sat) 23 Nov 1985 (46),1. FC Saarbrücken (16),2-2,1-1,Eintracht Frankfurt (16)
+16,(Tue) 3 Dec 1985 (48),1. FC Köln (16),0-1,0-1,SV Waldhof Mannheim (16)
+16,(Tue) 3 Dec 1985 (48),Hannover 96 (16),3-2,2-1,1. FC Kaiserslautern (16)
+16,(Tue) 3 Dec 1985 (48),VfB Stuttgart (16),2-2,0-1,Bayer 04 Leverkusen (16)
+16,(Tue) 10 Dec 1985 (49),FC Schalke 04 (16),6-1,0-0,Borussia Dortmund (16)
+16,(Wed) 18 Dec 1985 (50),KFC Uerdingen (16),1-1,0-1,Bor. Mönchengladbach (16)
+17,(Fri) 29 Nov 1985 (47),Werder Bremen (17),6-0,3-0,VfB Stuttgart (17)
+17,(Sat) 30 Nov 1985 (47),Fortuna Düsseldorf (17),1-1,0-1,KFC Uerdingen (17)
+17,(Sat) 30 Nov 1985 (47),Bayer 04 Leverkusen (17),2-0,1-0,FC Schalke 04 (17)
+17,(Sat) 30 Nov 1985 (47),Borussia Dortmund (17),2-0,1-0,Hannover 96 (17)
+17,(Sat) 30 Nov 1985 (47),1. FC Kaiserslautern (17),1-1,0-0,1. FC Saarbrücken (17)
+17,(Sat) 30 Nov 1985 (47),Bor. Mönchengladbach (17),4-2,2-0,Bayern München (17)
+17,(Tue) 3 Dec 1985 (48),Eintracht Frankfurt (17),3-0,1-0,Hamburger SV (17)
+17,(Sat) 18 Jan 1986 (2),SV Waldhof Mannheim (17),0-1,0-1,1. FC Nürnberg (17)
+17,(Tue) 25 Mar 1986 (12),VfL Bochum (17),2-0,0-0,1. FC Köln (17)
+18,(Fri) 6 Dec 1985 (48),Bayer 04 Leverkusen (18),4-1,3-1,Hannover 96 (18)
+18,(Fri) 6 Dec 1985 (48),SV Waldhof Mannheim (18),2-1,0-0,Fortuna Düsseldorf (18)
+18,(Fri) 6 Dec 1985 (48),Borussia Dortmund (18),3-1,1-0,1. FC Saarbrücken (18)
+18,(Sat) 7 Dec 1985 (48),VfL Bochum (18),2-1,1-0,1. FC Nürnberg (18)
+18,(Sat) 7 Dec 1985 (48),Eintracht Frankfurt (18),2-2,2-0,1. FC Köln (18)
+18,(Sat) 7 Dec 1985 (48),1. FC Kaiserslautern (18),1-2,0-1,Hamburger SV (18)
+18,(Sat) 7 Dec 1985 (48),Werder Bremen (18),3-1,1-1,FC Schalke 04 (18)
+18,(Sat) 7 Dec 1985 (48),Bor. Mönchengladbach (18),1-1,0-0,VfB Stuttgart (18)
+18,(Sat) 7 Dec 1985 (48),Bayern München (18),5-1,4-1,KFC Uerdingen (18)
+19,(Sat) 14 Dec 1985 (49),VfB Stuttgart (19),0-0,0-0,Bayern München (19)
+19,(Sat) 14 Dec 1985 (49),Hannover 96 (19),2-4,2-1,Werder Bremen (19)
+19,(Sat) 14 Dec 1985 (49),1. FC Saarbrücken (19),3-1,1-0,Bayer 04 Leverkusen (19)
+19,(Sat) 14 Dec 1985 (49),Hamburger SV (19),3-0,1-0,Borussia Dortmund (19)
+19,(Sat) 14 Dec 1985 (49),1. FC Köln (19),1-1,1-1,1. FC Kaiserslautern (19)
+19,(Sat) 14 Dec 1985 (49),1. FC Nürnberg (19),4-1,2-1,Eintracht Frankfurt (19)
+19,(Sat) 14 Dec 1985 (49),Fortuna Düsseldorf (19),2-1,0-1,VfL Bochum (19)
+19,(Sat) 14 Dec 1985 (49),KFC Uerdingen (19),1-0,0-0,SV Waldhof Mannheim (19)
+19,(Sat) 14 Dec 1985 (49),FC Schalke 04 (19),2-2,2-1,Bor. Mönchengladbach (19)
+20,(Sat) 25 Jan 1986 (3),Eintracht Frankfurt (20),2-0,0-0,Fortuna Düsseldorf (20)
+20,(Sat) 25 Jan 1986 (3),1. FC Kaiserslautern (20),0-3,0-1,1. FC Nürnberg (20)
+20,(Sat) 25 Jan 1986 (3),Borussia Dortmund (20),5-1,2-0,1. FC Köln (20)
+20,(Sat) 25 Jan 1986 (3),Bayer 04 Leverkusen (20),3-2,0-2,Hamburger SV (20)
+20,(Sat) 25 Jan 1986 (3),Werder Bremen (20),1-0,0-0,1. FC Saarbrücken (20)
+20,(Sat) 25 Jan 1986 (3),Bor. Mönchengladbach (20),4-3,2-1,Hannover 96 (20)
+20,(Sat) 25 Jan 1986 (3),Bayern München (20),3-2,1-1,FC Schalke 04 (20)
+20,(Sat) 25 Jan 1986 (3),VfB Stuttgart (20),0-2,0-2,KFC Uerdingen (20)
+20,(Tue) 11 Mar 1986 (10),VfL Bochum (20),0-1,0-1,SV Waldhof Mannheim (20)
+21,(Fri) 31 Jan 1986 (4),1. FC Köln (21),2-3,2-0,Bayer 04 Leverkusen (21)
+21,(Sat) 1 Feb 1986 (4),Hannover 96 (21),0-5,0-1,Bayern München (21)
+21,(Sat) 1 Feb 1986 (4),Hamburger SV (21),0-1,0-0,Werder Bremen (21)
+21,(Sat) 1 Feb 1986 (4),1. FC Nürnberg (21),0-0,0-0,Borussia Dortmund (21)
+21,(Sat) 1 Feb 1986 (4),Fortuna Düsseldorf (21),0-0,0-0,1. FC Kaiserslautern (21)
+21,(Sat) 1 Feb 1986 (4),SV Waldhof Mannheim (21),0-0,0-0,Eintracht Frankfurt (21)
+21,(Sat) 1 Feb 1986 (4),KFC Uerdingen (21),3-2,3-0,VfL Bochum (21)
+21,(Sat) 1 Feb 1986 (4),FC Schalke 04 (21),1-2,0-0,VfB Stuttgart (21)
+21,(Sat) 1 Feb 1986 (4),1. FC Saarbrücken (21),1-3,0-0,Bor. Mönchengladbach (21)
+22,(Sat) 8 Feb 1986 (5),VfB Stuttgart (22),7-0,2-0,Hannover 96 (22)
+22,(Sat) 8 Feb 1986 (5),Borussia Dortmund (22),1-2,0-1,Fortuna Düsseldorf (22)
+22,(Sat) 8 Feb 1986 (5),Bayer 04 Leverkusen (22),0-0,0-0,1. FC Nürnberg (22)
+22,(Sat) 8 Feb 1986 (5),Werder Bremen (22),2-0,1-0,1. FC Köln (22)
+22,(Sat) 8 Feb 1986 (5),Bor. Mönchengladbach (22),2-1,0-1,Hamburger SV (22)
+22,(Sat) 8 Feb 1986 (5),Bayern München (22),5-1,1-1,1. FC Saarbrücken (22)
+22,(Sat) 8 Feb 1986 (5),Eintracht Frankfurt (22),1-0,0-0,VfL Bochum (22)
+22,(Sat) 8 Feb 1986 (5),FC Schalke 04 (22),2-0,1-0,KFC Uerdingen (22)
+22,(Tue) 1 Apr 1986 (13),1. FC Kaiserslautern (22),0-0,0-0,SV Waldhof Mannheim (22)
+23,(Sat) 15 Feb 1986 (6),Hamburger SV (23),0-0,0-0,Bayern München (23)
+23,(Sat) 15 Feb 1986 (6),1. FC Nürnberg (23),2-2,0-1,Werder Bremen (23)
+23,(Sat) 15 Feb 1986 (6),Fortuna Düsseldorf (23),2-1,1-1,Bayer 04 Leverkusen (23)
+23,(Sat) 15 Feb 1986 (6),VfL Bochum (23),3-2,2-2,1. FC Kaiserslautern (23)
+23,(Tue) 25 Feb 1986 (8),SV Waldhof Mannheim (23),0-0,0-0,Borussia Dortmund (23)
+23,(Tue) 25 Feb 1986 (8),1. FC Saarbrücken (23),1-1,1-1,VfB Stuttgart (23)
+23,(Tue) 1 Apr 1986 (13),Hannover 96 (23),1-2,0-1,FC Schalke 04 (23)
+23,(Tue) 8 Apr 1986 (14),1. FC Köln (23),0-2,0-1,Bor. Mönchengladbach (23)
+23,(Thu) 24 Apr 1986 (16),KFC Uerdingen (23),1-0,1-0,Eintracht Frankfurt (23)
+24,(Sat) 22 Feb 1986 (7),Werder Bremen (24),7-3,3-0,Fortuna Düsseldorf (24)
+24,(Sat) 22 Feb 1986 (7),Bor. Mönchengladbach (24),3-0,2-0,1. FC Nürnberg (24)
+24,(Sat) 22 Feb 1986 (7),Bayern München (24),3-1,2-0,1. FC Köln (24)
+24,(Sat) 22 Feb 1986 (7),1. FC Kaiserslautern (24),1-1,1-0,Eintracht Frankfurt (24)
+24,(Tue) 18 Mar 1986 (11),FC Schalke 04 (24),3-2,0-1,1. FC Saarbrücken (24)
+24,(Tue) 1 Apr 1986 (13),VfB Stuttgart (24),1-0,0-0,Hamburger SV (24)
+24,(Tue) 8 Apr 1986 (14),Bayer 04 Leverkusen (24),3-1,2-1,SV Waldhof Mannheim (24)
+24,(Tue) 15 Apr 1986 (15),Borussia Dortmund (24),1-0,1-0,VfL Bochum (24)
+24,(Sun) 20 Apr 1986 (15),Hannover 96 (24),1-1,0-1,KFC Uerdingen (24)
+25,(Sat) 1 Mar 1986 (8),1. FC Nürnberg (25),0-1,0-0,Bayern München (25)
+25,(Sat) 1 Mar 1986 (8),SV Waldhof Mannheim (25),1-1,1-0,Werder Bremen (25)
+25,(Sat) 1 Mar 1986 (8),VfL Bochum (25),1-1,0-0,Bayer 04 Leverkusen (25)
+25,(Sat) 1 Mar 1986 (8),Eintracht Frankfurt (25),2-1,1-1,Borussia Dortmund (25)
+25,(Sat) 1 Mar 1986 (8),1. FC Saarbrücken (25),2-1,1-1,Hannover 96 (25)
+25,(Sat) 1 Mar 1986 (8),1. FC Köln (25),2-1,2-0,VfB Stuttgart (25)
+25,(Sat) 1 Mar 1986 (8),Fortuna Düsseldorf (25),2-0,0-0,Bor. Mönchengladbach (25)
+25,(Tue) 25 Mar 1986 (12),KFC Uerdingen (25),3-1,2-1,1. FC Kaiserslautern (25)
+25,(Tue) 15 Apr 1986 (15),Hamburger SV (25),2-0,0-0,FC Schalke 04 (25)
+26,(Fri) 7 Mar 1986 (9),Borussia Dortmund (26),4-2,1-0,1. FC Kaiserslautern (26)
+26,(Sat) 8 Mar 1986 (9),Bayern München (26),2-3,0-2,Fortuna Düsseldorf (26)
+26,(Sat) 8 Mar 1986 (9),VfB Stuttgart (26),3-1,1-0,1. FC Nürnberg (26)
+26,(Sat) 8 Mar 1986 (9),FC Schalke 04 (26),3-0,2-0,1. FC Köln (26)
+26,(Sat) 8 Mar 1986 (9),Werder Bremen (26),0-0,0-0,VfL Bochum (26)
+26,(Tue) 18 Mar 1986 (11),Hannover 96 (26),0-2,0-1,Hamburger SV (26)
+26,(Tue) 18 Mar 1986 (11),Bor. Mönchengladbach (26),1-1,1-0,SV Waldhof Mannheim (26)
+26,(Tue) 25 Mar 1986 (12),Bayer 04 Leverkusen (26),2-0,1-0,Eintracht Frankfurt (26)
+26,(Tue) 8 Apr 1986 (14),1. FC Saarbrücken (26),1-2,0-2,KFC Uerdingen (26)
+27,(Fri) 14 Mar 1986 (10),1. FC Kaiserslautern (27),4-1,1-1,Bayer 04 Leverkusen (27)
+27,(Sat) 15 Mar 1986 (10),SV Waldhof Mannheim (27),0-4,0-4,Bayern München (27)
+27,(Sat) 15 Mar 1986 (10),Eintracht Frankfurt (27),0-2,0-0,Werder Bremen (27)
+27,(Sat) 15 Mar 1986 (10),KFC Uerdingen (27),2-0,0-0,Borussia Dortmund (27)
+27,(Sat) 15 Mar 1986 (10),Hamburger SV (27),4-0,2-0,1. FC Saarbrücken (27)
+27,(Sat) 15 Mar 1986 (10),1. FC Köln (27),3-0,1-0,Hannover 96 (27)
+27,(Sat) 15 Mar 1986 (10),1. FC Nürnberg (27),3-1,2-0,FC Schalke 04 (27)
+27,(Sat) 15 Mar 1986 (10),Fortuna Düsseldorf (27),0-7,0-2,VfB Stuttgart (27)
+27,(Sat) 15 Mar 1986 (10),VfL Bochum (27),2-2,0-1,Bor. Mönchengladbach (27)
+28,(Fri) 21 Mar 1986 (11),Bayer 04 Leverkusen (28),2-1,2-1,Borussia Dortmund (28)
+28,(Fri) 21 Mar 1986 (11),Werder Bremen (28),2-0,0-0,1. FC Kaiserslautern (28)
+28,(Sat) 22 Mar 1986 (11),FC Schalke 04 (28),1-1,0-1,Fortuna Düsseldorf (28)
+28,(Sat) 22 Mar 1986 (11),Hannover 96 (28),0-2,0-1,1. FC Nürnberg (28)
+28,(Sat) 22 Mar 1986 (11),1. FC Saarbrücken (28),1-2,0-0,1. FC Köln (28)
+28,(Sat) 22 Mar 1986 (11),Bor. Mönchengladbach (28),1-1,0-1,Eintracht Frankfurt (28)
+28,(Sat) 22 Mar 1986 (11),Bayern München (28),6-1,2-0,VfL Bochum (28)
+28,(Sat) 22 Mar 1986 (11),VfB Stuttgart (28),3-1,2-0,SV Waldhof Mannheim (28)
+28,(Sat) 22 Mar 1986 (11),Hamburger SV (28),1-4,0-2,KFC Uerdingen (28)
+29,(Thu) 27 Mar 1986 (12),Fortuna Düsseldorf (29),2-2,1-2,Hannover 96 (29)
+29,(Sat) 29 Mar 1986 (12),Eintracht Frankfurt (29),2-2,2-0,Bayern München (29)
+29,(Sat) 29 Mar 1986 (12),KFC Uerdingen (29),2-1,1-0,Bayer 04 Leverkusen (29)
+29,(Sat) 29 Mar 1986 (12),1. FC Köln (29),1-1,0-0,Hamburger SV (29)
+29,(Sat) 29 Mar 1986 (12),1. FC Nürnberg (29),2-0,1-0,1. FC Saarbrücken (29)
+29,(Sat) 29 Mar 1986 (12),SV Waldhof Mannheim (29),3-0,1-0,FC Schalke 04 (29)
+29,(Sat) 29 Mar 1986 (12),VfL Bochum (29),0-2,0-0,VfB Stuttgart (29)
+29,(Sat) 29 Mar 1986 (12),1. FC Kaiserslautern (29),1-1,0-0,Bor. Mönchengladbach (29)
+29,(Mon) 31 Mar 1986 (13),Borussia Dortmund (29),1-1,1-1,Werder Bremen (29)
+30,(Fri) 4 Apr 1986 (13),Werder Bremen (30),5-0,2-0,Bayer 04 Leverkusen (30)
+30,(Sat) 5 Apr 1986 (13),1. FC Saarbrücken (30),1-1,1-0,Fortuna Düsseldorf (30)
+30,(Sat) 5 Apr 1986 (13),Hamburger SV (30),2-1,2-1,1. FC Nürnberg (30)
+30,(Sat) 5 Apr 1986 (13),Bor. Mönchengladbach (30),2-1,2-0,Borussia Dortmund (30)
+30,(Sat) 5 Apr 1986 (13),Bayern München (30),5-0,4-0,1. FC Kaiserslautern (30)
+30,(Sat) 5 Apr 1986 (13),VfB Stuttgart (30),2-1,2-0,Eintracht Frankfurt (30)
+30,(Sat) 5 Apr 1986 (13),FC Schalke 04 (30),4-2,0-1,VfL Bochum (30)
+30,(Sat) 5 Apr 1986 (13),Hannover 96 (30),1-1,1-0,SV Waldhof Mannheim (30)
+30,(Sat) 5 Apr 1986 (13),1. FC Köln (30),1-1,1-1,KFC Uerdingen (30)
+31,(Fri) 11 Apr 1986 (14),KFC Uerdingen (31),1-0,0-0,Werder Bremen (31)
+31,(Fri) 11 Apr 1986 (14),VfL Bochum (31),3-2,0-1,Hannover 96 (31)
+31,(Fri) 11 Apr 1986 (14),1. FC Kaiserslautern (31),2-2,0-1,VfB Stuttgart (31)
+31,(Sat) 12 Apr 1986 (14),Borussia Dortmund (31),0-3,0-1,Bayern München (31)
+31,(Sat) 12 Apr 1986 (14),1. FC Nürnberg (31),3-0,1-0,1. FC Köln (31)
+31,(Sat) 12 Apr 1986 (14),Fortuna Düsseldorf (31),3-1,2-0,Hamburger SV (31)
+31,(Sat) 12 Apr 1986 (14),SV Waldhof Mannheim (31),1-0,1-0,1. FC Saarbrücken (31)
+31,(Sat) 12 Apr 1986 (14),Eintracht Frankfurt (31),3-0,2-0,FC Schalke 04 (31)
+31,(Sat) 12 Apr 1986 (14),Bayer 04 Leverkusen (31),3-1,2-0,Bor. Mönchengladbach (31)
+32,(Thu) 17 Apr 1986 (15),Hannover 96 (32),0-0,0-0,Eintracht Frankfurt (32)
+32,(Thu) 17 Apr 1986 (15),Werder Bremen (32),1-1,0-0,Bor. Mönchengladbach (32)
+32,(Fri) 18 Apr 1986 (15),KFC Uerdingen (32),6-2,3-1,1. FC Nürnberg (32)
+32,(Sat) 19 Apr 1986 (15),1. FC Köln (32),1-3,0-1,Fortuna Düsseldorf (32)
+32,(Sat) 19 Apr 1986 (15),Bayern München (32),0-0,0-0,Bayer 04 Leverkusen (32)
+32,(Sat) 19 Apr 1986 (15),VfB Stuttgart (32),4-0,2-0,Borussia Dortmund (32)
+32,(Sat) 19 Apr 1986 (15),FC Schalke 04 (32),2-3,1-2,1. FC Kaiserslautern (32)
+32,(Sat) 19 Apr 1986 (15),1. FC Saarbrücken (32),0-1,0-1,VfL Bochum (32)
+32,(Sat) 19 Apr 1986 (15),Hamburger SV (32),3-0,3-0,SV Waldhof Mannheim (32)
+33,(Tue) 22 Apr 1986 (16),Werder Bremen (33),0-0,0-0,Bayern München (33)
+33,(Tue) 22 Apr 1986 (16),Fortuna Düsseldorf (33),2-1,2-0,1. FC Nürnberg (33)
+33,(Tue) 22 Apr 1986 (16),SV Waldhof Mannheim (33),1-1,1-0,1. FC Köln (33)
+33,(Tue) 22 Apr 1986 (16),VfL Bochum (33),2-0,1-0,Hamburger SV (33)
+33,(Tue) 22 Apr 1986 (16),Eintracht Frankfurt (33),1-3,0-1,1. FC Saarbrücken (33)
+33,(Tue) 22 Apr 1986 (16),1. FC Kaiserslautern (33),1-0,1-0,Hannover 96 (33)
+33,(Tue) 22 Apr 1986 (16),Borussia Dortmund (33),1-1,0-1,FC Schalke 04 (33)
+33,(Tue) 22 Apr 1986 (16),Bayer 04 Leverkusen (33),2-1,0-1,VfB Stuttgart (33)
+33,(Tue) 22 Apr 1986 (16),Bor. Mönchengladbach (33),1-2,0-0,KFC Uerdingen (33)
+34,(Sat) 26 Apr 1986 (16),KFC Uerdingen (34),5-2,2-1,Fortuna Düsseldorf (34)
+34,(Sat) 26 Apr 1986 (16),VfB Stuttgart (34),2-1,1-0,Werder Bremen (34)
+34,(Sat) 26 Apr 1986 (16),FC Schalke 04 (34),2-2,1-0,Bayer 04 Leverkusen (34)
+34,(Sat) 26 Apr 1986 (16),Hannover 96 (34),1-4,0-2,Borussia Dortmund (34)
+34,(Sat) 26 Apr 1986 (16),1. FC Saarbrücken (34),0-6,0-3,1. FC Kaiserslautern (34)
+34,(Sat) 26 Apr 1986 (16),Hamburger SV (34),1-0,0-0,Eintracht Frankfurt (34)
+34,(Sat) 26 Apr 1986 (16),1. FC Köln (34),3-0,1-0,VfL Bochum (34)
+34,(Sat) 26 Apr 1986 (16),1. FC Nürnberg (34),2-0,1-0,SV Waldhof Mannheim (34)
+34,(Sat) 26 Apr 1986 (16),Bayern München (34),6-0,2-0,Bor. Mönchengladbach (34)

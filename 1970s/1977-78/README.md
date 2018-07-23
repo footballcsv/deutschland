@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. 1. FC Köln                    34  14  1  2  58:20    8  3  6  28:21    86:41  +45   70
@@ -24,9 +24,9 @@
 16. TSV 1860 München              34   5  6  6  25:22    2  2 13  16:38    41:60  -19   29
 17. 1. FC Saarbrücken             34   4  8  5  24:23    2  2 13  15:47    39:70  -31   28
 18. FC St. Pauli                  34   5  5  7  28:33    1  1 15  16:53    44:86  -42   24
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

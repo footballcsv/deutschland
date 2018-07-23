@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT
-1,1995-08-11,Werder Bremen,Fortuna Düsseldorf,1-1,1-1
-1,1995-08-11,VfB Stuttgart,Bayer 05 Uerdingen,0-0,0-0
-1,1995-08-11,Borussia Dortmund,1. FC Kaiserslautern,1-1,0-0
-1,1995-08-12,1. FC Köln,FC Schalke 04,0-1,0-0
-1,1995-08-12,Bayern München,Hamburger SV,3-2,1-1
-1,1995-08-12,Eintracht Frankfurt,Karlsruher SC,2-2,1-1
-1,1995-08-12,FC St. Pauli,TSV 1860 München,4-2,1-1
-1,1995-08-12,Hansa Rostock,Bayer Leverkusen,1-2,1-1
-1,1995-08-13,Bor. Mönchengladbach,SC Freiburg,1-0,0-0
-2,1995-08-18,SC Freiburg,FC St. Pauli,0-2,0-0
-2,1995-08-18,Hamburger SV,Werder Bremen,3-3,2-1
-2,1995-08-18,FC Schalke 04,Hansa Rostock,1-3,0-1
-2,1995-08-19,Bayer Leverkusen,Borussia Dortmund,1-1,0-0
-2,1995-08-19,TSV 1860 München,VfB Stuttgart,1-1,1-0
-2,1995-08-19,Bayer 05 Uerdingen,Eintracht Frankfurt,1-1,0-1
-2,1995-08-19,Karlsruher SC,Bayern München,2-6,1-3
-2,1995-08-19,1. FC Kaiserslautern,Bor. Mönchengladbach,1-3,0-1
-2,1995-08-20,Fortuna Düsseldorf,1. FC Köln,1-1,1-0
-3,1995-08-29,Hansa Rostock,Borussia Dortmund,3-2,1-2
-3,1995-08-29,1. FC Köln,Hamburger SV,3-2,1-0
-3,1995-08-29,Werder Bremen,Karlsruher SC,1-0,0-0
-3,1995-08-29,FC St. Pauli,1. FC Kaiserslautern,1-2,0-2
-3,1995-08-29,Bor. Mönchengladbach,Bayer Leverkusen,0-0,0-0
-3,1995-08-30,Bayern München,Bayer 05 Uerdingen,2-0,1-0
-3,1995-08-30,Eintracht Frankfurt,TSV 1860 München,4-2,0-0
-3,1995-08-30,VfB Stuttgart,SC Freiburg,3-1,2-1
-3,1995-08-30,FC Schalke 04,Fortuna Düsseldorf,1-1,0-1
-4,1995-09-01,Karlsruher SC,1. FC Köln,1-0,0-0
-4,1995-09-01,Borussia Dortmund,Bor. Mönchengladbach,2-1,0-1
-4,1995-09-02,Bayer Leverkusen,FC St. Pauli,1-1,0-0
-4,1995-09-02,SC Freiburg,Eintracht Frankfurt,2-0,1-0
-4,1995-09-02,TSV 1860 München,Bayern München,0-2,0-0
-4,1995-09-02,Bayer 05 Uerdingen,Werder Bremen,3-0,1-0
-4,1995-09-02,Hamburger SV,FC Schalke 04,1-1,0-1
-4,1995-09-02,Fortuna Düsseldorf,Hansa Rostock,2-2,0-1
-4,1995-09-02,1. FC Kaiserslautern,VfB Stuttgart,1-1,1-0
-5,1995-09-08,1. FC Köln,Bayer 05 Uerdingen,0-0,0-0
-5,1995-09-08,Werder Bremen,TSV 1860 München,2-0,0-0
-5,1995-09-09,Bayern München,SC Freiburg,2-0,0-0
-5,1995-09-09,Eintracht Frankfurt,1. FC Kaiserslautern,3-1,1-0
-5,1995-09-09,VfB Stuttgart,Bayer Leverkusen,1-4,0-0
-5,1995-09-09,FC St. Pauli,Borussia Dortmund,0-3,0-0
-5,1995-09-09,Fortuna Düsseldorf,Hamburger SV,2-2,1-1
-5,1995-09-09,FC Schalke 04,Karlsruher SC,2-1,1-0
-5,1995-09-09,Hansa Rostock,Bor. Mönchengladbach,2-3,2-2
-6,1995-09-15,Karlsruher SC,Fortuna Düsseldorf,3-1,1-1
-6,1995-09-15,1. FC Kaiserslautern,Bayern München,2-3,1-2
-6,1995-09-16,Bayer Leverkusen,Eintracht Frankfurt,2-0,1-0
-6,1995-09-16,SC Freiburg,Werder Bremen,0-1,0-0
-6,1995-09-16,TSV 1860 München,1. FC Köln,2-1,1-1
-6,1995-09-16,Bayer 05 Uerdingen,FC Schalke 04,1-1,0-1
-6,1995-09-16,Borussia Dortmund,VfB Stuttgart,6-3,4-1
-6,1995-09-17,Hamburger SV,Hansa Rostock,1-1,1-1
-6,1995-09-17,Bor. Mönchengladbach,FC St. Pauli,2-4,0-3
-7,1995-09-22,Eintracht Frankfurt,Borussia Dortmund,3-4,3-2
-7,1995-09-22,Fortuna Düsseldorf,Bayer 05 Uerdingen,1-0,0-0
-7,1995-09-23,1. FC Köln,SC Freiburg,1-1,0-1
-7,1995-09-23,Werder Bremen,1. FC Kaiserslautern,1-1,1-0
-7,1995-09-23,Bayern München,Bayer Leverkusen,1-0,0-0
-7,1995-09-23,VfB Stuttgart,Bor. Mönchengladbach,5-0,2-0
-7,1995-09-23,Hamburger SV,Karlsruher SC,0-0,0-0
-7,1995-09-23,Hansa Rostock,FC St. Pauli,2-0,1-0
-7,1995-09-24,FC Schalke 04,TSV 1860 München,1-1,1-0
-8,1995-09-29,Bayer 05 Uerdingen,Hamburger SV,1-1,0-1
-8,1995-09-29,FC St. Pauli,VfB Stuttgart,1-3,1-2
-8,1995-09-30,Bayer Leverkusen,Werder Bremen,2-2,1-1
-8,1995-09-30,SC Freiburg,FC Schalke 04,1-2,0-0
-8,1995-09-30,TSV 1860 München,Fortuna Düsseldorf,2-1,1-1
-8,1995-09-30,Karlsruher SC,Hansa Rostock,0-2,0-0
-8,1995-09-30,1. FC Kaiserslautern,1. FC Köln,1-1,1-1
-8,1995-10-01,Bor. Mönchengladbach,Eintracht Frankfurt,4-1,2-1
-8,1995-10-01,Borussia Dortmund,Bayern München,3-1,1-0
-9,1995-10-13,Hansa Rostock,VfB Stuttgart,3-3,2-1
-9,1995-10-13,FC Schalke 04,1. FC Kaiserslautern,1-1,0-1
-9,1995-10-14,Werder Bremen,Borussia Dortmund,2-2,1-1
-9,1995-10-14,Bayern München,Bor. Mönchengladbach,1-2,0-1
-9,1995-10-14,Eintracht Frankfurt,FC St. Pauli,2-2,0-0
-9,1995-10-14,Karlsruher SC,Bayer 05 Uerdingen,2-0,0-0
-9,1995-10-14,Hamburger SV,TSV 1860 München,2-2,0-0
-9,1995-10-14,Fortuna Düsseldorf,SC Freiburg,0-0,0-0
-9,1995-10-15,1. FC Köln,Bayer Leverkusen,2-2,1-2
-10,1995-10-20,Bayer Leverkusen,FC Schalke 04,0-0,0-0
-10,1995-10-20,Bayer 05 Uerdingen,Hansa Rostock,1-1,0-1
-10,1995-10-21,SC Freiburg,Hamburger SV,0-3,0-2
-10,1995-10-21,TSV 1860 München,Karlsruher SC,1-1,0-0
-10,1995-10-21,VfB Stuttgart,Eintracht Frankfurt,3-2,1-1
-10,1995-10-21,FC St. Pauli,Bayern München,0-1,0-1
-10,1995-10-21,Borussia Dortmund,1. FC Köln,3-0,0-0
-10,1995-10-21,1. FC Kaiserslautern,Fortuna Düsseldorf,2-0,1-0
-10,1995-10-22,Bor. Mönchengladbach,Werder Bremen,1-0,0-0
-11,1995-10-27,1. FC Köln,Bor. Mönchengladbach,0-2,0-1
-11,1995-10-27,Karlsruher SC,SC Freiburg,1-1,1-0
-11,1995-10-28,Werder Bremen,FC St. Pauli,1-1,1-0
-11,1995-10-28,Bayern München,VfB Stuttgart,5-3,1-0
-11,1995-10-28,Hamburger SV,1. FC Kaiserslautern,1-0,1-0
-11,1995-10-28,Fortuna Düsseldorf,Bayer Leverkusen,1-1,0-1
-11,1995-10-28,FC Schalke 04,Borussia Dortmund,1-2,1-1
-11,1995-10-28,Hansa Rostock,Eintracht Frankfurt,1-1,0-1
-11,1995-10-29,Bayer 05 Uerdingen,TSV 1860 München,2-0,2-0
-12,1995-11-03,Bayer Leverkusen,Hamburger SV,0-1,0-1
-12,1995-11-03,FC St. Pauli,1. FC Köln,3-3,0-1
-12,1995-11-04,SC Freiburg,Bayer 05 Uerdingen,1-1,0-1
-12,1995-11-04,TSV 1860 München,Hansa Rostock,1-1,1-0
-12,1995-11-04,Eintracht Frankfurt,Bayern München,4-1,2-0
-12,1995-11-04,VfB Stuttgart,Werder Bremen,1-1,0-0
-12,1995-11-04,Borussia Dortmund,Fortuna Düsseldorf,3-0,2-0
-12,1995-11-04,1. FC Kaiserslautern,Karlsruher SC,2-2,1-1
-12,1995-11-05,Bor. Mönchengladbach,FC Schalke 04,4-1,1-1
-13,1995-11-10,Hansa Rostock,Bayern München,0-0,0-0
-13,1995-11-10,Bayer 05 Uerdingen,1. FC Kaiserslautern,1-1,0-0
-13,1995-11-10,Hamburger SV,Borussia Dortmund,2-2,0-2
-13,1995-11-11,1. FC Köln,VfB Stuttgart,2-2,0-0
-13,1995-11-11,Werder Bremen,Eintracht Frankfurt,1-1,1-0
-13,1995-11-11,TSV 1860 München,SC Freiburg,3-0,1-0
-13,1995-11-11,Karlsruher SC,Bayer Leverkusen,1-4,0-2
-13,1995-11-11,Fortuna Düsseldorf,Bor. Mönchengladbach,3-2,1-1
-13,1995-11-11,FC Schalke 04,FC St. Pauli,2-0,1-0
-14,1995-11-17,FC St. Pauli,Fortuna Düsseldorf,2-1,2-1
-14,1995-11-17,Bor. Mönchengladbach,Hamburger SV,1-2,0-2
-14,1995-11-18,Bayer Leverkusen,Bayer 05 Uerdingen,2-1,1-0
-14,1995-11-18,SC Freiburg,Hansa Rostock,2-1,1-1
-14,1995-11-18,Bayern München,Werder Bremen,2-0,1-0
-14,1995-11-18,Eintracht Frankfurt,1. FC Köln,1-0,0-0
-14,1995-11-18,Borussia Dortmund,Karlsruher SC,4-1,1-0
-14,1995-11-18,1. FC Kaiserslautern,TSV 1860 München,0-0,0-0
-14,1995-11-19,VfB Stuttgart,FC Schalke 04,2-2,1-1
-15,1995-11-24,Hamburger SV,FC St. Pauli,1-0,1-0
-15,1995-11-24,Fortuna Düsseldorf,VfB Stuttgart,1-2,1-0
-15,1995-11-25,Werder Bremen,Hansa Rostock,0-2,0-1
-15,1995-11-25,TSV 1860 München,Bayer Leverkusen,0-1,0-0
-15,1995-11-25,Bayer 05 Uerdingen,Borussia Dortmund,0-2,0-0
-15,1995-11-25,Karlsruher SC,Bor. Mönchengladbach,4-0,1-0
-15,1995-11-25,FC Schalke 04,Eintracht Frankfurt,2-0,1-0
-15,1995-11-25,1. FC Kaiserslautern,SC Freiburg,1-2,0-0
-15,1995-11-26,1. FC Köln,Bayern München,0-0,0-0
-16,1995-12-01,Bayer Leverkusen,SC Freiburg,0-1,0-1
-16,1995-12-01,Werder Bremen,1. FC Köln,0-1,0-0
-16,1995-12-01,Borussia Dortmund,TSV 1860 München,3-1,1-1
-16,1995-12-02,Bayern München,FC Schalke 04,4-0,1-0
-16,1995-12-02,Eintracht Frankfurt,Fortuna Düsseldorf,3-0,3-0
-16,1995-12-02,VfB Stuttgart,Hamburger SV,3-0,1-0
-16,1995-12-02,FC St. Pauli,Karlsruher SC,1-1,1-1
-16,1995-12-02,Bor. Mönchengladbach,Bayer 05 Uerdingen,2-1,2-1
-16,1995-12-02,Hansa Rostock,1. FC Kaiserslautern,3-0,2-0
-17,1995-12-08,Bayer 05 Uerdingen,FC St. Pauli,2-5,2-2
-17,1995-12-08,Hamburger SV,Eintracht Frankfurt,5-1,4-0
-17,1995-12-09,SC Freiburg,Borussia Dortmund,0-1,0-0
-17,1995-12-09,TSV 1860 München,Bor. Mönchengladbach,4-0,2-0
-17,1995-12-09,Karlsruher SC,VfB Stuttgart,1-2,0-1
-17,1995-12-09,Fortuna Düsseldorf,Bayern München,0-2,0-0
-17,1995-12-09,FC Schalke 04,Werder Bremen,2-1,0-0
-17,1995-12-09,1. FC Kaiserslautern,Bayer Leverkusen,1-0,0-0
-17,1995-12-10,1. FC Köln,Hansa Rostock,3-0,1-0
-18,1996-02-09,SC Freiburg,Bor. Mönchengladbach,0-0,0-0
-18,1996-02-10,Karlsruher SC,Eintracht Frankfurt,1-1,0-1
-18,1996-02-10,TSV 1860 München,FC St. Pauli,2-0,1-0
-18,1996-02-10,1. FC Kaiserslautern,Borussia Dortmund,1-1,1-1
-18,1996-02-11,Hamburger SV,Bayern München,2-1,0-1
-18,1996-03-05,FC Schalke 04,1. FC Köln,0-0,0-0
-18,1996-03-12,Fortuna Düsseldorf,Werder Bremen,1-1,0-0
-18,1996-03-19,Bayer Leverkusen,Hansa Rostock,2-0,1-0
-18,1996-03-19,Bayer 05 Uerdingen,VfB Stuttgart,3-4,1-1
-19,1996-02-14,1. FC Köln,Fortuna Düsseldorf,0-0,0-0
-19,1996-02-16,Eintracht Frankfurt,Bayer 05 Uerdingen,1-0,1-0
-19,1996-02-17,VfB Stuttgart,TSV 1860 München,2-3,2-2
-19,1996-02-17,Bayern München,Karlsruher SC,1-4,0-1
-19,1996-03-05,FC St. Pauli,SC Freiburg,1-1,1-0
-19,1996-03-05,Werder Bremen,Hamburger SV,2-1,2-1
-19,1996-04-16,Bor. Mönchengladbach,1. FC Kaiserslautern,1-1,1-0
-19,1996-05-07,Hansa Rostock,FC Schalke 04,1-2,1-0
-19,1996-05-07,Borussia Dortmund,Bayer Leverkusen,2-0,1-0
-20,1996-02-23,1. FC Kaiserslautern,FC St. Pauli,0-0,0-0
-20,1996-02-23,Bayer Leverkusen,Bor. Mönchengladbach,0-0,0-0
-20,1996-02-24,Karlsruher SC,Werder Bremen,1-1,1-1
-20,1996-02-24,TSV 1860 München,Eintracht Frankfurt,3-1,2-0
-20,1996-02-24,SC Freiburg,VfB Stuttgart,2-1,1-0
-20,1996-02-24,Fortuna Düsseldorf,FC Schalke 04,2-0,1-0
-20,1996-02-24,Borussia Dortmund,Hansa Rostock,1-2,0-1
-20,1996-02-25,Bayer 05 Uerdingen,Bayern München,1-6,0-1
-20,1996-03-19,Hamburger SV,1. FC Köln,0-0,0-0
-21,1996-03-01,Werder Bremen,Bayer 05 Uerdingen,1-0,1-0
-21,1996-03-02,Eintracht Frankfurt,SC Freiburg,0-1,0-0
-21,1996-03-02,Bayern München,TSV 1860 München,4-2,4-1
-21,1996-03-02,1. FC Köln,Karlsruher SC,0-1,0-0
-21,1996-03-02,FC Schalke 04,Hamburger SV,3-0,2-0
-21,1996-03-02,Bor. Mönchengladbach,Borussia Dortmund,2-2,1-0
-21,1996-03-02,VfB Stuttgart,1. FC Kaiserslautern,2-0,0-0
-21,1996-03-03,Hansa Rostock,Fortuna Düsseldorf,0-0,0-0
-21,1996-04-02,FC St. Pauli,Bayer Leverkusen,2-1,0-0
-22,1996-03-08,Bayer Leverkusen,VfB Stuttgart,0-0,0-0
-22,1996-03-08,Hamburger SV,Fortuna Düsseldorf,4-1,0-0
-22,1996-03-09,Bayer 05 Uerdingen,1. FC Köln,1-1,1-0
-22,1996-03-09,TSV 1860 München,Werder Bremen,1-1,1-0
-22,1996-03-09,SC Freiburg,Bayern München,3-1,1-1
-22,1996-03-09,1. FC Kaiserslautern,Eintracht Frankfurt,1-1,0-0
-22,1996-03-09,Borussia Dortmund,FC St. Pauli,1-0,0-0
-22,1996-03-09,Karlsruher SC,FC Schalke 04,0-1,0-1
-22,1996-03-10,Bor. Mönchengladbach,Hansa Rostock,3-2,2-1
-23,1996-03-15,Werder Bremen,SC Freiburg,0-2,0-0
-23,1996-03-15,1. FC Köln,TSV 1860 München,2-0,0-0
-23,1996-03-16,Eintracht Frankfurt,Bayer Leverkusen,1-1,0-0
-23,1996-03-16,FC Schalke 04,Bayer 05 Uerdingen,1-1,0-0
-23,1996-03-16,FC St. Pauli,Bor. Mönchengladbach,0-2,0-0
-23,1996-03-16,Bayern München,1. FC Kaiserslautern,2-0,1-0
-23,1996-03-16,VfB Stuttgart,Borussia Dortmund,0-5,0-2
-23,1996-03-17,Fortuna Düsseldorf,Karlsruher SC,2-0,1-0
-23,1996-04-17,Hansa Rostock,Hamburger SV,2-0,2-0
-24,1996-03-22,Karlsruher SC,Hamburger SV,3-1,2-1
-24,1996-03-22,TSV 1860 München,FC Schalke 04,1-1,1-0
-24,1996-03-23,SC Freiburg,1. FC Köln,2-0,0-0
-24,1996-03-23,1. FC Kaiserslautern,Werder Bremen,0-0,0-0
-24,1996-03-23,Bayer Leverkusen,Bayern München,1-2,1-1
-24,1996-03-23,Borussia Dortmund,Eintracht Frankfurt,6-0,2-0
-24,1996-03-23,Bayer 05 Uerdingen,Fortuna Düsseldorf,1-3,1-1
-24,1996-03-24,Bor. Mönchengladbach,VfB Stuttgart,1-1,0-1
-24,1996-03-24,FC St. Pauli,Hansa Rostock,3-2,2-1
-25,1996-03-29,Hamburger SV,Bayer 05 Uerdingen,0-0,0-0
-25,1996-03-29,1. FC Köln,1. FC Kaiserslautern,0-1,0-1
-25,1996-03-30,Werder Bremen,Bayer Leverkusen,2-1,1-0
-25,1996-03-30,FC Schalke 04,SC Freiburg,3-0,1-0
-25,1996-03-30,Hansa Rostock,Karlsruher SC,1-1,0-0
-25,1996-03-30,VfB Stuttgart,FC St. Pauli,1-1,1-0
-25,1996-03-30,Eintracht Frankfurt,Bor. Mönchengladbach,0-2,0-2
-25,1996-03-30,Bayern München,Borussia Dortmund,1-0,1-0
-25,1996-03-31,Fortuna Düsseldorf,TSV 1860 München,1-1,0-0
-26,1996-04-04,Bayer 05 Uerdingen,Karlsruher SC,2-3,1-0
-26,1996-04-04,1. FC Kaiserslautern,FC Schalke 04,0-0,0-0
-26,1996-04-04,VfB Stuttgart,Hansa Rostock,1-1,1-0
-26,1996-04-06,SC Freiburg,Fortuna Düsseldorf,1-1,1-0
-26,1996-04-06,Bayer Leverkusen,1. FC Köln,1-2,1-1
-26,1996-04-06,Borussia Dortmund,Werder Bremen,1-1,1-1
-26,1996-04-06,FC St. Pauli,Eintracht Frankfurt,2-1,1-1
-26,1996-04-06,TSV 1860 München,Hamburger SV,5-0,2-0
-26,1996-04-07,Bor. Mönchengladbach,Bayern München,3-1,2-1
-27,1996-04-09,Hansa Rostock,Bayer 05 Uerdingen,1-0,0-0
-27,1996-04-09,FC Schalke 04,Bayer Leverkusen,1-1,0-1
-27,1996-04-09,Karlsruher SC,TSV 1860 München,1-1,1-0
-27,1996-04-09,Eintracht Frankfurt,VfB Stuttgart,2-2,2-2
-27,1996-04-09,1. FC Köln,Borussia Dortmund,0-0,0-0
-27,1996-04-10,Hamburger SV,SC Freiburg,0-0,0-0
-27,1996-04-10,Bayern München,FC St. Pauli,1-1,0-1
-27,1996-04-10,Werder Bremen,Bor. Mönchengladbach,2-0,1-0
-27,1996-04-10,Fortuna Düsseldorf,1. FC Kaiserslautern,2-1,0-1
-28,1996-04-12,TSV 1860 München,Bayer 05 Uerdingen,2-1,0-1
-28,1996-04-12,Eintracht Frankfurt,Hansa Rostock,1-3,1-1
-28,1996-04-13,Bor. Mönchengladbach,1. FC Köln,2-1,1-0
-28,1996-04-13,FC St. Pauli,Werder Bremen,1-2,0-1
-28,1996-04-13,VfB Stuttgart,Bayern München,0-1,0-0
-28,1996-04-13,SC Freiburg,Karlsruher SC,0-3,0-2
-28,1996-04-13,1. FC Kaiserslautern,Hamburger SV,1-2,0-1
-28,1996-04-13,Borussia Dortmund,FC Schalke 04,0-0,0-0
-28,1996-04-14,Bayer Leverkusen,Fortuna Düsseldorf,0-0,0-0
-29,1996-04-19,Bayer 05 Uerdingen,SC Freiburg,3-1,1-0
-29,1996-04-19,Karlsruher SC,1. FC Kaiserslautern,0-0,0-0
-29,1996-04-20,Hansa Rostock,TSV 1860 München,0-3,0-1
-29,1996-04-20,Bayern München,Eintracht Frankfurt,1-1,0-1
-29,1996-04-20,Werder Bremen,VfB Stuttgart,2-2,1-0
-29,1996-04-20,1. FC Köln,FC St. Pauli,1-0,0-0
-29,1996-04-20,Fortuna Düsseldorf,Borussia Dortmund,1-2,1-2
-29,1996-04-21,FC Schalke 04,Bor. Mönchengladbach,3-3,1-2
-29,1996-04-24,Hamburger SV,Bayer Leverkusen,2-2,1-1
-30,1996-04-26,1. FC Kaiserslautern,Bayer 05 Uerdingen,3-0,2-0
-30,1996-04-26,FC St. Pauli,FC Schalke 04,2-0,2-0
-30,1996-04-27,VfB Stuttgart,1. FC Köln,0-1,0-0
-30,1996-04-27,Eintracht Frankfurt,Werder Bremen,1-0,0-0
-30,1996-04-27,SC Freiburg,TSV 1860 München,1-0,0-0
-30,1996-04-27,Bayer Leverkusen,Karlsruher SC,1-2,1-1
-30,1996-04-27,Borussia Dortmund,Hamburger SV,1-1,1-1
-30,1996-04-27,Bayern München,Hansa Rostock,0-1,0-0
-30,1996-04-28,Bor. Mönchengladbach,Fortuna Düsseldorf,1-1,0-1
-31,1996-04-30,Hansa Rostock,SC Freiburg,1-0,0-0
-31,1996-04-30,Bayer 05 Uerdingen,Bayer Leverkusen,3-0,1-0
-31,1996-04-30,FC Schalke 04,VfB Stuttgart,2-0,0-0
-31,1996-04-30,Karlsruher SC,Borussia Dortmund,5-0,1-0
-31,1996-05-01,1. FC Köln,Eintracht Frankfurt,3-0,1-0
-31,1996-05-01,Fortuna Düsseldorf,FC St. Pauli,2-0,1-0
-31,1996-05-01,Hamburger SV,Bor. Mönchengladbach,2-1,1-0
-31,1996-05-07,Werder Bremen,Bayern München,3-2,1-2
-31,1996-05-07,TSV 1860 München,1. FC Kaiserslautern,1-1,1-1
-32,1996-05-03,Borussia Dortmund,Bayer 05 Uerdingen,5-0,4-0
-32,1996-05-03,SC Freiburg,1. FC Kaiserslautern,0-0,0-0
-32,1996-05-04,Bayern München,1. FC Köln,3-2,1-0
-32,1996-05-04,Hansa Rostock,Werder Bremen,2-1,0-0
-32,1996-05-04,Bayer Leverkusen,TSV 1860 München,2-1,1-0
-32,1996-05-04,Bor. Mönchengladbach,Karlsruher SC,1-2,0-1
-32,1996-05-04,VfB Stuttgart,Fortuna Düsseldorf,2-3,0-0
-32,1996-05-04,Eintracht Frankfurt,FC Schalke 04,0-3,0-1
-32,1996-05-05,FC St. Pauli,Hamburger SV,1-1,1-0
-33,1996-05-11,SC Freiburg,Bayer Leverkusen,2-1,2-0
-33,1996-05-11,1. FC Köln,Werder Bremen,1-2,1-0
-33,1996-05-11,FC Schalke 04,Bayern München,2-1,1-1
-33,1996-05-11,Fortuna Düsseldorf,Eintracht Frankfurt,2-2,2-0
-33,1996-05-11,Hamburger SV,VfB Stuttgart,3-0,1-0
-33,1996-05-11,Karlsruher SC,FC St. Pauli,2-2,0-1
-33,1996-05-11,Bayer 05 Uerdingen,Bor. Mönchengladbach,0-2,0-2
-33,1996-05-11,TSV 1860 München,Borussia Dortmund,2-2,0-1
-33,1996-05-11,1. FC Kaiserslautern,Hansa Rostock,2-0,2-0
-34,1996-05-18,Hansa Rostock,1. FC Köln,0-1,0-0
-34,1996-05-18,Borussia Dortmund,SC Freiburg,3-2,0-0
-34,1996-05-18,Bor. Mönchengladbach,TSV 1860 München,0-2,0-0
-34,1996-05-18,FC St. Pauli,Bayer 05 Uerdingen,0-2,0-2
-34,1996-05-18,VfB Stuttgart,Karlsruher SC,3-1,2-1
-34,1996-05-18,Eintracht Frankfurt,Hamburger SV,1-4,0-1
-34,1996-05-18,Bayern München,Fortuna Düsseldorf,2-2,0-2
-34,1996-05-18,Werder Bremen,FC Schalke 04,1-2,1-0
-34,1996-05-18,Bayer Leverkusen,1. FC Kaiserslautern,1-1,0-0
+Round,Date,Team 1,FT,HT,Team 2
+1,(Fri) 11 Aug 1995 (32),Werder Bremen (1),1-1,1-1,Fortuna Düsseldorf (1)
+1,(Fri) 11 Aug 1995 (32),VfB Stuttgart (1),0-0,0-0,KFC Uerdingen (1)
+1,(Fri) 11 Aug 1995 (32),Borussia Dortmund (1),1-1,0-0,1. FC Kaiserslautern (1)
+1,(Sat) 12 Aug 1995 (32),1. FC Köln (1),0-1,0-0,FC Schalke 04 (1)
+1,(Sat) 12 Aug 1995 (32),Bayern München (1),3-2,1-1,Hamburger SV (1)
+1,(Sat) 12 Aug 1995 (32),Eintracht Frankfurt (1),2-2,1-1,Karlsruher SC (1)
+1,(Sat) 12 Aug 1995 (32),FC St. Pauli (1),4-2,1-1,TSV 1860 München (1)
+1,(Sat) 12 Aug 1995 (32),Hansa Rostock (1),1-2,1-1,Bayer 04 Leverkusen (1)
+1,(Sun) 13 Aug 1995 (32),Bor. Mönchengladbach (1),1-0,0-0,SC Freiburg (1)
+2,(Fri) 18 Aug 1995 (33),SC Freiburg (2),0-2,0-0,FC St. Pauli (2)
+2,(Fri) 18 Aug 1995 (33),Hamburger SV (2),3-3,2-1,Werder Bremen (2)
+2,(Fri) 18 Aug 1995 (33),FC Schalke 04 (2),1-3,0-1,Hansa Rostock (2)
+2,(Sat) 19 Aug 1995 (33),Bayer 04 Leverkusen (2),1-1,0-0,Borussia Dortmund (2)
+2,(Sat) 19 Aug 1995 (33),TSV 1860 München (2),1-1,1-0,VfB Stuttgart (2)
+2,(Sat) 19 Aug 1995 (33),KFC Uerdingen (2),1-1,0-1,Eintracht Frankfurt (2)
+2,(Sat) 19 Aug 1995 (33),Karlsruher SC (2),2-6,1-3,Bayern München (2)
+2,(Sat) 19 Aug 1995 (33),1. FC Kaiserslautern (2),1-3,0-1,Bor. Mönchengladbach (2)
+2,(Sun) 20 Aug 1995 (33),Fortuna Düsseldorf (2),1-1,1-0,1. FC Köln (2)
+3,(Tue) 29 Aug 1995 (35),Hansa Rostock (3),3-2,1-2,Borussia Dortmund (3)
+3,(Tue) 29 Aug 1995 (35),1. FC Köln (3),3-2,1-0,Hamburger SV (3)
+3,(Tue) 29 Aug 1995 (35),Werder Bremen (3),1-0,0-0,Karlsruher SC (3)
+3,(Tue) 29 Aug 1995 (35),FC St. Pauli (3),1-2,0-2,1. FC Kaiserslautern (3)
+3,(Tue) 29 Aug 1995 (35),Bor. Mönchengladbach (3),0-0,0-0,Bayer 04 Leverkusen (3)
+3,(Wed) 30 Aug 1995 (35),Bayern München (3),2-0,1-0,KFC Uerdingen (3)
+3,(Wed) 30 Aug 1995 (35),Eintracht Frankfurt (3),4-2,0-0,TSV 1860 München (3)
+3,(Wed) 30 Aug 1995 (35),VfB Stuttgart (3),3-1,2-1,SC Freiburg (3)
+3,(Wed) 30 Aug 1995 (35),FC Schalke 04 (3),1-1,0-1,Fortuna Düsseldorf (3)
+4,(Fri) 1 Sep 1995 (35),Karlsruher SC (4),1-0,0-0,1. FC Köln (4)
+4,(Fri) 1 Sep 1995 (35),Borussia Dortmund (4),2-1,0-1,Bor. Mönchengladbach (4)
+4,(Sat) 2 Sep 1995 (35),Bayer 04 Leverkusen (4),1-1,0-0,FC St. Pauli (4)
+4,(Sat) 2 Sep 1995 (35),SC Freiburg (4),2-0,1-0,Eintracht Frankfurt (4)
+4,(Sat) 2 Sep 1995 (35),TSV 1860 München (4),0-2,0-0,Bayern München (4)
+4,(Sat) 2 Sep 1995 (35),KFC Uerdingen (4),3-0,1-0,Werder Bremen (4)
+4,(Sat) 2 Sep 1995 (35),Hamburger SV (4),1-1,0-1,FC Schalke 04 (4)
+4,(Sat) 2 Sep 1995 (35),Fortuna Düsseldorf (4),2-2,0-1,Hansa Rostock (4)
+4,(Sat) 2 Sep 1995 (35),1. FC Kaiserslautern (4),1-1,1-0,VfB Stuttgart (4)
+5,(Fri) 8 Sep 1995 (36),1. FC Köln (5),0-0,0-0,KFC Uerdingen (5)
+5,(Fri) 8 Sep 1995 (36),Werder Bremen (5),2-0,0-0,TSV 1860 München (5)
+5,(Sat) 9 Sep 1995 (36),Bayern München (5),2-0,0-0,SC Freiburg (5)
+5,(Sat) 9 Sep 1995 (36),Eintracht Frankfurt (5),3-1,1-0,1. FC Kaiserslautern (5)
+5,(Sat) 9 Sep 1995 (36),VfB Stuttgart (5),1-4,0-0,Bayer 04 Leverkusen (5)
+5,(Sat) 9 Sep 1995 (36),FC St. Pauli (5),0-3,0-0,Borussia Dortmund (5)
+5,(Sat) 9 Sep 1995 (36),Fortuna Düsseldorf (5),2-2,1-1,Hamburger SV (5)
+5,(Sat) 9 Sep 1995 (36),FC Schalke 04 (5),2-1,1-0,Karlsruher SC (5)
+5,(Sat) 9 Sep 1995 (36),Hansa Rostock (5),2-3,2-2,Bor. Mönchengladbach (5)
+6,(Fri) 15 Sep 1995 (37),Karlsruher SC (6),3-1,1-1,Fortuna Düsseldorf (6)
+6,(Fri) 15 Sep 1995 (37),1. FC Kaiserslautern (6),2-3,1-2,Bayern München (6)
+6,(Sat) 16 Sep 1995 (37),Bayer 04 Leverkusen (6),2-0,1-0,Eintracht Frankfurt (6)
+6,(Sat) 16 Sep 1995 (37),SC Freiburg (6),0-1,0-0,Werder Bremen (6)
+6,(Sat) 16 Sep 1995 (37),TSV 1860 München (6),2-1,1-1,1. FC Köln (6)
+6,(Sat) 16 Sep 1995 (37),KFC Uerdingen (6),1-1,0-1,FC Schalke 04 (6)
+6,(Sat) 16 Sep 1995 (37),Borussia Dortmund (6),6-3,4-1,VfB Stuttgart (6)
+6,(Sun) 17 Sep 1995 (37),Hamburger SV (6),1-1,1-1,Hansa Rostock (6)
+6,(Sun) 17 Sep 1995 (37),Bor. Mönchengladbach (6),2-4,0-3,FC St. Pauli (6)
+7,(Fri) 22 Sep 1995 (38),Eintracht Frankfurt (7),3-4,3-2,Borussia Dortmund (7)
+7,(Fri) 22 Sep 1995 (38),Fortuna Düsseldorf (7),1-0,0-0,KFC Uerdingen (7)
+7,(Sat) 23 Sep 1995 (38),1. FC Köln (7),1-1,0-1,SC Freiburg (7)
+7,(Sat) 23 Sep 1995 (38),Werder Bremen (7),1-1,1-0,1. FC Kaiserslautern (7)
+7,(Sat) 23 Sep 1995 (38),Bayern München (7),1-0,0-0,Bayer 04 Leverkusen (7)
+7,(Sat) 23 Sep 1995 (38),VfB Stuttgart (7),5-0,2-0,Bor. Mönchengladbach (7)
+7,(Sat) 23 Sep 1995 (38),Hamburger SV (7),0-0,0-0,Karlsruher SC (7)
+7,(Sat) 23 Sep 1995 (38),Hansa Rostock (7),2-0,1-0,FC St. Pauli (7)
+7,(Sun) 24 Sep 1995 (38),FC Schalke 04 (7),1-1,1-0,TSV 1860 München (7)
+8,(Fri) 29 Sep 1995 (39),KFC Uerdingen (8),1-1,0-1,Hamburger SV (8)
+8,(Fri) 29 Sep 1995 (39),FC St. Pauli (8),1-3,1-2,VfB Stuttgart (8)
+8,(Sat) 30 Sep 1995 (39),Bayer 04 Leverkusen (8),2-2,1-1,Werder Bremen (8)
+8,(Sat) 30 Sep 1995 (39),SC Freiburg (8),1-2,0-0,FC Schalke 04 (8)
+8,(Sat) 30 Sep 1995 (39),TSV 1860 München (8),2-1,1-1,Fortuna Düsseldorf (8)
+8,(Sat) 30 Sep 1995 (39),Karlsruher SC (8),0-2,0-0,Hansa Rostock (8)
+8,(Sat) 30 Sep 1995 (39),1. FC Kaiserslautern (8),1-1,1-1,1. FC Köln (8)
+8,(Sun) 1 Oct 1995 (39),Bor. Mönchengladbach (8),4-1,2-1,Eintracht Frankfurt (8)
+8,(Sun) 1 Oct 1995 (39),Borussia Dortmund (8),3-1,1-0,Bayern München (8)
+9,(Fri) 13 Oct 1995 (41),Hansa Rostock (9),3-3,2-1,VfB Stuttgart (9)
+9,(Fri) 13 Oct 1995 (41),FC Schalke 04 (9),1-1,0-1,1. FC Kaiserslautern (9)
+9,(Sat) 14 Oct 1995 (41),Werder Bremen (9),2-2,1-1,Borussia Dortmund (9)
+9,(Sat) 14 Oct 1995 (41),Bayern München (9),1-2,0-1,Bor. Mönchengladbach (9)
+9,(Sat) 14 Oct 1995 (41),Eintracht Frankfurt (9),2-2,0-0,FC St. Pauli (9)
+9,(Sat) 14 Oct 1995 (41),Karlsruher SC (9),2-0,0-0,KFC Uerdingen (9)
+9,(Sat) 14 Oct 1995 (41),Hamburger SV (9),2-2,0-0,TSV 1860 München (9)
+9,(Sat) 14 Oct 1995 (41),Fortuna Düsseldorf (9),0-0,0-0,SC Freiburg (9)
+9,(Sun) 15 Oct 1995 (41),1. FC Köln (9),2-2,1-2,Bayer 04 Leverkusen (9)
+10,(Fri) 20 Oct 1995 (42),Bayer 04 Leverkusen (10),0-0,0-0,FC Schalke 04 (10)
+10,(Fri) 20 Oct 1995 (42),KFC Uerdingen (10),1-1,0-1,Hansa Rostock (10)
+10,(Sat) 21 Oct 1995 (42),SC Freiburg (10),0-3,0-2,Hamburger SV (10)
+10,(Sat) 21 Oct 1995 (42),TSV 1860 München (10),1-1,0-0,Karlsruher SC (10)
+10,(Sat) 21 Oct 1995 (42),VfB Stuttgart (10),3-2,1-1,Eintracht Frankfurt (10)
+10,(Sat) 21 Oct 1995 (42),FC St. Pauli (10),0-1,0-1,Bayern München (10)
+10,(Sat) 21 Oct 1995 (42),Borussia Dortmund (10),3-0,0-0,1. FC Köln (10)
+10,(Sat) 21 Oct 1995 (42),1. FC Kaiserslautern (10),2-0,1-0,Fortuna Düsseldorf (10)
+10,(Sun) 22 Oct 1995 (42),Bor. Mönchengladbach (10),1-0,0-0,Werder Bremen (10)
+11,(Fri) 27 Oct 1995 (43),1. FC Köln (11),0-2,0-1,Bor. Mönchengladbach (11)
+11,(Fri) 27 Oct 1995 (43),Karlsruher SC (11),1-1,1-0,SC Freiburg (11)
+11,(Sat) 28 Oct 1995 (43),Werder Bremen (11),1-1,1-0,FC St. Pauli (11)
+11,(Sat) 28 Oct 1995 (43),Bayern München (11),5-3,1-0,VfB Stuttgart (11)
+11,(Sat) 28 Oct 1995 (43),Hamburger SV (11),1-0,1-0,1. FC Kaiserslautern (11)
+11,(Sat) 28 Oct 1995 (43),Fortuna Düsseldorf (11),1-1,0-1,Bayer 04 Leverkusen (11)
+11,(Sat) 28 Oct 1995 (43),FC Schalke 04 (11),1-2,1-1,Borussia Dortmund (11)
+11,(Sat) 28 Oct 1995 (43),Hansa Rostock (11),1-1,0-1,Eintracht Frankfurt (11)
+11,(Sun) 29 Oct 1995 (43),KFC Uerdingen (11),2-0,2-0,TSV 1860 München (11)
+12,(Fri) 3 Nov 1995 (44),Bayer 04 Leverkusen (12),0-1,0-1,Hamburger SV (12)
+12,(Fri) 3 Nov 1995 (44),FC St. Pauli (12),3-3,0-1,1. FC Köln (12)
+12,(Sat) 4 Nov 1995 (44),SC Freiburg (12),1-1,0-1,KFC Uerdingen (12)
+12,(Sat) 4 Nov 1995 (44),TSV 1860 München (12),1-1,1-0,Hansa Rostock (12)
+12,(Sat) 4 Nov 1995 (44),Eintracht Frankfurt (12),4-1,2-0,Bayern München (12)
+12,(Sat) 4 Nov 1995 (44),VfB Stuttgart (12),1-1,0-0,Werder Bremen (12)
+12,(Sat) 4 Nov 1995 (44),Borussia Dortmund (12),3-0,2-0,Fortuna Düsseldorf (12)
+12,(Sat) 4 Nov 1995 (44),1. FC Kaiserslautern (12),2-2,1-1,Karlsruher SC (12)
+12,(Sun) 5 Nov 1995 (44),Bor. Mönchengladbach (12),4-1,1-1,FC Schalke 04 (12)
+13,(Fri) 10 Nov 1995 (45),Hansa Rostock (13),0-0,0-0,Bayern München (13)
+13,(Fri) 10 Nov 1995 (45),KFC Uerdingen (13),1-1,0-0,1. FC Kaiserslautern (13)
+13,(Fri) 10 Nov 1995 (45),Hamburger SV (13),2-2,0-2,Borussia Dortmund (13)
+13,(Sat) 11 Nov 1995 (45),1. FC Köln (13),2-2,0-0,VfB Stuttgart (13)
+13,(Sat) 11 Nov 1995 (45),Werder Bremen (13),1-1,1-0,Eintracht Frankfurt (13)
+13,(Sat) 11 Nov 1995 (45),TSV 1860 München (13),3-0,1-0,SC Freiburg (13)
+13,(Sat) 11 Nov 1995 (45),Karlsruher SC (13),1-4,0-2,Bayer 04 Leverkusen (13)
+13,(Sat) 11 Nov 1995 (45),Fortuna Düsseldorf (13),3-2,1-1,Bor. Mönchengladbach (13)
+13,(Sat) 11 Nov 1995 (45),FC Schalke 04 (13),2-0,1-0,FC St. Pauli (13)
+14,(Fri) 17 Nov 1995 (46),FC St. Pauli (14),2-1,2-1,Fortuna Düsseldorf (14)
+14,(Fri) 17 Nov 1995 (46),Bor. Mönchengladbach (14),1-2,0-2,Hamburger SV (14)
+14,(Sat) 18 Nov 1995 (46),Bayer 04 Leverkusen (14),2-1,1-0,KFC Uerdingen (14)
+14,(Sat) 18 Nov 1995 (46),SC Freiburg (14),2-1,1-1,Hansa Rostock (14)
+14,(Sat) 18 Nov 1995 (46),Bayern München (14),2-0,1-0,Werder Bremen (14)
+14,(Sat) 18 Nov 1995 (46),Eintracht Frankfurt (14),1-0,0-0,1. FC Köln (14)
+14,(Sat) 18 Nov 1995 (46),Borussia Dortmund (14),4-1,1-0,Karlsruher SC (14)
+14,(Sat) 18 Nov 1995 (46),1. FC Kaiserslautern (14),0-0,0-0,TSV 1860 München (14)
+14,(Sun) 19 Nov 1995 (46),VfB Stuttgart (14),2-2,1-1,FC Schalke 04 (14)
+15,(Fri) 24 Nov 1995 (47),Hamburger SV (15),1-0,1-0,FC St. Pauli (15)
+15,(Fri) 24 Nov 1995 (47),Fortuna Düsseldorf (15),1-2,1-0,VfB Stuttgart (15)
+15,(Sat) 25 Nov 1995 (47),Werder Bremen (15),0-2,0-1,Hansa Rostock (15)
+15,(Sat) 25 Nov 1995 (47),TSV 1860 München (15),0-1,0-0,Bayer 04 Leverkusen (15)
+15,(Sat) 25 Nov 1995 (47),KFC Uerdingen (15),0-2,0-0,Borussia Dortmund (15)
+15,(Sat) 25 Nov 1995 (47),Karlsruher SC (15),4-0,1-0,Bor. Mönchengladbach (15)
+15,(Sat) 25 Nov 1995 (47),FC Schalke 04 (15),2-0,1-0,Eintracht Frankfurt (15)
+15,(Sat) 25 Nov 1995 (47),1. FC Kaiserslautern (15),1-2,0-0,SC Freiburg (15)
+15,(Sun) 26 Nov 1995 (47),1. FC Köln (15),0-0,0-0,Bayern München (15)
+16,(Fri) 1 Dec 1995 (48),Bayer 04 Leverkusen (16),0-1,0-1,SC Freiburg (16)
+16,(Fri) 1 Dec 1995 (48),Werder Bremen (16),0-1,0-0,1. FC Köln (16)
+16,(Fri) 1 Dec 1995 (48),Borussia Dortmund (16),3-1,1-1,TSV 1860 München (16)
+16,(Sat) 2 Dec 1995 (48),Bayern München (16),4-0,1-0,FC Schalke 04 (16)
+16,(Sat) 2 Dec 1995 (48),Eintracht Frankfurt (16),3-0,3-0,Fortuna Düsseldorf (16)
+16,(Sat) 2 Dec 1995 (48),VfB Stuttgart (16),3-0,1-0,Hamburger SV (16)
+16,(Sat) 2 Dec 1995 (48),FC St. Pauli (16),1-1,1-1,Karlsruher SC (16)
+16,(Sat) 2 Dec 1995 (48),Bor. Mönchengladbach (16),2-1,2-1,KFC Uerdingen (16)
+16,(Sat) 2 Dec 1995 (48),Hansa Rostock (16),3-0,2-0,1. FC Kaiserslautern (16)
+17,(Fri) 8 Dec 1995 (49),KFC Uerdingen (17),2-5,2-2,FC St. Pauli (17)
+17,(Fri) 8 Dec 1995 (49),Hamburger SV (17),5-1,4-0,Eintracht Frankfurt (17)
+17,(Sat) 9 Dec 1995 (49),SC Freiburg (17),0-1,0-0,Borussia Dortmund (17)
+17,(Sat) 9 Dec 1995 (49),TSV 1860 München (17),4-0,2-0,Bor. Mönchengladbach (17)
+17,(Sat) 9 Dec 1995 (49),Karlsruher SC (17),1-2,0-1,VfB Stuttgart (17)
+17,(Sat) 9 Dec 1995 (49),Fortuna Düsseldorf (17),0-2,0-0,Bayern München (17)
+17,(Sat) 9 Dec 1995 (49),FC Schalke 04 (17),2-1,0-0,Werder Bremen (17)
+17,(Sat) 9 Dec 1995 (49),1. FC Kaiserslautern (17),1-0,0-0,Bayer 04 Leverkusen (17)
+17,(Sun) 10 Dec 1995 (49),1. FC Köln (17),3-0,1-0,Hansa Rostock (17)
+18,(Fri) 9 Feb 1996 (6),SC Freiburg (18),0-0,0-0,Bor. Mönchengladbach (18)
+18,(Sat) 10 Feb 1996 (6),Karlsruher SC (18),1-1,0-1,Eintracht Frankfurt (18)
+18,(Sat) 10 Feb 1996 (6),TSV 1860 München (18),2-0,1-0,FC St. Pauli (18)
+18,(Sat) 10 Feb 1996 (6),1. FC Kaiserslautern (18),1-1,1-1,Borussia Dortmund (18)
+18,(Sun) 11 Feb 1996 (6),Hamburger SV (18),2-1,0-1,Bayern München (18)
+18,(Tue) 5 Mar 1996 (10),FC Schalke 04 (18),0-0,0-0,1. FC Köln (18)
+18,(Tue) 12 Mar 1996 (11),Fortuna Düsseldorf (18),1-1,0-0,Werder Bremen (18)
+18,(Tue) 19 Mar 1996 (12),Bayer 04 Leverkusen (18),2-0,1-0,Hansa Rostock (18)
+18,(Tue) 19 Mar 1996 (12),KFC Uerdingen (18),3-4,1-1,VfB Stuttgart (18)
+19,(Wed) 14 Feb 1996 (7),1. FC Köln (19),0-0,0-0,Fortuna Düsseldorf (19)
+19,(Fri) 16 Feb 1996 (7),Eintracht Frankfurt (19),1-0,1-0,KFC Uerdingen (19)
+19,(Sat) 17 Feb 1996 (7),VfB Stuttgart (19),2-3,2-2,TSV 1860 München (19)
+19,(Sat) 17 Feb 1996 (7),Bayern München (19),1-4,0-1,Karlsruher SC (19)
+19,(Tue) 5 Mar 1996 (10),FC St. Pauli (19),1-1,1-0,SC Freiburg (19)
+19,(Tue) 5 Mar 1996 (10),Werder Bremen (19),2-1,2-1,Hamburger SV (19)
+19,(Tue) 16 Apr 1996 (16),Bor. Mönchengladbach (19),1-1,1-0,1. FC Kaiserslautern (19)
+19,(Tue) 7 May 1996 (19),Hansa Rostock (19),1-2,1-0,FC Schalke 04 (19)
+19,(Tue) 7 May 1996 (19),Borussia Dortmund (19),2-0,1-0,Bayer 04 Leverkusen (19)
+20,(Fri) 23 Feb 1996 (8),1. FC Kaiserslautern (20),0-0,0-0,FC St. Pauli (20)
+20,(Fri) 23 Feb 1996 (8),Bayer 04 Leverkusen (20),0-0,0-0,Bor. Mönchengladbach (20)
+20,(Sat) 24 Feb 1996 (8),Karlsruher SC (20),1-1,1-1,Werder Bremen (20)
+20,(Sat) 24 Feb 1996 (8),TSV 1860 München (20),3-1,2-0,Eintracht Frankfurt (20)
+20,(Sat) 24 Feb 1996 (8),SC Freiburg (20),2-1,1-0,VfB Stuttgart (20)
+20,(Sat) 24 Feb 1996 (8),Fortuna Düsseldorf (20),2-0,1-0,FC Schalke 04 (20)
+20,(Sat) 24 Feb 1996 (8),Borussia Dortmund (20),1-2,0-1,Hansa Rostock (20)
+20,(Sun) 25 Feb 1996 (8),KFC Uerdingen (20),1-6,0-1,Bayern München (20)
+20,(Tue) 19 Mar 1996 (12),Hamburger SV (20),0-0,0-0,1. FC Köln (20)
+21,(Fri) 1 Mar 1996 (9),Werder Bremen (21),1-0,1-0,KFC Uerdingen (21)
+21,(Sat) 2 Mar 1996 (9),Eintracht Frankfurt (21),0-1,0-0,SC Freiburg (21)
+21,(Sat) 2 Mar 1996 (9),Bayern München (21),4-2,4-1,TSV 1860 München (21)
+21,(Sat) 2 Mar 1996 (9),1. FC Köln (21),0-1,0-0,Karlsruher SC (21)
+21,(Sat) 2 Mar 1996 (9),FC Schalke 04 (21),3-0,2-0,Hamburger SV (21)
+21,(Sat) 2 Mar 1996 (9),Bor. Mönchengladbach (21),2-2,1-0,Borussia Dortmund (21)
+21,(Sat) 2 Mar 1996 (9),VfB Stuttgart (21),2-0,0-0,1. FC Kaiserslautern (21)
+21,(Sun) 3 Mar 1996 (9),Hansa Rostock (21),0-0,0-0,Fortuna Düsseldorf (21)
+21,(Tue) 2 Apr 1996 (14),FC St. Pauli (21),2-1,0-0,Bayer 04 Leverkusen (21)
+22,(Fri) 8 Mar 1996 (10),Bayer 04 Leverkusen (22),0-0,0-0,VfB Stuttgart (22)
+22,(Fri) 8 Mar 1996 (10),Hamburger SV (22),4-1,0-0,Fortuna Düsseldorf (22)
+22,(Sat) 9 Mar 1996 (10),KFC Uerdingen (22),1-1,1-0,1. FC Köln (22)
+22,(Sat) 9 Mar 1996 (10),TSV 1860 München (22),1-1,1-0,Werder Bremen (22)
+22,(Sat) 9 Mar 1996 (10),SC Freiburg (22),3-1,1-1,Bayern München (22)
+22,(Sat) 9 Mar 1996 (10),1. FC Kaiserslautern (22),1-1,0-0,Eintracht Frankfurt (22)
+22,(Sat) 9 Mar 1996 (10),Borussia Dortmund (22),1-0,0-0,FC St. Pauli (22)
+22,(Sat) 9 Mar 1996 (10),Karlsruher SC (22),0-1,0-1,FC Schalke 04 (22)
+22,(Sun) 10 Mar 1996 (10),Bor. Mönchengladbach (22),3-2,2-1,Hansa Rostock (22)
+23,(Fri) 15 Mar 1996 (11),Werder Bremen (23),0-2,0-0,SC Freiburg (23)
+23,(Fri) 15 Mar 1996 (11),1. FC Köln (23),2-0,0-0,TSV 1860 München (23)
+23,(Sat) 16 Mar 1996 (11),Eintracht Frankfurt (23),1-1,0-0,Bayer 04 Leverkusen (23)
+23,(Sat) 16 Mar 1996 (11),FC Schalke 04 (23),1-1,0-0,KFC Uerdingen (23)
+23,(Sat) 16 Mar 1996 (11),FC St. Pauli (23),0-2,0-0,Bor. Mönchengladbach (23)
+23,(Sat) 16 Mar 1996 (11),Bayern München (23),2-0,1-0,1. FC Kaiserslautern (23)
+23,(Sat) 16 Mar 1996 (11),VfB Stuttgart (23),0-5,0-2,Borussia Dortmund (23)
+23,(Sun) 17 Mar 1996 (11),Fortuna Düsseldorf (23),2-0,1-0,Karlsruher SC (23)
+23,(Wed) 17 Apr 1996 (16),Hansa Rostock (23),2-0,2-0,Hamburger SV (23)
+24,(Fri) 22 Mar 1996 (12),Karlsruher SC (24),3-1,2-1,Hamburger SV (24)
+24,(Fri) 22 Mar 1996 (12),TSV 1860 München (24),1-1,1-0,FC Schalke 04 (24)
+24,(Sat) 23 Mar 1996 (12),SC Freiburg (24),2-0,0-0,1. FC Köln (24)
+24,(Sat) 23 Mar 1996 (12),1. FC Kaiserslautern (24),0-0,0-0,Werder Bremen (24)
+24,(Sat) 23 Mar 1996 (12),Bayer 04 Leverkusen (24),1-2,1-1,Bayern München (24)
+24,(Sat) 23 Mar 1996 (12),Borussia Dortmund (24),6-0,2-0,Eintracht Frankfurt (24)
+24,(Sat) 23 Mar 1996 (12),KFC Uerdingen (24),1-3,1-1,Fortuna Düsseldorf (24)
+24,(Sun) 24 Mar 1996 (12),Bor. Mönchengladbach (24),1-1,0-1,VfB Stuttgart (24)
+24,(Sun) 24 Mar 1996 (12),FC St. Pauli (24),3-2,2-1,Hansa Rostock (24)
+25,(Fri) 29 Mar 1996 (13),Hamburger SV (25),0-0,0-0,KFC Uerdingen (25)
+25,(Fri) 29 Mar 1996 (13),1. FC Köln (25),0-1,0-1,1. FC Kaiserslautern (25)
+25,(Sat) 30 Mar 1996 (13),Werder Bremen (25),2-1,1-0,Bayer 04 Leverkusen (25)
+25,(Sat) 30 Mar 1996 (13),FC Schalke 04 (25),3-0,1-0,SC Freiburg (25)
+25,(Sat) 30 Mar 1996 (13),Hansa Rostock (25),1-1,0-0,Karlsruher SC (25)
+25,(Sat) 30 Mar 1996 (13),VfB Stuttgart (25),1-1,1-0,FC St. Pauli (25)
+25,(Sat) 30 Mar 1996 (13),Eintracht Frankfurt (25),0-2,0-2,Bor. Mönchengladbach (25)
+25,(Sat) 30 Mar 1996 (13),Bayern München (25),1-0,1-0,Borussia Dortmund (25)
+25,(Sun) 31 Mar 1996 (13),Fortuna Düsseldorf (25),1-1,0-0,TSV 1860 München (25)
+26,(Thu) 4 Apr 1996 (14),KFC Uerdingen (26),2-3,1-0,Karlsruher SC (26)
+26,(Thu) 4 Apr 1996 (14),1. FC Kaiserslautern (26),0-0,0-0,FC Schalke 04 (26)
+26,(Thu) 4 Apr 1996 (14),VfB Stuttgart (26),1-1,1-0,Hansa Rostock (26)
+26,(Sat) 6 Apr 1996 (14),SC Freiburg (26),1-1,1-0,Fortuna Düsseldorf (26)
+26,(Sat) 6 Apr 1996 (14),Bayer 04 Leverkusen (26),1-2,1-1,1. FC Köln (26)
+26,(Sat) 6 Apr 1996 (14),Borussia Dortmund (26),1-1,1-1,Werder Bremen (26)
+26,(Sat) 6 Apr 1996 (14),FC St. Pauli (26),2-1,1-1,Eintracht Frankfurt (26)
+26,(Sat) 6 Apr 1996 (14),TSV 1860 München (26),5-0,2-0,Hamburger SV (26)
+26,(Sun) 7 Apr 1996 (14),Bor. Mönchengladbach (26),3-1,2-1,Bayern München (26)
+27,(Tue) 9 Apr 1996 (15),Hansa Rostock (27),1-0,0-0,KFC Uerdingen (27)
+27,(Tue) 9 Apr 1996 (15),FC Schalke 04 (27),1-1,0-1,Bayer 04 Leverkusen (27)
+27,(Tue) 9 Apr 1996 (15),Karlsruher SC (27),1-1,1-0,TSV 1860 München (27)
+27,(Tue) 9 Apr 1996 (15),Eintracht Frankfurt (27),2-2,2-2,VfB Stuttgart (27)
+27,(Tue) 9 Apr 1996 (15),1. FC Köln (27),0-0,0-0,Borussia Dortmund (27)
+27,(Wed) 10 Apr 1996 (15),Hamburger SV (27),0-0,0-0,SC Freiburg (27)
+27,(Wed) 10 Apr 1996 (15),Bayern München (27),1-1,0-1,FC St. Pauli (27)
+27,(Wed) 10 Apr 1996 (15),Werder Bremen (27),2-0,1-0,Bor. Mönchengladbach (27)
+27,(Wed) 10 Apr 1996 (15),Fortuna Düsseldorf (27),2-1,0-1,1. FC Kaiserslautern (27)
+28,(Fri) 12 Apr 1996 (15),TSV 1860 München (28),2-1,0-1,KFC Uerdingen (28)
+28,(Fri) 12 Apr 1996 (15),Eintracht Frankfurt (28),1-3,1-1,Hansa Rostock (28)
+28,(Sat) 13 Apr 1996 (15),Bor. Mönchengladbach (28),2-1,1-0,1. FC Köln (28)
+28,(Sat) 13 Apr 1996 (15),FC St. Pauli (28),1-2,0-1,Werder Bremen (28)
+28,(Sat) 13 Apr 1996 (15),VfB Stuttgart (28),0-1,0-0,Bayern München (28)
+28,(Sat) 13 Apr 1996 (15),SC Freiburg (28),0-3,0-2,Karlsruher SC (28)
+28,(Sat) 13 Apr 1996 (15),1. FC Kaiserslautern (28),1-2,0-1,Hamburger SV (28)
+28,(Sat) 13 Apr 1996 (15),Borussia Dortmund (28),0-0,0-0,FC Schalke 04 (28)
+28,(Sun) 14 Apr 1996 (15),Bayer 04 Leverkusen (28),0-0,0-0,Fortuna Düsseldorf (28)
+29,(Fri) 19 Apr 1996 (16),KFC Uerdingen (29),3-1,1-0,SC Freiburg (29)
+29,(Fri) 19 Apr 1996 (16),Karlsruher SC (29),0-0,0-0,1. FC Kaiserslautern (29)
+29,(Sat) 20 Apr 1996 (16),Hansa Rostock (29),0-3,0-1,TSV 1860 München (29)
+29,(Sat) 20 Apr 1996 (16),Bayern München (29),1-1,0-1,Eintracht Frankfurt (29)
+29,(Sat) 20 Apr 1996 (16),Werder Bremen (29),2-2,1-0,VfB Stuttgart (29)
+29,(Sat) 20 Apr 1996 (16),1. FC Köln (29),1-0,0-0,FC St. Pauli (29)
+29,(Sat) 20 Apr 1996 (16),Fortuna Düsseldorf (29),1-2,1-2,Borussia Dortmund (29)
+29,(Sun) 21 Apr 1996 (16),FC Schalke 04 (29),3-3,1-2,Bor. Mönchengladbach (29)
+29,(Wed) 24 Apr 1996 (17),Hamburger SV (29),2-2,1-1,Bayer 04 Leverkusen (29)
+30,(Fri) 26 Apr 1996 (17),1. FC Kaiserslautern (30),3-0,2-0,KFC Uerdingen (30)
+30,(Fri) 26 Apr 1996 (17),FC St. Pauli (30),2-0,2-0,FC Schalke 04 (30)
+30,(Sat) 27 Apr 1996 (17),VfB Stuttgart (30),0-1,0-0,1. FC Köln (30)
+30,(Sat) 27 Apr 1996 (17),Eintracht Frankfurt (30),1-0,0-0,Werder Bremen (30)
+30,(Sat) 27 Apr 1996 (17),SC Freiburg (30),1-0,0-0,TSV 1860 München (30)
+30,(Sat) 27 Apr 1996 (17),Bayer 04 Leverkusen (30),1-2,1-1,Karlsruher SC (30)
+30,(Sat) 27 Apr 1996 (17),Borussia Dortmund (30),1-1,1-1,Hamburger SV (30)
+30,(Sat) 27 Apr 1996 (17),Bayern München (30),0-1,0-0,Hansa Rostock (30)
+30,(Sun) 28 Apr 1996 (17),Bor. Mönchengladbach (30),1-1,0-1,Fortuna Düsseldorf (30)
+31,(Tue) 30 Apr 1996 (18),Hansa Rostock (31),1-0,0-0,SC Freiburg (31)
+31,(Tue) 30 Apr 1996 (18),KFC Uerdingen (31),3-0,1-0,Bayer 04 Leverkusen (31)
+31,(Tue) 30 Apr 1996 (18),FC Schalke 04 (31),2-0,0-0,VfB Stuttgart (31)
+31,(Tue) 30 Apr 1996 (18),Karlsruher SC (31),5-0,1-0,Borussia Dortmund (31)
+31,(Wed) 1 May 1996 (18),1. FC Köln (31),3-0,1-0,Eintracht Frankfurt (31)
+31,(Wed) 1 May 1996 (18),Fortuna Düsseldorf (31),2-0,1-0,FC St. Pauli (31)
+31,(Wed) 1 May 1996 (18),Hamburger SV (31),2-1,1-0,Bor. Mönchengladbach (31)
+31,(Tue) 7 May 1996 (19),Werder Bremen (31),3-2,1-2,Bayern München (31)
+31,(Tue) 7 May 1996 (19),TSV 1860 München (31),1-1,1-1,1. FC Kaiserslautern (31)
+32,(Fri) 3 May 1996 (18),Borussia Dortmund (32),5-0,4-0,KFC Uerdingen (32)
+32,(Fri) 3 May 1996 (18),SC Freiburg (32),0-0,0-0,1. FC Kaiserslautern (32)
+32,(Sat) 4 May 1996 (18),Bayern München (32),3-2,1-0,1. FC Köln (32)
+32,(Sat) 4 May 1996 (18),Hansa Rostock (32),2-1,0-0,Werder Bremen (32)
+32,(Sat) 4 May 1996 (18),Bayer 04 Leverkusen (32),2-1,1-0,TSV 1860 München (32)
+32,(Sat) 4 May 1996 (18),Bor. Mönchengladbach (32),1-2,0-1,Karlsruher SC (32)
+32,(Sat) 4 May 1996 (18),VfB Stuttgart (32),2-3,0-0,Fortuna Düsseldorf (32)
+32,(Sat) 4 May 1996 (18),Eintracht Frankfurt (32),0-3,0-1,FC Schalke 04 (32)
+32,(Sun) 5 May 1996 (18),FC St. Pauli (32),1-1,1-0,Hamburger SV (32)
+33,(Sat) 11 May 1996 (19),SC Freiburg (33),2-1,2-0,Bayer 04 Leverkusen (33)
+33,(Sat) 11 May 1996 (19),1. FC Köln (33),1-2,1-0,Werder Bremen (33)
+33,(Sat) 11 May 1996 (19),FC Schalke 04 (33),2-1,1-1,Bayern München (33)
+33,(Sat) 11 May 1996 (19),Fortuna Düsseldorf (33),2-2,2-0,Eintracht Frankfurt (33)
+33,(Sat) 11 May 1996 (19),Hamburger SV (33),3-0,1-0,VfB Stuttgart (33)
+33,(Sat) 11 May 1996 (19),Karlsruher SC (33),2-2,0-1,FC St. Pauli (33)
+33,(Sat) 11 May 1996 (19),KFC Uerdingen (33),0-2,0-2,Bor. Mönchengladbach (33)
+33,(Sat) 11 May 1996 (19),TSV 1860 München (33),2-2,0-1,Borussia Dortmund (33)
+33,(Sat) 11 May 1996 (19),1. FC Kaiserslautern (33),2-0,2-0,Hansa Rostock (33)
+34,(Sat) 18 May 1996 (20),Hansa Rostock (34),0-1,0-0,1. FC Köln (34)
+34,(Sat) 18 May 1996 (20),Borussia Dortmund (34),3-2,0-0,SC Freiburg (34)
+34,(Sat) 18 May 1996 (20),Bor. Mönchengladbach (34),0-2,0-0,TSV 1860 München (34)
+34,(Sat) 18 May 1996 (20),FC St. Pauli (34),0-2,0-2,KFC Uerdingen (34)
+34,(Sat) 18 May 1996 (20),VfB Stuttgart (34),3-1,2-1,Karlsruher SC (34)
+34,(Sat) 18 May 1996 (20),Eintracht Frankfurt (34),1-4,0-1,Hamburger SV (34)
+34,(Sat) 18 May 1996 (20),Bayern München (34),2-2,0-2,Fortuna Düsseldorf (34)
+34,(Sat) 18 May 1996 (20),Werder Bremen (34),1-2,1-0,FC Schalke 04 (34)
+34,(Sat) 18 May 1996 (20),Bayer 04 Leverkusen (34),1-1,0-0,1. FC Kaiserslautern (34)

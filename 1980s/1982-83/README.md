@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Werder Bremen                 34  15  2  0  52:16    8  4  5  24:22    76:38  +38   75
@@ -17,16 +17,16 @@
  9. Eintracht Frankfurt           34  11  3  3  36:13    1  2 14  12:44    48:57   -9   41
 10. Fortuna Düsseldorf            34  10  2  5  43:35    1  6 10  20:40    63:75  -12   41
 11. Bor. Mönchengladbach          34   9  3  5  39:22    3  1 13  25:41    64:63   +1   40
-12. Bayer Leverkusen              34   7  6  4  21:18    3  3 11  22:48    43:66  -23   39
+12. Bayer 04 Leverkusen           34   7  6  4  21:18    3  3 11  22:48    43:66  -23   39
 13. 1. FC Nürnberg                34   9  5  3  31:23    2  1 14  13:47    44:70  -26   39
 14. VfL Bochum                    34   6  7  4  30:19    2  5 10  13:30    43:49   -6   36
 15. Eintracht Braunschweig        34   6  7  4  26:21    2  4 11  16:44    42:65  -23   35
 16. FC Schalke 04                 34   6  3  8  28:28    2  3 12  20:40    48:68  -20   30
 17. Karlsruher SC                 34   6  7  4  23:21    1  0 16  16:65    39:86  -47   28
 18. Hertha BSC                    34   5  6  6  27:25    0  4 13  16:42    43:67  -24   25
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

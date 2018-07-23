@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. 1. FC Nürnberg                34  13  2  2  46:17    6  7  4  25:20    71:37  +34   66
@@ -24,9 +24,9 @@
 16. 1. FC Kaiserslautern          34   6  9  2  22:17    2  3 12  17:50    39:67  -28   36
 17. Borussia Neunkirchen          34   7  4  6  23:32    0  1 16  10:61    33:93  -60   26
 18. Karlsruher SC                 34   6  2  9  24:29    0  3 14   8:41    32:70  -38   23
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

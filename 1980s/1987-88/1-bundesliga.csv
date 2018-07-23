@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT
-1,1987-07-31,Bayer Leverkusen,Waldhof Mannheim,1-0,1-0
-1,1987-07-31,Bayer 05 Uerdingen,1. FC Nürnberg,0-2,0-1
-1,1987-07-31,VfL Bochum,Bor. Mönchengladbach,1-2,0-2
-1,1987-08-01,Borussia Dortmund,Bayern München,1-3,0-1
-1,1987-08-01,VfB Stuttgart,FC 08 Homburg,2-1,1-0
-1,1987-08-01,1. FC Kaiserslautern,Eintracht Frankfurt,2-2,2-0
-1,1987-08-01,Karlsruher SC,1. FC Köln,1-1,1-0
-1,1987-08-01,Hannover 96,Werder Bremen,0-1,0-1
-1,1987-08-01,Hamburger SV,FC Schalke 04,5-2,0-0
-2,1987-08-06,Waldhof Mannheim,Borussia Dortmund,1-0,0-0
-2,1987-08-07,1. FC Köln,1. FC Kaiserslautern,2-1,1-0
-2,1987-08-07,Eintracht Frankfurt,VfL Bochum,0-1,0-0
-2,1987-08-08,FC Schalke 04,Hannover 96,0-2,0-0
-2,1987-08-08,Bor. Mönchengladbach,Bayer 05 Uerdingen,2-1,0-1
-2,1987-08-08,1. FC Nürnberg,VfB Stuttgart,0-0,0-0
-2,1987-08-08,FC 08 Homburg,Bayer Leverkusen,1-1,1-0
-2,1987-08-08,Bayern München,Hamburger SV,6-0,2-0
-2,1987-08-08,Werder Bremen,Karlsruher SC,2-0,1-0
-3,1987-08-14,Borussia Dortmund,FC 08 Homburg,2-0,2-0
-3,1987-08-14,Bayer 05 Uerdingen,Eintracht Frankfurt,3-0,0-0
-3,1987-08-15,Bayer Leverkusen,1. FC Nürnberg,1-1,0-1
-3,1987-08-15,VfB Stuttgart,Bor. Mönchengladbach,6-0,2-0
-3,1987-08-15,VfL Bochum,1. FC Köln,0-0,0-0
-3,1987-08-15,1. FC Kaiserslautern,Werder Bremen,0-0,0-0
-3,1987-08-15,Karlsruher SC,FC Schalke 04,4-1,2-0
-3,1987-08-15,Bayern München,Waldhof Mannheim,2-1,2-0
-3,1987-08-18,Hamburger SV,Hannover 96,3-3,2-1
-4,1987-08-19,Eintracht Frankfurt,VfB Stuttgart,0-2,0-0
-4,1987-08-21,Bor. Mönchengladbach,Bayer Leverkusen,2-1,0-1
-4,1987-08-21,1. FC Nürnberg,Borussia Dortmund,0-0,0-0
-4,1987-08-22,FC Schalke 04,1. FC Kaiserslautern,5-0,1-0
-4,1987-08-22,1. FC Köln,Bayer 05 Uerdingen,2-0,0-0
-4,1987-08-22,FC 08 Homburg,Bayern München,3-2,1-0
-4,1987-08-22,Waldhof Mannheim,Hamburger SV,2-2,0-0
-4,1987-08-22,Hannover 96,Karlsruher SC,3-2,1-1
-4,1987-08-22,Werder Bremen,VfL Bochum,0-0,0-0
-5,1987-08-25,Bayer Leverkusen,Eintracht Frankfurt,1-3,1-0
-5,1987-08-25,VfB Stuttgart,1. FC Köln,0-2,0-1
-5,1987-08-25,Bayer 05 Uerdingen,Werder Bremen,1-2,0-0
-5,1987-08-25,VfL Bochum,FC Schalke 04,1-3,0-0
-5,1987-08-25,Waldhof Mannheim,FC 08 Homburg,0-0,0-0
-5,1987-08-26,Borussia Dortmund,Bor. Mönchengladbach,1-1,0-1
-5,1987-08-26,1. FC Kaiserslautern,Hannover 96,4-1,1-1
-5,1987-08-26,Bayern München,1. FC Nürnberg,1-0,1-0
-5,1987-08-26,Hamburger SV,Karlsruher SC,0-4,0-2
-6,1987-09-01,FC 08 Homburg,Hamburger SV,0-2,0-1
-6,1987-09-01,FC Schalke 04,Bayer 05 Uerdingen,2-1,1-1
-6,1987-09-01,Eintracht Frankfurt,Borussia Dortmund,0-0,0-0
-6,1987-09-01,Karlsruher SC,1. FC Kaiserslautern,1-0,1-0
-6,1987-09-01,Hannover 96,VfL Bochum,1-0,1-0
-6,1987-09-02,1. FC Köln,Bayer Leverkusen,0-0,0-0
-6,1987-09-02,Bor. Mönchengladbach,Bayern München,2-0,2-0
-6,1987-09-02,1. FC Nürnberg,Waldhof Mannheim,1-1,1-1
-6,1987-09-02,Werder Bremen,VfB Stuttgart,5-1,2-0
-7,1987-09-04,VfL Bochum,Karlsruher SC,5-0,3-0
-7,1987-09-04,Hamburger SV,1. FC Kaiserslautern,5-1,1-0
-7,1987-09-05,Borussia Dortmund,1. FC Köln,1-2,0-0
-7,1987-09-05,Bayer Leverkusen,Werder Bremen,1-3,1-0
-7,1987-09-05,VfB Stuttgart,FC Schalke 04,4-0,1-0
-7,1987-09-05,Bayer 05 Uerdingen,Hannover 96,1-0,0-0
-7,1987-09-05,FC 08 Homburg,1. FC Nürnberg,0-4,0-2
-7,1987-09-05,Waldhof Mannheim,Bor. Mönchengladbach,0-3,0-2
-7,1987-09-05,Bayern München,Eintracht Frankfurt,3-2,1-2
-8,1987-09-11,Eintracht Frankfurt,Waldhof Mannheim,5-1,2-0
-8,1987-09-11,1. FC Kaiserslautern,VfL Bochum,4-2,1-2
-8,1987-09-11,Werder Bremen,Borussia Dortmund,4-0,3-0
-8,1987-09-12,FC Schalke 04,Bayer Leverkusen,2-2,2-1
-8,1987-09-12,1. FC Köln,Bayern München,3-1,3-1
-8,1987-09-12,Bor. Mönchengladbach,FC 08 Homburg,2-0,2-0
-8,1987-09-12,1. FC Nürnberg,Hamburger SV,2-2,0-0
-8,1987-09-12,Karlsruher SC,Bayer 05 Uerdingen,1-0,0-0
-8,1987-09-12,Hannover 96,VfB Stuttgart,3-3,2-0
-9,1987-09-17,FC 08 Homburg,Eintracht Frankfurt,5-2,0-1
-9,1987-09-18,Bayer 05 Uerdingen,1. FC Kaiserslautern,3-1,1-1
-9,1987-09-18,Waldhof Mannheim,1. FC Köln,0-0,0-0
-9,1987-09-19,Borussia Dortmund,FC Schalke 04,4-1,3-0
-9,1987-09-19,Bayer Leverkusen,Hannover 96,2-0,2-0
-9,1987-09-19,VfB Stuttgart,Karlsruher SC,2-2,2-0
-9,1987-09-19,1. FC Nürnberg,Bor. Mönchengladbach,3-0,1-0
-9,1987-09-19,Bayern München,Werder Bremen,2-1,0-0
-9,1987-09-19,Hamburger SV,VfL Bochum,2-2,1-1
-10,1987-09-25,Hannover 96,Borussia Dortmund,2-3,0-1
-10,1987-09-25,Werder Bremen,Waldhof Mannheim,3-1,1-1
-10,1987-09-26,FC Schalke 04,Bayern München,1-4,0-3
-10,1987-09-26,1. FC Köln,FC 08 Homburg,3-0,1-0
-10,1987-09-26,Eintracht Frankfurt,1. FC Nürnberg,3-1,1-1
-10,1987-09-26,Bor. Mönchengladbach,Hamburger SV,8-2,3-1
-10,1987-09-26,1. FC Kaiserslautern,VfB Stuttgart,2-1,1-0
-10,1987-09-26,Karlsruher SC,Bayer Leverkusen,1-1,1-0
-10,1987-09-28,VfL Bochum,Bayer 05 Uerdingen,1-4,0-1
-11,1987-10-03,Borussia Dortmund,Karlsruher SC,0-2,0-1
-11,1987-10-03,Bayer Leverkusen,1. FC Kaiserslautern,2-0,1-0
-11,1987-10-03,VfB Stuttgart,VfL Bochum,3-0,1-0
-11,1987-10-03,Bor. Mönchengladbach,Eintracht Frankfurt,3-1,2-1
-11,1987-10-03,1. FC Nürnberg,1. FC Köln,1-2,0-1
-11,1987-10-03,FC 08 Homburg,Werder Bremen,1-1,1-0
-11,1987-10-03,Waldhof Mannheim,FC Schalke 04,2-0,1-0
-11,1987-10-03,Bayern München,Hannover 96,4-1,3-0
-11,1987-10-03,Hamburger SV,Bayer 05 Uerdingen,3-1,1-0
-12,1987-10-09,Bayer 05 Uerdingen,VfB Stuttgart,2-5,1-1
-12,1987-10-09,VfL Bochum,Bayer Leverkusen,3-1,2-0
-12,1987-10-09,1. FC Kaiserslautern,Borussia Dortmund,3-1,2-0
-12,1987-10-10,FC Schalke 04,FC 08 Homburg,3-0,1-0
-12,1987-10-10,1. FC Köln,Bor. Mönchengladbach,4-1,2-1
-12,1987-10-10,Eintracht Frankfurt,Hamburger SV,3-0,1-0
-12,1987-10-10,Karlsruher SC,Bayern München,0-1,0-0
-12,1987-10-10,Hannover 96,Waldhof Mannheim,3-1,1-1
-12,1987-10-10,Werder Bremen,1. FC Nürnberg,1-0,0-0
-13,1987-10-17,Bayer Leverkusen,Bayer 05 Uerdingen,0-0,0-0
-13,1987-10-17,Eintracht Frankfurt,1. FC Köln,1-1,1-0
-13,1987-10-17,Bor. Mönchengladbach,Werder Bremen,1-2,1-1
-13,1987-10-17,1. FC Nürnberg,FC Schalke 04,1-1,1-0
-13,1987-10-17,FC 08 Homburg,Hannover 96,1-1,1-1
-13,1987-10-17,Waldhof Mannheim,Karlsruher SC,4-1,2-0
-13,1987-10-17,Bayern München,1. FC Kaiserslautern,4-2,4-1
-13,1987-10-17,Hamburger SV,VfB Stuttgart,3-0,2-0
-13,1988-02-17,Borussia Dortmund,VfL Bochum,1-2,1-0
-14,1987-10-30,Werder Bremen,Eintracht Frankfurt,2-0,2-0
-14,1987-10-31,FC Schalke 04,Bor. Mönchengladbach,0-3,0-1
-14,1987-10-31,1. FC Köln,Hamburger SV,1-0,1-0
-14,1987-10-31,VfB Stuttgart,Bayer Leverkusen,4-1,2-1
-14,1987-10-31,Bayer 05 Uerdingen,Borussia Dortmund,2-1,1-0
-14,1987-10-31,VfL Bochum,Bayern München,0-2,0-0
-14,1987-10-31,1. FC Kaiserslautern,Waldhof Mannheim,2-2,0-1
-14,1987-10-31,Karlsruher SC,FC 08 Homburg,2-1,0-1
-14,1987-10-31,Hannover 96,1. FC Nürnberg,1-2,0-2
-15,1987-11-06,Waldhof Mannheim,VfL Bochum,1-1,1-0
-15,1987-11-07,FC 08 Homburg,1. FC Kaiserslautern,3-2,2-1
-15,1987-11-07,Borussia Dortmund,VfB Stuttgart,2-2,0-1
-15,1987-11-07,Bayer Leverkusen,Hamburger SV,2-0,0-0
-15,1987-11-07,Eintracht Frankfurt,FC Schalke 04,2-0,1-0
-15,1987-11-07,Bor. Mönchengladbach,Hannover 96,1-2,0-0
-15,1987-11-07,1. FC Nürnberg,Karlsruher SC,4-0,2-0
-15,1987-11-07,Bayern München,Bayer 05 Uerdingen,3-0,1-0
-15,1987-11-07,Werder Bremen,1. FC Köln,2-1,1-1
-16,1987-11-13,Bayer Leverkusen,Borussia Dortmund,2-2,2-1
-16,1987-11-14,FC Schalke 04,1. FC Köln,2-2,2-2
-16,1987-11-14,VfB Stuttgart,Bayern München,3-0,1-0
-16,1987-11-14,Bayer 05 Uerdingen,Waldhof Mannheim,1-1,1-0
-16,1987-11-14,1. FC Kaiserslautern,1. FC Nürnberg,1-2,1-0
-16,1987-11-14,Karlsruher SC,Bor. Mönchengladbach,2-2,0-1
-16,1987-11-14,Hannover 96,Eintracht Frankfurt,1-2,1-1
-16,1987-11-14,Hamburger SV,Werder Bremen,0-0,0-0
-16,1987-11-17,VfL Bochum,FC 08 Homburg,4-4,1-2
-17,1987-11-21,FC 08 Homburg,Bayer 05 Uerdingen,2-2,2-1
-17,1987-11-21,Borussia Dortmund,Hamburger SV,2-3,2-3
-17,1987-11-21,1. FC Köln,Hannover 96,2-0,0-0
-17,1987-11-21,Eintracht Frankfurt,Karlsruher SC,4-0,2-0
-17,1987-11-21,Bor. Mönchengladbach,1. FC Kaiserslautern,1-0,1-0
-17,1987-11-21,1. FC Nürnberg,VfL Bochum,2-1,2-0
-17,1987-11-21,Waldhof Mannheim,VfB Stuttgart,2-1,2-1
-17,1987-11-21,Bayern München,Bayer Leverkusen,3-2,2-0
-17,1988-02-17,Werder Bremen,FC Schalke 04,5-0,1-0
-18,1987-11-27,1. FC Köln,Karlsruher SC,4-0,1-0
-18,1987-11-28,FC 08 Homburg,VfB Stuttgart,2-2,1-1
-18,1987-11-28,Bayern München,Borussia Dortmund,1-3,1-2
-18,1987-11-28,Waldhof Mannheim,Bayer Leverkusen,1-4,1-2
-18,1987-11-28,1. FC Nürnberg,Bayer 05 Uerdingen,3-1,2-1
-18,1987-11-28,Bor. Mönchengladbach,VfL Bochum,3-0,2-0
-18,1987-11-28,Eintracht Frankfurt,1. FC Kaiserslautern,0-2,0-0
-18,1987-11-28,Werder Bremen,Hannover 96,1-0,0-0
-18,1987-11-28,FC Schalke 04,Hamburger SV,1-0,0-0
-19,1987-12-04,Bayer Leverkusen,FC 08 Homburg,2-1,2-0
-19,1987-12-04,Hannover 96,FC Schalke 04,3-1,1-1
-19,1987-12-05,1. FC Kaiserslautern,1. FC Köln,3-0,1-0
-19,1987-12-05,VfL Bochum,Eintracht Frankfurt,1-0,0-0
-19,1987-12-05,Bayer 05 Uerdingen,Bor. Mönchengladbach,2-4,1-2
-19,1987-12-05,VfB Stuttgart,1. FC Nürnberg,0-1,0-1
-19,1987-12-05,Borussia Dortmund,Waldhof Mannheim,0-1,0-0
-19,1987-12-05,Hamburger SV,Bayern München,2-2,0-1
-19,1987-12-05,Karlsruher SC,Werder Bremen,0-2,0-1
-20,1988-02-20,FC 08 Homburg,Borussia Dortmund,0-3,0-2
-20,1988-02-20,1. FC Nürnberg,Bayer Leverkusen,2-1,1-0
-20,1988-02-20,Bor. Mönchengladbach,VfB Stuttgart,0-1,0-0
-20,1988-02-20,Eintracht Frankfurt,Bayer 05 Uerdingen,3-1,0-0
-20,1988-02-20,1. FC Köln,VfL Bochum,2-2,1-1
-20,1988-02-20,Werder Bremen,1. FC Kaiserslautern,0-0,0-0
-20,1988-02-20,FC Schalke 04,Karlsruher SC,3-1,1-0
-20,1988-02-20,Waldhof Mannheim,Bayern München,1-2,1-1
-20,1988-02-20,Hannover 96,Hamburger SV,3-1,0-0
-21,1988-02-27,1. FC Kaiserslautern,FC Schalke 04,5-2,0-1
-21,1988-02-27,Bayer 05 Uerdingen,1. FC Köln,1-1,1-1
-21,1988-02-27,Bayern München,FC 08 Homburg,6-0,1-0
-21,1988-02-27,VfL Bochum,Werder Bremen,0-1,0-1
-21,1988-03-08,Bayer Leverkusen,Bor. Mönchengladbach,2-1,0-0
-21,1988-03-15,VfB Stuttgart,Eintracht Frankfurt,1-0,0-0
-21,1988-03-15,Karlsruher SC,Hannover 96,2-1,0-0
-21,1988-03-29,Hamburger SV,Waldhof Mannheim,1-1,0-0
-21,1988-04-05,Borussia Dortmund,1. FC Nürnberg,1-1,0-0
-22,1988-03-05,Bor. Mönchengladbach,Borussia Dortmund,0-3,0-2
-22,1988-03-05,Eintracht Frankfurt,Bayer Leverkusen,3-2,2-2
-22,1988-03-05,1. FC Köln,VfB Stuttgart,1-1,0-0
-22,1988-03-05,Werder Bremen,Bayer 05 Uerdingen,5-1,1-1
-22,1988-03-05,FC Schalke 04,VfL Bochum,2-1,0-0
-22,1988-03-05,Hannover 96,1. FC Kaiserslautern,1-0,1-0
-22,1988-03-05,FC 08 Homburg,Waldhof Mannheim,1-1,1-1
-22,1988-03-05,1. FC Nürnberg,Bayern München,0-3,0-2
-22,1988-03-05,Karlsruher SC,Hamburger SV,0-0,0-0
-23,1988-03-11,Bayer Leverkusen,1. FC Köln,1-1,1-1
-23,1988-03-11,1. FC Kaiserslautern,Karlsruher SC,1-1,0-1
-23,1988-03-12,Borussia Dortmund,Eintracht Frankfurt,3-1,0-1
-23,1988-03-12,Bayern München,Bor. Mönchengladbach,1-0,0-0
-23,1988-03-12,Waldhof Mannheim,1. FC Nürnberg,0-1,0-1
-23,1988-03-12,Hamburger SV,FC 08 Homburg,2-1,1-1
-23,1988-03-12,VfB Stuttgart,Werder Bremen,1-0,0-0
-23,1988-04-19,Bayer 05 Uerdingen,FC Schalke 04,5-2,3-1
-23,1988-04-19,VfL Bochum,Hannover 96,1-1,0-0
-24,1988-03-18,Bor. Mönchengladbach,Waldhof Mannheim,0-1,0-0
-24,1988-03-19,1. FC Köln,Borussia Dortmund,2-0,1-0
-24,1988-03-19,Werder Bremen,Bayer Leverkusen,3-3,0-2
-24,1988-03-19,FC Schalke 04,VfB Stuttgart,3-4,2-4
-24,1988-03-19,Hannover 96,Bayer 05 Uerdingen,0-0,0-0
-24,1988-03-19,Karlsruher SC,VfL Bochum,1-0,0-0
-24,1988-03-19,1. FC Nürnberg,FC 08 Homburg,2-0,2-0
-24,1988-03-19,Eintracht Frankfurt,Bayern München,1-1,0-0
-24,1988-03-19,1. FC Kaiserslautern,Hamburger SV,0-3,0-1
-25,1988-03-22,FC 08 Homburg,Bor. Mönchengladbach,0-0,0-0
-25,1988-03-22,Bayer Leverkusen,FC Schalke 04,3-2,1-2
-25,1988-03-22,VfL Bochum,1. FC Kaiserslautern,1-1,1-1
-25,1988-03-22,VfB Stuttgart,Hannover 96,3-1,1-0
-25,1988-03-23,Bayern München,1. FC Köln,2-2,1-0
-25,1988-03-23,Waldhof Mannheim,Eintracht Frankfurt,2-2,0-1
-25,1988-03-23,Hamburger SV,1. FC Nürnberg,2-2,1-2
-25,1988-03-23,Bayer 05 Uerdingen,Karlsruher SC,4-2,1-1
-25,1988-03-23,Borussia Dortmund,Werder Bremen,0-0,0-0
-26,1988-03-26,FC Schalke 04,Borussia Dortmund,3-0,1-0
-26,1988-03-26,Hannover 96,Bayer Leverkusen,6-1,3-1
-26,1988-03-26,Karlsruher SC,VfB Stuttgart,0-2,0-1
-26,1988-03-26,1. FC Kaiserslautern,Bayer 05 Uerdingen,2-2,1-2
-26,1988-03-26,Bor. Mönchengladbach,1. FC Nürnberg,3-0,2-0
-26,1988-03-26,Eintracht Frankfurt,FC 08 Homburg,1-2,0-1
-26,1988-03-26,1. FC Köln,Waldhof Mannheim,3-0,0-0
-26,1988-03-26,Werder Bremen,Bayern München,3-1,2-1
-26,1988-03-26,VfL Bochum,Hamburger SV,4-0,2-0
-27,1988-04-08,Hamburger SV,Bor. Mönchengladbach,2-1,1-0
-27,1988-04-09,Bayern München,FC Schalke 04,8-1,5-1
-27,1988-04-09,FC 08 Homburg,1. FC Köln,1-0,1-0
-27,1988-04-09,1. FC Nürnberg,Eintracht Frankfurt,1-1,0-0
-27,1988-04-09,Bayer 05 Uerdingen,VfL Bochum,3-1,2-1
-27,1988-04-09,VfB Stuttgart,1. FC Kaiserslautern,3-0,0-0
-27,1988-04-09,Bayer Leverkusen,Karlsruher SC,0-0,0-0
-27,1988-04-09,Borussia Dortmund,Hannover 96,3-3,1-1
-27,1988-04-09,Waldhof Mannheim,Werder Bremen,0-1,0-0
-28,1988-04-15,1. FC Kaiserslautern,Bayer Leverkusen,1-3,0-0
-28,1988-04-16,Karlsruher SC,Borussia Dortmund,0-0,0-0
-28,1988-04-16,VfL Bochum,VfB Stuttgart,5-1,3-0
-28,1988-04-16,Eintracht Frankfurt,Bor. Mönchengladbach,2-0,1-0
-28,1988-04-16,1. FC Köln,1. FC Nürnberg,3-1,3-1
-28,1988-04-16,Werder Bremen,FC 08 Homburg,3-0,1-0
-28,1988-04-16,FC Schalke 04,Waldhof Mannheim,1-1,0-0
-28,1988-04-16,Hannover 96,Bayern München,2-1,0-1
-28,1988-04-16,Bayer 05 Uerdingen,Hamburger SV,1-1,1-1
-29,1988-04-22,Borussia Dortmund,1. FC Kaiserslautern,3-0,2-0
-29,1988-04-23,FC 08 Homburg,FC Schalke 04,3-1,0-0
-29,1988-04-23,Bor. Mönchengladbach,1. FC Köln,0-1,0-0
-29,1988-04-23,Hamburger SV,Eintracht Frankfurt,2-2,1-0
-29,1988-04-23,VfB Stuttgart,Bayer 05 Uerdingen,1-3,1-1
-29,1988-04-23,Bayer Leverkusen,VfL Bochum,0-0,0-0
-29,1988-04-23,Bayern München,Karlsruher SC,2-1,1-1
-29,1988-04-23,Waldhof Mannheim,Hannover 96,2-1,1-0
-29,1988-04-23,1. FC Nürnberg,Werder Bremen,0-0,0-0
-30,1988-04-29,Karlsruher SC,Waldhof Mannheim,1-1,1-1
-30,1988-04-30,VfL Bochum,Borussia Dortmund,2-0,1-0
-30,1988-04-30,Bayer 05 Uerdingen,Bayer Leverkusen,4-1,1-0
-30,1988-04-30,1. FC Köln,Eintracht Frankfurt,1-1,0-1
-30,1988-04-30,Werder Bremen,Bor. Mönchengladbach,2-0,0-0
-30,1988-04-30,FC Schalke 04,1. FC Nürnberg,0-0,0-0
-30,1988-04-30,Hannover 96,FC 08 Homburg,5-1,2-1
-30,1988-04-30,1. FC Kaiserslautern,Bayern München,3-1,1-0
-30,1988-04-30,VfB Stuttgart,Hamburger SV,5-1,3-1
-31,1988-05-03,FC 08 Homburg,Karlsruher SC,1-0,0-0
-31,1988-05-03,Bor. Mönchengladbach,FC Schalke 04,1-1,0-1
-31,1988-05-03,Hamburger SV,1. FC Köln,3-0,2-0
-31,1988-05-03,Borussia Dortmund,Bayer 05 Uerdingen,4-2,2-1
-31,1988-05-03,Bayern München,VfL Bochum,5-0,0-0
-31,1988-05-03,Waldhof Mannheim,1. FC Kaiserslautern,0-2,0-0
-31,1988-05-03,1. FC Nürnberg,Hannover 96,1-3,0-1
-31,1988-05-03,Eintracht Frankfurt,Werder Bremen,0-1,0-0
-31,1988-05-10,Bayer Leverkusen,VfB Stuttgart,2-1,1-1
-32,1988-05-06,1. FC Kaiserslautern,FC 08 Homburg,1-0,0-0
-32,1988-05-06,VfL Bochum,Waldhof Mannheim,1-0,1-0
-32,1988-05-07,VfB Stuttgart,Borussia Dortmund,2-2,0-1
-32,1988-05-07,Hamburger SV,Bayer Leverkusen,3-2,2-0
-32,1988-05-07,FC Schalke 04,Eintracht Frankfurt,0-0,0-0
-32,1988-05-07,Hannover 96,Bor. Mönchengladbach,2-4,1-2
-32,1988-05-07,Karlsruher SC,1. FC Nürnberg,2-0,1-0
-32,1988-05-07,Bayer 05 Uerdingen,Bayern München,0-0,0-0
-32,1988-05-07,1. FC Köln,Werder Bremen,2-0,1-0
-33,1988-05-14,1. FC Köln,FC Schalke 04,3-1,0-1
-33,1988-05-14,Borussia Dortmund,Bayer Leverkusen,2-2,0-0
-33,1988-05-14,Bayern München,VfB Stuttgart,2-1,1-0
-33,1988-05-14,Waldhof Mannheim,Bayer 05 Uerdingen,2-2,2-0
-33,1988-05-14,FC 08 Homburg,VfL Bochum,1-1,0-0
-33,1988-05-14,1. FC Nürnberg,1. FC Kaiserslautern,3-2,3-1
-33,1988-05-14,Bor. Mönchengladbach,Karlsruher SC,2-2,2-0
-33,1988-05-14,Eintracht Frankfurt,Hannover 96,3-3,2-0
-33,1988-05-14,Werder Bremen,Hamburger SV,1-4,1-1
-34,1988-05-21,Hamburger SV,Borussia Dortmund,4-3,0-0
-34,1988-05-21,Hannover 96,1. FC Köln,0-3,0-1
-34,1988-05-21,Karlsruher SC,Eintracht Frankfurt,1-1,0-1
-34,1988-05-21,1. FC Kaiserslautern,Bor. Mönchengladbach,5-2,1-2
-34,1988-05-21,VfL Bochum,1. FC Nürnberg,3-0,1-0
-34,1988-05-21,Bayer 05 Uerdingen,FC 08 Homburg,5-1,1-1
-34,1988-05-21,VfB Stuttgart,Waldhof Mannheim,1-1,1-0
-34,1988-05-21,Bayer Leverkusen,Bayern München,3-4,3-1
-34,1988-05-21,FC Schalke 04,Werder Bremen,1-4,0-4
+Round,Date,Team 1,FT,HT,Team 2
+1,(Fri) 31 Jul 1987 (30),Bayer 04 Leverkusen (1),1-0,1-0,SV Waldhof Mannheim (1)
+1,(Fri) 31 Jul 1987 (30),KFC Uerdingen (1),0-2,0-1,1. FC Nürnberg (1)
+1,(Fri) 31 Jul 1987 (30),VfL Bochum (1),1-2,0-2,Bor. Mönchengladbach (1)
+1,(Sat) 1 Aug 1987 (30),Borussia Dortmund (1),1-3,0-1,Bayern München (1)
+1,(Sat) 1 Aug 1987 (30),VfB Stuttgart (1),2-1,1-0,FC 08 Homburg (1)
+1,(Sat) 1 Aug 1987 (30),1. FC Kaiserslautern (1),2-2,2-0,Eintracht Frankfurt (1)
+1,(Sat) 1 Aug 1987 (30),Karlsruher SC (1),1-1,1-0,1. FC Köln (1)
+1,(Sat) 1 Aug 1987 (30),Hannover 96 (1),0-1,0-1,Werder Bremen (1)
+1,(Sat) 1 Aug 1987 (30),Hamburger SV (1),5-2,0-0,FC Schalke 04 (1)
+2,(Thu) 6 Aug 1987 (31),SV Waldhof Mannheim (2),1-0,0-0,Borussia Dortmund (2)
+2,(Fri) 7 Aug 1987 (31),1. FC Köln (2),2-1,1-0,1. FC Kaiserslautern (2)
+2,(Fri) 7 Aug 1987 (31),Eintracht Frankfurt (2),0-1,0-0,VfL Bochum (2)
+2,(Sat) 8 Aug 1987 (31),FC Schalke 04 (2),0-2,0-0,Hannover 96 (2)
+2,(Sat) 8 Aug 1987 (31),Bor. Mönchengladbach (2),2-1,0-1,KFC Uerdingen (2)
+2,(Sat) 8 Aug 1987 (31),1. FC Nürnberg (2),0-0,0-0,VfB Stuttgart (2)
+2,(Sat) 8 Aug 1987 (31),FC 08 Homburg (2),1-1,1-0,Bayer 04 Leverkusen (2)
+2,(Sat) 8 Aug 1987 (31),Bayern München (2),6-0,2-0,Hamburger SV (2)
+2,(Sat) 8 Aug 1987 (31),Werder Bremen (2),2-0,1-0,Karlsruher SC (2)
+3,(Fri) 14 Aug 1987 (32),Borussia Dortmund (3),2-0,2-0,FC 08 Homburg (3)
+3,(Fri) 14 Aug 1987 (32),KFC Uerdingen (3),3-0,0-0,Eintracht Frankfurt (3)
+3,(Sat) 15 Aug 1987 (32),Bayer 04 Leverkusen (3),1-1,0-1,1. FC Nürnberg (3)
+3,(Sat) 15 Aug 1987 (32),VfB Stuttgart (3),6-0,2-0,Bor. Mönchengladbach (3)
+3,(Sat) 15 Aug 1987 (32),VfL Bochum (3),0-0,0-0,1. FC Köln (3)
+3,(Sat) 15 Aug 1987 (32),1. FC Kaiserslautern (3),0-0,0-0,Werder Bremen (3)
+3,(Sat) 15 Aug 1987 (32),Karlsruher SC (3),4-1,2-0,FC Schalke 04 (3)
+3,(Sat) 15 Aug 1987 (32),Bayern München (3),2-1,2-0,SV Waldhof Mannheim (3)
+3,(Tue) 18 Aug 1987 (33),Hamburger SV (3),3-3,2-1,Hannover 96 (3)
+4,(Wed) 19 Aug 1987 (33),Eintracht Frankfurt (4),0-2,0-0,VfB Stuttgart (4)
+4,(Fri) 21 Aug 1987 (33),Bor. Mönchengladbach (4),2-1,0-1,Bayer 04 Leverkusen (4)
+4,(Fri) 21 Aug 1987 (33),1. FC Nürnberg (4),0-0,0-0,Borussia Dortmund (4)
+4,(Sat) 22 Aug 1987 (33),FC Schalke 04 (4),5-0,1-0,1. FC Kaiserslautern (4)
+4,(Sat) 22 Aug 1987 (33),1. FC Köln (4),2-0,0-0,KFC Uerdingen (4)
+4,(Sat) 22 Aug 1987 (33),FC 08 Homburg (4),3-2,1-0,Bayern München (4)
+4,(Sat) 22 Aug 1987 (33),SV Waldhof Mannheim (4),2-2,0-0,Hamburger SV (4)
+4,(Sat) 22 Aug 1987 (33),Hannover 96 (4),3-2,1-1,Karlsruher SC (4)
+4,(Sat) 22 Aug 1987 (33),Werder Bremen (4),0-0,0-0,VfL Bochum (4)
+5,(Tue) 25 Aug 1987 (34),Bayer 04 Leverkusen (5),1-3,1-0,Eintracht Frankfurt (5)
+5,(Tue) 25 Aug 1987 (34),VfB Stuttgart (5),0-2,0-1,1. FC Köln (5)
+5,(Tue) 25 Aug 1987 (34),KFC Uerdingen (5),1-2,0-0,Werder Bremen (5)
+5,(Tue) 25 Aug 1987 (34),VfL Bochum (5),1-3,0-0,FC Schalke 04 (5)
+5,(Tue) 25 Aug 1987 (34),SV Waldhof Mannheim (5),0-0,0-0,FC 08 Homburg (5)
+5,(Wed) 26 Aug 1987 (34),Borussia Dortmund (5),1-1,0-1,Bor. Mönchengladbach (5)
+5,(Wed) 26 Aug 1987 (34),1. FC Kaiserslautern (5),4-1,1-1,Hannover 96 (5)
+5,(Wed) 26 Aug 1987 (34),Bayern München (5),1-0,1-0,1. FC Nürnberg (5)
+5,(Wed) 26 Aug 1987 (34),Hamburger SV (5),0-4,0-2,Karlsruher SC (5)
+6,(Tue) 1 Sep 1987 (35),FC 08 Homburg (6),0-2,0-1,Hamburger SV (6)
+6,(Tue) 1 Sep 1987 (35),FC Schalke 04 (6),2-1,1-1,KFC Uerdingen (6)
+6,(Tue) 1 Sep 1987 (35),Eintracht Frankfurt (6),0-0,0-0,Borussia Dortmund (6)
+6,(Tue) 1 Sep 1987 (35),Karlsruher SC (6),1-0,1-0,1. FC Kaiserslautern (6)
+6,(Tue) 1 Sep 1987 (35),Hannover 96 (6),1-0,1-0,VfL Bochum (6)
+6,(Wed) 2 Sep 1987 (35),1. FC Köln (6),0-0,0-0,Bayer 04 Leverkusen (6)
+6,(Wed) 2 Sep 1987 (35),Bor. Mönchengladbach (6),2-0,2-0,Bayern München (6)
+6,(Wed) 2 Sep 1987 (35),1. FC Nürnberg (6),1-1,1-1,SV Waldhof Mannheim (6)
+6,(Wed) 2 Sep 1987 (35),Werder Bremen (6),5-1,2-0,VfB Stuttgart (6)
+7,(Fri) 4 Sep 1987 (35),VfL Bochum (7),5-0,3-0,Karlsruher SC (7)
+7,(Fri) 4 Sep 1987 (35),Hamburger SV (7),5-1,1-0,1. FC Kaiserslautern (7)
+7,(Sat) 5 Sep 1987 (35),Borussia Dortmund (7),1-2,0-0,1. FC Köln (7)
+7,(Sat) 5 Sep 1987 (35),Bayer 04 Leverkusen (7),1-3,1-0,Werder Bremen (7)
+7,(Sat) 5 Sep 1987 (35),VfB Stuttgart (7),4-0,1-0,FC Schalke 04 (7)
+7,(Sat) 5 Sep 1987 (35),KFC Uerdingen (7),1-0,0-0,Hannover 96 (7)
+7,(Sat) 5 Sep 1987 (35),FC 08 Homburg (7),0-4,0-2,1. FC Nürnberg (7)
+7,(Sat) 5 Sep 1987 (35),SV Waldhof Mannheim (7),0-3,0-2,Bor. Mönchengladbach (7)
+7,(Sat) 5 Sep 1987 (35),Bayern München (7),3-2,1-2,Eintracht Frankfurt (7)
+8,(Fri) 11 Sep 1987 (36),Eintracht Frankfurt (8),5-1,2-0,SV Waldhof Mannheim (8)
+8,(Fri) 11 Sep 1987 (36),1. FC Kaiserslautern (8),4-2,1-2,VfL Bochum (8)
+8,(Fri) 11 Sep 1987 (36),Werder Bremen (8),4-0,3-0,Borussia Dortmund (8)
+8,(Sat) 12 Sep 1987 (36),FC Schalke 04 (8),2-2,2-1,Bayer 04 Leverkusen (8)
+8,(Sat) 12 Sep 1987 (36),1. FC Köln (8),3-1,3-1,Bayern München (8)
+8,(Sat) 12 Sep 1987 (36),Bor. Mönchengladbach (8),2-0,2-0,FC 08 Homburg (8)
+8,(Sat) 12 Sep 1987 (36),1. FC Nürnberg (8),2-2,0-0,Hamburger SV (8)
+8,(Sat) 12 Sep 1987 (36),Karlsruher SC (8),1-0,0-0,KFC Uerdingen (8)
+8,(Sat) 12 Sep 1987 (36),Hannover 96 (8),3-3,2-0,VfB Stuttgart (8)
+9,(Thu) 17 Sep 1987 (37),FC 08 Homburg (9),5-2,0-1,Eintracht Frankfurt (9)
+9,(Fri) 18 Sep 1987 (37),KFC Uerdingen (9),3-1,1-1,1. FC Kaiserslautern (9)
+9,(Fri) 18 Sep 1987 (37),SV Waldhof Mannheim (9),0-0,0-0,1. FC Köln (9)
+9,(Sat) 19 Sep 1987 (37),Borussia Dortmund (9),4-1,3-0,FC Schalke 04 (9)
+9,(Sat) 19 Sep 1987 (37),Bayer 04 Leverkusen (9),2-0,2-0,Hannover 96 (9)
+9,(Sat) 19 Sep 1987 (37),VfB Stuttgart (9),2-2,2-0,Karlsruher SC (9)
+9,(Sat) 19 Sep 1987 (37),1. FC Nürnberg (9),3-0,1-0,Bor. Mönchengladbach (9)
+9,(Sat) 19 Sep 1987 (37),Bayern München (9),2-1,0-0,Werder Bremen (9)
+9,(Sat) 19 Sep 1987 (37),Hamburger SV (9),2-2,1-1,VfL Bochum (9)
+10,(Fri) 25 Sep 1987 (38),Hannover 96 (10),2-3,0-1,Borussia Dortmund (10)
+10,(Fri) 25 Sep 1987 (38),Werder Bremen (10),3-1,1-1,SV Waldhof Mannheim (10)
+10,(Sat) 26 Sep 1987 (38),FC Schalke 04 (10),1-4,0-3,Bayern München (10)
+10,(Sat) 26 Sep 1987 (38),1. FC Köln (10),3-0,1-0,FC 08 Homburg (10)
+10,(Sat) 26 Sep 1987 (38),Eintracht Frankfurt (10),3-1,1-1,1. FC Nürnberg (10)
+10,(Sat) 26 Sep 1987 (38),Bor. Mönchengladbach (10),8-2,3-1,Hamburger SV (10)
+10,(Sat) 26 Sep 1987 (38),1. FC Kaiserslautern (10),2-1,1-0,VfB Stuttgart (10)
+10,(Sat) 26 Sep 1987 (38),Karlsruher SC (10),1-1,1-0,Bayer 04 Leverkusen (10)
+10,(Mon) 28 Sep 1987 (39),VfL Bochum (10),1-4,0-1,KFC Uerdingen (10)
+11,(Sat) 3 Oct 1987 (39),Borussia Dortmund (11),0-2,0-1,Karlsruher SC (11)
+11,(Sat) 3 Oct 1987 (39),Bayer 04 Leverkusen (11),2-0,1-0,1. FC Kaiserslautern (11)
+11,(Sat) 3 Oct 1987 (39),VfB Stuttgart (11),3-0,1-0,VfL Bochum (11)
+11,(Sat) 3 Oct 1987 (39),Bor. Mönchengladbach (11),3-1,2-1,Eintracht Frankfurt (11)
+11,(Sat) 3 Oct 1987 (39),1. FC Nürnberg (11),1-2,0-1,1. FC Köln (11)
+11,(Sat) 3 Oct 1987 (39),FC 08 Homburg (11),1-1,1-0,Werder Bremen (11)
+11,(Sat) 3 Oct 1987 (39),SV Waldhof Mannheim (11),2-0,1-0,FC Schalke 04 (11)
+11,(Sat) 3 Oct 1987 (39),Bayern München (11),4-1,3-0,Hannover 96 (11)
+11,(Sat) 3 Oct 1987 (39),Hamburger SV (11),3-1,1-0,KFC Uerdingen (11)
+12,(Fri) 9 Oct 1987 (40),KFC Uerdingen (12),2-5,1-1,VfB Stuttgart (12)
+12,(Fri) 9 Oct 1987 (40),VfL Bochum (12),3-1,2-0,Bayer 04 Leverkusen (12)
+12,(Fri) 9 Oct 1987 (40),1. FC Kaiserslautern (12),3-1,2-0,Borussia Dortmund (12)
+12,(Sat) 10 Oct 1987 (40),FC Schalke 04 (12),3-0,1-0,FC 08 Homburg (12)
+12,(Sat) 10 Oct 1987 (40),1. FC Köln (12),4-1,2-1,Bor. Mönchengladbach (12)
+12,(Sat) 10 Oct 1987 (40),Eintracht Frankfurt (12),3-0,1-0,Hamburger SV (12)
+12,(Sat) 10 Oct 1987 (40),Karlsruher SC (12),0-1,0-0,Bayern München (12)
+12,(Sat) 10 Oct 1987 (40),Hannover 96 (12),3-1,1-1,SV Waldhof Mannheim (12)
+12,(Sat) 10 Oct 1987 (40),Werder Bremen (12),1-0,0-0,1. FC Nürnberg (12)
+13,(Sat) 17 Oct 1987 (41),Bayer 04 Leverkusen (13),0-0,0-0,KFC Uerdingen (13)
+13,(Sat) 17 Oct 1987 (41),Eintracht Frankfurt (13),1-1,1-0,1. FC Köln (13)
+13,(Sat) 17 Oct 1987 (41),Bor. Mönchengladbach (13),1-2,1-1,Werder Bremen (13)
+13,(Sat) 17 Oct 1987 (41),1. FC Nürnberg (13),1-1,1-0,FC Schalke 04 (13)
+13,(Sat) 17 Oct 1987 (41),FC 08 Homburg (13),1-1,1-1,Hannover 96 (13)
+13,(Sat) 17 Oct 1987 (41),SV Waldhof Mannheim (13),4-1,2-0,Karlsruher SC (13)
+13,(Sat) 17 Oct 1987 (41),Bayern München (13),4-2,4-1,1. FC Kaiserslautern (13)
+13,(Sat) 17 Oct 1987 (41),Hamburger SV (13),3-0,2-0,VfB Stuttgart (13)
+13,(Wed) 17 Feb 1988 (7),Borussia Dortmund (13),1-2,1-0,VfL Bochum (13)
+14,(Fri) 30 Oct 1987 (43),Werder Bremen (14),2-0,2-0,Eintracht Frankfurt (14)
+14,(Sat) 31 Oct 1987 (43),FC Schalke 04 (14),0-3,0-1,Bor. Mönchengladbach (14)
+14,(Sat) 31 Oct 1987 (43),1. FC Köln (14),1-0,1-0,Hamburger SV (14)
+14,(Sat) 31 Oct 1987 (43),VfB Stuttgart (14),4-1,2-1,Bayer 04 Leverkusen (14)
+14,(Sat) 31 Oct 1987 (43),KFC Uerdingen (14),2-1,1-0,Borussia Dortmund (14)
+14,(Sat) 31 Oct 1987 (43),VfL Bochum (14),0-2,0-0,Bayern München (14)
+14,(Sat) 31 Oct 1987 (43),1. FC Kaiserslautern (14),2-2,0-1,SV Waldhof Mannheim (14)
+14,(Sat) 31 Oct 1987 (43),Karlsruher SC (14),2-1,0-1,FC 08 Homburg (14)
+14,(Sat) 31 Oct 1987 (43),Hannover 96 (14),1-2,0-2,1. FC Nürnberg (14)
+15,(Fri) 6 Nov 1987 (44),SV Waldhof Mannheim (15),1-1,1-0,VfL Bochum (15)
+15,(Sat) 7 Nov 1987 (44),FC 08 Homburg (15),3-2,2-1,1. FC Kaiserslautern (15)
+15,(Sat) 7 Nov 1987 (44),Borussia Dortmund (15),2-2,0-1,VfB Stuttgart (15)
+15,(Sat) 7 Nov 1987 (44),Bayer 04 Leverkusen (15),2-0,0-0,Hamburger SV (15)
+15,(Sat) 7 Nov 1987 (44),Eintracht Frankfurt (15),2-0,1-0,FC Schalke 04 (15)
+15,(Sat) 7 Nov 1987 (44),Bor. Mönchengladbach (15),1-2,0-0,Hannover 96 (15)
+15,(Sat) 7 Nov 1987 (44),1. FC Nürnberg (15),4-0,2-0,Karlsruher SC (15)
+15,(Sat) 7 Nov 1987 (44),Bayern München (15),3-0,1-0,KFC Uerdingen (15)
+15,(Sat) 7 Nov 1987 (44),Werder Bremen (15),2-1,1-1,1. FC Köln (15)
+16,(Fri) 13 Nov 1987 (45),Bayer 04 Leverkusen (16),2-2,2-1,Borussia Dortmund (16)
+16,(Sat) 14 Nov 1987 (45),FC Schalke 04 (16),2-2,2-2,1. FC Köln (16)
+16,(Sat) 14 Nov 1987 (45),VfB Stuttgart (16),3-0,1-0,Bayern München (16)
+16,(Sat) 14 Nov 1987 (45),KFC Uerdingen (16),1-1,1-0,SV Waldhof Mannheim (16)
+16,(Sat) 14 Nov 1987 (45),1. FC Kaiserslautern (16),1-2,1-0,1. FC Nürnberg (16)
+16,(Sat) 14 Nov 1987 (45),Karlsruher SC (16),2-2,0-1,Bor. Mönchengladbach (16)
+16,(Sat) 14 Nov 1987 (45),Hannover 96 (16),1-2,1-1,Eintracht Frankfurt (16)
+16,(Sat) 14 Nov 1987 (45),Hamburger SV (16),0-0,0-0,Werder Bremen (16)
+16,(Tue) 17 Nov 1987 (46),VfL Bochum (16),4-4,1-2,FC 08 Homburg (16)
+17,(Sat) 21 Nov 1987 (46),FC 08 Homburg (17),2-2,2-1,KFC Uerdingen (17)
+17,(Sat) 21 Nov 1987 (46),Borussia Dortmund (17),2-3,2-3,Hamburger SV (17)
+17,(Sat) 21 Nov 1987 (46),1. FC Köln (17),2-0,0-0,Hannover 96 (17)
+17,(Sat) 21 Nov 1987 (46),Eintracht Frankfurt (17),4-0,2-0,Karlsruher SC (17)
+17,(Sat) 21 Nov 1987 (46),Bor. Mönchengladbach (17),1-0,1-0,1. FC Kaiserslautern (17)
+17,(Sat) 21 Nov 1987 (46),1. FC Nürnberg (17),2-1,2-0,VfL Bochum (17)
+17,(Sat) 21 Nov 1987 (46),SV Waldhof Mannheim (17),2-1,2-1,VfB Stuttgart (17)
+17,(Sat) 21 Nov 1987 (46),Bayern München (17),3-2,2-0,Bayer 04 Leverkusen (17)
+17,(Wed) 17 Feb 1988 (7),Werder Bremen (17),5-0,1-0,FC Schalke 04 (17)
+18,(Fri) 27 Nov 1987 (47),1. FC Köln (18),4-0,1-0,Karlsruher SC (18)
+18,(Sat) 28 Nov 1987 (47),FC 08 Homburg (18),2-2,1-1,VfB Stuttgart (18)
+18,(Sat) 28 Nov 1987 (47),Bayern München (18),1-3,1-2,Borussia Dortmund (18)
+18,(Sat) 28 Nov 1987 (47),SV Waldhof Mannheim (18),1-4,1-2,Bayer 04 Leverkusen (18)
+18,(Sat) 28 Nov 1987 (47),1. FC Nürnberg (18),3-1,2-1,KFC Uerdingen (18)
+18,(Sat) 28 Nov 1987 (47),Bor. Mönchengladbach (18),3-0,2-0,VfL Bochum (18)
+18,(Sat) 28 Nov 1987 (47),Eintracht Frankfurt (18),0-2,0-0,1. FC Kaiserslautern (18)
+18,(Sat) 28 Nov 1987 (47),Werder Bremen (18),1-0,0-0,Hannover 96 (18)
+18,(Sat) 28 Nov 1987 (47),FC Schalke 04 (18),1-0,0-0,Hamburger SV (18)
+19,(Fri) 4 Dec 1987 (48),Bayer 04 Leverkusen (19),2-1,2-0,FC 08 Homburg (19)
+19,(Fri) 4 Dec 1987 (48),Hannover 96 (19),3-1,1-1,FC Schalke 04 (19)
+19,(Sat) 5 Dec 1987 (48),1. FC Kaiserslautern (19),3-0,1-0,1. FC Köln (19)
+19,(Sat) 5 Dec 1987 (48),VfL Bochum (19),1-0,0-0,Eintracht Frankfurt (19)
+19,(Sat) 5 Dec 1987 (48),KFC Uerdingen (19),2-4,1-2,Bor. Mönchengladbach (19)
+19,(Sat) 5 Dec 1987 (48),VfB Stuttgart (19),0-1,0-1,1. FC Nürnberg (19)
+19,(Sat) 5 Dec 1987 (48),Borussia Dortmund (19),0-1,0-0,SV Waldhof Mannheim (19)
+19,(Sat) 5 Dec 1987 (48),Hamburger SV (19),2-2,0-1,Bayern München (19)
+19,(Sat) 5 Dec 1987 (48),Karlsruher SC (19),0-2,0-1,Werder Bremen (19)
+20,(Sat) 20 Feb 1988 (7),FC 08 Homburg (20),0-3,0-2,Borussia Dortmund (20)
+20,(Sat) 20 Feb 1988 (7),1. FC Nürnberg (20),2-1,1-0,Bayer 04 Leverkusen (20)
+20,(Sat) 20 Feb 1988 (7),Bor. Mönchengladbach (20),0-1,0-0,VfB Stuttgart (20)
+20,(Sat) 20 Feb 1988 (7),Eintracht Frankfurt (20),3-1,0-0,KFC Uerdingen (20)
+20,(Sat) 20 Feb 1988 (7),1. FC Köln (20),2-2,1-1,VfL Bochum (20)
+20,(Sat) 20 Feb 1988 (7),Werder Bremen (20),0-0,0-0,1. FC Kaiserslautern (20)
+20,(Sat) 20 Feb 1988 (7),FC Schalke 04 (20),3-1,1-0,Karlsruher SC (20)
+20,(Sat) 20 Feb 1988 (7),SV Waldhof Mannheim (20),1-2,1-1,Bayern München (20)
+20,(Sat) 20 Feb 1988 (7),Hannover 96 (20),3-1,0-0,Hamburger SV (20)
+21,(Sat) 27 Feb 1988 (8),1. FC Kaiserslautern (21),5-2,0-1,FC Schalke 04 (21)
+21,(Sat) 27 Feb 1988 (8),KFC Uerdingen (21),1-1,1-1,1. FC Köln (21)
+21,(Sat) 27 Feb 1988 (8),Bayern München (21),6-0,1-0,FC 08 Homburg (21)
+21,(Sat) 27 Feb 1988 (8),VfL Bochum (21),0-1,0-1,Werder Bremen (21)
+21,(Tue) 8 Mar 1988 (10),Bayer 04 Leverkusen (21),2-1,0-0,Bor. Mönchengladbach (21)
+21,(Tue) 15 Mar 1988 (11),VfB Stuttgart (21),1-0,0-0,Eintracht Frankfurt (21)
+21,(Tue) 15 Mar 1988 (11),Karlsruher SC (21),2-1,0-0,Hannover 96 (21)
+21,(Tue) 29 Mar 1988 (13),Hamburger SV (21),1-1,0-0,SV Waldhof Mannheim (21)
+21,(Tue) 5 Apr 1988 (14),Borussia Dortmund (21),1-1,0-0,1. FC Nürnberg (21)
+22,(Sat) 5 Mar 1988 (9),Bor. Mönchengladbach (22),0-3,0-2,Borussia Dortmund (22)
+22,(Sat) 5 Mar 1988 (9),Eintracht Frankfurt (22),3-2,2-2,Bayer 04 Leverkusen (22)
+22,(Sat) 5 Mar 1988 (9),1. FC Köln (22),1-1,0-0,VfB Stuttgart (22)
+22,(Sat) 5 Mar 1988 (9),Werder Bremen (22),5-1,1-1,KFC Uerdingen (22)
+22,(Sat) 5 Mar 1988 (9),FC Schalke 04 (22),2-1,0-0,VfL Bochum (22)
+22,(Sat) 5 Mar 1988 (9),Hannover 96 (22),1-0,1-0,1. FC Kaiserslautern (22)
+22,(Sat) 5 Mar 1988 (9),FC 08 Homburg (22),1-1,1-1,SV Waldhof Mannheim (22)
+22,(Sat) 5 Mar 1988 (9),1. FC Nürnberg (22),0-3,0-2,Bayern München (22)
+22,(Sat) 5 Mar 1988 (9),Karlsruher SC (22),0-0,0-0,Hamburger SV (22)
+23,(Fri) 11 Mar 1988 (10),Bayer 04 Leverkusen (23),1-1,1-1,1. FC Köln (23)
+23,(Fri) 11 Mar 1988 (10),1. FC Kaiserslautern (23),1-1,0-1,Karlsruher SC (23)
+23,(Sat) 12 Mar 1988 (10),Borussia Dortmund (23),3-1,0-1,Eintracht Frankfurt (23)
+23,(Sat) 12 Mar 1988 (10),Bayern München (23),1-0,0-0,Bor. Mönchengladbach (23)
+23,(Sat) 12 Mar 1988 (10),SV Waldhof Mannheim (23),0-1,0-1,1. FC Nürnberg (23)
+23,(Sat) 12 Mar 1988 (10),Hamburger SV (23),2-1,1-1,FC 08 Homburg (23)
+23,(Sat) 12 Mar 1988 (10),VfB Stuttgart (23),1-0,0-0,Werder Bremen (23)
+23,(Tue) 19 Apr 1988 (16),KFC Uerdingen (23),5-2,3-1,FC Schalke 04 (23)
+23,(Tue) 19 Apr 1988 (16),VfL Bochum (23),1-1,0-0,Hannover 96 (23)
+24,(Fri) 18 Mar 1988 (11),Bor. Mönchengladbach (24),0-1,0-0,SV Waldhof Mannheim (24)
+24,(Sat) 19 Mar 1988 (11),1. FC Köln (24),2-0,1-0,Borussia Dortmund (24)
+24,(Sat) 19 Mar 1988 (11),Werder Bremen (24),3-3,0-2,Bayer 04 Leverkusen (24)
+24,(Sat) 19 Mar 1988 (11),FC Schalke 04 (24),3-4,2-4,VfB Stuttgart (24)
+24,(Sat) 19 Mar 1988 (11),Hannover 96 (24),0-0,0-0,KFC Uerdingen (24)
+24,(Sat) 19 Mar 1988 (11),Karlsruher SC (24),1-0,0-0,VfL Bochum (24)
+24,(Sat) 19 Mar 1988 (11),1. FC Nürnberg (24),2-0,2-0,FC 08 Homburg (24)
+24,(Sat) 19 Mar 1988 (11),Eintracht Frankfurt (24),1-1,0-0,Bayern München (24)
+24,(Sat) 19 Mar 1988 (11),1. FC Kaiserslautern (24),0-3,0-1,Hamburger SV (24)
+25,(Tue) 22 Mar 1988 (12),FC 08 Homburg (25),0-0,0-0,Bor. Mönchengladbach (25)
+25,(Tue) 22 Mar 1988 (12),Bayer 04 Leverkusen (25),3-2,1-2,FC Schalke 04 (25)
+25,(Tue) 22 Mar 1988 (12),VfL Bochum (25),1-1,1-1,1. FC Kaiserslautern (25)
+25,(Tue) 22 Mar 1988 (12),VfB Stuttgart (25),3-1,1-0,Hannover 96 (25)
+25,(Wed) 23 Mar 1988 (12),Bayern München (25),2-2,1-0,1. FC Köln (25)
+25,(Wed) 23 Mar 1988 (12),SV Waldhof Mannheim (25),2-2,0-1,Eintracht Frankfurt (25)
+25,(Wed) 23 Mar 1988 (12),Hamburger SV (25),2-2,1-2,1. FC Nürnberg (25)
+25,(Wed) 23 Mar 1988 (12),KFC Uerdingen (25),4-2,1-1,Karlsruher SC (25)
+25,(Wed) 23 Mar 1988 (12),Borussia Dortmund (25),0-0,0-0,Werder Bremen (25)
+26,(Sat) 26 Mar 1988 (12),FC Schalke 04 (26),3-0,1-0,Borussia Dortmund (26)
+26,(Sat) 26 Mar 1988 (12),Hannover 96 (26),6-1,3-1,Bayer 04 Leverkusen (26)
+26,(Sat) 26 Mar 1988 (12),Karlsruher SC (26),0-2,0-1,VfB Stuttgart (26)
+26,(Sat) 26 Mar 1988 (12),1. FC Kaiserslautern (26),2-2,1-2,KFC Uerdingen (26)
+26,(Sat) 26 Mar 1988 (12),Bor. Mönchengladbach (26),3-0,2-0,1. FC Nürnberg (26)
+26,(Sat) 26 Mar 1988 (12),Eintracht Frankfurt (26),1-2,0-1,FC 08 Homburg (26)
+26,(Sat) 26 Mar 1988 (12),1. FC Köln (26),3-0,0-0,SV Waldhof Mannheim (26)
+26,(Sat) 26 Mar 1988 (12),Werder Bremen (26),3-1,2-1,Bayern München (26)
+26,(Sat) 26 Mar 1988 (12),VfL Bochum (26),4-0,2-0,Hamburger SV (26)
+27,(Fri) 8 Apr 1988 (14),Hamburger SV (27),2-1,1-0,Bor. Mönchengladbach (27)
+27,(Sat) 9 Apr 1988 (14),Bayern München (27),8-1,5-1,FC Schalke 04 (27)
+27,(Sat) 9 Apr 1988 (14),FC 08 Homburg (27),1-0,1-0,1. FC Köln (27)
+27,(Sat) 9 Apr 1988 (14),1. FC Nürnberg (27),1-1,0-0,Eintracht Frankfurt (27)
+27,(Sat) 9 Apr 1988 (14),KFC Uerdingen (27),3-1,2-1,VfL Bochum (27)
+27,(Sat) 9 Apr 1988 (14),VfB Stuttgart (27),3-0,0-0,1. FC Kaiserslautern (27)
+27,(Sat) 9 Apr 1988 (14),Bayer 04 Leverkusen (27),0-0,0-0,Karlsruher SC (27)
+27,(Sat) 9 Apr 1988 (14),Borussia Dortmund (27),3-3,1-1,Hannover 96 (27)
+27,(Sat) 9 Apr 1988 (14),SV Waldhof Mannheim (27),0-1,0-0,Werder Bremen (27)
+28,(Fri) 15 Apr 1988 (15),1. FC Kaiserslautern (28),1-3,0-0,Bayer 04 Leverkusen (28)
+28,(Sat) 16 Apr 1988 (15),Karlsruher SC (28),0-0,0-0,Borussia Dortmund (28)
+28,(Sat) 16 Apr 1988 (15),VfL Bochum (28),5-1,3-0,VfB Stuttgart (28)
+28,(Sat) 16 Apr 1988 (15),Eintracht Frankfurt (28),2-0,1-0,Bor. Mönchengladbach (28)
+28,(Sat) 16 Apr 1988 (15),1. FC Köln (28),3-1,3-1,1. FC Nürnberg (28)
+28,(Sat) 16 Apr 1988 (15),Werder Bremen (28),3-0,1-0,FC 08 Homburg (28)
+28,(Sat) 16 Apr 1988 (15),FC Schalke 04 (28),1-1,0-0,SV Waldhof Mannheim (28)
+28,(Sat) 16 Apr 1988 (15),Hannover 96 (28),2-1,0-1,Bayern München (28)
+28,(Sat) 16 Apr 1988 (15),KFC Uerdingen (28),1-1,1-1,Hamburger SV (28)
+29,(Fri) 22 Apr 1988 (16),Borussia Dortmund (29),3-0,2-0,1. FC Kaiserslautern (29)
+29,(Sat) 23 Apr 1988 (16),FC 08 Homburg (29),3-1,0-0,FC Schalke 04 (29)
+29,(Sat) 23 Apr 1988 (16),Bor. Mönchengladbach (29),0-1,0-0,1. FC Köln (29)
+29,(Sat) 23 Apr 1988 (16),Hamburger SV (29),2-2,1-0,Eintracht Frankfurt (29)
+29,(Sat) 23 Apr 1988 (16),VfB Stuttgart (29),1-3,1-1,KFC Uerdingen (29)
+29,(Sat) 23 Apr 1988 (16),Bayer 04 Leverkusen (29),0-0,0-0,VfL Bochum (29)
+29,(Sat) 23 Apr 1988 (16),Bayern München (29),2-1,1-1,Karlsruher SC (29)
+29,(Sat) 23 Apr 1988 (16),SV Waldhof Mannheim (29),2-1,1-0,Hannover 96 (29)
+29,(Sat) 23 Apr 1988 (16),1. FC Nürnberg (29),0-0,0-0,Werder Bremen (29)
+30,(Fri) 29 Apr 1988 (17),Karlsruher SC (30),1-1,1-1,SV Waldhof Mannheim (30)
+30,(Sat) 30 Apr 1988 (17),VfL Bochum (30),2-0,1-0,Borussia Dortmund (30)
+30,(Sat) 30 Apr 1988 (17),KFC Uerdingen (30),4-1,1-0,Bayer 04 Leverkusen (30)
+30,(Sat) 30 Apr 1988 (17),1. FC Köln (30),1-1,0-1,Eintracht Frankfurt (30)
+30,(Sat) 30 Apr 1988 (17),Werder Bremen (30),2-0,0-0,Bor. Mönchengladbach (30)
+30,(Sat) 30 Apr 1988 (17),FC Schalke 04 (30),0-0,0-0,1. FC Nürnberg (30)
+30,(Sat) 30 Apr 1988 (17),Hannover 96 (30),5-1,2-1,FC 08 Homburg (30)
+30,(Sat) 30 Apr 1988 (17),1. FC Kaiserslautern (30),3-1,1-0,Bayern München (30)
+30,(Sat) 30 Apr 1988 (17),VfB Stuttgart (30),5-1,3-1,Hamburger SV (30)
+31,(Tue) 3 May 1988 (18),FC 08 Homburg (31),1-0,0-0,Karlsruher SC (31)
+31,(Tue) 3 May 1988 (18),Bor. Mönchengladbach (31),1-1,0-1,FC Schalke 04 (31)
+31,(Tue) 3 May 1988 (18),Hamburger SV (31),3-0,2-0,1. FC Köln (31)
+31,(Tue) 3 May 1988 (18),Borussia Dortmund (31),4-2,2-1,KFC Uerdingen (31)
+31,(Tue) 3 May 1988 (18),Bayern München (31),5-0,0-0,VfL Bochum (31)
+31,(Tue) 3 May 1988 (18),SV Waldhof Mannheim (31),0-2,0-0,1. FC Kaiserslautern (31)
+31,(Tue) 3 May 1988 (18),1. FC Nürnberg (31),1-3,0-1,Hannover 96 (31)
+31,(Tue) 3 May 1988 (18),Eintracht Frankfurt (31),0-1,0-0,Werder Bremen (31)
+31,(Tue) 10 May 1988 (19),Bayer 04 Leverkusen (31),2-1,1-1,VfB Stuttgart (31)
+32,(Fri) 6 May 1988 (18),1. FC Kaiserslautern (32),1-0,0-0,FC 08 Homburg (32)
+32,(Fri) 6 May 1988 (18),VfL Bochum (32),1-0,1-0,SV Waldhof Mannheim (32)
+32,(Sat) 7 May 1988 (18),VfB Stuttgart (32),2-2,0-1,Borussia Dortmund (32)
+32,(Sat) 7 May 1988 (18),Hamburger SV (32),3-2,2-0,Bayer 04 Leverkusen (32)
+32,(Sat) 7 May 1988 (18),FC Schalke 04 (32),0-0,0-0,Eintracht Frankfurt (32)
+32,(Sat) 7 May 1988 (18),Hannover 96 (32),2-4,1-2,Bor. Mönchengladbach (32)
+32,(Sat) 7 May 1988 (18),Karlsruher SC (32),2-0,1-0,1. FC Nürnberg (32)
+32,(Sat) 7 May 1988 (18),KFC Uerdingen (32),0-0,0-0,Bayern München (32)
+32,(Sat) 7 May 1988 (18),1. FC Köln (32),2-0,1-0,Werder Bremen (32)
+33,(Sat) 14 May 1988 (19),1. FC Köln (33),3-1,0-1,FC Schalke 04 (33)
+33,(Sat) 14 May 1988 (19),Borussia Dortmund (33),2-2,0-0,Bayer 04 Leverkusen (33)
+33,(Sat) 14 May 1988 (19),Bayern München (33),2-1,1-0,VfB Stuttgart (33)
+33,(Sat) 14 May 1988 (19),SV Waldhof Mannheim (33),2-2,2-0,KFC Uerdingen (33)
+33,(Sat) 14 May 1988 (19),FC 08 Homburg (33),1-1,0-0,VfL Bochum (33)
+33,(Sat) 14 May 1988 (19),1. FC Nürnberg (33),3-2,3-1,1. FC Kaiserslautern (33)
+33,(Sat) 14 May 1988 (19),Bor. Mönchengladbach (33),2-2,2-0,Karlsruher SC (33)
+33,(Sat) 14 May 1988 (19),Eintracht Frankfurt (33),3-3,2-0,Hannover 96 (33)
+33,(Sat) 14 May 1988 (19),Werder Bremen (33),1-4,1-1,Hamburger SV (33)
+34,(Sat) 21 May 1988 (20),Hamburger SV (34),4-3,0-0,Borussia Dortmund (34)
+34,(Sat) 21 May 1988 (20),Hannover 96 (34),0-3,0-1,1. FC Köln (34)
+34,(Sat) 21 May 1988 (20),Karlsruher SC (34),1-1,0-1,Eintracht Frankfurt (34)
+34,(Sat) 21 May 1988 (20),1. FC Kaiserslautern (34),5-2,1-2,Bor. Mönchengladbach (34)
+34,(Sat) 21 May 1988 (20),VfL Bochum (34),3-0,1-0,1. FC Nürnberg (34)
+34,(Sat) 21 May 1988 (20),KFC Uerdingen (34),5-1,1-1,FC 08 Homburg (34)
+34,(Sat) 21 May 1988 (20),VfB Stuttgart (34),1-1,1-0,SV Waldhof Mannheim (34)
+34,(Sat) 21 May 1988 (20),Bayer 04 Leverkusen (34),3-4,3-1,Bayern München (34)
+34,(Sat) 21 May 1988 (20),FC Schalke 04 (34),1-4,0-4,Werder Bremen (34)

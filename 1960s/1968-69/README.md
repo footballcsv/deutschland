@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bayern München                34  12  4  1  40:10    6  6  5  21:21    61:31  +30   64
@@ -24,9 +24,9 @@
 16. MSV Duisburg                  34   7  9  1  19:10    1  7  9  14:27    33:37   -4   40
 17. 1. FC Nürnberg                34   7  7  3  26:15    2  4 11  19:40    45:55  -10   38
 18. Kickers Offenbach             34   9  5  3  27:19    1  3 13  15:40    42:59  -17   38
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

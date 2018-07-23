@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bayern München                34  14  3  0  69:20   10  4  3  32:18   101:38  +63   79
@@ -21,12 +21,12 @@
 13. Eintracht Braunschweig        34   6  9  2  21:13    2  6  9  22:35    43:48   -5   39
 14. MSV Duisburg                  34   8  5  4  25:17    2  2 13  11:34    36:51  -15   37
 15. Hannover 96                   34  10  1  6  41:26    0  2 15  13:43    54:69  -15   33
-16. Rot-Weiss Oberhausen          34   6  6  5  27:27    1  5 11   6:39    33:66  -33   32
+16. Rot-Weiß Oberhausen           34   6  6  5  27:27    1  5 11   6:39    33:66  -33   32
 17. Borussia Dortmund             34   5  6  6  18:26    1  2 14  16:57    34:83  -49   26
 18. Arminia Bielefeld             34   6  4  7  25:29    0  3 14  16:46    41:75  -34   25
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

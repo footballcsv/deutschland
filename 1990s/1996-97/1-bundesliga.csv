@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT
-1,1996-08-16,FC St. Pauli,Bayern München,1-2,1-2
-1,1996-08-16,Bor. Mönchengladbach,Arminia Bielefeld,0-0,0-0
-1,1996-08-17,VfL Bochum,MSV Duisburg,1-0,1-0
-1,1996-08-17,Bayer Leverkusen,Borussia Dortmund,4-2,2-2
-1,1996-08-17,Hansa Rostock,Karlsruher SC,2-2,0-1
-1,1996-08-17,SC Freiburg,Werder Bremen,3-2,2-0
-1,1996-08-17,VfB Stuttgart,FC Schalke 04,4-0,2-0
-1,1996-08-17,TSV 1860 München,Hamburger SV,2-1,0-0
-1,1996-08-18,Fortuna Düsseldorf,1. FC Köln,0-3,0-1
-2,1996-08-20,Arminia Bielefeld,FC St. Pauli,1-2,0-1
-2,1996-08-20,Hamburger SV,SC Freiburg,5-1,4-0
-2,1996-08-20,Werder Bremen,Hansa Rostock,1-1,0-1
-2,1996-08-20,FC Schalke 04,Bor. Mönchengladbach,0-0,0-0
-2,1996-08-21,Borussia Dortmund,Fortuna Düsseldorf,4-0,2-0
-2,1996-08-21,Bayern München,VfL Bochum,1-1,0-0
-2,1996-08-21,MSV Duisburg,Bayer Leverkusen,1-3,0-0
-2,1996-08-21,1. FC Köln,TSV 1860 München,1-0,1-0
-2,1996-09-17,Karlsruher SC,VfB Stuttgart,0-2,0-1
-3,1996-08-23,FC St. Pauli,FC Schalke 04,4-4,1-3
-3,1996-08-23,Hansa Rostock,Hamburger SV,0-1,0-0
-3,1996-08-24,SC Freiburg,1. FC Köln,1-3,0-1
-3,1996-08-24,Bor. Mönchengladbach,Karlsruher SC,1-3,1-2
-3,1996-08-24,TSV 1860 München,Borussia Dortmund,1-3,1-0
-3,1996-08-24,VfB Stuttgart,Werder Bremen,2-1,0-0
-3,1996-08-24,Bayer Leverkusen,Fortuna Düsseldorf,0-1,0-0
-3,1996-08-24,VfL Bochum,Arminia Bielefeld,1-1,0-0
-3,1996-08-25,MSV Duisburg,Bayern München,0-4,0-2
-4,1996-08-27,Borussia Dortmund,SC Freiburg,3-1,2-0
-4,1996-08-27,Hamburger SV,VfB Stuttgart,0-4,0-1
-4,1996-08-27,Werder Bremen,Bor. Mönchengladbach,1-0,1-0
-4,1996-08-27,FC Schalke 04,VfL Bochum,1-1,1-0
-4,1996-08-28,Karlsruher SC,FC St. Pauli,4-0,1-0
-4,1996-08-28,Bayern München,Bayer Leverkusen,4-2,3-1
-4,1996-08-28,Fortuna Düsseldorf,TSV 1860 München,0-0,0-0
-4,1996-08-28,1. FC Köln,Hansa Rostock,0-2,0-1
-4,1996-08-28,Arminia Bielefeld,MSV Duisburg,1-1,0-0
-5,1996-09-06,SC Freiburg,Fortuna Düsseldorf,1-2,1-1
-5,1996-09-06,Bor. Mönchengladbach,Hamburger SV,3-0,3-0
-5,1996-09-07,Bayer Leverkusen,TSV 1860 München,3-0,2-0
-5,1996-09-07,Hansa Rostock,Borussia Dortmund,0-1,0-0
-5,1996-09-07,Bayern München,Arminia Bielefeld,1-0,0-0
-5,1996-09-07,VfL Bochum,Karlsruher SC,3-1,1-0
-5,1996-09-07,FC St. Pauli,Werder Bremen,0-3,0-2
-5,1996-09-07,MSV Duisburg,FC Schalke 04,0-1,0-1
-5,1996-09-08,VfB Stuttgart,1. FC Köln,4-0,0-0
-6,1996-09-13,Werder Bremen,VfL Bochum,5-1,3-0
-6,1996-09-13,Fortuna Düsseldorf,Hansa Rostock,0-2,0-1
-6,1996-09-14,Borussia Dortmund,VfB Stuttgart,1-1,0-1
-6,1996-09-14,Karlsruher SC,MSV Duisburg,1-0,1-0
-6,1996-09-14,FC Schalke 04,Bayern München,1-1,1-0
-6,1996-09-14,Arminia Bielefeld,Bayer Leverkusen,0-1,0-1
-6,1996-09-14,TSV 1860 München,SC Freiburg,4-0,0-0
-6,1996-09-14,1. FC Köln,Bor. Mönchengladbach,4-0,2-0
-6,1996-09-15,Hamburger SV,FC St. Pauli,3-0,1-0
-7,1996-09-20,MSV Duisburg,Werder Bremen,3-2,1-0
-7,1996-09-20,Hansa Rostock,TSV 1860 München,2-4,2-2
-7,1996-09-21,Bor. Mönchengladbach,Borussia Dortmund,5-1,3-1
-7,1996-09-21,VfL Bochum,Hamburger SV,3-1,1-0
-7,1996-09-21,FC St. Pauli,1. FC Köln,0-0,0-0
-7,1996-09-21,VfB Stuttgart,Fortuna Düsseldorf,0-2,0-0
-7,1996-09-21,Arminia Bielefeld,FC Schalke 04,0-1,0-1
-7,1996-09-21,Bayern München,Karlsruher SC,1-0,1-0
-7,1996-09-22,Bayer Leverkusen,SC Freiburg,5-3,2-1
-8,1996-09-27,Karlsruher SC,Arminia Bielefeld,5-2,2-0
-8,1996-09-27,1. FC Köln,VfL Bochum,2-0,0-0
-8,1996-09-28,Fortuna Düsseldorf,Bor. Mönchengladbach,1-0,1-0
-8,1996-09-28,Hamburger SV,MSV Duisburg,1-1,0-0
-8,1996-09-28,Werder Bremen,Bayern München,3-0,1-0
-8,1996-09-28,FC Schalke 04,Bayer Leverkusen,1-2,1-2
-8,1996-09-28,SC Freiburg,Hansa Rostock,1-0,0-0
-8,1996-09-28,TSV 1860 München,VfB Stuttgart,2-5,1-2
-8,1996-09-29,Borussia Dortmund,FC St. Pauli,2-1,1-0
-9,1996-10-04,VfB Stuttgart,SC Freiburg,4-2,2-1
-9,1996-10-04,Bayer Leverkusen,Hansa Rostock,4-1,1-1
-9,1996-10-04,VfL Bochum,Borussia Dortmund,1-0,0-0
-9,1996-10-05,FC St. Pauli,Fortuna Düsseldorf,3-0,1-0
-9,1996-10-05,Bor. Mönchengladbach,TSV 1860 München,1-0,0-0
-9,1996-10-05,FC Schalke 04,Karlsruher SC,0-1,0-1
-9,1996-10-05,Arminia Bielefeld,Werder Bremen,3-1,1-0
-9,1996-10-05,Bayern München,Hamburger SV,2-1,1-0
-9,1996-10-05,MSV Duisburg,1. FC Köln,3-0,2-0
-10,1996-10-11,SC Freiburg,Bor. Mönchengladbach,1-0,0-0
-10,1996-10-11,TSV 1860 München,FC St. Pauli,4-2,1-0
-10,1996-10-12,Borussia Dortmund,MSV Duisburg,2-0,0-0
-10,1996-10-12,Hamburger SV,Arminia Bielefeld,2-2,2-0
-10,1996-10-12,Werder Bremen,FC Schalke 04,3-0,1-0
-10,1996-10-12,Karlsruher SC,Bayer Leverkusen,1-1,1-0
-10,1996-10-12,Hansa Rostock,VfB Stuttgart,2-2,0-2
-10,1996-10-12,1. FC Köln,Bayern München,2-4,0-1
-10,1996-10-13,Fortuna Düsseldorf,VfL Bochum,2-2,2-0
-11,1996-10-18,VfL Bochum,TSV 1860 München,2-2,0-1
-11,1996-10-18,Bayer Leverkusen,VfB Stuttgart,0-0,0-0
-11,1996-10-19,FC St. Pauli,SC Freiburg,2-0,1-0
-11,1996-10-19,Bor. Mönchengladbach,Hansa Rostock,2-0,0-0
-11,1996-10-19,Karlsruher SC,Werder Bremen,1-3,1-0
-11,1996-10-19,FC Schalke 04,Hamburger SV,2-0,1-0
-11,1996-10-19,Arminia Bielefeld,1. FC Köln,1-4,0-1
-11,1996-10-19,MSV Duisburg,Fortuna Düsseldorf,0-0,0-0
-11,1996-10-20,Bayern München,Borussia Dortmund,0-0,0-0
-12,1996-10-25,Hansa Rostock,FC St. Pauli,3-1,3-0
-12,1996-10-25,Werder Bremen,Bayer Leverkusen,1-1,1-0
-12,1996-10-26,Borussia Dortmund,Arminia Bielefeld,5-0,2-0
-12,1996-10-26,Hamburger SV,Karlsruher SC,2-0,1-0
-12,1996-10-26,VfB Stuttgart,Bor. Mönchengladbach,5-0,1-0
-12,1996-10-26,TSV 1860 München,MSV Duisburg,1-1,1-1
-12,1996-10-26,Fortuna Düsseldorf,Bayern München,0-2,0-1
-12,1996-10-26,1. FC Köln,FC Schalke 04,3-1,1-0
-12,1996-10-27,SC Freiburg,VfL Bochum,0-1,0-1
-13,1996-11-01,Bayern München,TSV 1860 München,1-1,1-0
-13,1996-11-01,VfL Bochum,Hansa Rostock,1-0,0-0
-13,1996-11-02,FC Schalke 04,Borussia Dortmund,1-3,0-1
-13,1996-11-02,FC St. Pauli,VfB Stuttgart,2-1,1-1
-13,1996-11-02,Werder Bremen,Hamburger SV,0-0,0-0
-13,1996-11-02,Arminia Bielefeld,Fortuna Düsseldorf,1-0,0-0
-13,1996-11-02,MSV Duisburg,SC Freiburg,1-4,0-1
-13,1996-11-02,Bayer Leverkusen,Bor. Mönchengladbach,3-0,0-0
-13,1996-11-03,Karlsruher SC,1. FC Köln,4-1,1-1
-14,1996-11-15,Bor. Mönchengladbach,FC St. Pauli,0-0,0-0
-14,1996-11-15,1. FC Köln,Werder Bremen,4-1,1-0
-14,1996-11-16,Hamburger SV,Bayer Leverkusen,0-2,0-0
-14,1996-11-16,VfB Stuttgart,VfL Bochum,3-1,3-1
-14,1996-11-16,SC Freiburg,Bayern München,0-0,0-0
-14,1996-11-16,TSV 1860 München,Arminia Bielefeld,1-3,1-1
-14,1996-11-16,Fortuna Düsseldorf,FC Schalke 04,1-3,1-2
-14,1996-11-16,Borussia Dortmund,Karlsruher SC,1-1,1-1
-14,1996-11-17,Hansa Rostock,MSV Duisburg,0-1,0-0
-15,1996-11-22,VfL Bochum,Bor. Mönchengladbach,2-0,1-0
-15,1996-11-22,Karlsruher SC,Fortuna Düsseldorf,2-0,0-0
-15,1996-11-23,Werder Bremen,Borussia Dortmund,0-4,0-3
-15,1996-11-23,1. FC Köln,Hamburger SV,2-2,1-2
-15,1996-11-23,Bayern München,Hansa Rostock,2-1,2-0
-15,1996-11-23,FC Schalke 04,TSV 1860 München,4-1,2-1
-15,1996-11-23,Arminia Bielefeld,SC Freiburg,2-0,1-0
-15,1996-11-23,FC St. Pauli,Bayer Leverkusen,3-1,2-0
-15,1996-11-24,MSV Duisburg,VfB Stuttgart,3-1,1-1
-16,1996-11-29,Borussia Dortmund,Hamburger SV,1-1,1-0
-16,1996-11-30,Bor. Mönchengladbach,MSV Duisburg,0-1,0-0
-16,1996-11-30,Hansa Rostock,Arminia Bielefeld,3-1,1-1
-16,1996-11-30,SC Freiburg,FC Schalke 04,2-3,1-1
-16,1996-11-30,TSV 1860 München,Karlsruher SC,1-1,0-0
-16,1996-11-30,Fortuna Düsseldorf,Werder Bremen,4-1,2-0
-16,1996-11-30,Bayer Leverkusen,1. FC Köln,4-2,0-0
-16,1996-12-01,VfB Stuttgart,Bayern München,1-1,0-1
-16,1997-04-09,FC St. Pauli,VfL Bochum,2-1,2-0
-17,1996-12-06,VfL Bochum,Bayer Leverkusen,2-2,1-1
-17,1996-12-06,Werder Bremen,TSV 1860 München,1-1,0-1
-17,1996-12-06,Karlsruher SC,SC Freiburg,3-0,2-0
-17,1996-12-06,FC Schalke 04,Hansa Rostock,2-0,2-0
-17,1996-12-07,Arminia Bielefeld,VfB Stuttgart,2-0,1-0
-17,1996-12-07,Hamburger SV,Fortuna Düsseldorf,2-1,0-1
-17,1996-12-07,Bayern München,Bor. Mönchengladbach,1-0,0-0
-17,1996-12-07,MSV Duisburg,FC St. Pauli,1-0,0-0
-17,1996-12-07,1. FC Köln,Borussia Dortmund,1-3,1-0
-18,1997-02-14,1. FC Köln,Fortuna Düsseldorf,2-0,1-0
-18,1997-02-14,Borussia Dortmund,Bayer Leverkusen,3-1,1-1
-18,1997-02-15,MSV Duisburg,VfL Bochum,1-1,1-1
-18,1997-02-15,Bayern München,FC St. Pauli,3-0,1-0
-18,1997-02-15,FC Schalke 04,VfB Stuttgart,1-0,1-0
-18,1997-02-15,Karlsruher SC,Hansa Rostock,1-1,1-0
-18,1997-02-15,Werder Bremen,SC Freiburg,1-0,0-0
-18,1997-02-15,Hamburger SV,TSV 1860 München,2-3,0-0
-18,1997-02-16,Arminia Bielefeld,Bor. Mönchengladbach,0-2,0-1
-19,1997-02-21,SC Freiburg,Hamburger SV,0-4,0-2
-19,1997-02-21,Fortuna Düsseldorf,Borussia Dortmund,2-0,0-0
-19,1997-02-21,FC St. Pauli,Arminia Bielefeld,2-3,1-2
-19,1997-02-22,Hansa Rostock,Werder Bremen,0-1,0-1
-19,1997-02-22,VfB Stuttgart,Karlsruher SC,1-0,0-0
-19,1997-02-22,Bor. Mönchengladbach,FC Schalke 04,0-0,0-0
-19,1997-02-22,VfL Bochum,Bayern München,1-1,0-0
-19,1997-02-22,Bayer Leverkusen,MSV Duisburg,1-0,1-0
-19,1997-02-22,TSV 1860 München,1. FC Köln,2-1,0-0
-20,1997-02-28,Arminia Bielefeld,VfL Bochum,3-1,2-0
-20,1997-02-28,FC Schalke 04,FC St. Pauli,0-0,0-0
-20,1997-03-01,Karlsruher SC,Bor. Mönchengladbach,1-1,0-0
-20,1997-03-01,Werder Bremen,VfB Stuttgart,2-2,2-1
-20,1997-03-01,1. FC Köln,SC Freiburg,1-0,0-0
-20,1997-03-01,Borussia Dortmund,TSV 1860 München,4-1,3-1
-20,1997-03-01,Bayern München,MSV Duisburg,5-2,2-0
-20,1997-03-01,Fortuna Düsseldorf,Bayer Leverkusen,0-0,0-0
-20,1997-03-02,Hamburger SV,Hansa Rostock,1-1,1-0
-21,1997-03-07,Hansa Rostock,1. FC Köln,0-0,0-0
-21,1997-03-07,VfL Bochum,FC Schalke 04,0-1,0-0
-21,1997-03-08,SC Freiburg,Borussia Dortmund,1-2,1-1
-21,1997-03-08,VfB Stuttgart,Hamburger SV,4-1,3-1
-21,1997-03-08,Bor. Mönchengladbach,Werder Bremen,4-1,1-0
-21,1997-03-08,FC St. Pauli,Karlsruher SC,2-4,2-2
-21,1997-03-08,MSV Duisburg,Arminia Bielefeld,0-0,0-0
-21,1997-03-08,TSV 1860 München,Fortuna Düsseldorf,3-0,0-0
-21,1997-03-09,Bayer Leverkusen,Bayern München,5-2,3-0
-22,1997-03-11,Karlsruher SC,VfL Bochum,2-3,1-2
-22,1997-03-11,Werder Bremen,FC St. Pauli,2-1,1-1
-22,1997-03-11,Hamburger SV,Bor. Mönchengladbach,2-1,0-0
-22,1997-03-11,1. FC Köln,VfB Stuttgart,1-5,1-2
-22,1997-03-11,FC Schalke 04,MSV Duisburg,4-0,1-0
-22,1997-03-12,Borussia Dortmund,Hansa Rostock,3-0,0-0
-22,1997-03-12,Fortuna Düsseldorf,SC Freiburg,2-1,1-0
-22,1997-03-12,TSV 1860 München,Bayer Leverkusen,3-0,2-0
-22,1997-03-12,Arminia Bielefeld,Bayern München,2-0,2-0
-23,1997-03-14,MSV Duisburg,Karlsruher SC,2-2,0-2
-23,1997-03-14,FC St. Pauli,Hamburger SV,2-2,0-1
-23,1997-03-15,Bayern München,FC Schalke 04,3-0,1-0
-23,1997-03-15,Bayer Leverkusen,Arminia Bielefeld,1-0,0-0
-23,1997-03-15,SC Freiburg,TSV 1860 München,2-2,0-2
-23,1997-03-15,Hansa Rostock,Fortuna Düsseldorf,3-1,3-1
-23,1997-03-15,Bor. Mönchengladbach,1. FC Köln,2-1,0-0
-23,1997-03-15,VfB Stuttgart,Borussia Dortmund,4-1,2-1
-23,1997-03-16,VfL Bochum,Werder Bremen,3-2,1-0
-24,1997-03-21,Fortuna Düsseldorf,VfB Stuttgart,0-4,0-0
-24,1997-03-21,Werder Bremen,MSV Duisburg,0-2,0-1
-24,1997-03-22,Hamburger SV,VfL Bochum,2-2,1-1
-24,1997-03-22,1. FC Köln,FC St. Pauli,0-1,0-1
-24,1997-03-22,Borussia Dortmund,Bor. Mönchengladbach,1-3,0-1
-24,1997-03-22,TSV 1860 München,Hansa Rostock,2-0,0-0
-24,1997-03-22,FC Schalke 04,Arminia Bielefeld,0-0,0-0
-24,1997-03-22,SC Freiburg,Bayer Leverkusen,1-2,0-0
-24,1997-03-23,Karlsruher SC,Bayern München,0-2,0-1
-25,1997-03-27,FC St. Pauli,Borussia Dortmund,0-1,0-0
-25,1997-03-27,MSV Duisburg,Hamburger SV,1-1,0-0
-25,1997-03-27,VfB Stuttgart,TSV 1860 München,1-1,1-1
-25,1997-03-27,VfL Bochum,1. FC Köln,2-2,1-1
-25,1997-03-29,Bayern München,Werder Bremen,1-0,1-0
-25,1997-03-29,Arminia Bielefeld,Karlsruher SC,1-2,0-0
-25,1997-03-29,Bayer Leverkusen,FC Schalke 04,2-0,0-0
-25,1997-03-29,Hansa Rostock,SC Freiburg,3-1,2-1
-25,1997-03-29,Bor. Mönchengladbach,Fortuna Düsseldorf,2-0,1-0
-26,1997-04-04,1. FC Köln,MSV Duisburg,2-5,2-1
-26,1997-04-04,TSV 1860 München,Bor. Mönchengladbach,3-0,0-0
-26,1997-04-05,Borussia Dortmund,VfL Bochum,2-0,1-0
-26,1997-04-05,Fortuna Düsseldorf,FC St. Pauli,2-0,1-0
-26,1997-04-05,Karlsruher SC,FC Schalke 04,0-0,0-0
-26,1997-04-05,Werder Bremen,Arminia Bielefeld,2-1,1-1
-26,1997-04-05,Hamburger SV,Bayern München,0-3,0-2
-26,1997-04-05,Hansa Rostock,Bayer Leverkusen,1-0,0-0
-26,1997-04-06,SC Freiburg,VfB Stuttgart,1-1,0-0
-27,1997-04-11,Arminia Bielefeld,Hamburger SV,1-1,1-1
-27,1997-04-11,Bayer Leverkusen,Karlsruher SC,3-1,1-1
-27,1997-04-12,FC Schalke 04,Werder Bremen,1-1,1-0
-27,1997-04-12,MSV Duisburg,Borussia Dortmund,3-2,1-0
-27,1997-04-12,VfB Stuttgart,Hansa Rostock,5-1,1-0
-27,1997-04-12,Bor. Mönchengladbach,SC Freiburg,4-3,2-2
-27,1997-04-12,FC St. Pauli,TSV 1860 München,0-0,0-0
-27,1997-04-12,Bayern München,1. FC Köln,3-2,1-0
-27,1997-04-13,VfL Bochum,Fortuna Düsseldorf,3-1,3-0
-28,1997-04-18,Hansa Rostock,Bor. Mönchengladbach,1-0,1-0
-28,1997-04-18,Fortuna Düsseldorf,MSV Duisburg,1-1,0-1
-28,1997-04-19,TSV 1860 München,VfL Bochum,0-1,0-1
-28,1997-04-19,SC Freiburg,FC St. Pauli,4-0,2-0
-28,1997-04-19,Werder Bremen,Karlsruher SC,1-0,0-0
-28,1997-04-19,Hamburger SV,FC Schalke 04,1-0,1-0
-28,1997-04-19,1. FC Köln,Arminia Bielefeld,2-5,0-3
-28,1997-04-19,Borussia Dortmund,Bayern München,1-1,1-1
-28,1997-04-20,VfB Stuttgart,Bayer Leverkusen,1-2,0-1
-29,1997-04-24,FC St. Pauli,Hansa Rostock,0-1,0-0
-29,1997-04-25,Bayer Leverkusen,Werder Bremen,2-1,1-0
-29,1997-04-25,MSV Duisburg,TSV 1860 München,2-3,1-0
-29,1997-04-26,Arminia Bielefeld,Borussia Dortmund,2-0,2-0
-29,1997-04-26,Karlsruher SC,Hamburger SV,3-1,2-1
-29,1997-04-26,Bor. Mönchengladbach,VfB Stuttgart,0-1,0-0
-29,1997-04-26,VfL Bochum,SC Freiburg,3-2,1-1
-29,1997-04-26,Bayern München,Fortuna Düsseldorf,5-0,4-0
-29,1997-04-26,FC Schalke 04,1. FC Köln,1-1,1-0
-30,1997-05-02,Hansa Rostock,VfL Bochum,0-0,0-0
-30,1997-05-02,Fortuna Düsseldorf,Arminia Bielefeld,1-2,1-0
-30,1997-05-03,VfB Stuttgart,FC St. Pauli,3-0,0-0
-30,1997-05-03,Hamburger SV,Werder Bremen,3-2,2-0
-30,1997-05-03,1. FC Köln,Karlsruher SC,4-1,1-1
-30,1997-05-03,Borussia Dortmund,FC Schalke 04,1-0,0-0
-30,1997-05-03,SC Freiburg,MSV Duisburg,2-0,0-0
-30,1997-05-03,Bor. Mönchengladbach,Bayer Leverkusen,2-2,0-2
-30,1997-05-04,TSV 1860 München,Bayern München,3-3,2-1
-31,1997-05-09,MSV Duisburg,Hansa Rostock,0-1,0-1
-31,1997-05-09,Werder Bremen,1. FC Köln,3-2,2-2
-31,1997-05-10,Karlsruher SC,Borussia Dortmund,1-1,1-0
-31,1997-05-10,FC St. Pauli,Bor. Mönchengladbach,1-3,0-1
-31,1997-05-10,VfL Bochum,VfB Stuttgart,2-1,0-0
-31,1997-05-10,Bayern München,SC Freiburg,0-0,0-0
-31,1997-05-10,Arminia Bielefeld,TSV 1860 München,2-3,1-2
-31,1997-05-10,FC Schalke 04,Fortuna Düsseldorf,0-1,0-1
-31,1997-05-11,Bayer Leverkusen,Hamburger SV,5-0,2-0
-32,1997-05-16,Fortuna Düsseldorf,Karlsruher SC,0-3,0-0
-32,1997-05-16,Hansa Rostock,Bayern München,0-3,0-1
-32,1997-05-17,Bor. Mönchengladbach,VfL Bochum,6-2,0-1
-32,1997-05-17,Bayer Leverkusen,FC St. Pauli,3-0,0-0
-32,1997-05-17,Borussia Dortmund,Werder Bremen,2-1,1-0
-32,1997-05-17,TSV 1860 München,FC Schalke 04,2-1,2-0
-32,1997-05-17,VfB Stuttgart,MSV Duisburg,0-2,0-0
-32,1997-05-17,Hamburger SV,1. FC Köln,0-4,0-1
-32,1997-05-18,SC Freiburg,Arminia Bielefeld,2-1,1-1
-33,1997-05-24,Hamburger SV,Borussia Dortmund,2-1,1-0
-33,1997-05-24,VfL Bochum,FC St. Pauli,6-0,1-0
-33,1997-05-24,MSV Duisburg,Bor. Mönchengladbach,4-2,2-1
-33,1997-05-24,Bayern München,VfB Stuttgart,4-2,2-1
-33,1997-05-24,Arminia Bielefeld,Hansa Rostock,1-3,0-2
-33,1997-05-24,FC Schalke 04,SC Freiburg,0-2,0-0
-33,1997-05-24,Karlsruher SC,TSV 1860 München,3-0,2-0
-33,1997-05-24,Werder Bremen,Fortuna Düsseldorf,1-0,0-0
-33,1997-05-24,1. FC Köln,Bayer Leverkusen,4-0,2-0
-34,1997-05-31,Bayer Leverkusen,VfL Bochum,2-0,1-0
-34,1997-05-31,Fortuna Düsseldorf,Hamburger SV,1-1,1-1
-34,1997-05-31,TSV 1860 München,Werder Bremen,0-3,0-1
-34,1997-05-31,SC Freiburg,Karlsruher SC,1-1,1-1
-34,1997-05-31,Hansa Rostock,FC Schalke 04,0-1,0-0
-34,1997-05-31,VfB Stuttgart,Arminia Bielefeld,4-2,2-1
-34,1997-05-31,Bor. Mönchengladbach,Bayern München,2-2,1-1
-34,1997-05-31,FC St. Pauli,MSV Duisburg,0-2,0-1
-34,1997-05-31,Borussia Dortmund,1. FC Köln,2-1,1-0
+Round,Date,Team 1,FT,HT,Team 2
+1,(Fri) 16 Aug 1996 (33),FC St. Pauli (1),1-2,1-2,Bayern München (1)
+1,(Fri) 16 Aug 1996 (33),Bor. Mönchengladbach (1),0-0,0-0,Arminia Bielefeld (1)
+1,(Sat) 17 Aug 1996 (33),VfL Bochum (1),1-0,1-0,MSV Duisburg (1)
+1,(Sat) 17 Aug 1996 (33),Bayer 04 Leverkusen (1),4-2,2-2,Borussia Dortmund (1)
+1,(Sat) 17 Aug 1996 (33),Hansa Rostock (1),2-2,0-1,Karlsruher SC (1)
+1,(Sat) 17 Aug 1996 (33),SC Freiburg (1),3-2,2-0,Werder Bremen (1)
+1,(Sat) 17 Aug 1996 (33),VfB Stuttgart (1),4-0,2-0,FC Schalke 04 (1)
+1,(Sat) 17 Aug 1996 (33),TSV 1860 München (1),2-1,0-0,Hamburger SV (1)
+1,(Sun) 18 Aug 1996 (33),Fortuna Düsseldorf (1),0-3,0-1,1. FC Köln (1)
+2,(Tue) 20 Aug 1996 (34),Arminia Bielefeld (2),1-2,0-1,FC St. Pauli (2)
+2,(Tue) 20 Aug 1996 (34),Hamburger SV (2),5-1,4-0,SC Freiburg (2)
+2,(Tue) 20 Aug 1996 (34),Werder Bremen (2),1-1,0-1,Hansa Rostock (2)
+2,(Tue) 20 Aug 1996 (34),FC Schalke 04 (2),0-0,0-0,Bor. Mönchengladbach (2)
+2,(Wed) 21 Aug 1996 (34),Borussia Dortmund (2),4-0,2-0,Fortuna Düsseldorf (2)
+2,(Wed) 21 Aug 1996 (34),Bayern München (2),1-1,0-0,VfL Bochum (2)
+2,(Wed) 21 Aug 1996 (34),MSV Duisburg (2),1-3,0-0,Bayer 04 Leverkusen (2)
+2,(Wed) 21 Aug 1996 (34),1. FC Köln (2),1-0,1-0,TSV 1860 München (2)
+2,(Tue) 17 Sep 1996 (38),Karlsruher SC (2),0-2,0-1,VfB Stuttgart (2)
+3,(Fri) 23 Aug 1996 (34),FC St. Pauli (3),4-4,1-3,FC Schalke 04 (3)
+3,(Fri) 23 Aug 1996 (34),Hansa Rostock (3),0-1,0-0,Hamburger SV (3)
+3,(Sat) 24 Aug 1996 (34),SC Freiburg (3),1-3,0-1,1. FC Köln (3)
+3,(Sat) 24 Aug 1996 (34),Bor. Mönchengladbach (3),1-3,1-2,Karlsruher SC (3)
+3,(Sat) 24 Aug 1996 (34),TSV 1860 München (3),1-3,1-0,Borussia Dortmund (3)
+3,(Sat) 24 Aug 1996 (34),VfB Stuttgart (3),2-1,0-0,Werder Bremen (3)
+3,(Sat) 24 Aug 1996 (34),Bayer 04 Leverkusen (3),0-1,0-0,Fortuna Düsseldorf (3)
+3,(Sat) 24 Aug 1996 (34),VfL Bochum (3),1-1,0-0,Arminia Bielefeld (3)
+3,(Sun) 25 Aug 1996 (34),MSV Duisburg (3),0-4,0-2,Bayern München (3)
+4,(Tue) 27 Aug 1996 (35),Borussia Dortmund (4),3-1,2-0,SC Freiburg (4)
+4,(Tue) 27 Aug 1996 (35),Hamburger SV (4),0-4,0-1,VfB Stuttgart (4)
+4,(Tue) 27 Aug 1996 (35),Werder Bremen (4),1-0,1-0,Bor. Mönchengladbach (4)
+4,(Tue) 27 Aug 1996 (35),FC Schalke 04 (4),1-1,1-0,VfL Bochum (4)
+4,(Wed) 28 Aug 1996 (35),Karlsruher SC (4),4-0,1-0,FC St. Pauli (4)
+4,(Wed) 28 Aug 1996 (35),Bayern München (4),4-2,3-1,Bayer 04 Leverkusen (4)
+4,(Wed) 28 Aug 1996 (35),Fortuna Düsseldorf (4),0-0,0-0,TSV 1860 München (4)
+4,(Wed) 28 Aug 1996 (35),1. FC Köln (4),0-2,0-1,Hansa Rostock (4)
+4,(Wed) 28 Aug 1996 (35),Arminia Bielefeld (4),1-1,0-0,MSV Duisburg (4)
+5,(Fri) 6 Sep 1996 (36),SC Freiburg (5),1-2,1-1,Fortuna Düsseldorf (5)
+5,(Fri) 6 Sep 1996 (36),Bor. Mönchengladbach (5),3-0,3-0,Hamburger SV (5)
+5,(Sat) 7 Sep 1996 (36),Bayer 04 Leverkusen (5),3-0,2-0,TSV 1860 München (5)
+5,(Sat) 7 Sep 1996 (36),Hansa Rostock (5),0-1,0-0,Borussia Dortmund (5)
+5,(Sat) 7 Sep 1996 (36),Bayern München (5),1-0,0-0,Arminia Bielefeld (5)
+5,(Sat) 7 Sep 1996 (36),VfL Bochum (5),3-1,1-0,Karlsruher SC (5)
+5,(Sat) 7 Sep 1996 (36),FC St. Pauli (5),0-3,0-2,Werder Bremen (5)
+5,(Sat) 7 Sep 1996 (36),MSV Duisburg (5),0-1,0-1,FC Schalke 04 (5)
+5,(Sun) 8 Sep 1996 (36),VfB Stuttgart (5),4-0,0-0,1. FC Köln (5)
+6,(Fri) 13 Sep 1996 (37),Werder Bremen (6),5-1,3-0,VfL Bochum (6)
+6,(Fri) 13 Sep 1996 (37),Fortuna Düsseldorf (6),0-2,0-1,Hansa Rostock (6)
+6,(Sat) 14 Sep 1996 (37),Borussia Dortmund (6),1-1,0-1,VfB Stuttgart (6)
+6,(Sat) 14 Sep 1996 (37),Karlsruher SC (6),1-0,1-0,MSV Duisburg (6)
+6,(Sat) 14 Sep 1996 (37),FC Schalke 04 (6),1-1,1-0,Bayern München (6)
+6,(Sat) 14 Sep 1996 (37),Arminia Bielefeld (6),0-1,0-1,Bayer 04 Leverkusen (6)
+6,(Sat) 14 Sep 1996 (37),TSV 1860 München (6),4-0,0-0,SC Freiburg (6)
+6,(Sat) 14 Sep 1996 (37),1. FC Köln (6),4-0,2-0,Bor. Mönchengladbach (6)
+6,(Sun) 15 Sep 1996 (37),Hamburger SV (6),3-0,1-0,FC St. Pauli (6)
+7,(Fri) 20 Sep 1996 (38),MSV Duisburg (7),3-2,1-0,Werder Bremen (7)
+7,(Fri) 20 Sep 1996 (38),Hansa Rostock (7),2-4,2-2,TSV 1860 München (7)
+7,(Sat) 21 Sep 1996 (38),Bor. Mönchengladbach (7),5-1,3-1,Borussia Dortmund (7)
+7,(Sat) 21 Sep 1996 (38),VfL Bochum (7),3-1,1-0,Hamburger SV (7)
+7,(Sat) 21 Sep 1996 (38),FC St. Pauli (7),0-0,0-0,1. FC Köln (7)
+7,(Sat) 21 Sep 1996 (38),VfB Stuttgart (7),0-2,0-0,Fortuna Düsseldorf (7)
+7,(Sat) 21 Sep 1996 (38),Arminia Bielefeld (7),0-1,0-1,FC Schalke 04 (7)
+7,(Sat) 21 Sep 1996 (38),Bayern München (7),1-0,1-0,Karlsruher SC (7)
+7,(Sun) 22 Sep 1996 (38),Bayer 04 Leverkusen (7),5-3,2-1,SC Freiburg (7)
+8,(Fri) 27 Sep 1996 (39),Karlsruher SC (8),5-2,2-0,Arminia Bielefeld (8)
+8,(Fri) 27 Sep 1996 (39),1. FC Köln (8),2-0,0-0,VfL Bochum (8)
+8,(Sat) 28 Sep 1996 (39),Fortuna Düsseldorf (8),1-0,1-0,Bor. Mönchengladbach (8)
+8,(Sat) 28 Sep 1996 (39),Hamburger SV (8),1-1,0-0,MSV Duisburg (8)
+8,(Sat) 28 Sep 1996 (39),Werder Bremen (8),3-0,1-0,Bayern München (8)
+8,(Sat) 28 Sep 1996 (39),FC Schalke 04 (8),1-2,1-2,Bayer 04 Leverkusen (8)
+8,(Sat) 28 Sep 1996 (39),SC Freiburg (8),1-0,0-0,Hansa Rostock (8)
+8,(Sat) 28 Sep 1996 (39),TSV 1860 München (8),2-5,1-2,VfB Stuttgart (8)
+8,(Sun) 29 Sep 1996 (39),Borussia Dortmund (8),2-1,1-0,FC St. Pauli (8)
+9,(Fri) 4 Oct 1996 (40),VfB Stuttgart (9),4-2,2-1,SC Freiburg (9)
+9,(Fri) 4 Oct 1996 (40),Bayer 04 Leverkusen (9),4-1,1-1,Hansa Rostock (9)
+9,(Fri) 4 Oct 1996 (40),VfL Bochum (9),1-0,0-0,Borussia Dortmund (9)
+9,(Sat) 5 Oct 1996 (40),FC St. Pauli (9),3-0,1-0,Fortuna Düsseldorf (9)
+9,(Sat) 5 Oct 1996 (40),Bor. Mönchengladbach (9),1-0,0-0,TSV 1860 München (9)
+9,(Sat) 5 Oct 1996 (40),FC Schalke 04 (9),0-1,0-1,Karlsruher SC (9)
+9,(Sat) 5 Oct 1996 (40),Arminia Bielefeld (9),3-1,1-0,Werder Bremen (9)
+9,(Sat) 5 Oct 1996 (40),Bayern München (9),2-1,1-0,Hamburger SV (9)
+9,(Sat) 5 Oct 1996 (40),MSV Duisburg (9),3-0,2-0,1. FC Köln (9)
+10,(Fri) 11 Oct 1996 (41),SC Freiburg (10),1-0,0-0,Bor. Mönchengladbach (10)
+10,(Fri) 11 Oct 1996 (41),TSV 1860 München (10),4-2,1-0,FC St. Pauli (10)
+10,(Sat) 12 Oct 1996 (41),Borussia Dortmund (10),2-0,0-0,MSV Duisburg (10)
+10,(Sat) 12 Oct 1996 (41),Hamburger SV (10),2-2,2-0,Arminia Bielefeld (10)
+10,(Sat) 12 Oct 1996 (41),Werder Bremen (10),3-0,1-0,FC Schalke 04 (10)
+10,(Sat) 12 Oct 1996 (41),Karlsruher SC (10),1-1,1-0,Bayer 04 Leverkusen (10)
+10,(Sat) 12 Oct 1996 (41),Hansa Rostock (10),2-2,0-2,VfB Stuttgart (10)
+10,(Sat) 12 Oct 1996 (41),1. FC Köln (10),2-4,0-1,Bayern München (10)
+10,(Sun) 13 Oct 1996 (41),Fortuna Düsseldorf (10),2-2,2-0,VfL Bochum (10)
+11,(Fri) 18 Oct 1996 (42),VfL Bochum (11),2-2,0-1,TSV 1860 München (11)
+11,(Fri) 18 Oct 1996 (42),Bayer 04 Leverkusen (11),0-0,0-0,VfB Stuttgart (11)
+11,(Sat) 19 Oct 1996 (42),FC St. Pauli (11),2-0,1-0,SC Freiburg (11)
+11,(Sat) 19 Oct 1996 (42),Bor. Mönchengladbach (11),2-0,0-0,Hansa Rostock (11)
+11,(Sat) 19 Oct 1996 (42),Karlsruher SC (11),1-3,1-0,Werder Bremen (11)
+11,(Sat) 19 Oct 1996 (42),FC Schalke 04 (11),2-0,1-0,Hamburger SV (11)
+11,(Sat) 19 Oct 1996 (42),Arminia Bielefeld (11),1-4,0-1,1. FC Köln (11)
+11,(Sat) 19 Oct 1996 (42),MSV Duisburg (11),0-0,0-0,Fortuna Düsseldorf (11)
+11,(Sun) 20 Oct 1996 (42),Bayern München (11),0-0,0-0,Borussia Dortmund (11)
+12,(Fri) 25 Oct 1996 (43),Hansa Rostock (12),3-1,3-0,FC St. Pauli (12)
+12,(Fri) 25 Oct 1996 (43),Werder Bremen (12),1-1,1-0,Bayer 04 Leverkusen (12)
+12,(Sat) 26 Oct 1996 (43),Borussia Dortmund (12),5-0,2-0,Arminia Bielefeld (12)
+12,(Sat) 26 Oct 1996 (43),Hamburger SV (12),2-0,1-0,Karlsruher SC (12)
+12,(Sat) 26 Oct 1996 (43),VfB Stuttgart (12),5-0,1-0,Bor. Mönchengladbach (12)
+12,(Sat) 26 Oct 1996 (43),TSV 1860 München (12),1-1,1-1,MSV Duisburg (12)
+12,(Sat) 26 Oct 1996 (43),Fortuna Düsseldorf (12),0-2,0-1,Bayern München (12)
+12,(Sat) 26 Oct 1996 (43),1. FC Köln (12),3-1,1-0,FC Schalke 04 (12)
+12,(Sun) 27 Oct 1996 (43),SC Freiburg (12),0-1,0-1,VfL Bochum (12)
+13,(Fri) 1 Nov 1996 (44),Bayern München (13),1-1,1-0,TSV 1860 München (13)
+13,(Fri) 1 Nov 1996 (44),VfL Bochum (13),1-0,0-0,Hansa Rostock (13)
+13,(Sat) 2 Nov 1996 (44),FC Schalke 04 (13),1-3,0-1,Borussia Dortmund (13)
+13,(Sat) 2 Nov 1996 (44),FC St. Pauli (13),2-1,1-1,VfB Stuttgart (13)
+13,(Sat) 2 Nov 1996 (44),Werder Bremen (13),0-0,0-0,Hamburger SV (13)
+13,(Sat) 2 Nov 1996 (44),Arminia Bielefeld (13),1-0,0-0,Fortuna Düsseldorf (13)
+13,(Sat) 2 Nov 1996 (44),MSV Duisburg (13),1-4,0-1,SC Freiburg (13)
+13,(Sat) 2 Nov 1996 (44),Bayer 04 Leverkusen (13),3-0,0-0,Bor. Mönchengladbach (13)
+13,(Sun) 3 Nov 1996 (44),Karlsruher SC (13),4-1,1-1,1. FC Köln (13)
+14,(Fri) 15 Nov 1996 (46),Bor. Mönchengladbach (14),0-0,0-0,FC St. Pauli (14)
+14,(Fri) 15 Nov 1996 (46),1. FC Köln (14),4-1,1-0,Werder Bremen (14)
+14,(Sat) 16 Nov 1996 (46),Hamburger SV (14),0-2,0-0,Bayer 04 Leverkusen (14)
+14,(Sat) 16 Nov 1996 (46),VfB Stuttgart (14),3-1,3-1,VfL Bochum (14)
+14,(Sat) 16 Nov 1996 (46),SC Freiburg (14),0-0,0-0,Bayern München (14)
+14,(Sat) 16 Nov 1996 (46),TSV 1860 München (14),1-3,1-1,Arminia Bielefeld (14)
+14,(Sat) 16 Nov 1996 (46),Fortuna Düsseldorf (14),1-3,1-2,FC Schalke 04 (14)
+14,(Sat) 16 Nov 1996 (46),Borussia Dortmund (14),1-1,1-1,Karlsruher SC (14)
+14,(Sun) 17 Nov 1996 (46),Hansa Rostock (14),0-1,0-0,MSV Duisburg (14)
+15,(Fri) 22 Nov 1996 (47),VfL Bochum (15),2-0,1-0,Bor. Mönchengladbach (15)
+15,(Fri) 22 Nov 1996 (47),Karlsruher SC (15),2-0,0-0,Fortuna Düsseldorf (15)
+15,(Sat) 23 Nov 1996 (47),Werder Bremen (15),0-4,0-3,Borussia Dortmund (15)
+15,(Sat) 23 Nov 1996 (47),1. FC Köln (15),2-2,1-2,Hamburger SV (15)
+15,(Sat) 23 Nov 1996 (47),Bayern München (15),2-1,2-0,Hansa Rostock (15)
+15,(Sat) 23 Nov 1996 (47),FC Schalke 04 (15),4-1,2-1,TSV 1860 München (15)
+15,(Sat) 23 Nov 1996 (47),Arminia Bielefeld (15),2-0,1-0,SC Freiburg (15)
+15,(Sat) 23 Nov 1996 (47),FC St. Pauli (15),3-1,2-0,Bayer 04 Leverkusen (15)
+15,(Sun) 24 Nov 1996 (47),MSV Duisburg (15),3-1,1-1,VfB Stuttgart (15)
+16,(Fri) 29 Nov 1996 (48),Borussia Dortmund (16),1-1,1-0,Hamburger SV (16)
+16,(Sat) 30 Nov 1996 (48),Bor. Mönchengladbach (16),0-1,0-0,MSV Duisburg (16)
+16,(Sat) 30 Nov 1996 (48),Hansa Rostock (16),3-1,1-1,Arminia Bielefeld (16)
+16,(Sat) 30 Nov 1996 (48),SC Freiburg (16),2-3,1-1,FC Schalke 04 (16)
+16,(Sat) 30 Nov 1996 (48),TSV 1860 München (16),1-1,0-0,Karlsruher SC (16)
+16,(Sat) 30 Nov 1996 (48),Fortuna Düsseldorf (16),4-1,2-0,Werder Bremen (16)
+16,(Sat) 30 Nov 1996 (48),Bayer 04 Leverkusen (16),4-2,0-0,1. FC Köln (16)
+16,(Sun) 1 Dec 1996 (48),VfB Stuttgart (16),1-1,0-1,Bayern München (16)
+16,(Wed) 9 Apr 1997 (14),FC St. Pauli (16),2-1,2-0,VfL Bochum (16)
+17,(Fri) 6 Dec 1996 (49),VfL Bochum (17),2-2,1-1,Bayer 04 Leverkusen (17)
+17,(Fri) 6 Dec 1996 (49),Werder Bremen (17),1-1,0-1,TSV 1860 München (17)
+17,(Fri) 6 Dec 1996 (49),Karlsruher SC (17),3-0,2-0,SC Freiburg (17)
+17,(Fri) 6 Dec 1996 (49),FC Schalke 04 (17),2-0,2-0,Hansa Rostock (17)
+17,(Sat) 7 Dec 1996 (49),Arminia Bielefeld (17),2-0,1-0,VfB Stuttgart (17)
+17,(Sat) 7 Dec 1996 (49),Hamburger SV (17),2-1,0-1,Fortuna Düsseldorf (17)
+17,(Sat) 7 Dec 1996 (49),Bayern München (17),1-0,0-0,Bor. Mönchengladbach (17)
+17,(Sat) 7 Dec 1996 (49),MSV Duisburg (17),1-0,0-0,FC St. Pauli (17)
+17,(Sat) 7 Dec 1996 (49),1. FC Köln (17),1-3,1-0,Borussia Dortmund (17)
+18,(Fri) 14 Feb 1997 (6),1. FC Köln (18),2-0,1-0,Fortuna Düsseldorf (18)
+18,(Fri) 14 Feb 1997 (6),Borussia Dortmund (18),3-1,1-1,Bayer 04 Leverkusen (18)
+18,(Sat) 15 Feb 1997 (6),MSV Duisburg (18),1-1,1-1,VfL Bochum (18)
+18,(Sat) 15 Feb 1997 (6),Bayern München (18),3-0,1-0,FC St. Pauli (18)
+18,(Sat) 15 Feb 1997 (6),FC Schalke 04 (18),1-0,1-0,VfB Stuttgart (18)
+18,(Sat) 15 Feb 1997 (6),Karlsruher SC (18),1-1,1-0,Hansa Rostock (18)
+18,(Sat) 15 Feb 1997 (6),Werder Bremen (18),1-0,0-0,SC Freiburg (18)
+18,(Sat) 15 Feb 1997 (6),Hamburger SV (18),2-3,0-0,TSV 1860 München (18)
+18,(Sun) 16 Feb 1997 (6),Arminia Bielefeld (18),0-2,0-1,Bor. Mönchengladbach (18)
+19,(Fri) 21 Feb 1997 (7),SC Freiburg (19),0-4,0-2,Hamburger SV (19)
+19,(Fri) 21 Feb 1997 (7),Fortuna Düsseldorf (19),2-0,0-0,Borussia Dortmund (19)
+19,(Fri) 21 Feb 1997 (7),FC St. Pauli (19),2-3,1-2,Arminia Bielefeld (19)
+19,(Sat) 22 Feb 1997 (7),Hansa Rostock (19),0-1,0-1,Werder Bremen (19)
+19,(Sat) 22 Feb 1997 (7),VfB Stuttgart (19),1-0,0-0,Karlsruher SC (19)
+19,(Sat) 22 Feb 1997 (7),Bor. Mönchengladbach (19),0-0,0-0,FC Schalke 04 (19)
+19,(Sat) 22 Feb 1997 (7),VfL Bochum (19),1-1,0-0,Bayern München (19)
+19,(Sat) 22 Feb 1997 (7),Bayer 04 Leverkusen (19),1-0,1-0,MSV Duisburg (19)
+19,(Sat) 22 Feb 1997 (7),TSV 1860 München (19),2-1,0-0,1. FC Köln (19)
+20,(Fri) 28 Feb 1997 (8),Arminia Bielefeld (20),3-1,2-0,VfL Bochum (20)
+20,(Fri) 28 Feb 1997 (8),FC Schalke 04 (20),0-0,0-0,FC St. Pauli (20)
+20,(Sat) 1 Mar 1997 (8),Karlsruher SC (20),1-1,0-0,Bor. Mönchengladbach (20)
+20,(Sat) 1 Mar 1997 (8),Werder Bremen (20),2-2,2-1,VfB Stuttgart (20)
+20,(Sat) 1 Mar 1997 (8),1. FC Köln (20),1-0,0-0,SC Freiburg (20)
+20,(Sat) 1 Mar 1997 (8),Borussia Dortmund (20),4-1,3-1,TSV 1860 München (20)
+20,(Sat) 1 Mar 1997 (8),Bayern München (20),5-2,2-0,MSV Duisburg (20)
+20,(Sat) 1 Mar 1997 (8),Fortuna Düsseldorf (20),0-0,0-0,Bayer 04 Leverkusen (20)
+20,(Sun) 2 Mar 1997 (8),Hamburger SV (20),1-1,1-0,Hansa Rostock (20)
+21,(Fri) 7 Mar 1997 (9),Hansa Rostock (21),0-0,0-0,1. FC Köln (21)
+21,(Fri) 7 Mar 1997 (9),VfL Bochum (21),0-1,0-0,FC Schalke 04 (21)
+21,(Sat) 8 Mar 1997 (9),SC Freiburg (21),1-2,1-1,Borussia Dortmund (21)
+21,(Sat) 8 Mar 1997 (9),VfB Stuttgart (21),4-1,3-1,Hamburger SV (21)
+21,(Sat) 8 Mar 1997 (9),Bor. Mönchengladbach (21),4-1,1-0,Werder Bremen (21)
+21,(Sat) 8 Mar 1997 (9),FC St. Pauli (21),2-4,2-2,Karlsruher SC (21)
+21,(Sat) 8 Mar 1997 (9),MSV Duisburg (21),0-0,0-0,Arminia Bielefeld (21)
+21,(Sat) 8 Mar 1997 (9),TSV 1860 München (21),3-0,0-0,Fortuna Düsseldorf (21)
+21,(Sun) 9 Mar 1997 (9),Bayer 04 Leverkusen (21),5-2,3-0,Bayern München (21)
+22,(Tue) 11 Mar 1997 (10),Karlsruher SC (22),2-3,1-2,VfL Bochum (22)
+22,(Tue) 11 Mar 1997 (10),Werder Bremen (22),2-1,1-1,FC St. Pauli (22)
+22,(Tue) 11 Mar 1997 (10),Hamburger SV (22),2-1,0-0,Bor. Mönchengladbach (22)
+22,(Tue) 11 Mar 1997 (10),1. FC Köln (22),1-5,1-2,VfB Stuttgart (22)
+22,(Tue) 11 Mar 1997 (10),FC Schalke 04 (22),4-0,1-0,MSV Duisburg (22)
+22,(Wed) 12 Mar 1997 (10),Borussia Dortmund (22),3-0,0-0,Hansa Rostock (22)
+22,(Wed) 12 Mar 1997 (10),Fortuna Düsseldorf (22),2-1,1-0,SC Freiburg (22)
+22,(Wed) 12 Mar 1997 (10),TSV 1860 München (22),3-0,2-0,Bayer 04 Leverkusen (22)
+22,(Wed) 12 Mar 1997 (10),Arminia Bielefeld (22),2-0,2-0,Bayern München (22)
+23,(Fri) 14 Mar 1997 (10),MSV Duisburg (23),2-2,0-2,Karlsruher SC (23)
+23,(Fri) 14 Mar 1997 (10),FC St. Pauli (23),2-2,0-1,Hamburger SV (23)
+23,(Sat) 15 Mar 1997 (10),Bayern München (23),3-0,1-0,FC Schalke 04 (23)
+23,(Sat) 15 Mar 1997 (10),Bayer 04 Leverkusen (23),1-0,0-0,Arminia Bielefeld (23)
+23,(Sat) 15 Mar 1997 (10),SC Freiburg (23),2-2,0-2,TSV 1860 München (23)
+23,(Sat) 15 Mar 1997 (10),Hansa Rostock (23),3-1,3-1,Fortuna Düsseldorf (23)
+23,(Sat) 15 Mar 1997 (10),Bor. Mönchengladbach (23),2-1,0-0,1. FC Köln (23)
+23,(Sat) 15 Mar 1997 (10),VfB Stuttgart (23),4-1,2-1,Borussia Dortmund (23)
+23,(Sun) 16 Mar 1997 (10),VfL Bochum (23),3-2,1-0,Werder Bremen (23)
+24,(Fri) 21 Mar 1997 (11),Fortuna Düsseldorf (24),0-4,0-0,VfB Stuttgart (24)
+24,(Fri) 21 Mar 1997 (11),Werder Bremen (24),0-2,0-1,MSV Duisburg (24)
+24,(Sat) 22 Mar 1997 (11),Hamburger SV (24),2-2,1-1,VfL Bochum (24)
+24,(Sat) 22 Mar 1997 (11),1. FC Köln (24),0-1,0-1,FC St. Pauli (24)
+24,(Sat) 22 Mar 1997 (11),Borussia Dortmund (24),1-3,0-1,Bor. Mönchengladbach (24)
+24,(Sat) 22 Mar 1997 (11),TSV 1860 München (24),2-0,0-0,Hansa Rostock (24)
+24,(Sat) 22 Mar 1997 (11),FC Schalke 04 (24),0-0,0-0,Arminia Bielefeld (24)
+24,(Sat) 22 Mar 1997 (11),SC Freiburg (24),1-2,0-0,Bayer 04 Leverkusen (24)
+24,(Sun) 23 Mar 1997 (11),Karlsruher SC (24),0-2,0-1,Bayern München (24)
+25,(Thu) 27 Mar 1997 (12),FC St. Pauli (25),0-1,0-0,Borussia Dortmund (25)
+25,(Thu) 27 Mar 1997 (12),MSV Duisburg (25),1-1,0-0,Hamburger SV (25)
+25,(Thu) 27 Mar 1997 (12),VfB Stuttgart (25),1-1,1-1,TSV 1860 München (25)
+25,(Thu) 27 Mar 1997 (12),VfL Bochum (25),2-2,1-1,1. FC Köln (25)
+25,(Sat) 29 Mar 1997 (12),Bayern München (25),1-0,1-0,Werder Bremen (25)
+25,(Sat) 29 Mar 1997 (12),Arminia Bielefeld (25),1-2,0-0,Karlsruher SC (25)
+25,(Sat) 29 Mar 1997 (12),Bayer 04 Leverkusen (25),2-0,0-0,FC Schalke 04 (25)
+25,(Sat) 29 Mar 1997 (12),Hansa Rostock (25),3-1,2-1,SC Freiburg (25)
+25,(Sat) 29 Mar 1997 (12),Bor. Mönchengladbach (25),2-0,1-0,Fortuna Düsseldorf (25)
+26,(Fri) 4 Apr 1997 (13),1. FC Köln (26),2-5,2-1,MSV Duisburg (26)
+26,(Fri) 4 Apr 1997 (13),TSV 1860 München (26),3-0,0-0,Bor. Mönchengladbach (26)
+26,(Sat) 5 Apr 1997 (13),Borussia Dortmund (26),2-0,1-0,VfL Bochum (26)
+26,(Sat) 5 Apr 1997 (13),Fortuna Düsseldorf (26),2-0,1-0,FC St. Pauli (26)
+26,(Sat) 5 Apr 1997 (13),Karlsruher SC (26),0-0,0-0,FC Schalke 04 (26)
+26,(Sat) 5 Apr 1997 (13),Werder Bremen (26),2-1,1-1,Arminia Bielefeld (26)
+26,(Sat) 5 Apr 1997 (13),Hamburger SV (26),0-3,0-2,Bayern München (26)
+26,(Sat) 5 Apr 1997 (13),Hansa Rostock (26),1-0,0-0,Bayer 04 Leverkusen (26)
+26,(Sun) 6 Apr 1997 (13),SC Freiburg (26),1-1,0-0,VfB Stuttgart (26)
+27,(Fri) 11 Apr 1997 (14),Arminia Bielefeld (27),1-1,1-1,Hamburger SV (27)
+27,(Fri) 11 Apr 1997 (14),Bayer 04 Leverkusen (27),3-1,1-1,Karlsruher SC (27)
+27,(Sat) 12 Apr 1997 (14),FC Schalke 04 (27),1-1,1-0,Werder Bremen (27)
+27,(Sat) 12 Apr 1997 (14),MSV Duisburg (27),3-2,1-0,Borussia Dortmund (27)
+27,(Sat) 12 Apr 1997 (14),VfB Stuttgart (27),5-1,1-0,Hansa Rostock (27)
+27,(Sat) 12 Apr 1997 (14),Bor. Mönchengladbach (27),4-3,2-2,SC Freiburg (27)
+27,(Sat) 12 Apr 1997 (14),FC St. Pauli (27),0-0,0-0,TSV 1860 München (27)
+27,(Sat) 12 Apr 1997 (14),Bayern München (27),3-2,1-0,1. FC Köln (27)
+27,(Sun) 13 Apr 1997 (14),VfL Bochum (27),3-1,3-0,Fortuna Düsseldorf (27)
+28,(Fri) 18 Apr 1997 (15),Hansa Rostock (28),1-0,1-0,Bor. Mönchengladbach (28)
+28,(Fri) 18 Apr 1997 (15),Fortuna Düsseldorf (28),1-1,0-1,MSV Duisburg (28)
+28,(Sat) 19 Apr 1997 (15),TSV 1860 München (28),0-1,0-1,VfL Bochum (28)
+28,(Sat) 19 Apr 1997 (15),SC Freiburg (28),4-0,2-0,FC St. Pauli (28)
+28,(Sat) 19 Apr 1997 (15),Werder Bremen (28),1-0,0-0,Karlsruher SC (28)
+28,(Sat) 19 Apr 1997 (15),Hamburger SV (28),1-0,1-0,FC Schalke 04 (28)
+28,(Sat) 19 Apr 1997 (15),1. FC Köln (28),2-5,0-3,Arminia Bielefeld (28)
+28,(Sat) 19 Apr 1997 (15),Borussia Dortmund (28),1-1,1-1,Bayern München (28)
+28,(Sun) 20 Apr 1997 (15),VfB Stuttgart (28),1-2,0-1,Bayer 04 Leverkusen (28)
+29,(Thu) 24 Apr 1997 (16),FC St. Pauli (29),0-1,0-0,Hansa Rostock (29)
+29,(Fri) 25 Apr 1997 (16),Bayer 04 Leverkusen (29),2-1,1-0,Werder Bremen (29)
+29,(Fri) 25 Apr 1997 (16),MSV Duisburg (29),2-3,1-0,TSV 1860 München (29)
+29,(Sat) 26 Apr 1997 (16),Arminia Bielefeld (29),2-0,2-0,Borussia Dortmund (29)
+29,(Sat) 26 Apr 1997 (16),Karlsruher SC (29),3-1,2-1,Hamburger SV (29)
+29,(Sat) 26 Apr 1997 (16),Bor. Mönchengladbach (29),0-1,0-0,VfB Stuttgart (29)
+29,(Sat) 26 Apr 1997 (16),VfL Bochum (29),3-2,1-1,SC Freiburg (29)
+29,(Sat) 26 Apr 1997 (16),Bayern München (29),5-0,4-0,Fortuna Düsseldorf (29)
+29,(Sat) 26 Apr 1997 (16),FC Schalke 04 (29),1-1,1-0,1. FC Köln (29)
+30,(Fri) 2 May 1997 (17),Hansa Rostock (30),0-0,0-0,VfL Bochum (30)
+30,(Fri) 2 May 1997 (17),Fortuna Düsseldorf (30),1-2,1-0,Arminia Bielefeld (30)
+30,(Sat) 3 May 1997 (17),VfB Stuttgart (30),3-0,0-0,FC St. Pauli (30)
+30,(Sat) 3 May 1997 (17),Hamburger SV (30),3-2,2-0,Werder Bremen (30)
+30,(Sat) 3 May 1997 (17),1. FC Köln (30),4-1,1-1,Karlsruher SC (30)
+30,(Sat) 3 May 1997 (17),Borussia Dortmund (30),1-0,0-0,FC Schalke 04 (30)
+30,(Sat) 3 May 1997 (17),SC Freiburg (30),2-0,0-0,MSV Duisburg (30)
+30,(Sat) 3 May 1997 (17),Bor. Mönchengladbach (30),2-2,0-2,Bayer 04 Leverkusen (30)
+30,(Sun) 4 May 1997 (17),TSV 1860 München (30),3-3,2-1,Bayern München (30)
+31,(Fri) 9 May 1997 (18),MSV Duisburg (31),0-1,0-1,Hansa Rostock (31)
+31,(Fri) 9 May 1997 (18),Werder Bremen (31),3-2,2-2,1. FC Köln (31)
+31,(Sat) 10 May 1997 (18),Karlsruher SC (31),1-1,1-0,Borussia Dortmund (31)
+31,(Sat) 10 May 1997 (18),FC St. Pauli (31),1-3,0-1,Bor. Mönchengladbach (31)
+31,(Sat) 10 May 1997 (18),VfL Bochum (31),2-1,0-0,VfB Stuttgart (31)
+31,(Sat) 10 May 1997 (18),Bayern München (31),0-0,0-0,SC Freiburg (31)
+31,(Sat) 10 May 1997 (18),Arminia Bielefeld (31),2-3,1-2,TSV 1860 München (31)
+31,(Sat) 10 May 1997 (18),FC Schalke 04 (31),0-1,0-1,Fortuna Düsseldorf (31)
+31,(Sun) 11 May 1997 (18),Bayer 04 Leverkusen (31),5-0,2-0,Hamburger SV (31)
+32,(Fri) 16 May 1997 (19),Fortuna Düsseldorf (32),0-3,0-0,Karlsruher SC (32)
+32,(Fri) 16 May 1997 (19),Hansa Rostock (32),0-3,0-1,Bayern München (32)
+32,(Sat) 17 May 1997 (19),Bor. Mönchengladbach (32),6-2,0-1,VfL Bochum (32)
+32,(Sat) 17 May 1997 (19),Bayer 04 Leverkusen (32),3-0,0-0,FC St. Pauli (32)
+32,(Sat) 17 May 1997 (19),Borussia Dortmund (32),2-1,1-0,Werder Bremen (32)
+32,(Sat) 17 May 1997 (19),TSV 1860 München (32),2-1,2-0,FC Schalke 04 (32)
+32,(Sat) 17 May 1997 (19),VfB Stuttgart (32),0-2,0-0,MSV Duisburg (32)
+32,(Sat) 17 May 1997 (19),Hamburger SV (32),0-4,0-1,1. FC Köln (32)
+32,(Sun) 18 May 1997 (19),SC Freiburg (32),2-1,1-1,Arminia Bielefeld (32)
+33,(Sat) 24 May 1997 (20),Hamburger SV (33),2-1,1-0,Borussia Dortmund (33)
+33,(Sat) 24 May 1997 (20),VfL Bochum (33),6-0,1-0,FC St. Pauli (33)
+33,(Sat) 24 May 1997 (20),MSV Duisburg (33),4-2,2-1,Bor. Mönchengladbach (33)
+33,(Sat) 24 May 1997 (20),Bayern München (33),4-2,2-1,VfB Stuttgart (33)
+33,(Sat) 24 May 1997 (20),Arminia Bielefeld (33),1-3,0-2,Hansa Rostock (33)
+33,(Sat) 24 May 1997 (20),FC Schalke 04 (33),0-2,0-0,SC Freiburg (33)
+33,(Sat) 24 May 1997 (20),Karlsruher SC (33),3-0,2-0,TSV 1860 München (33)
+33,(Sat) 24 May 1997 (20),Werder Bremen (33),1-0,0-0,Fortuna Düsseldorf (33)
+33,(Sat) 24 May 1997 (20),1. FC Köln (33),4-0,2-0,Bayer 04 Leverkusen (33)
+34,(Sat) 31 May 1997 (21),Bayer 04 Leverkusen (34),2-0,1-0,VfL Bochum (34)
+34,(Sat) 31 May 1997 (21),Fortuna Düsseldorf (34),1-1,1-1,Hamburger SV (34)
+34,(Sat) 31 May 1997 (21),TSV 1860 München (34),0-3,0-1,Werder Bremen (34)
+34,(Sat) 31 May 1997 (21),SC Freiburg (34),1-1,1-1,Karlsruher SC (34)
+34,(Sat) 31 May 1997 (21),Hansa Rostock (34),0-1,0-0,FC Schalke 04 (34)
+34,(Sat) 31 May 1997 (21),VfB Stuttgart (34),4-2,2-1,Arminia Bielefeld (34)
+34,(Sat) 31 May 1997 (21),Bor. Mönchengladbach (34),2-2,1-1,Bayern München (34)
+34,(Sat) 31 May 1997 (21),FC St. Pauli (34),0-2,0-1,MSV Duisburg (34)
+34,(Sat) 31 May 1997 (21),Borussia Dortmund (34),2-1,1-0,1. FC Köln (34)

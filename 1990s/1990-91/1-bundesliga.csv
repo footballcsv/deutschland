@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT
-1,1990-08-08,Borussia Dortmund,VfB Stuttgart,0-3,0-2
-1,1990-08-09,Hertha BSC,FC St. Pauli,1-2,1-0
-1,1990-08-10,1. FC Nürnberg,Bayer 05 Uerdingen,1-1,1-1
-1,1990-08-11,Bayern München,Bayer Leverkusen,1-1,0-0
-1,1990-08-11,Eintracht Frankfurt,Karlsruher SC,3-0,1-0
-1,1990-08-11,Hamburger SV,1. FC Kaiserslautern,1-3,0-1
-1,1990-08-11,1. FC Köln,Fortuna Düsseldorf,1-1,0-0
-1,1990-08-11,Bor. Mönchengladbach,VfL Bochum,1-2,1-1
-1,1990-08-11,SG Wattenscheid 09,Werder Bremen,2-0,1-0
-2,1990-08-14,FC St. Pauli,Bayern München,0-0,0-0
-2,1990-08-17,Werder Bremen,Bor. Mönchengladbach,3-0,2-0
-2,1990-08-17,VfB Stuttgart,Hertha BSC,4-0,0-0
-2,1990-08-18,Fortuna Düsseldorf,Hamburger SV,2-1,0-1
-2,1990-08-18,1. FC Kaiserslautern,Eintracht Frankfurt,1-1,1-0
-2,1990-08-18,Karlsruher SC,Borussia Dortmund,1-2,0-2
-2,1990-08-18,Bayer Leverkusen,1. FC Nürnberg,2-2,1-1
-2,1990-08-18,Bayer 05 Uerdingen,SG Wattenscheid 09,0-2,0-0
-2,1990-08-18,VfL Bochum,1. FC Köln,1-0,0-0
-3,1990-08-24,Borussia Dortmund,1. FC Kaiserslautern,0-2,0-1
-3,1990-08-24,Eintracht Frankfurt,Fortuna Düsseldorf,5-1,3-1
-3,1990-08-24,Hamburger SV,VfL Bochum,1-0,1-0
-3,1990-08-25,1. FC Nürnberg,FC St. Pauli,5-2,2-0
-3,1990-08-25,Bayern München,VfB Stuttgart,2-1,1-1
-3,1990-08-25,Hertha BSC,Karlsruher SC,1-1,1-0
-3,1990-08-25,1. FC Köln,Werder Bremen,1-0,1-0
-3,1990-08-25,Bayer 05 Uerdingen,Bayer Leverkusen,1-1,1-0
-3,1990-08-25,SG Wattenscheid 09,Bor. Mönchengladbach,1-1,1-0
-4,1990-08-31,1. FC Kaiserslautern,Hertha BSC,4-3,2-2
-4,1990-09-01,Werder Bremen,Hamburger SV,3-1,1-1
-4,1990-09-01,Karlsruher SC,Bayern München,2-3,1-2
-4,1990-09-01,VfB Stuttgart,1. FC Nürnberg,2-1,1-0
-4,1990-09-01,FC St. Pauli,Bayer 05 Uerdingen,1-1,1-0
-4,1990-09-01,Bor. Mönchengladbach,1. FC Köln,2-2,0-1
-4,1990-09-01,VfL Bochum,Eintracht Frankfurt,0-0,0-0
-4,1990-09-02,Fortuna Düsseldorf,Borussia Dortmund,0-0,0-0
-4,1990-09-04,Bayer Leverkusen,SG Wattenscheid 09,2-1,0-0
-5,1990-09-07,Bayern München,1. FC Kaiserslautern,4-0,1-0
-5,1990-09-07,Borussia Dortmund,VfL Bochum,1-0,0-0
-5,1990-09-07,Bayer 05 Uerdingen,VfB Stuttgart,2-0,0-0
-5,1990-09-08,1. FC Nürnberg,Karlsruher SC,0-0,0-0
-5,1990-09-08,Hertha BSC,Fortuna Düsseldorf,0-1,0-0
-5,1990-09-08,Eintracht Frankfurt,Werder Bremen,0-0,0-0
-5,1990-09-08,Hamburger SV,Bor. Mönchengladbach,3-0,2-0
-5,1990-09-08,Bayer Leverkusen,FC St. Pauli,3-1,2-0
-5,1990-09-08,SG Wattenscheid 09,1. FC Köln,0-3,0-1
-6,1990-09-14,1. FC Kaiserslautern,1. FC Nürnberg,3-1,2-0
-6,1990-09-14,Karlsruher SC,Bayer 05 Uerdingen,2-0,1-0
-6,1990-09-14,FC St. Pauli,SG Wattenscheid 09,1-1,1-1
-6,1990-09-15,Werder Bremen,Borussia Dortmund,1-1,1-1
-6,1990-09-15,Fortuna Düsseldorf,Bayern München,1-2,0-1
-6,1990-09-15,VfB Stuttgart,Bayer Leverkusen,0-2,0-1
-6,1990-09-15,1. FC Köln,Hamburger SV,1-0,0-0
-6,1990-09-15,Bor. Mönchengladbach,Eintracht Frankfurt,1-1,0-0
-6,1990-09-15,VfL Bochum,Hertha BSC,4-2,2-1
-7,1990-09-21,SG Wattenscheid 09,Hamburger SV,0-1,0-0
-7,1990-09-22,Bayern München,VfL Bochum,2-2,2-0
-7,1990-09-22,Hertha BSC,Werder Bremen,0-0,0-0
-7,1990-09-22,Borussia Dortmund,Bor. Mönchengladbach,1-1,1-1
-7,1990-09-22,Eintracht Frankfurt,1. FC Köln,1-0,1-0
-7,1990-09-22,FC St. Pauli,VfB Stuttgart,2-2,2-0
-7,1990-09-22,Bayer Leverkusen,Karlsruher SC,1-0,0-0
-7,1990-09-22,Bayer 05 Uerdingen,1. FC Kaiserslautern,3-7,2-3
-7,1990-09-23,1. FC Nürnberg,Fortuna Düsseldorf,3-0,0-0
-8,1990-09-28,Werder Bremen,Bayern München,1-0,0-0
-8,1990-09-28,1. FC Kaiserslautern,Bayer Leverkusen,2-1,1-0
-8,1990-09-28,Bor. Mönchengladbach,Hertha BSC,2-0,2-0
-8,1990-09-29,Fortuna Düsseldorf,Bayer 05 Uerdingen,0-2,0-1
-8,1990-09-29,Karlsruher SC,FC St. Pauli,1-1,0-0
-8,1990-09-29,VfB Stuttgart,SG Wattenscheid 09,1-4,1-0
-8,1990-09-29,Hamburger SV,Eintracht Frankfurt,0-1,0-1
-8,1990-09-29,1. FC Köln,Borussia Dortmund,0-1,0-1
-8,1990-09-29,VfL Bochum,1. FC Nürnberg,0-0,0-0
-9,1990-10-05,Bayer 05 Uerdingen,VfL Bochum,4-1,3-1
-9,1990-10-06,1. FC Nürnberg,Werder Bremen,2-3,1-1
-9,1990-10-06,Bayern München,Bor. Mönchengladbach,4-1,0-0
-9,1990-10-06,Hertha BSC,1. FC Köln,0-0,0-0
-9,1990-10-06,Borussia Dortmund,Hamburger SV,1-1,0-1
-9,1990-10-06,VfB Stuttgart,Karlsruher SC,2-2,1-2
-9,1990-10-06,FC St. Pauli,1. FC Kaiserslautern,1-0,0-0
-9,1990-10-06,Bayer Leverkusen,Fortuna Düsseldorf,1-1,0-0
-9,1990-10-06,SG Wattenscheid 09,Eintracht Frankfurt,1-0,1-0
-10,1990-10-12,Karlsruher SC,SG Wattenscheid 09,1-3,1-1
-10,1990-10-13,Werder Bremen,Bayer 05 Uerdingen,4-3,2-1
-10,1990-10-13,Fortuna Düsseldorf,FC St. Pauli,0-0,0-0
-10,1990-10-13,1. FC Kaiserslautern,VfB Stuttgart,2-0,1-0
-10,1990-10-13,Eintracht Frankfurt,Borussia Dortmund,3-1,0-0
-10,1990-10-13,1. FC Köln,Bayern München,4-0,3-0
-10,1990-10-13,Bor. Mönchengladbach,1. FC Nürnberg,2-0,1-0
-10,1990-10-13,VfL Bochum,Bayer Leverkusen,3-1,1-1
-10,1990-10-14,Hamburger SV,Hertha BSC,2-0,1-0
-11,1990-10-19,FC St. Pauli,VfL Bochum,3-3,1-2
-11,1990-10-19,Bayer Leverkusen,Werder Bremen,0-0,0-0
-11,1990-10-19,SG Wattenscheid 09,Borussia Dortmund,1-1,0-0
-11,1990-10-20,1. FC Nürnberg,1. FC Köln,0-4,0-2
-11,1990-10-20,Bayern München,Hamburger SV,6-1,3-1
-11,1990-10-20,Hertha BSC,Eintracht Frankfurt,1-0,1-0
-11,1990-10-20,Karlsruher SC,1. FC Kaiserslautern,4-2,4-2
-11,1990-10-20,VfB Stuttgart,Fortuna Düsseldorf,1-1,0-0
-11,1990-10-20,Bayer 05 Uerdingen,Bor. Mönchengladbach,1-1,1-1
-12,1990-10-26,Werder Bremen,FC St. Pauli,1-0,0-0
-12,1990-10-26,VfL Bochum,VfB Stuttgart,1-1,0-0
-12,1990-10-27,Fortuna Düsseldorf,Karlsruher SC,5-2,2-1
-12,1990-10-27,1. FC Kaiserslautern,SG Wattenscheid 09,1-1,1-1
-12,1990-10-27,Borussia Dortmund,Hertha BSC,3-1,0-1
-12,1990-10-27,Eintracht Frankfurt,Bayern München,1-4,0-2
-12,1990-10-27,Hamburger SV,1. FC Nürnberg,4-0,2-0
-12,1990-10-27,1. FC Köln,Bayer 05 Uerdingen,3-1,1-0
-12,1990-10-27,Bor. Mönchengladbach,Bayer Leverkusen,1-1,1-0
-13,1990-11-09,SG Wattenscheid 09,Hertha BSC,3-1,0-0
-13,1990-11-10,Bayer Leverkusen,1. FC Köln,2-0,1-0
-13,1990-11-10,1. FC Nürnberg,Eintracht Frankfurt,0-2,0-0
-13,1990-11-10,Bayern München,Borussia Dortmund,2-3,0-0
-13,1990-11-10,1. FC Kaiserslautern,Fortuna Düsseldorf,0-0,0-0
-13,1990-11-10,Karlsruher SC,VfL Bochum,3-2,1-2
-13,1990-11-10,VfB Stuttgart,Werder Bremen,0-1,0-1
-13,1990-11-10,FC St. Pauli,Bor. Mönchengladbach,1-1,0-0
-13,1990-11-10,Bayer 05 Uerdingen,Hamburger SV,0-0,0-0
-14,1990-11-16,Fortuna Düsseldorf,SG Wattenscheid 09,2-1,1-0
-14,1990-11-16,Borussia Dortmund,1. FC Nürnberg,0-2,0-0
-14,1990-11-16,1. FC Köln,FC St. Pauli,2-0,2-0
-14,1990-11-17,Werder Bremen,Karlsruher SC,2-0,1-0
-14,1990-11-17,Hertha BSC,Bayern München,0-0,0-0
-14,1990-11-17,Eintracht Frankfurt,Bayer 05 Uerdingen,4-0,2-0
-14,1990-11-17,Hamburger SV,Bayer Leverkusen,3-1,0-0
-14,1990-11-17,Bor. Mönchengladbach,VfB Stuttgart,2-0,1-0
-14,1990-11-17,VfL Bochum,1. FC Kaiserslautern,0-2,0-0
-15,1990-11-24,1. FC Nürnberg,Hertha BSC,1-4,1-1
-15,1990-11-24,Bayern München,SG Wattenscheid 09,7-0,3-0
-15,1990-11-24,1. FC Kaiserslautern,Werder Bremen,1-0,1-0
-15,1990-11-24,Karlsruher SC,Bor. Mönchengladbach,3-2,2-0
-15,1990-11-24,VfB Stuttgart,1. FC Köln,3-2,0-1
-15,1990-11-24,Bayer Leverkusen,Eintracht Frankfurt,2-2,0-1
-15,1990-11-24,Bayer 05 Uerdingen,Borussia Dortmund,1-3,0-0
-15,1990-11-25,FC St. Pauli,Hamburger SV,0-2,0-0
-15,1990-12-01,VfL Bochum,Fortuna Düsseldorf,0-0,0-0
-16,1990-12-07,Borussia Dortmund,Bayer Leverkusen,1-1,1-1
-16,1990-12-07,1. FC Köln,Karlsruher SC,0-0,0-0
-16,1990-12-07,Bor. Mönchengladbach,1. FC Kaiserslautern,2-2,1-1
-16,1990-12-08,Werder Bremen,Fortuna Düsseldorf,3-1,0-0
-16,1990-12-08,Bayern München,1. FC Nürnberg,1-0,1-0
-16,1990-12-08,Hertha BSC,Bayer 05 Uerdingen,0-0,0-0
-16,1990-12-08,Eintracht Frankfurt,FC St. Pauli,1-1,0-0
-16,1990-12-08,Hamburger SV,VfB Stuttgart,2-0,0-0
-16,1990-12-08,SG Wattenscheid 09,VfL Bochum,0-4,0-1
-17,1990-12-14,VfL Bochum,Werder Bremen,1-2,0-1
-17,1990-12-15,Fortuna Düsseldorf,Bor. Mönchengladbach,4-1,2-1
-17,1990-12-15,FC St. Pauli,Borussia Dortmund,0-2,0-1
-17,1990-12-15,Bayer 05 Uerdingen,Bayern München,1-1,0-0
-17,1990-12-16,VfB Stuttgart,Eintracht Frankfurt,2-1,0-0
-17,1991-02-16,1. FC Nürnberg,SG Wattenscheid 09,4-2,3-1
-17,1991-03-19,1. FC Kaiserslautern,1. FC Köln,2-2,0-2
-17,1991-03-19,Karlsruher SC,Hamburger SV,2-2,2-0
-17,1991-03-19,Bayer Leverkusen,Hertha BSC,3-1,1-0
-18,1991-02-23,Bayer 05 Uerdingen,1. FC Nürnberg,0-0,0-0
-18,1991-02-23,Bayer Leverkusen,Bayern München,1-2,0-0
-18,1991-02-23,VfB Stuttgart,Borussia Dortmund,7-0,4-0
-18,1991-02-23,1. FC Kaiserslautern,Hamburger SV,1-0,0-0
-18,1991-02-23,VfL Bochum,Bor. Mönchengladbach,3-0,2-0
-18,1991-02-26,Karlsruher SC,Eintracht Frankfurt,2-2,2-1
-18,1991-02-26,Werder Bremen,SG Wattenscheid 09,1-1,1-1
-18,1991-02-27,Fortuna Düsseldorf,1. FC Köln,0-2,0-0
-18,1991-03-05,FC St. Pauli,Hertha BSC,2-2,0-2
-19,1991-03-01,SG Wattenscheid 09,Bayer 05 Uerdingen,0-0,0-0
-19,1991-03-02,Hamburger SV,Fortuna Düsseldorf,1-0,0-0
-19,1991-03-02,Eintracht Frankfurt,1. FC Kaiserslautern,4-3,3-2
-19,1991-03-02,Borussia Dortmund,Karlsruher SC,2-2,1-2
-19,1991-03-02,Hertha BSC,VfB Stuttgart,0-2,0-1
-19,1991-03-02,Bayern München,FC St. Pauli,0-1,0-1
-19,1991-03-02,1. FC Nürnberg,Bayer Leverkusen,1-0,0-0
-19,1991-03-02,1. FC Köln,VfL Bochum,0-0,0-0
-19,1991-03-03,Bor. Mönchengladbach,Werder Bremen,1-1,1-0
-20,1991-03-08,FC St. Pauli,1. FC Nürnberg,0-0,0-0
-20,1991-03-08,Werder Bremen,1. FC Köln,2-1,0-0
-20,1991-03-09,VfB Stuttgart,Bayern München,0-3,0-1
-20,1991-03-09,Karlsruher SC,Hertha BSC,3-0,1-0
-20,1991-03-09,1. FC Kaiserslautern,Borussia Dortmund,2-2,1-1
-20,1991-03-09,Fortuna Düsseldorf,Eintracht Frankfurt,1-0,0-0
-20,1991-03-09,VfL Bochum,Hamburger SV,0-1,0-1
-20,1991-03-09,Bayer Leverkusen,Bayer 05 Uerdingen,1-0,1-0
-20,1991-03-09,Bor. Mönchengladbach,SG Wattenscheid 09,1-1,0-0
-21,1991-03-15,Hamburger SV,Werder Bremen,3-2,2-0
-21,1991-03-15,Bayern München,Karlsruher SC,3-0,1-0
-21,1991-03-15,SG Wattenscheid 09,Bayer Leverkusen,1-2,1-0
-21,1991-03-16,Borussia Dortmund,Fortuna Düsseldorf,1-1,0-1
-21,1991-03-16,Hertha BSC,1. FC Kaiserslautern,0-2,0-1
-21,1991-03-16,1. FC Nürnberg,VfB Stuttgart,0-1,0-0
-21,1991-03-16,Bayer 05 Uerdingen,FC St. Pauli,2-0,0-0
-21,1991-03-16,1. FC Köln,Bor. Mönchengladbach,1-3,1-2
-21,1991-03-16,Eintracht Frankfurt,VfL Bochum,1-1,1-1
-22,1991-03-22,Werder Bremen,Eintracht Frankfurt,1-1,0-0
-22,1991-03-22,Bor. Mönchengladbach,Hamburger SV,1-1,1-1
-22,1991-03-22,VfB Stuttgart,Bayer 05 Uerdingen,3-1,1-0
-22,1991-03-23,Karlsruher SC,1. FC Nürnberg,2-0,1-0
-22,1991-03-23,1. FC Kaiserslautern,Bayern München,2-1,0-1
-22,1991-03-23,Fortuna Düsseldorf,Hertha BSC,4-2,0-0
-22,1991-03-23,VfL Bochum,Borussia Dortmund,2-2,0-2
-22,1991-03-23,FC St. Pauli,Bayer Leverkusen,1-0,1-0
-22,1991-03-23,1. FC Köln,SG Wattenscheid 09,1-1,0-0
-23,1991-04-02,Borussia Dortmund,Werder Bremen,1-1,1-1
-23,1991-04-02,Bayern München,Fortuna Düsseldorf,0-1,0-0
-23,1991-04-02,1. FC Nürnberg,1. FC Kaiserslautern,1-4,1-2
-23,1991-04-02,Bayer 05 Uerdingen,Karlsruher SC,1-1,0-0
-23,1991-04-02,Bayer Leverkusen,VfB Stuttgart,0-0,0-0
-23,1991-04-02,Hertha BSC,VfL Bochum,2-4,1-2
-23,1991-04-03,SG Wattenscheid 09,FC St. Pauli,2-2,2-1
-23,1991-04-03,Hamburger SV,1. FC Köln,1-1,1-0
-23,1991-04-03,Eintracht Frankfurt,Bor. Mönchengladbach,5-1,4-1
-24,1991-04-05,Fortuna Düsseldorf,1. FC Nürnberg,3-0,1-0
-24,1991-04-05,Werder Bremen,Hertha BSC,6-0,2-0
-24,1991-04-05,Karlsruher SC,Bayer Leverkusen,2-0,1-0
-24,1991-04-06,VfL Bochum,Bayern München,1-2,1-0
-24,1991-04-06,Bor. Mönchengladbach,Borussia Dortmund,2-1,0-1
-24,1991-04-06,1. FC Köln,Eintracht Frankfurt,2-1,1-1
-24,1991-04-06,VfB Stuttgart,FC St. Pauli,2-1,0-0
-24,1991-04-06,1. FC Kaiserslautern,Bayer 05 Uerdingen,2-0,1-0
-24,1991-04-06,Hamburger SV,SG Wattenscheid 09,0-0,0-0
-25,1991-04-12,FC St. Pauli,Karlsruher SC,2-0,2-0
-25,1991-04-12,SG Wattenscheid 09,VfB Stuttgart,2-2,2-2
-25,1991-04-12,Hertha BSC,Bor. Mönchengladbach,1-1,1-1
-25,1991-04-13,Bayern München,Werder Bremen,1-1,1-0
-25,1991-04-13,Bayer 05 Uerdingen,Fortuna Düsseldorf,1-2,0-1
-25,1991-04-13,Bayer Leverkusen,1. FC Kaiserslautern,2-2,1-0
-25,1991-04-13,Eintracht Frankfurt,Hamburger SV,0-6,0-1
-25,1991-04-13,Borussia Dortmund,1. FC Köln,1-2,0-2
-25,1991-04-13,1. FC Nürnberg,VfL Bochum,3-2,2-1
-26,1991-04-16,Bor. Mönchengladbach,Bayern München,1-1,0-0
-26,1991-04-16,Karlsruher SC,VfB Stuttgart,0-0,0-0
-26,1991-04-16,VfL Bochum,Bayer 05 Uerdingen,0-2,0-1
-26,1991-04-16,Eintracht Frankfurt,SG Wattenscheid 09,4-0,1-0
-26,1991-04-17,Werder Bremen,1. FC Nürnberg,0-0,0-0
-26,1991-04-17,1. FC Köln,Hertha BSC,2-1,0-1
-26,1991-04-17,Hamburger SV,Borussia Dortmund,4-0,2-0
-26,1991-04-17,1. FC Kaiserslautern,FC St. Pauli,1-0,0-0
-26,1991-04-17,Fortuna Düsseldorf,Bayer Leverkusen,0-2,0-1
-27,1991-04-19,SG Wattenscheid 09,Karlsruher SC,1-1,0-1
-27,1991-04-20,Bayer 05 Uerdingen,Werder Bremen,0-0,0-0
-27,1991-04-20,FC St. Pauli,Fortuna Düsseldorf,2-3,0-1
-27,1991-04-20,VfB Stuttgart,1. FC Kaiserslautern,2-2,1-2
-27,1991-04-20,Borussia Dortmund,Eintracht Frankfurt,0-3,0-0
-27,1991-04-20,Bayern München,1. FC Köln,2-2,1-0
-27,1991-04-20,1. FC Nürnberg,Bor. Mönchengladbach,2-2,1-0
-27,1991-04-26,Bayer Leverkusen,VfL Bochum,4-2,1-1
-27,1991-04-26,Hertha BSC,Hamburger SV,1-4,0-2
-28,1991-05-03,1. FC Kaiserslautern,Karlsruher SC,3-2,1-2
-28,1991-05-03,VfL Bochum,FC St. Pauli,3-0,0-0
-28,1991-05-04,1. FC Köln,1. FC Nürnberg,3-1,1-1
-28,1991-05-04,Eintracht Frankfurt,Hertha BSC,5-1,2-0
-28,1991-05-04,Fortuna Düsseldorf,VfB Stuttgart,0-4,0-3
-28,1991-05-04,Werder Bremen,Bayer Leverkusen,1-1,0-1
-28,1991-05-04,Bor. Mönchengladbach,Bayer 05 Uerdingen,1-1,0-0
-28,1991-05-04,Borussia Dortmund,SG Wattenscheid 09,2-2,1-1
-28,1991-05-05,Hamburger SV,Bayern München,2-3,1-1
-29,1991-05-10,Karlsruher SC,Fortuna Düsseldorf,1-1,0-1
-29,1991-05-10,Bayer Leverkusen,Bor. Mönchengladbach,2-5,0-0
-29,1991-05-10,VfB Stuttgart,VfL Bochum,2-2,0-0
-29,1991-05-11,FC St. Pauli,Werder Bremen,0-0,0-0
-29,1991-05-11,SG Wattenscheid 09,1. FC Kaiserslautern,0-0,0-0
-29,1991-05-11,Hertha BSC,Borussia Dortmund,2-2,2-2
-29,1991-05-11,Bayern München,Eintracht Frankfurt,2-0,0-0
-29,1991-05-11,1. FC Nürnberg,Hamburger SV,3-1,2-1
-29,1991-05-11,Bayer 05 Uerdingen,1. FC Köln,0-3,0-2
-30,1991-05-17,Eintracht Frankfurt,1. FC Nürnberg,0-1,0-1
-30,1991-05-17,Borussia Dortmund,Bayern München,2-3,1-1
-30,1991-05-17,Werder Bremen,VfB Stuttgart,0-1,0-1
-30,1991-05-18,Fortuna Düsseldorf,1. FC Kaiserslautern,0-0,0-0
-30,1991-05-18,VfL Bochum,Karlsruher SC,0-1,0-1
-30,1991-05-18,Bor. Mönchengladbach,FC St. Pauli,1-1,1-1
-30,1991-05-18,1. FC Köln,Bayer Leverkusen,1-1,1-1
-30,1991-05-18,Hamburger SV,Bayer 05 Uerdingen,2-0,1-0
-30,1991-05-18,Hertha BSC,SG Wattenscheid 09,2-3,0-1
-31,1991-05-24,1. FC Nürnberg,Borussia Dortmund,1-1,1-1
-31,1991-05-24,Bayer 05 Uerdingen,Eintracht Frankfurt,2-3,2-0
-31,1991-05-24,1. FC Kaiserslautern,VfL Bochum,4-1,2-1
-31,1991-05-25,Karlsruher SC,Werder Bremen,1-1,0-0
-31,1991-05-25,SG Wattenscheid 09,Fortuna Düsseldorf,2-0,0-0
-31,1991-05-25,Bayern München,Hertha BSC,7-3,3-1
-31,1991-05-25,Bayer Leverkusen,Hamburger SV,2-2,2-2
-31,1991-05-25,FC St. Pauli,1. FC Köln,2-0,1-0
-31,1991-05-25,VfB Stuttgart,Bor. Mönchengladbach,1-1,1-1
-32,1991-05-30,Eintracht Frankfurt,Bayer Leverkusen,3-1,2-0
-32,1991-05-31,Borussia Dortmund,Bayer 05 Uerdingen,1-0,0-0
-32,1991-05-31,Fortuna Düsseldorf,VfL Bochum,3-4,3-1
-32,1991-06-01,Hertha BSC,1. FC Nürnberg,2-4,0-3
-32,1991-06-01,SG Wattenscheid 09,Bayern München,3-2,0-1
-32,1991-06-01,Werder Bremen,1. FC Kaiserslautern,1-2,1-1
-32,1991-06-01,Bor. Mönchengladbach,Karlsruher SC,2-1,1-0
-32,1991-06-01,1. FC Köln,VfB Stuttgart,1-6,0-2
-32,1991-06-01,Hamburger SV,FC St. Pauli,5-0,2-0
-33,1991-06-08,Fortuna Düsseldorf,Werder Bremen,1-2,1-1
-33,1991-06-08,1. FC Nürnberg,Bayern München,0-1,0-1
-33,1991-06-08,Bayer 05 Uerdingen,Hertha BSC,1-2,0-1
-33,1991-06-08,Bayer Leverkusen,Borussia Dortmund,1-2,1-0
-33,1991-06-08,FC St. Pauli,Eintracht Frankfurt,1-1,1-1
-33,1991-06-08,VfB Stuttgart,Hamburger SV,2-0,1-0
-33,1991-06-08,Karlsruher SC,1. FC Köln,1-1,1-1
-33,1991-06-08,1. FC Kaiserslautern,Bor. Mönchengladbach,2-3,0-2
-33,1991-06-08,VfL Bochum,SG Wattenscheid 09,0-0,0-0
-34,1991-06-15,SG Wattenscheid 09,1. FC Nürnberg,0-1,0-1
-34,1991-06-15,Bor. Mönchengladbach,Fortuna Düsseldorf,2-0,0-0
-34,1991-06-15,1. FC Köln,1. FC Kaiserslautern,2-6,1-4
-34,1991-06-15,Hamburger SV,Karlsruher SC,2-2,0-2
-34,1991-06-15,Eintracht Frankfurt,VfB Stuttgart,4-0,3-0
-34,1991-06-15,Borussia Dortmund,FC St. Pauli,5-2,2-1
-34,1991-06-15,Hertha BSC,Bayer Leverkusen,1-2,0-1
-34,1991-06-15,Bayern München,Bayer 05 Uerdingen,2-2,0-1
-34,1991-06-15,Werder Bremen,VfL Bochum,2-1,2-0
+Round,Date,Team 1,FT,HT,Team 2
+1,(Wed) 8 Aug 1990 (32),Borussia Dortmund (1),0-3,0-2,VfB Stuttgart (1)
+1,(Thu) 9 Aug 1990 (32),Hertha BSC (1),1-2,1-0,FC St. Pauli (1)
+1,(Fri) 10 Aug 1990 (32),1. FC Nürnberg (1),1-1,1-1,KFC Uerdingen (1)
+1,(Sat) 11 Aug 1990 (32),Bayern München (1),1-1,0-0,Bayer 04 Leverkusen (1)
+1,(Sat) 11 Aug 1990 (32),Eintracht Frankfurt (1),3-0,1-0,Karlsruher SC (1)
+1,(Sat) 11 Aug 1990 (32),Hamburger SV (1),1-3,0-1,1. FC Kaiserslautern (1)
+1,(Sat) 11 Aug 1990 (32),1. FC Köln (1),1-1,0-0,Fortuna Düsseldorf (1)
+1,(Sat) 11 Aug 1990 (32),Bor. Mönchengladbach (1),1-2,1-1,VfL Bochum (1)
+1,(Sat) 11 Aug 1990 (32),SG Wattenscheid 09 (1),2-0,1-0,Werder Bremen (1)
+2,(Tue) 14 Aug 1990 (33),FC St. Pauli (2),0-0,0-0,Bayern München (2)
+2,(Fri) 17 Aug 1990 (33),Werder Bremen (2),3-0,2-0,Bor. Mönchengladbach (2)
+2,(Fri) 17 Aug 1990 (33),VfB Stuttgart (2),4-0,0-0,Hertha BSC (2)
+2,(Sat) 18 Aug 1990 (33),Fortuna Düsseldorf (2),2-1,0-1,Hamburger SV (2)
+2,(Sat) 18 Aug 1990 (33),1. FC Kaiserslautern (2),1-1,1-0,Eintracht Frankfurt (2)
+2,(Sat) 18 Aug 1990 (33),Karlsruher SC (2),1-2,0-2,Borussia Dortmund (2)
+2,(Sat) 18 Aug 1990 (33),Bayer 04 Leverkusen (2),2-2,1-1,1. FC Nürnberg (2)
+2,(Sat) 18 Aug 1990 (33),KFC Uerdingen (2),0-2,0-0,SG Wattenscheid 09 (2)
+2,(Sat) 18 Aug 1990 (33),VfL Bochum (2),1-0,0-0,1. FC Köln (2)
+3,(Fri) 24 Aug 1990 (34),Borussia Dortmund (3),0-2,0-1,1. FC Kaiserslautern (3)
+3,(Fri) 24 Aug 1990 (34),Eintracht Frankfurt (3),5-1,3-1,Fortuna Düsseldorf (3)
+3,(Fri) 24 Aug 1990 (34),Hamburger SV (3),1-0,1-0,VfL Bochum (3)
+3,(Sat) 25 Aug 1990 (34),1. FC Nürnberg (3),5-2,2-0,FC St. Pauli (3)
+3,(Sat) 25 Aug 1990 (34),Bayern München (3),2-1,1-1,VfB Stuttgart (3)
+3,(Sat) 25 Aug 1990 (34),Hertha BSC (3),1-1,1-0,Karlsruher SC (3)
+3,(Sat) 25 Aug 1990 (34),1. FC Köln (3),1-0,1-0,Werder Bremen (3)
+3,(Sat) 25 Aug 1990 (34),KFC Uerdingen (3),1-1,1-0,Bayer 04 Leverkusen (3)
+3,(Sat) 25 Aug 1990 (34),SG Wattenscheid 09 (3),1-1,1-0,Bor. Mönchengladbach (3)
+4,(Fri) 31 Aug 1990 (35),1. FC Kaiserslautern (4),4-3,2-2,Hertha BSC (4)
+4,(Sat) 1 Sep 1990 (35),Werder Bremen (4),3-1,1-1,Hamburger SV (4)
+4,(Sat) 1 Sep 1990 (35),Karlsruher SC (4),2-3,1-2,Bayern München (4)
+4,(Sat) 1 Sep 1990 (35),VfB Stuttgart (4),2-1,1-0,1. FC Nürnberg (4)
+4,(Sat) 1 Sep 1990 (35),FC St. Pauli (4),1-1,1-0,KFC Uerdingen (4)
+4,(Sat) 1 Sep 1990 (35),Bor. Mönchengladbach (4),2-2,0-1,1. FC Köln (4)
+4,(Sat) 1 Sep 1990 (35),VfL Bochum (4),0-0,0-0,Eintracht Frankfurt (4)
+4,(Sun) 2 Sep 1990 (35),Fortuna Düsseldorf (4),0-0,0-0,Borussia Dortmund (4)
+4,(Tue) 4 Sep 1990 (36),Bayer 04 Leverkusen (4),2-1,0-0,SG Wattenscheid 09 (4)
+5,(Fri) 7 Sep 1990 (36),Bayern München (5),4-0,1-0,1. FC Kaiserslautern (5)
+5,(Fri) 7 Sep 1990 (36),Borussia Dortmund (5),1-0,0-0,VfL Bochum (5)
+5,(Fri) 7 Sep 1990 (36),KFC Uerdingen (5),2-0,0-0,VfB Stuttgart (5)
+5,(Sat) 8 Sep 1990 (36),1. FC Nürnberg (5),0-0,0-0,Karlsruher SC (5)
+5,(Sat) 8 Sep 1990 (36),Hertha BSC (5),0-1,0-0,Fortuna Düsseldorf (5)
+5,(Sat) 8 Sep 1990 (36),Eintracht Frankfurt (5),0-0,0-0,Werder Bremen (5)
+5,(Sat) 8 Sep 1990 (36),Hamburger SV (5),3-0,2-0,Bor. Mönchengladbach (5)
+5,(Sat) 8 Sep 1990 (36),Bayer 04 Leverkusen (5),3-1,2-0,FC St. Pauli (5)
+5,(Sat) 8 Sep 1990 (36),SG Wattenscheid 09 (5),0-3,0-1,1. FC Köln (5)
+6,(Fri) 14 Sep 1990 (37),1. FC Kaiserslautern (6),3-1,2-0,1. FC Nürnberg (6)
+6,(Fri) 14 Sep 1990 (37),Karlsruher SC (6),2-0,1-0,KFC Uerdingen (6)
+6,(Fri) 14 Sep 1990 (37),FC St. Pauli (6),1-1,1-1,SG Wattenscheid 09 (6)
+6,(Sat) 15 Sep 1990 (37),Werder Bremen (6),1-1,1-1,Borussia Dortmund (6)
+6,(Sat) 15 Sep 1990 (37),Fortuna Düsseldorf (6),1-2,0-1,Bayern München (6)
+6,(Sat) 15 Sep 1990 (37),VfB Stuttgart (6),0-2,0-1,Bayer 04 Leverkusen (6)
+6,(Sat) 15 Sep 1990 (37),1. FC Köln (6),1-0,0-0,Hamburger SV (6)
+6,(Sat) 15 Sep 1990 (37),Bor. Mönchengladbach (6),1-1,0-0,Eintracht Frankfurt (6)
+6,(Sat) 15 Sep 1990 (37),VfL Bochum (6),4-2,2-1,Hertha BSC (6)
+7,(Fri) 21 Sep 1990 (38),SG Wattenscheid 09 (7),0-1,0-0,Hamburger SV (7)
+7,(Sat) 22 Sep 1990 (38),Bayern München (7),2-2,2-0,VfL Bochum (7)
+7,(Sat) 22 Sep 1990 (38),Hertha BSC (7),0-0,0-0,Werder Bremen (7)
+7,(Sat) 22 Sep 1990 (38),Borussia Dortmund (7),1-1,1-1,Bor. Mönchengladbach (7)
+7,(Sat) 22 Sep 1990 (38),Eintracht Frankfurt (7),1-0,1-0,1. FC Köln (7)
+7,(Sat) 22 Sep 1990 (38),FC St. Pauli (7),2-2,2-0,VfB Stuttgart (7)
+7,(Sat) 22 Sep 1990 (38),Bayer 04 Leverkusen (7),1-0,0-0,Karlsruher SC (7)
+7,(Sat) 22 Sep 1990 (38),KFC Uerdingen (7),3-7,2-3,1. FC Kaiserslautern (7)
+7,(Sun) 23 Sep 1990 (38),1. FC Nürnberg (7),3-0,0-0,Fortuna Düsseldorf (7)
+8,(Fri) 28 Sep 1990 (39),Werder Bremen (8),1-0,0-0,Bayern München (8)
+8,(Fri) 28 Sep 1990 (39),1. FC Kaiserslautern (8),2-1,1-0,Bayer 04 Leverkusen (8)
+8,(Fri) 28 Sep 1990 (39),Bor. Mönchengladbach (8),2-0,2-0,Hertha BSC (8)
+8,(Sat) 29 Sep 1990 (39),Fortuna Düsseldorf (8),0-2,0-1,KFC Uerdingen (8)
+8,(Sat) 29 Sep 1990 (39),Karlsruher SC (8),1-1,0-0,FC St. Pauli (8)
+8,(Sat) 29 Sep 1990 (39),VfB Stuttgart (8),1-4,1-0,SG Wattenscheid 09 (8)
+8,(Sat) 29 Sep 1990 (39),Hamburger SV (8),0-1,0-1,Eintracht Frankfurt (8)
+8,(Sat) 29 Sep 1990 (39),1. FC Köln (8),0-1,0-1,Borussia Dortmund (8)
+8,(Sat) 29 Sep 1990 (39),VfL Bochum (8),0-0,0-0,1. FC Nürnberg (8)
+9,(Fri) 5 Oct 1990 (40),KFC Uerdingen (9),4-1,3-1,VfL Bochum (9)
+9,(Sat) 6 Oct 1990 (40),1. FC Nürnberg (9),2-3,1-1,Werder Bremen (9)
+9,(Sat) 6 Oct 1990 (40),Bayern München (9),4-1,0-0,Bor. Mönchengladbach (9)
+9,(Sat) 6 Oct 1990 (40),Hertha BSC (9),0-0,0-0,1. FC Köln (9)
+9,(Sat) 6 Oct 1990 (40),Borussia Dortmund (9),1-1,0-1,Hamburger SV (9)
+9,(Sat) 6 Oct 1990 (40),VfB Stuttgart (9),2-2,1-2,Karlsruher SC (9)
+9,(Sat) 6 Oct 1990 (40),FC St. Pauli (9),1-0,0-0,1. FC Kaiserslautern (9)
+9,(Sat) 6 Oct 1990 (40),Bayer 04 Leverkusen (9),1-1,0-0,Fortuna Düsseldorf (9)
+9,(Sat) 6 Oct 1990 (40),SG Wattenscheid 09 (9),1-0,1-0,Eintracht Frankfurt (9)
+10,(Fri) 12 Oct 1990 (41),Karlsruher SC (10),1-3,1-1,SG Wattenscheid 09 (10)
+10,(Sat) 13 Oct 1990 (41),Werder Bremen (10),4-3,2-1,KFC Uerdingen (10)
+10,(Sat) 13 Oct 1990 (41),Fortuna Düsseldorf (10),0-0,0-0,FC St. Pauli (10)
+10,(Sat) 13 Oct 1990 (41),1. FC Kaiserslautern (10),2-0,1-0,VfB Stuttgart (10)
+10,(Sat) 13 Oct 1990 (41),Eintracht Frankfurt (10),3-1,0-0,Borussia Dortmund (10)
+10,(Sat) 13 Oct 1990 (41),1. FC Köln (10),4-0,3-0,Bayern München (10)
+10,(Sat) 13 Oct 1990 (41),Bor. Mönchengladbach (10),2-0,1-0,1. FC Nürnberg (10)
+10,(Sat) 13 Oct 1990 (41),VfL Bochum (10),3-1,1-1,Bayer 04 Leverkusen (10)
+10,(Sun) 14 Oct 1990 (41),Hamburger SV (10),2-0,1-0,Hertha BSC (10)
+11,(Fri) 19 Oct 1990 (42),FC St. Pauli (11),3-3,1-2,VfL Bochum (11)
+11,(Fri) 19 Oct 1990 (42),Bayer 04 Leverkusen (11),0-0,0-0,Werder Bremen (11)
+11,(Fri) 19 Oct 1990 (42),SG Wattenscheid 09 (11),1-1,0-0,Borussia Dortmund (11)
+11,(Sat) 20 Oct 1990 (42),1. FC Nürnberg (11),0-4,0-2,1. FC Köln (11)
+11,(Sat) 20 Oct 1990 (42),Bayern München (11),6-1,3-1,Hamburger SV (11)
+11,(Sat) 20 Oct 1990 (42),Hertha BSC (11),1-0,1-0,Eintracht Frankfurt (11)
+11,(Sat) 20 Oct 1990 (42),Karlsruher SC (11),4-2,4-2,1. FC Kaiserslautern (11)
+11,(Sat) 20 Oct 1990 (42),VfB Stuttgart (11),1-1,0-0,Fortuna Düsseldorf (11)
+11,(Sat) 20 Oct 1990 (42),KFC Uerdingen (11),1-1,1-1,Bor. Mönchengladbach (11)
+12,(Fri) 26 Oct 1990 (43),Werder Bremen (12),1-0,0-0,FC St. Pauli (12)
+12,(Fri) 26 Oct 1990 (43),VfL Bochum (12),1-1,0-0,VfB Stuttgart (12)
+12,(Sat) 27 Oct 1990 (43),Fortuna Düsseldorf (12),5-2,2-1,Karlsruher SC (12)
+12,(Sat) 27 Oct 1990 (43),1. FC Kaiserslautern (12),1-1,1-1,SG Wattenscheid 09 (12)
+12,(Sat) 27 Oct 1990 (43),Borussia Dortmund (12),3-1,0-1,Hertha BSC (12)
+12,(Sat) 27 Oct 1990 (43),Eintracht Frankfurt (12),1-4,0-2,Bayern München (12)
+12,(Sat) 27 Oct 1990 (43),Hamburger SV (12),4-0,2-0,1. FC Nürnberg (12)
+12,(Sat) 27 Oct 1990 (43),1. FC Köln (12),3-1,1-0,KFC Uerdingen (12)
+12,(Sat) 27 Oct 1990 (43),Bor. Mönchengladbach (12),1-1,1-0,Bayer 04 Leverkusen (12)
+13,(Fri) 9 Nov 1990 (45),SG Wattenscheid 09 (13),3-1,0-0,Hertha BSC (13)
+13,(Sat) 10 Nov 1990 (45),Bayer 04 Leverkusen (13),2-0,1-0,1. FC Köln (13)
+13,(Sat) 10 Nov 1990 (45),1. FC Nürnberg (13),0-2,0-0,Eintracht Frankfurt (13)
+13,(Sat) 10 Nov 1990 (45),Bayern München (13),2-3,0-0,Borussia Dortmund (13)
+13,(Sat) 10 Nov 1990 (45),1. FC Kaiserslautern (13),0-0,0-0,Fortuna Düsseldorf (13)
+13,(Sat) 10 Nov 1990 (45),Karlsruher SC (13),3-2,1-2,VfL Bochum (13)
+13,(Sat) 10 Nov 1990 (45),VfB Stuttgart (13),0-1,0-1,Werder Bremen (13)
+13,(Sat) 10 Nov 1990 (45),FC St. Pauli (13),1-1,0-0,Bor. Mönchengladbach (13)
+13,(Sat) 10 Nov 1990 (45),KFC Uerdingen (13),0-0,0-0,Hamburger SV (13)
+14,(Fri) 16 Nov 1990 (46),Fortuna Düsseldorf (14),2-1,1-0,SG Wattenscheid 09 (14)
+14,(Fri) 16 Nov 1990 (46),Borussia Dortmund (14),0-2,0-0,1. FC Nürnberg (14)
+14,(Fri) 16 Nov 1990 (46),1. FC Köln (14),2-0,2-0,FC St. Pauli (14)
+14,(Sat) 17 Nov 1990 (46),Werder Bremen (14),2-0,1-0,Karlsruher SC (14)
+14,(Sat) 17 Nov 1990 (46),Hertha BSC (14),0-0,0-0,Bayern München (14)
+14,(Sat) 17 Nov 1990 (46),Eintracht Frankfurt (14),4-0,2-0,KFC Uerdingen (14)
+14,(Sat) 17 Nov 1990 (46),Hamburger SV (14),3-1,0-0,Bayer 04 Leverkusen (14)
+14,(Sat) 17 Nov 1990 (46),Bor. Mönchengladbach (14),2-0,1-0,VfB Stuttgart (14)
+14,(Sat) 17 Nov 1990 (46),VfL Bochum (14),0-2,0-0,1. FC Kaiserslautern (14)
+15,(Sat) 24 Nov 1990 (47),1. FC Nürnberg (15),1-4,1-1,Hertha BSC (15)
+15,(Sat) 24 Nov 1990 (47),Bayern München (15),7-0,3-0,SG Wattenscheid 09 (15)
+15,(Sat) 24 Nov 1990 (47),1. FC Kaiserslautern (15),1-0,1-0,Werder Bremen (15)
+15,(Sat) 24 Nov 1990 (47),Karlsruher SC (15),3-2,2-0,Bor. Mönchengladbach (15)
+15,(Sat) 24 Nov 1990 (47),VfB Stuttgart (15),3-2,0-1,1. FC Köln (15)
+15,(Sat) 24 Nov 1990 (47),Bayer 04 Leverkusen (15),2-2,0-1,Eintracht Frankfurt (15)
+15,(Sat) 24 Nov 1990 (47),KFC Uerdingen (15),1-3,0-0,Borussia Dortmund (15)
+15,(Sun) 25 Nov 1990 (47),FC St. Pauli (15),0-2,0-0,Hamburger SV (15)
+15,(Sat) 1 Dec 1990 (48),VfL Bochum (15),0-0,0-0,Fortuna Düsseldorf (15)
+16,(Fri) 7 Dec 1990 (49),Borussia Dortmund (16),1-1,1-1,Bayer 04 Leverkusen (16)
+16,(Fri) 7 Dec 1990 (49),1. FC Köln (16),0-0,0-0,Karlsruher SC (16)
+16,(Fri) 7 Dec 1990 (49),Bor. Mönchengladbach (16),2-2,1-1,1. FC Kaiserslautern (16)
+16,(Sat) 8 Dec 1990 (49),Werder Bremen (16),3-1,0-0,Fortuna Düsseldorf (16)
+16,(Sat) 8 Dec 1990 (49),Bayern München (16),1-0,1-0,1. FC Nürnberg (16)
+16,(Sat) 8 Dec 1990 (49),Hertha BSC (16),0-0,0-0,KFC Uerdingen (16)
+16,(Sat) 8 Dec 1990 (49),Eintracht Frankfurt (16),1-1,0-0,FC St. Pauli (16)
+16,(Sat) 8 Dec 1990 (49),Hamburger SV (16),2-0,0-0,VfB Stuttgart (16)
+16,(Sat) 8 Dec 1990 (49),SG Wattenscheid 09 (16),0-4,0-1,VfL Bochum (16)
+17,(Fri) 14 Dec 1990 (50),VfL Bochum (17),1-2,0-1,Werder Bremen (17)
+17,(Sat) 15 Dec 1990 (50),Fortuna Düsseldorf (17),4-1,2-1,Bor. Mönchengladbach (17)
+17,(Sat) 15 Dec 1990 (50),FC St. Pauli (17),0-2,0-1,Borussia Dortmund (17)
+17,(Sat) 15 Dec 1990 (50),KFC Uerdingen (17),1-1,0-0,Bayern München (17)
+17,(Sun) 16 Dec 1990 (50),VfB Stuttgart (17),2-1,0-0,Eintracht Frankfurt (17)
+17,(Sat) 16 Feb 1991 (6),1. FC Nürnberg (17),4-2,3-1,SG Wattenscheid 09 (17)
+17,(Tue) 19 Mar 1991 (11),1. FC Kaiserslautern (17),2-2,0-2,1. FC Köln (17)
+17,(Tue) 19 Mar 1991 (11),Karlsruher SC (17),2-2,2-0,Hamburger SV (17)
+17,(Tue) 19 Mar 1991 (11),Bayer 04 Leverkusen (17),3-1,1-0,Hertha BSC (17)
+18,(Sat) 23 Feb 1991 (7),KFC Uerdingen (18),0-0,0-0,1. FC Nürnberg (18)
+18,(Sat) 23 Feb 1991 (7),Bayer 04 Leverkusen (18),1-2,0-0,Bayern München (18)
+18,(Sat) 23 Feb 1991 (7),VfB Stuttgart (18),7-0,4-0,Borussia Dortmund (18)
+18,(Sat) 23 Feb 1991 (7),1. FC Kaiserslautern (18),1-0,0-0,Hamburger SV (18)
+18,(Sat) 23 Feb 1991 (7),VfL Bochum (18),3-0,2-0,Bor. Mönchengladbach (18)
+18,(Tue) 26 Feb 1991 (8),Karlsruher SC (18),2-2,2-1,Eintracht Frankfurt (18)
+18,(Tue) 26 Feb 1991 (8),Werder Bremen (18),1-1,1-1,SG Wattenscheid 09 (18)
+18,(Wed) 27 Feb 1991 (8),Fortuna Düsseldorf (18),0-2,0-0,1. FC Köln (18)
+18,(Tue) 5 Mar 1991 (9),FC St. Pauli (18),2-2,0-2,Hertha BSC (18)
+19,(Fri) 1 Mar 1991 (8),SG Wattenscheid 09 (19),0-0,0-0,KFC Uerdingen (19)
+19,(Sat) 2 Mar 1991 (8),Hamburger SV (19),1-0,0-0,Fortuna Düsseldorf (19)
+19,(Sat) 2 Mar 1991 (8),Eintracht Frankfurt (19),4-3,3-2,1. FC Kaiserslautern (19)
+19,(Sat) 2 Mar 1991 (8),Borussia Dortmund (19),2-2,1-2,Karlsruher SC (19)
+19,(Sat) 2 Mar 1991 (8),Hertha BSC (19),0-2,0-1,VfB Stuttgart (19)
+19,(Sat) 2 Mar 1991 (8),Bayern München (19),0-1,0-1,FC St. Pauli (19)
+19,(Sat) 2 Mar 1991 (8),1. FC Nürnberg (19),1-0,0-0,Bayer 04 Leverkusen (19)
+19,(Sat) 2 Mar 1991 (8),1. FC Köln (19),0-0,0-0,VfL Bochum (19)
+19,(Sun) 3 Mar 1991 (8),Bor. Mönchengladbach (19),1-1,1-0,Werder Bremen (19)
+20,(Fri) 8 Mar 1991 (9),FC St. Pauli (20),0-0,0-0,1. FC Nürnberg (20)
+20,(Fri) 8 Mar 1991 (9),Werder Bremen (20),2-1,0-0,1. FC Köln (20)
+20,(Sat) 9 Mar 1991 (9),VfB Stuttgart (20),0-3,0-1,Bayern München (20)
+20,(Sat) 9 Mar 1991 (9),Karlsruher SC (20),3-0,1-0,Hertha BSC (20)
+20,(Sat) 9 Mar 1991 (9),1. FC Kaiserslautern (20),2-2,1-1,Borussia Dortmund (20)
+20,(Sat) 9 Mar 1991 (9),Fortuna Düsseldorf (20),1-0,0-0,Eintracht Frankfurt (20)
+20,(Sat) 9 Mar 1991 (9),VfL Bochum (20),0-1,0-1,Hamburger SV (20)
+20,(Sat) 9 Mar 1991 (9),Bayer 04 Leverkusen (20),1-0,1-0,KFC Uerdingen (20)
+20,(Sat) 9 Mar 1991 (9),Bor. Mönchengladbach (20),1-1,0-0,SG Wattenscheid 09 (20)
+21,(Fri) 15 Mar 1991 (10),Hamburger SV (21),3-2,2-0,Werder Bremen (21)
+21,(Fri) 15 Mar 1991 (10),Bayern München (21),3-0,1-0,Karlsruher SC (21)
+21,(Fri) 15 Mar 1991 (10),SG Wattenscheid 09 (21),1-2,1-0,Bayer 04 Leverkusen (21)
+21,(Sat) 16 Mar 1991 (10),Borussia Dortmund (21),1-1,0-1,Fortuna Düsseldorf (21)
+21,(Sat) 16 Mar 1991 (10),Hertha BSC (21),0-2,0-1,1. FC Kaiserslautern (21)
+21,(Sat) 16 Mar 1991 (10),1. FC Nürnberg (21),0-1,0-0,VfB Stuttgart (21)
+21,(Sat) 16 Mar 1991 (10),KFC Uerdingen (21),2-0,0-0,FC St. Pauli (21)
+21,(Sat) 16 Mar 1991 (10),1. FC Köln (21),1-3,1-2,Bor. Mönchengladbach (21)
+21,(Sat) 16 Mar 1991 (10),Eintracht Frankfurt (21),1-1,1-1,VfL Bochum (21)
+22,(Fri) 22 Mar 1991 (11),Werder Bremen (22),1-1,0-0,Eintracht Frankfurt (22)
+22,(Fri) 22 Mar 1991 (11),Bor. Mönchengladbach (22),1-1,1-1,Hamburger SV (22)
+22,(Fri) 22 Mar 1991 (11),VfB Stuttgart (22),3-1,1-0,KFC Uerdingen (22)
+22,(Sat) 23 Mar 1991 (11),Karlsruher SC (22),2-0,1-0,1. FC Nürnberg (22)
+22,(Sat) 23 Mar 1991 (11),1. FC Kaiserslautern (22),2-1,0-1,Bayern München (22)
+22,(Sat) 23 Mar 1991 (11),Fortuna Düsseldorf (22),4-2,0-0,Hertha BSC (22)
+22,(Sat) 23 Mar 1991 (11),VfL Bochum (22),2-2,0-2,Borussia Dortmund (22)
+22,(Sat) 23 Mar 1991 (11),FC St. Pauli (22),1-0,1-0,Bayer 04 Leverkusen (22)
+22,(Sat) 23 Mar 1991 (11),1. FC Köln (22),1-1,0-0,SG Wattenscheid 09 (22)
+23,(Tue) 2 Apr 1991 (13),Borussia Dortmund (23),1-1,1-1,Werder Bremen (23)
+23,(Tue) 2 Apr 1991 (13),Bayern München (23),0-1,0-0,Fortuna Düsseldorf (23)
+23,(Tue) 2 Apr 1991 (13),1. FC Nürnberg (23),1-4,1-2,1. FC Kaiserslautern (23)
+23,(Tue) 2 Apr 1991 (13),KFC Uerdingen (23),1-1,0-0,Karlsruher SC (23)
+23,(Tue) 2 Apr 1991 (13),Bayer 04 Leverkusen (23),0-0,0-0,VfB Stuttgart (23)
+23,(Tue) 2 Apr 1991 (13),Hertha BSC (23),2-4,1-2,VfL Bochum (23)
+23,(Wed) 3 Apr 1991 (13),SG Wattenscheid 09 (23),2-2,2-1,FC St. Pauli (23)
+23,(Wed) 3 Apr 1991 (13),Hamburger SV (23),1-1,1-0,1. FC Köln (23)
+23,(Wed) 3 Apr 1991 (13),Eintracht Frankfurt (23),5-1,4-1,Bor. Mönchengladbach (23)
+24,(Fri) 5 Apr 1991 (13),Fortuna Düsseldorf (24),3-0,1-0,1. FC Nürnberg (24)
+24,(Fri) 5 Apr 1991 (13),Werder Bremen (24),6-0,2-0,Hertha BSC (24)
+24,(Fri) 5 Apr 1991 (13),Karlsruher SC (24),2-0,1-0,Bayer 04 Leverkusen (24)
+24,(Sat) 6 Apr 1991 (13),VfL Bochum (24),1-2,1-0,Bayern München (24)
+24,(Sat) 6 Apr 1991 (13),Bor. Mönchengladbach (24),2-1,0-1,Borussia Dortmund (24)
+24,(Sat) 6 Apr 1991 (13),1. FC Köln (24),2-1,1-1,Eintracht Frankfurt (24)
+24,(Sat) 6 Apr 1991 (13),VfB Stuttgart (24),2-1,0-0,FC St. Pauli (24)
+24,(Sat) 6 Apr 1991 (13),1. FC Kaiserslautern (24),2-0,1-0,KFC Uerdingen (24)
+24,(Sat) 6 Apr 1991 (13),Hamburger SV (24),0-0,0-0,SG Wattenscheid 09 (24)
+25,(Fri) 12 Apr 1991 (14),FC St. Pauli (25),2-0,2-0,Karlsruher SC (25)
+25,(Fri) 12 Apr 1991 (14),SG Wattenscheid 09 (25),2-2,2-2,VfB Stuttgart (25)
+25,(Fri) 12 Apr 1991 (14),Hertha BSC (25),1-1,1-1,Bor. Mönchengladbach (25)
+25,(Sat) 13 Apr 1991 (14),Bayern München (25),1-1,1-0,Werder Bremen (25)
+25,(Sat) 13 Apr 1991 (14),KFC Uerdingen (25),1-2,0-1,Fortuna Düsseldorf (25)
+25,(Sat) 13 Apr 1991 (14),Bayer 04 Leverkusen (25),2-2,1-0,1. FC Kaiserslautern (25)
+25,(Sat) 13 Apr 1991 (14),Eintracht Frankfurt (25),0-6,0-1,Hamburger SV (25)
+25,(Sat) 13 Apr 1991 (14),Borussia Dortmund (25),1-2,0-2,1. FC Köln (25)
+25,(Sat) 13 Apr 1991 (14),1. FC Nürnberg (25),3-2,2-1,VfL Bochum (25)
+26,(Tue) 16 Apr 1991 (15),Bor. Mönchengladbach (26),1-1,0-0,Bayern München (26)
+26,(Tue) 16 Apr 1991 (15),Karlsruher SC (26),0-0,0-0,VfB Stuttgart (26)
+26,(Tue) 16 Apr 1991 (15),VfL Bochum (26),0-2,0-1,KFC Uerdingen (26)
+26,(Tue) 16 Apr 1991 (15),Eintracht Frankfurt (26),4-0,1-0,SG Wattenscheid 09 (26)
+26,(Wed) 17 Apr 1991 (15),Werder Bremen (26),0-0,0-0,1. FC Nürnberg (26)
+26,(Wed) 17 Apr 1991 (15),1. FC Köln (26),2-1,0-1,Hertha BSC (26)
+26,(Wed) 17 Apr 1991 (15),Hamburger SV (26),4-0,2-0,Borussia Dortmund (26)
+26,(Wed) 17 Apr 1991 (15),1. FC Kaiserslautern (26),1-0,0-0,FC St. Pauli (26)
+26,(Wed) 17 Apr 1991 (15),Fortuna Düsseldorf (26),0-2,0-1,Bayer 04 Leverkusen (26)
+27,(Fri) 19 Apr 1991 (15),SG Wattenscheid 09 (27),1-1,0-1,Karlsruher SC (27)
+27,(Sat) 20 Apr 1991 (15),KFC Uerdingen (27),0-0,0-0,Werder Bremen (27)
+27,(Sat) 20 Apr 1991 (15),FC St. Pauli (27),2-3,0-1,Fortuna Düsseldorf (27)
+27,(Sat) 20 Apr 1991 (15),VfB Stuttgart (27),2-2,1-2,1. FC Kaiserslautern (27)
+27,(Sat) 20 Apr 1991 (15),Borussia Dortmund (27),0-3,0-0,Eintracht Frankfurt (27)
+27,(Sat) 20 Apr 1991 (15),Bayern München (27),2-2,1-0,1. FC Köln (27)
+27,(Sat) 20 Apr 1991 (15),1. FC Nürnberg (27),2-2,1-0,Bor. Mönchengladbach (27)
+27,(Fri) 26 Apr 1991 (16),Bayer 04 Leverkusen (27),4-2,1-1,VfL Bochum (27)
+27,(Fri) 26 Apr 1991 (16),Hertha BSC (27),1-4,0-2,Hamburger SV (27)
+28,(Fri) 3 May 1991 (17),1. FC Kaiserslautern (28),3-2,1-2,Karlsruher SC (28)
+28,(Fri) 3 May 1991 (17),VfL Bochum (28),3-0,0-0,FC St. Pauli (28)
+28,(Sat) 4 May 1991 (17),1. FC Köln (28),3-1,1-1,1. FC Nürnberg (28)
+28,(Sat) 4 May 1991 (17),Eintracht Frankfurt (28),5-1,2-0,Hertha BSC (28)
+28,(Sat) 4 May 1991 (17),Fortuna Düsseldorf (28),0-4,0-3,VfB Stuttgart (28)
+28,(Sat) 4 May 1991 (17),Werder Bremen (28),1-1,0-1,Bayer 04 Leverkusen (28)
+28,(Sat) 4 May 1991 (17),Bor. Mönchengladbach (28),1-1,0-0,KFC Uerdingen (28)
+28,(Sat) 4 May 1991 (17),Borussia Dortmund (28),2-2,1-1,SG Wattenscheid 09 (28)
+28,(Sun) 5 May 1991 (17),Hamburger SV (28),2-3,1-1,Bayern München (28)
+29,(Fri) 10 May 1991 (18),Karlsruher SC (29),1-1,0-1,Fortuna Düsseldorf (29)
+29,(Fri) 10 May 1991 (18),Bayer 04 Leverkusen (29),2-5,0-0,Bor. Mönchengladbach (29)
+29,(Fri) 10 May 1991 (18),VfB Stuttgart (29),2-2,0-0,VfL Bochum (29)
+29,(Sat) 11 May 1991 (18),FC St. Pauli (29),0-0,0-0,Werder Bremen (29)
+29,(Sat) 11 May 1991 (18),SG Wattenscheid 09 (29),0-0,0-0,1. FC Kaiserslautern (29)
+29,(Sat) 11 May 1991 (18),Hertha BSC (29),2-2,2-2,Borussia Dortmund (29)
+29,(Sat) 11 May 1991 (18),Bayern München (29),2-0,0-0,Eintracht Frankfurt (29)
+29,(Sat) 11 May 1991 (18),1. FC Nürnberg (29),3-1,2-1,Hamburger SV (29)
+29,(Sat) 11 May 1991 (18),KFC Uerdingen (29),0-3,0-2,1. FC Köln (29)
+30,(Fri) 17 May 1991 (19),Eintracht Frankfurt (30),0-1,0-1,1. FC Nürnberg (30)
+30,(Fri) 17 May 1991 (19),Borussia Dortmund (30),2-3,1-1,Bayern München (30)
+30,(Fri) 17 May 1991 (19),Werder Bremen (30),0-1,0-1,VfB Stuttgart (30)
+30,(Sat) 18 May 1991 (19),Fortuna Düsseldorf (30),0-0,0-0,1. FC Kaiserslautern (30)
+30,(Sat) 18 May 1991 (19),VfL Bochum (30),0-1,0-1,Karlsruher SC (30)
+30,(Sat) 18 May 1991 (19),Bor. Mönchengladbach (30),1-1,1-1,FC St. Pauli (30)
+30,(Sat) 18 May 1991 (19),1. FC Köln (30),1-1,1-1,Bayer 04 Leverkusen (30)
+30,(Sat) 18 May 1991 (19),Hamburger SV (30),2-0,1-0,KFC Uerdingen (30)
+30,(Sat) 18 May 1991 (19),Hertha BSC (30),2-3,0-1,SG Wattenscheid 09 (30)
+31,(Fri) 24 May 1991 (20),1. FC Nürnberg (31),1-1,1-1,Borussia Dortmund (31)
+31,(Fri) 24 May 1991 (20),KFC Uerdingen (31),2-3,2-0,Eintracht Frankfurt (31)
+31,(Fri) 24 May 1991 (20),1. FC Kaiserslautern (31),4-1,2-1,VfL Bochum (31)
+31,(Sat) 25 May 1991 (20),Karlsruher SC (31),1-1,0-0,Werder Bremen (31)
+31,(Sat) 25 May 1991 (20),SG Wattenscheid 09 (31),2-0,0-0,Fortuna Düsseldorf (31)
+31,(Sat) 25 May 1991 (20),Bayern München (31),7-3,3-1,Hertha BSC (31)
+31,(Sat) 25 May 1991 (20),Bayer 04 Leverkusen (31),2-2,2-2,Hamburger SV (31)
+31,(Sat) 25 May 1991 (20),FC St. Pauli (31),2-0,1-0,1. FC Köln (31)
+31,(Sat) 25 May 1991 (20),VfB Stuttgart (31),1-1,1-1,Bor. Mönchengladbach (31)
+32,(Thu) 30 May 1991 (21),Eintracht Frankfurt (32),3-1,2-0,Bayer 04 Leverkusen (32)
+32,(Fri) 31 May 1991 (21),Borussia Dortmund (32),1-0,0-0,KFC Uerdingen (32)
+32,(Fri) 31 May 1991 (21),Fortuna Düsseldorf (32),3-4,3-1,VfL Bochum (32)
+32,(Sat) 1 Jun 1991 (21),Hertha BSC (32),2-4,0-3,1. FC Nürnberg (32)
+32,(Sat) 1 Jun 1991 (21),SG Wattenscheid 09 (32),3-2,0-1,Bayern München (32)
+32,(Sat) 1 Jun 1991 (21),Werder Bremen (32),1-2,1-1,1. FC Kaiserslautern (32)
+32,(Sat) 1 Jun 1991 (21),Bor. Mönchengladbach (32),2-1,1-0,Karlsruher SC (32)
+32,(Sat) 1 Jun 1991 (21),1. FC Köln (32),1-6,0-2,VfB Stuttgart (32)
+32,(Sat) 1 Jun 1991 (21),Hamburger SV (32),5-0,2-0,FC St. Pauli (32)
+33,(Sat) 8 Jun 1991 (22),Fortuna Düsseldorf (33),1-2,1-1,Werder Bremen (33)
+33,(Sat) 8 Jun 1991 (22),1. FC Nürnberg (33),0-1,0-1,Bayern München (33)
+33,(Sat) 8 Jun 1991 (22),KFC Uerdingen (33),1-2,0-1,Hertha BSC (33)
+33,(Sat) 8 Jun 1991 (22),Bayer 04 Leverkusen (33),1-2,1-0,Borussia Dortmund (33)
+33,(Sat) 8 Jun 1991 (22),FC St. Pauli (33),1-1,1-1,Eintracht Frankfurt (33)
+33,(Sat) 8 Jun 1991 (22),VfB Stuttgart (33),2-0,1-0,Hamburger SV (33)
+33,(Sat) 8 Jun 1991 (22),Karlsruher SC (33),1-1,1-1,1. FC Köln (33)
+33,(Sat) 8 Jun 1991 (22),1. FC Kaiserslautern (33),2-3,0-2,Bor. Mönchengladbach (33)
+33,(Sat) 8 Jun 1991 (22),VfL Bochum (33),0-0,0-0,SG Wattenscheid 09 (33)
+34,(Sat) 15 Jun 1991 (23),SG Wattenscheid 09 (34),0-1,0-1,1. FC Nürnberg (34)
+34,(Sat) 15 Jun 1991 (23),Bor. Mönchengladbach (34),2-0,0-0,Fortuna Düsseldorf (34)
+34,(Sat) 15 Jun 1991 (23),1. FC Köln (34),2-6,1-4,1. FC Kaiserslautern (34)
+34,(Sat) 15 Jun 1991 (23),Hamburger SV (34),2-2,0-2,Karlsruher SC (34)
+34,(Sat) 15 Jun 1991 (23),Eintracht Frankfurt (34),4-0,3-0,VfB Stuttgart (34)
+34,(Sat) 15 Jun 1991 (23),Borussia Dortmund (34),5-2,2-1,FC St. Pauli (34)
+34,(Sat) 15 Jun 1991 (23),Hertha BSC (34),1-2,0-1,Bayer 04 Leverkusen (34)
+34,(Sat) 15 Jun 1991 (23),Bayern München (34),2-2,0-1,KFC Uerdingen (34)
+34,(Sat) 15 Jun 1991 (23),Werder Bremen (34),2-1,2-0,VfL Bochum (34)

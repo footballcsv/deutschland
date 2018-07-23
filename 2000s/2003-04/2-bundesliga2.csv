@@ -1,307 +1,307 @@
-Date,Team 1,Team 2,FT,HT
-2003-08-03,Ahlen,Osnabruck,0-1,0-1
-2003-08-03,Bielefeld,Oberhausen,1-3,0-1
-2003-08-03,Burghausen,Aachen,1-1,1-1
-2003-08-03,Cottbus,Ein Trier,2-3,2-1
-2003-08-03,Duisburg,Lubeck,2-1,0-0
-2003-08-03,Erzgebirge Aue,Regensburg,0-1,0-1
-2003-08-03,Greuther Fürth,Unterhaching,2-4,1-2
-2003-08-03,Mainz,Union Berlin,2-1,1-1
-2003-08-04,Karlsruhe,Nürnberg,2-3,0-0
-2003-08-08,Ein Trier,Erzgebirge Aue,2-1,2-0
-2003-08-08,Lubeck,Bielefeld,0-0,0-0
-2003-08-08,Regensburg,Greuther Fürth,0-0,0-0
-2003-08-10,Nürnberg,Burghausen,2-0,1-0
-2003-08-10,Oberhausen,Ahlen,1-3,1-0
-2003-08-10,Osnabruck,Karlsruhe,1-2,0-1
-2003-08-10,Union Berlin,Cottbus,0-1,0-1
-2003-08-10,Unterhaching,Duisburg,1-0,0-0
-2003-08-11,Aachen,Mainz,2-2,1-1
-2003-08-15,Erzgebirge Aue,Union Berlin,2-1,2-1
-2003-08-15,Karlsruhe,Oberhausen,1-2,0-2
-2003-08-15,Lubeck,Unterhaching,0-2,0-0
-2003-08-17,Bielefeld,Ahlen,3-0,2-0
-2003-08-17,Burghausen,Osnabruck,4-1,2-0
-2003-08-17,Cottbus,Aachen,3-1,1-0
-2003-08-17,Duisburg,Regensburg,2-2,1-1
-2003-08-17,Greuther Fürth,Ein Trier,4-2,2-1
-2003-08-18,Mainz,Nürnberg,2-1,1-0
-2003-08-22,Ahlen,Karlsruhe,1-2,1-1
-2003-08-22,Ein Trier,Duisburg,1-1,1-1
-2003-08-22,Regensburg,Lubeck,0-4,0-2
-2003-08-24,Aachen,Erzgebirge Aue,1-0,1-0
-2003-08-24,Oberhausen,Burghausen,1-2,0-0
-2003-08-24,Osnabruck,Mainz,2-2,2-1
-2003-08-24,Union Berlin,Greuther Fürth,3-0,1-0
-2003-08-24,Unterhaching,Bielefeld,1-0,1-0
-2003-08-25,Nürnberg,Cottbus,2-2,1-2
-2003-09-12,Burghausen,Ahlen,0-1,0-0
-2003-09-12,Duisburg,Union Berlin,1-0,1-0
-2003-09-12,Mainz,Oberhausen,2-0,1-0
-2003-09-14,Cottbus,Osnabruck,3-0,2-0
-2003-09-14,Erzgebirge Aue,Nürnberg,3-3,1-2
-2003-09-14,Greuther Fürth,Aachen,7-1,4-1
-2003-09-14,Lubeck,Ein Trier,2-2,0-1
-2003-09-14,Unterhaching,Regensburg,2-2,1-2
-2003-09-15,Bielefeld,Karlsruhe,3-1,2-0
-2003-09-19,Aachen,Duisburg,2-1,2-0
-2003-09-19,Regensburg,Bielefeld,1-2,1-2
-2003-09-19,Union Berlin,Lubeck,1-2,0-0
-2003-09-21,Ahlen,Mainz,1-3,0-1
-2003-09-21,Ein Trier,Unterhaching,2-1,1-0
-2003-09-21,Karlsruhe,Burghausen,0-0,0-0
-2003-09-21,Oberhausen,Cottbus,0-0,0-0
-2003-09-21,Osnabruck,Erzgebirge Aue,0-1,0-0
-2003-09-22,Nürnberg,Greuther Fürth,1-1,1-0
-2003-09-26,Cottbus,Ahlen,3-2,2-0
-2003-09-26,Lubeck,Aachen,3-5,1-3
-2003-09-26,Unterhaching,Union Berlin,1-1,1-0
-2003-09-28,Bielefeld,Burghausen,3-1,1-1
-2003-09-28,Duisburg,Nürnberg,2-1,1-0
-2003-09-28,Erzgebirge Aue,Oberhausen,1-1,1-1
-2003-09-28,Greuther Fürth,Osnabruck,1-1,0-0
-2003-09-28,Regensburg,Ein Trier,2-1,1-1
-2003-09-29,Mainz,Karlsruhe,1-1,0-0
-2003-10-03,Ein Trier,Bielefeld,2-3,1-2
-2003-10-03,Karlsruhe,Cottbus,3-1,0-1
-2003-10-03,Osnabruck,Duisburg,2-2,1-1
-2003-10-05,Ahlen,Erzgebirge Aue,1-0,0-0
-2003-10-05,Burghausen,Mainz,2-0,1-0
-2003-10-05,Nürnberg,Lubeck,1-2,1-0
-2003-10-05,Oberhausen,Greuther Fürth,3-1,2-0
-2003-10-05,Union Berlin,Regensburg,2-2,1-0
-2003-10-06,Aachen,Unterhaching,5-1,2-1
-2003-10-17,Duisburg,Oberhausen,1-1,0-1
-2003-10-17,Ein Trier,Union Berlin,1-1,0-1
-2003-10-17,Lubeck,Osnabruck,1-1,1-1
-2003-10-19,Bielefeld,Mainz,1-0,1-0
-2003-10-19,Cottbus,Burghausen,2-1,0-1
-2003-10-19,Erzgebirge Aue,Karlsruhe,2-0,1-0
-2003-10-19,Greuther Fürth,Ahlen,2-0,2-0
-2003-10-19,Regensburg,Aachen,1-2,1-1
-2003-10-20,Unterhaching,Nürnberg,1-1,0-0
-2003-10-24,Burghausen,Erzgebirge Aue,2-0,0-0
-2003-10-24,Nürnberg,Regensburg,3-2,2-0
-2003-10-24,Oberhausen,Lubeck,3-3,2-2
-2003-10-26,Aachen,Ein Trier,2-0,1-0
-2003-10-26,Ahlen,Duisburg,2-3,1-0
-2003-10-26,Karlsruhe,Greuther Fürth,1-0,0-0
-2003-10-26,Osnabruck,Unterhaching,2-1,1-1
-2003-10-26,Union Berlin,Bielefeld,1-0,1-0
-2003-10-27,Mainz,Cottbus,4-1,2-1
-2003-10-31,Bielefeld,Cottbus,1-3,1-0
-2003-10-31,Erzgebirge Aue,Mainz,1-1,1-0
-2003-10-31,Lubeck,Ahlen,4-1,2-0
-2003-11-02,Duisburg,Karlsruhe,0-2,0-0
-2003-11-02,Ein Trier,Nürnberg,0-2,0-0
-2003-11-02,Greuther Fürth,Burghausen,2-2,1-1
-2003-11-02,Regensburg,Osnabruck,1-0,0-0
-2003-11-02,Unterhaching,Oberhausen,1-4,1-1
-2003-11-03,Union Berlin,Aachen,2-1,0-1
-2003-11-07,Mainz,Greuther Fürth,1-3,1-1
-2003-11-07,Oberhausen,Regensburg,2-1,1-1
-2003-11-07,Osnabruck,Ein Trier,3-0,1-0
-2003-11-09,Aachen,Bielefeld,2-0,1-0
-2003-11-09,Ahlen,Unterhaching,2-2,0-0
-2003-11-09,Burghausen,Duisburg,1-2,1-1
-2003-11-09,Karlsruhe,Lubeck,1-0,1-0
-2003-11-09,Nürnberg,Union Berlin,3-0,1-0
-2003-11-10,Cottbus,Erzgebirge Aue,2-1,0-1
-2003-11-21,Bielefeld,Erzgebirge Aue,1-1,1-1
-2003-11-21,Duisburg,Mainz,0-1,0-0
-2003-11-21,Lubeck,Burghausen,2-2,0-0
-2003-11-21,Union Berlin,Osnabruck,2-0,1-0
-2003-11-23,Ein Trier,Oberhausen,0-3,0-2
-2003-11-23,Greuther Fürth,Cottbus,2-1,2-1
-2003-11-23,Regensburg,Ahlen,3-0,0-0
-2003-11-23,Unterhaching,Karlsruhe,3-0,2-0
-2003-11-28,Cottbus,Duisburg,1-1,0-0
-2003-11-28,Karlsruhe,Regensburg,0-3,0-1
-2003-11-28,Osnabruck,Aachen,3-1,1-0
-2003-11-30,Ahlen,Ein Trier,2-0,0-0
-2003-11-30,Burghausen,Unterhaching,0-2,0-2
-2003-11-30,Erzgebirge Aue,Greuther Fürth,1-1,1-1
-2003-11-30,Mainz,Lubeck,3-1,1-1
-2003-11-30,Oberhausen,Union Berlin,0-0,0-0
-2003-12-01,Nürnberg,Bielefeld,1-0,1-0
-2003-12-05,Duisburg,Erzgebirge Aue,2-2,2-1
-2003-12-05,Ein Trier,Karlsruhe,1-1,0-0
-2003-12-05,Regensburg,Burghausen,0-2,0-1
-2003-12-07,Aachen,Oberhausen,1-0,0-0
-2003-12-07,Bielefeld,Greuther Fürth,1-1,1-0
-2003-12-07,Lubeck,Cottbus,1-1,0-0
-2003-12-07,Nürnberg,Osnabruck,2-0,1-0
-2003-12-07,Union Berlin,Ahlen,0-2,0-0
-2003-12-08,Unterhaching,Mainz,1-1,0-1
-2003-12-12,Ahlen,Aachen,0-0,0-0
-2003-12-12,Bielefeld,Osnabruck,5-0,3-0
-2003-12-12,Greuther Fürth,Duisburg,3-3,2-2
-2003-12-12,Oberhausen,Nürnberg,3-1,1-1
-2003-12-14,Burghausen,Ein Trier,1-1,1-0
-2003-12-14,Cottbus,Unterhaching,3-1,1-1
-2003-12-14,Erzgebirge Aue,Lubeck,0-0,0-0
-2003-12-14,Karlsruhe,Union Berlin,2-1,2-1
-2003-12-14,Mainz,Regensburg,1-1,0-0
-2003-12-16,Duisburg,Bielefeld,0-2,0-0
-2003-12-16,Nürnberg,Ahlen,2-0,1-0
-2003-12-16,Osnabruck,Oberhausen,0-2,0-1
-2003-12-17,Aachen,Karlsruhe,0-0,0-0
-2003-12-17,Ein Trier,Mainz,1-0,1-0
-2003-12-17,Lubeck,Greuther Fürth,1-0,0-0
-2003-12-17,Union Berlin,Burghausen,1-2,1-1
-2003-12-17,Unterhaching,Erzgebirge Aue,1-2,1-1
-2003-12-18,Regensburg,Cottbus,0-0,0-0
-2004-01-26,Aachen,Nürnberg,3-2,2-2
-2004-01-31,Aachen,Burghausen,0-1,0-1
-2004-01-31,Unterhaching,Greuther Fürth,3-1,1-1
-2004-02-01,Ein Trier,Cottbus,2-0,1-0
-2004-02-01,Nürnberg,Karlsruhe,2-0,2-0
-2004-02-01,Osnabruck,Ahlen,1-2,1-1
-2004-02-01,Regensburg,Erzgebirge Aue,1-1,1-0
-2004-02-01,Union Berlin,Mainz,1-1,1-0
-2004-02-02,Oberhausen,Bielefeld,3-2,0-1
-2004-02-06,Ahlen,Oberhausen,0-2,0-2
-2004-02-06,Burghausen,Nürnberg,0-0,0-0
-2004-02-06,Karlsruhe,Osnabruck,3-0,3-0
-2004-02-08,Bielefeld,Lubeck,1-3,0-1
-2004-02-08,Duisburg,Unterhaching,0-1,0-1
-2004-02-08,Erzgebirge Aue,Ein Trier,2-1,1-1
-2004-02-08,Greuther Fürth,Regensburg,2-2,1-2
-2004-02-08,Mainz,Aachen,3-2,0-2
-2004-02-09,Cottbus,Union Berlin,2-1,1-0
-2004-02-11,Lubeck,Duisburg,1-1,1-1
-2004-02-13,Ein Trier,Greuther Fürth,2-0,0-0
-2004-02-13,Oberhausen,Karlsruhe,1-0,0-0
-2004-02-13,Osnabruck,Burghausen,3-0,1-0
-2004-02-15,Aachen,Cottbus,0-2,0-1
-2004-02-15,Ahlen,Bielefeld,0-0,0-0
-2004-02-15,Regensburg,Duisburg,0-5,0-1
-2004-02-15,Union Berlin,Erzgebirge Aue,3-0,1-0
-2004-02-15,Unterhaching,Lubeck,0-1,0-1
-2004-02-16,Nürnberg,Mainz,2-2,1-1
-2004-02-20,Cottbus,Nürnberg,1-3,1-2
-2004-02-20,Duisburg,Ein Trier,2-0,1-0
-2004-02-20,Mainz,Osnabruck,0-0,0-0
-2004-02-22,Burghausen,Oberhausen,5-0,2-0
-2004-02-22,Erzgebirge Aue,Aachen,0-1,0-1
-2004-02-22,Greuther Fürth,Union Berlin,2-2,1-1
-2004-02-22,Karlsruhe,Ahlen,1-0,0-0
-2004-02-22,Lubeck,Regensburg,0-3,0-2
-2004-02-23,Bielefeld,Unterhaching,1-0,1-0
-2004-02-27,Aachen,Greuther Fürth,0-0,0-0
-2004-02-27,Karlsruhe,Bielefeld,2-2,0-1
-2004-02-27,Nürnberg,Erzgebirge Aue,2-0,2-0
-2004-02-29,Osnabruck,Cottbus,0-1,0-0
-2004-02-29,Regensburg,Unterhaching,1-0,1-0
-2004-02-29,Union Berlin,Duisburg,2-1,0-1
-2004-03-01,Ein Trier,Lubeck,4-2,2-1
-2004-03-05,Burghausen,Karlsruhe,0-0,0-0
-2004-03-05,Lubeck,Union Berlin,0-2,0-1
-2004-03-05,Unterhaching,Ein Trier,0-0,0-0
-2004-03-07,Bielefeld,Regensburg,0-0,0-0
-2004-03-07,Cottbus,Oberhausen,3-1,1-0
-2004-03-07,Erzgebirge Aue,Osnabruck,1-0,0-0
-2004-03-07,Greuther Fürth,Nürnberg,2-2,2-1
-2004-03-07,Mainz,Ahlen,0-0,0-0
-2004-03-08,Duisburg,Aachen,2-1,0-1
-2004-03-10,Oberhausen,Mainz,0-0,0-0
-2004-03-12,Aachen,Lubeck,3-1,1-1
-2004-03-12,Ahlen,Cottbus,0-0,0-0
-2004-03-12,Ein Trier,Regensburg,4-0,1-0
-2004-03-14,Burghausen,Bielefeld,0-1,0-1
-2004-03-14,Nürnberg,Duisburg,2-0,1-0
-2004-03-14,Oberhausen,Erzgebirge Aue,1-4,1-1
-2004-03-14,Osnabruck,Greuther Fürth,0-1,0-1
-2004-03-14,Union Berlin,Unterhaching,0-0,0-0
-2004-03-15,Karlsruhe,Mainz,1-1,0-0
-2004-03-17,Ahlen,Burghausen,3-1,3-1
-2004-03-19,Cottbus,Karlsruhe,2-1,0-0
-2004-03-19,Duisburg,Osnabruck,3-1,2-1
-2004-03-19,Greuther Fürth,Oberhausen,0-1,0-1
-2004-03-21,Bielefeld,Ein Trier,3-1,2-1
-2004-03-21,Erzgebirge Aue,Ahlen,2-0,1-0
-2004-03-21,Mainz,Burghausen,1-0,0-0
-2004-03-21,Regensburg,Union Berlin,3-1,3-0
-2004-03-21,Unterhaching,Aachen,1-1,0-1
-2004-03-22,Lubeck,Nürnberg,2-1,1-0
-2004-03-26,Burghausen,Cottbus,1-1,1-0
-2004-03-26,Oberhausen,Duisburg,0-3,0-1
-2004-03-26,Osnabruck,Lubeck,3-1,2-1
-2004-03-28,Aachen,Regensburg,1-0,0-0
-2004-03-28,Ahlen,Greuther Fürth,3-2,1-0
-2004-03-28,Karlsruhe,Erzgebirge Aue,3-5,1-4
-2004-03-28,Nürnberg,Unterhaching,3-0,2-0
-2004-03-28,Union Berlin,Ein Trier,1-3,1-0
-2004-03-29,Mainz,Bielefeld,0-2,0-1
-2004-04-02,Ein Trier,Aachen,3-3,1-2
-2004-04-02,Lubeck,Oberhausen,1-0,0-0
-2004-04-02,Regensburg,Nürnberg,2-1,1-0
-2004-04-04,Bielefeld,Union Berlin,2-1,1-1
-2004-04-04,Duisburg,Ahlen,1-2,1-0
-2004-04-04,Erzgebirge Aue,Burghausen,3-0,1-0
-2004-04-04,Greuther Fürth,Karlsruhe,2-1,0-1
-2004-04-04,Unterhaching,Osnabruck,2-1,1-1
-2004-04-05,Cottbus,Mainz,0-0,0-0
-2004-04-08,Aachen,Union Berlin,4-2,2-2
-2004-04-08,Cottbus,Bielefeld,1-2,0-0
-2004-04-08,Oberhausen,Unterhaching,3-1,1-0
-2004-04-11,Ahlen,Lubeck,1-1,1-1
-2004-04-11,Burghausen,Greuther Fürth,0-2,0-1
-2004-04-11,Karlsruhe,Duisburg,1-0,1-0
-2004-04-11,Mainz,Erzgebirge Aue,1-1,0-0
-2004-04-11,Osnabruck,Regensburg,3-0,1-0
-2004-04-12,Nürnberg,Ein Trier,3-1,2-1
-2004-04-16,Erzgebirge Aue,Cottbus,1-0,0-0
-2004-04-16,Lubeck,Karlsruhe,2-2,1-0
-2004-04-16,Regensburg,Oberhausen,1-1,1-1
-2004-04-18,Duisburg,Burghausen,1-0,0-0
-2004-04-18,Ein Trier,Osnabruck,0-0,0-0
-2004-04-18,Greuther Fürth,Mainz,3-1,2-0
-2004-04-18,Union Berlin,Nürnberg,3-5,1-3
-2004-04-18,Unterhaching,Ahlen,0-0,0-0
-2004-04-19,Bielefeld,Aachen,3-0,1-0
-2004-04-23,Burghausen,Lubeck,2-1,0-0
-2004-04-23,Mainz,Duisburg,4-1,2-0
-2004-04-23,Osnabruck,Union Berlin,0-2,0-1
-2004-04-25,Ahlen,Regensburg,3-1,0-1
-2004-04-25,Cottbus,Greuther Fürth,4-2,0-1
-2004-04-25,Erzgebirge Aue,Bielefeld,1-1,0-1
-2004-04-25,Karlsruhe,Unterhaching,0-1,0-0
-2004-04-25,Oberhausen,Ein Trier,1-2,1-1
-2004-04-26,Nürnberg,Aachen,3-0,0-0
-2004-04-30,Aachen,Osnabruck,2-1,0-0
-2004-04-30,Ein Trier,Ahlen,3-0,2-0
-2004-04-30,Lubeck,Mainz,1-4,1-2
-2004-05-02,Duisburg,Cottbus,4-2,1-0
-2004-05-02,Greuther Fürth,Erzgebirge Aue,5-1,3-1
-2004-05-02,Regensburg,Karlsruhe,1-1,0-1
-2004-05-02,Union Berlin,Oberhausen,2-2,1-0
-2004-05-02,Unterhaching,Burghausen,1-2,0-0
-2004-05-03,Bielefeld,Nürnberg,1-3,1-2
-2004-05-07,Burghausen,Regensburg,2-0,2-0
-2004-05-07,Mainz,Unterhaching,2-0,2-0
-2004-05-07,Osnabruck,Nürnberg,3-4,2-1
-2004-05-09,Ahlen,Union Berlin,1-0,0-0
-2004-05-09,Cottbus,Lubeck,1-1,1-0
-2004-05-09,Erzgebirge Aue,Duisburg,2-1,0-1
-2004-05-09,Greuther Fürth,Bielefeld,1-2,0-2
-2004-05-09,Karlsruhe,Ein Trier,0-1,0-0
-2004-05-10,Oberhausen,Aachen,1-2,1-0
-2004-05-16,Aachen,Ahlen,1-1,0-1
-2004-05-16,Duisburg,Greuther Fürth,1-1,1-1
-2004-05-16,Ein Trier,Burghausen,0-0,0-0
-2004-05-16,Lubeck,Erzgebirge Aue,2-2,0-2
-2004-05-16,Nürnberg,Oberhausen,1-3,0-1
-2004-05-16,Osnabruck,Bielefeld,0-0,0-0
-2004-05-16,Regensburg,Mainz,0-0,0-0
-2004-05-16,Union Berlin,Karlsruhe,2-2,2-1
-2004-05-16,Unterhaching,Cottbus,2-0,2-0
-2004-05-23,Ahlen,Nürnberg,2-0,2-0
-2004-05-23,Bielefeld,Duisburg,1-3,0-1
-2004-05-23,Burghausen,Union Berlin,3-1,2-0
-2004-05-23,Cottbus,Regensburg,3-0,1-0
-2004-05-23,Erzgebirge Aue,Unterhaching,3-3,2-3
-2004-05-23,Greuther Fürth,Lubeck,2-0,1-0
-2004-05-23,Karlsruhe,Aachen,1-0,1-0
-2004-05-23,Mainz,Ein Trier,3-0,1-0
-2004-05-23,Oberhausen,Osnabruck,3-2,1-2
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sun) 3 Aug 2003 (30),Rot Weiss Ahlen (1),0-1,0-1,Osnabrück (1)
+?,(Sun) 3 Aug 2003 (30),Arminia Bielefeld (1),1-3,0-1,Rot-Weiß Oberhausen (1)
+?,(Sun) 3 Aug 2003 (30),Wacker Burghausen (1),1-1,1-1,Alemannia Aachen (1)
+?,(Sun) 3 Aug 2003 (30),Energie Cottbus (1),2-3,2-1,Eintracht Trier (1)
+?,(Sun) 3 Aug 2003 (30),MSV Duisburg (1),2-1,0-0,Lübeck (1)
+?,(Sun) 3 Aug 2003 (30),FC Erzgebirge Aue (1),0-1,0-1,SSV Jahn Regensburg (1)
+?,(Sun) 3 Aug 2003 (30),Greuther Fürth (1),2-4,1-2,SpVgg Unterhaching (1)
+?,(Sun) 3 Aug 2003 (30),1. FSV Mainz 05 (1),2-1,1-1,1. FC Union Berlin (1)
+?,(Mon) 4 Aug 2003 (31),Karlsruher SC (1),2-3,0-0,1. FC Nürnberg (1)
+?,(Fri) 8 Aug 2003 (31),Eintracht Trier (2),2-1,2-0,FC Erzgebirge Aue (2)
+?,(Fri) 8 Aug 2003 (31),Lübeck (2),0-0,0-0,Arminia Bielefeld (2)
+?,(Fri) 8 Aug 2003 (31),SSV Jahn Regensburg (2),0-0,0-0,Greuther Fürth (2)
+?,(Sun) 10 Aug 2003 (31),1. FC Nürnberg (2),2-0,1-0,Wacker Burghausen (2)
+?,(Sun) 10 Aug 2003 (31),Rot-Weiß Oberhausen (2),1-3,1-0,Rot Weiss Ahlen (2)
+?,(Sun) 10 Aug 2003 (31),Osnabrück (2),1-2,0-1,Karlsruher SC (2)
+?,(Sun) 10 Aug 2003 (31),1. FC Union Berlin (2),0-1,0-1,Energie Cottbus (2)
+?,(Sun) 10 Aug 2003 (31),SpVgg Unterhaching (2),1-0,0-0,MSV Duisburg (2)
+?,(Mon) 11 Aug 2003 (32),Alemannia Aachen (2),2-2,1-1,1. FSV Mainz 05 (2)
+?,(Fri) 15 Aug 2003 (32),FC Erzgebirge Aue (3),2-1,2-1,1. FC Union Berlin (3)
+?,(Fri) 15 Aug 2003 (32),Karlsruher SC (3),1-2,0-2,Rot-Weiß Oberhausen (3)
+?,(Fri) 15 Aug 2003 (32),Lübeck (3),0-2,0-0,SpVgg Unterhaching (3)
+?,(Sun) 17 Aug 2003 (32),Arminia Bielefeld (3),3-0,2-0,Rot Weiss Ahlen (3)
+?,(Sun) 17 Aug 2003 (32),Wacker Burghausen (3),4-1,2-0,Osnabrück (3)
+?,(Sun) 17 Aug 2003 (32),Energie Cottbus (3),3-1,1-0,Alemannia Aachen (3)
+?,(Sun) 17 Aug 2003 (32),MSV Duisburg (3),2-2,1-1,SSV Jahn Regensburg (3)
+?,(Sun) 17 Aug 2003 (32),Greuther Fürth (3),4-2,2-1,Eintracht Trier (3)
+?,(Mon) 18 Aug 2003 (33),1. FSV Mainz 05 (3),2-1,1-0,1. FC Nürnberg (3)
+?,(Fri) 22 Aug 2003 (33),Rot Weiss Ahlen (4),1-2,1-1,Karlsruher SC (4)
+?,(Fri) 22 Aug 2003 (33),Eintracht Trier (4),1-1,1-1,MSV Duisburg (4)
+?,(Fri) 22 Aug 2003 (33),SSV Jahn Regensburg (4),0-4,0-2,Lübeck (4)
+?,(Sun) 24 Aug 2003 (33),Alemannia Aachen (4),1-0,1-0,FC Erzgebirge Aue (4)
+?,(Sun) 24 Aug 2003 (33),Rot-Weiß Oberhausen (4),1-2,0-0,Wacker Burghausen (4)
+?,(Sun) 24 Aug 2003 (33),Osnabrück (4),2-2,2-1,1. FSV Mainz 05 (4)
+?,(Sun) 24 Aug 2003 (33),1. FC Union Berlin (4),3-0,1-0,Greuther Fürth (4)
+?,(Sun) 24 Aug 2003 (33),SpVgg Unterhaching (4),1-0,1-0,Arminia Bielefeld (4)
+?,(Mon) 25 Aug 2003 (34),1. FC Nürnberg (4),2-2,1-2,Energie Cottbus (4)
+?,(Fri) 12 Sep 2003 (36),Wacker Burghausen (5),0-1,0-0,Rot Weiss Ahlen (5)
+?,(Fri) 12 Sep 2003 (36),MSV Duisburg (5),1-0,1-0,1. FC Union Berlin (5)
+?,(Fri) 12 Sep 2003 (36),1. FSV Mainz 05 (5),2-0,1-0,Rot-Weiß Oberhausen (5)
+?,(Sun) 14 Sep 2003 (36),Energie Cottbus (5),3-0,2-0,Osnabrück (5)
+?,(Sun) 14 Sep 2003 (36),FC Erzgebirge Aue (5),3-3,1-2,1. FC Nürnberg (5)
+?,(Sun) 14 Sep 2003 (36),Greuther Fürth (5),7-1,4-1,Alemannia Aachen (5)
+?,(Sun) 14 Sep 2003 (36),Lübeck (5),2-2,0-1,Eintracht Trier (5)
+?,(Sun) 14 Sep 2003 (36),SpVgg Unterhaching (5),2-2,1-2,SSV Jahn Regensburg (5)
+?,(Mon) 15 Sep 2003 (37),Arminia Bielefeld (5),3-1,2-0,Karlsruher SC (5)
+?,(Fri) 19 Sep 2003 (37),Alemannia Aachen (6),2-1,2-0,MSV Duisburg (6)
+?,(Fri) 19 Sep 2003 (37),SSV Jahn Regensburg (6),1-2,1-2,Arminia Bielefeld (6)
+?,(Fri) 19 Sep 2003 (37),1. FC Union Berlin (6),1-2,0-0,Lübeck (6)
+?,(Sun) 21 Sep 2003 (37),Rot Weiss Ahlen (6),1-3,0-1,1. FSV Mainz 05 (6)
+?,(Sun) 21 Sep 2003 (37),Eintracht Trier (6),2-1,1-0,SpVgg Unterhaching (6)
+?,(Sun) 21 Sep 2003 (37),Karlsruher SC (6),0-0,0-0,Wacker Burghausen (6)
+?,(Sun) 21 Sep 2003 (37),Rot-Weiß Oberhausen (6),0-0,0-0,Energie Cottbus (6)
+?,(Sun) 21 Sep 2003 (37),Osnabrück (6),0-1,0-0,FC Erzgebirge Aue (6)
+?,(Mon) 22 Sep 2003 (38),1. FC Nürnberg (6),1-1,1-0,Greuther Fürth (6)
+?,(Fri) 26 Sep 2003 (38),Energie Cottbus (7),3-2,2-0,Rot Weiss Ahlen (7)
+?,(Fri) 26 Sep 2003 (38),Lübeck (7),3-5,1-3,Alemannia Aachen (7)
+?,(Fri) 26 Sep 2003 (38),SpVgg Unterhaching (7),1-1,1-0,1. FC Union Berlin (7)
+?,(Sun) 28 Sep 2003 (38),Arminia Bielefeld (7),3-1,1-1,Wacker Burghausen (7)
+?,(Sun) 28 Sep 2003 (38),MSV Duisburg (7),2-1,1-0,1. FC Nürnberg (7)
+?,(Sun) 28 Sep 2003 (38),FC Erzgebirge Aue (7),1-1,1-1,Rot-Weiß Oberhausen (7)
+?,(Sun) 28 Sep 2003 (38),Greuther Fürth (7),1-1,0-0,Osnabrück (7)
+?,(Sun) 28 Sep 2003 (38),SSV Jahn Regensburg (7),2-1,1-1,Eintracht Trier (7)
+?,(Mon) 29 Sep 2003 (39),1. FSV Mainz 05 (7),1-1,0-0,Karlsruher SC (7)
+?,(Fri) 3 Oct 2003 (39),Eintracht Trier (8),2-3,1-2,Arminia Bielefeld (8)
+?,(Fri) 3 Oct 2003 (39),Karlsruher SC (8),3-1,0-1,Energie Cottbus (8)
+?,(Fri) 3 Oct 2003 (39),Osnabrück (8),2-2,1-1,MSV Duisburg (8)
+?,(Sun) 5 Oct 2003 (39),Rot Weiss Ahlen (8),1-0,0-0,FC Erzgebirge Aue (8)
+?,(Sun) 5 Oct 2003 (39),Wacker Burghausen (8),2-0,1-0,1. FSV Mainz 05 (8)
+?,(Sun) 5 Oct 2003 (39),1. FC Nürnberg (8),1-2,1-0,Lübeck (8)
+?,(Sun) 5 Oct 2003 (39),Rot-Weiß Oberhausen (8),3-1,2-0,Greuther Fürth (8)
+?,(Sun) 5 Oct 2003 (39),1. FC Union Berlin (8),2-2,1-0,SSV Jahn Regensburg (8)
+?,(Mon) 6 Oct 2003 (40),Alemannia Aachen (8),5-1,2-1,SpVgg Unterhaching (8)
+?,(Fri) 17 Oct 2003 (41),MSV Duisburg (9),1-1,0-1,Rot-Weiß Oberhausen (9)
+?,(Fri) 17 Oct 2003 (41),Eintracht Trier (9),1-1,0-1,1. FC Union Berlin (9)
+?,(Fri) 17 Oct 2003 (41),Lübeck (9),1-1,1-1,Osnabrück (9)
+?,(Sun) 19 Oct 2003 (41),Arminia Bielefeld (9),1-0,1-0,1. FSV Mainz 05 (9)
+?,(Sun) 19 Oct 2003 (41),Energie Cottbus (9),2-1,0-1,Wacker Burghausen (9)
+?,(Sun) 19 Oct 2003 (41),FC Erzgebirge Aue (9),2-0,1-0,Karlsruher SC (9)
+?,(Sun) 19 Oct 2003 (41),Greuther Fürth (9),2-0,2-0,Rot Weiss Ahlen (9)
+?,(Sun) 19 Oct 2003 (41),SSV Jahn Regensburg (9),1-2,1-1,Alemannia Aachen (9)
+?,(Mon) 20 Oct 2003 (42),SpVgg Unterhaching (9),1-1,0-0,1. FC Nürnberg (9)
+?,(Fri) 24 Oct 2003 (42),Wacker Burghausen (10),2-0,0-0,FC Erzgebirge Aue (10)
+?,(Fri) 24 Oct 2003 (42),1. FC Nürnberg (10),3-2,2-0,SSV Jahn Regensburg (10)
+?,(Fri) 24 Oct 2003 (42),Rot-Weiß Oberhausen (10),3-3,2-2,Lübeck (10)
+?,(Sun) 26 Oct 2003 (42),Alemannia Aachen (10),2-0,1-0,Eintracht Trier (10)
+?,(Sun) 26 Oct 2003 (42),Rot Weiss Ahlen (10),2-3,1-0,MSV Duisburg (10)
+?,(Sun) 26 Oct 2003 (42),Karlsruher SC (10),1-0,0-0,Greuther Fürth (10)
+?,(Sun) 26 Oct 2003 (42),Osnabrück (10),2-1,1-1,SpVgg Unterhaching (10)
+?,(Sun) 26 Oct 2003 (42),1. FC Union Berlin (10),1-0,1-0,Arminia Bielefeld (10)
+?,(Mon) 27 Oct 2003 (43),1. FSV Mainz 05 (10),4-1,2-1,Energie Cottbus (10)
+?,(Fri) 31 Oct 2003 (43),Arminia Bielefeld (11),1-3,1-0,Energie Cottbus (11)
+?,(Fri) 31 Oct 2003 (43),FC Erzgebirge Aue (11),1-1,1-0,1. FSV Mainz 05 (11)
+?,(Fri) 31 Oct 2003 (43),Lübeck (11),4-1,2-0,Rot Weiss Ahlen (11)
+?,(Sun) 2 Nov 2003 (43),MSV Duisburg (11),0-2,0-0,Karlsruher SC (11)
+?,(Sun) 2 Nov 2003 (43),Eintracht Trier (11),0-2,0-0,1. FC Nürnberg (11)
+?,(Sun) 2 Nov 2003 (43),Greuther Fürth (11),2-2,1-1,Wacker Burghausen (11)
+?,(Sun) 2 Nov 2003 (43),SSV Jahn Regensburg (11),1-0,0-0,Osnabrück (11)
+?,(Sun) 2 Nov 2003 (43),SpVgg Unterhaching (11),1-4,1-1,Rot-Weiß Oberhausen (11)
+?,(Mon) 3 Nov 2003 (44),1. FC Union Berlin (11),2-1,0-1,Alemannia Aachen (11)
+?,(Fri) 7 Nov 2003 (44),1. FSV Mainz 05 (12),1-3,1-1,Greuther Fürth (12)
+?,(Fri) 7 Nov 2003 (44),Rot-Weiß Oberhausen (12),2-1,1-1,SSV Jahn Regensburg (12)
+?,(Fri) 7 Nov 2003 (44),Osnabrück (12),3-0,1-0,Eintracht Trier (12)
+?,(Sun) 9 Nov 2003 (44),Alemannia Aachen (12),2-0,1-0,Arminia Bielefeld (12)
+?,(Sun) 9 Nov 2003 (44),Rot Weiss Ahlen (12),2-2,0-0,SpVgg Unterhaching (12)
+?,(Sun) 9 Nov 2003 (44),Wacker Burghausen (12),1-2,1-1,MSV Duisburg (12)
+?,(Sun) 9 Nov 2003 (44),Karlsruher SC (12),1-0,1-0,Lübeck (12)
+?,(Sun) 9 Nov 2003 (44),1. FC Nürnberg (12),3-0,1-0,1. FC Union Berlin (12)
+?,(Mon) 10 Nov 2003 (45),Energie Cottbus (12),2-1,0-1,FC Erzgebirge Aue (12)
+?,(Fri) 21 Nov 2003 (46),Arminia Bielefeld (13),1-1,1-1,FC Erzgebirge Aue (13)
+?,(Fri) 21 Nov 2003 (46),MSV Duisburg (13),0-1,0-0,1. FSV Mainz 05 (13)
+?,(Fri) 21 Nov 2003 (46),Lübeck (13),2-2,0-0,Wacker Burghausen (13)
+?,(Fri) 21 Nov 2003 (46),1. FC Union Berlin (13),2-0,1-0,Osnabrück (13)
+?,(Sun) 23 Nov 2003 (46),Eintracht Trier (13),0-3,0-2,Rot-Weiß Oberhausen (13)
+?,(Sun) 23 Nov 2003 (46),Greuther Fürth (13),2-1,2-1,Energie Cottbus (13)
+?,(Sun) 23 Nov 2003 (46),SSV Jahn Regensburg (13),3-0,0-0,Rot Weiss Ahlen (13)
+?,(Sun) 23 Nov 2003 (46),SpVgg Unterhaching (13),3-0,2-0,Karlsruher SC (13)
+?,(Fri) 28 Nov 2003 (47),Energie Cottbus (14),1-1,0-0,MSV Duisburg (14)
+?,(Fri) 28 Nov 2003 (47),Karlsruher SC (14),0-3,0-1,SSV Jahn Regensburg (14)
+?,(Fri) 28 Nov 2003 (47),Osnabrück (14),3-1,1-0,Alemannia Aachen (13)
+?,(Sun) 30 Nov 2003 (47),Rot Weiss Ahlen (14),2-0,0-0,Eintracht Trier (14)
+?,(Sun) 30 Nov 2003 (47),Wacker Burghausen (14),0-2,0-2,SpVgg Unterhaching (14)
+?,(Sun) 30 Nov 2003 (47),FC Erzgebirge Aue (14),1-1,1-1,Greuther Fürth (14)
+?,(Sun) 30 Nov 2003 (47),1. FSV Mainz 05 (14),3-1,1-1,Lübeck (14)
+?,(Sun) 30 Nov 2003 (47),Rot-Weiß Oberhausen (14),0-0,0-0,1. FC Union Berlin (14)
+?,(Mon) 1 Dec 2003 (48),1. FC Nürnberg (13),1-0,1-0,Arminia Bielefeld (14)
+?,(Fri) 5 Dec 2003 (48),MSV Duisburg (15),2-2,2-1,FC Erzgebirge Aue (15)
+?,(Fri) 5 Dec 2003 (48),Eintracht Trier (15),1-1,0-0,Karlsruher SC (15)
+?,(Fri) 5 Dec 2003 (48),SSV Jahn Regensburg (15),0-2,0-1,Wacker Burghausen (15)
+?,(Sun) 7 Dec 2003 (48),Alemannia Aachen (14),1-0,0-0,Rot-Weiß Oberhausen (15)
+?,(Sun) 7 Dec 2003 (48),Arminia Bielefeld (15),1-1,1-0,Greuther Fürth (15)
+?,(Sun) 7 Dec 2003 (48),Lübeck (15),1-1,0-0,Energie Cottbus (15)
+?,(Sun) 7 Dec 2003 (48),1. FC Nürnberg (14),2-0,1-0,Osnabrück (15)
+?,(Sun) 7 Dec 2003 (48),1. FC Union Berlin (15),0-2,0-0,Rot Weiss Ahlen (15)
+?,(Mon) 8 Dec 2003 (49),SpVgg Unterhaching (15),1-1,0-1,1. FSV Mainz 05 (15)
+?,(Fri) 12 Dec 2003 (49),Rot Weiss Ahlen (16),0-0,0-0,Alemannia Aachen (15)
+?,(Fri) 12 Dec 2003 (49),Arminia Bielefeld (16),5-0,3-0,Osnabrück (16)
+?,(Fri) 12 Dec 2003 (49),Greuther Fürth (16),3-3,2-2,MSV Duisburg (16)
+?,(Fri) 12 Dec 2003 (49),Rot-Weiß Oberhausen (16),3-1,1-1,1. FC Nürnberg (15)
+?,(Sun) 14 Dec 2003 (49),Wacker Burghausen (16),1-1,1-0,Eintracht Trier (16)
+?,(Sun) 14 Dec 2003 (49),Energie Cottbus (16),3-1,1-1,SpVgg Unterhaching (16)
+?,(Sun) 14 Dec 2003 (49),FC Erzgebirge Aue (16),0-0,0-0,Lübeck (16)
+?,(Sun) 14 Dec 2003 (49),Karlsruher SC (16),2-1,2-1,1. FC Union Berlin (16)
+?,(Sun) 14 Dec 2003 (49),1. FSV Mainz 05 (16),1-1,0-0,SSV Jahn Regensburg (16)
+?,(Tue) 16 Dec 2003 (50),MSV Duisburg (17),0-2,0-0,Arminia Bielefeld (17)
+?,(Tue) 16 Dec 2003 (50),1. FC Nürnberg (16),2-0,1-0,Rot Weiss Ahlen (17)
+?,(Tue) 16 Dec 2003 (50),Osnabrück (17),0-2,0-1,Rot-Weiß Oberhausen (17)
+?,(Wed) 17 Dec 2003 (50),Alemannia Aachen (16),0-0,0-0,Karlsruher SC (17)
+?,(Wed) 17 Dec 2003 (50),Eintracht Trier (17),1-0,1-0,1. FSV Mainz 05 (17)
+?,(Wed) 17 Dec 2003 (50),Lübeck (17),1-0,0-0,Greuther Fürth (17)
+?,(Wed) 17 Dec 2003 (50),1. FC Union Berlin (17),1-2,1-1,Wacker Burghausen (17)
+?,(Wed) 17 Dec 2003 (50),SpVgg Unterhaching (17),1-2,1-1,FC Erzgebirge Aue (17)
+?,(Thu) 18 Dec 2003 (50),SSV Jahn Regensburg (17),0-0,0-0,Energie Cottbus (17)
+?,(Mon) 26 Jan 2004 (4),Alemannia Aachen (17),3-2,2-2,1. FC Nürnberg (17)
+?,(Sat) 31 Jan 2004 (4),Alemannia Aachen (18),0-1,0-1,Wacker Burghausen (18)
+?,(Sat) 31 Jan 2004 (4),SpVgg Unterhaching (18),3-1,1-1,Greuther Fürth (18)
+?,(Sun) 1 Feb 2004 (4),Eintracht Trier (18),2-0,1-0,Energie Cottbus (18)
+?,(Sun) 1 Feb 2004 (4),1. FC Nürnberg (18),2-0,2-0,Karlsruher SC (18)
+?,(Sun) 1 Feb 2004 (4),Osnabrück (18),1-2,1-1,Rot Weiss Ahlen (18)
+?,(Sun) 1 Feb 2004 (4),SSV Jahn Regensburg (18),1-1,1-0,FC Erzgebirge Aue (18)
+?,(Sun) 1 Feb 2004 (4),1. FC Union Berlin (18),1-1,1-0,1. FSV Mainz 05 (18)
+?,(Mon) 2 Feb 2004 (5),Rot-Weiß Oberhausen (18),3-2,0-1,Arminia Bielefeld (18)
+?,(Fri) 6 Feb 2004 (5),Rot Weiss Ahlen (19),0-2,0-2,Rot-Weiß Oberhausen (19)
+?,(Fri) 6 Feb 2004 (5),Wacker Burghausen (19),0-0,0-0,1. FC Nürnberg (19)
+?,(Fri) 6 Feb 2004 (5),Karlsruher SC (19),3-0,3-0,Osnabrück (19)
+?,(Sun) 8 Feb 2004 (5),Arminia Bielefeld (19),1-3,0-1,Lübeck (18)
+?,(Sun) 8 Feb 2004 (5),MSV Duisburg (18),0-1,0-1,SpVgg Unterhaching (19)
+?,(Sun) 8 Feb 2004 (5),FC Erzgebirge Aue (19),2-1,1-1,Eintracht Trier (19)
+?,(Sun) 8 Feb 2004 (5),Greuther Fürth (19),2-2,1-2,SSV Jahn Regensburg (19)
+?,(Sun) 8 Feb 2004 (5),1. FSV Mainz 05 (19),3-2,0-2,Alemannia Aachen (19)
+?,(Mon) 9 Feb 2004 (6),Energie Cottbus (19),2-1,1-0,1. FC Union Berlin (19)
+?,(Wed) 11 Feb 2004 (6),Lübeck (19),1-1,1-1,MSV Duisburg (19)
+?,(Fri) 13 Feb 2004 (6),Eintracht Trier (20),2-0,0-0,Greuther Fürth (20)
+?,(Fri) 13 Feb 2004 (6),Rot-Weiß Oberhausen (20),1-0,0-0,Karlsruher SC (20)
+?,(Fri) 13 Feb 2004 (6),Osnabrück (20),3-0,1-0,Wacker Burghausen (20)
+?,(Sun) 15 Feb 2004 (6),Alemannia Aachen (20),0-2,0-1,Energie Cottbus (20)
+?,(Sun) 15 Feb 2004 (6),Rot Weiss Ahlen (20),0-0,0-0,Arminia Bielefeld (20)
+?,(Sun) 15 Feb 2004 (6),SSV Jahn Regensburg (20),0-5,0-1,MSV Duisburg (20)
+?,(Sun) 15 Feb 2004 (6),1. FC Union Berlin (20),3-0,1-0,FC Erzgebirge Aue (20)
+?,(Sun) 15 Feb 2004 (6),SpVgg Unterhaching (20),0-1,0-1,Lübeck (20)
+?,(Mon) 16 Feb 2004 (7),1. FC Nürnberg (20),2-2,1-1,1. FSV Mainz 05 (20)
+?,(Fri) 20 Feb 2004 (7),Energie Cottbus (21),1-3,1-2,1. FC Nürnberg (21)
+?,(Fri) 20 Feb 2004 (7),MSV Duisburg (21),2-0,1-0,Eintracht Trier (21)
+?,(Fri) 20 Feb 2004 (7),1. FSV Mainz 05 (21),0-0,0-0,Osnabrück (21)
+?,(Sun) 22 Feb 2004 (7),Wacker Burghausen (21),5-0,2-0,Rot-Weiß Oberhausen (21)
+?,(Sun) 22 Feb 2004 (7),FC Erzgebirge Aue (21),0-1,0-1,Alemannia Aachen (21)
+?,(Sun) 22 Feb 2004 (7),Greuther Fürth (21),2-2,1-1,1. FC Union Berlin (21)
+?,(Sun) 22 Feb 2004 (7),Karlsruher SC (21),1-0,0-0,Rot Weiss Ahlen (21)
+?,(Sun) 22 Feb 2004 (7),Lübeck (21),0-3,0-2,SSV Jahn Regensburg (21)
+?,(Mon) 23 Feb 2004 (8),Arminia Bielefeld (21),1-0,1-0,SpVgg Unterhaching (21)
+?,(Fri) 27 Feb 2004 (8),Alemannia Aachen (22),0-0,0-0,Greuther Fürth (22)
+?,(Fri) 27 Feb 2004 (8),Karlsruher SC (22),2-2,0-1,Arminia Bielefeld (22)
+?,(Fri) 27 Feb 2004 (8),1. FC Nürnberg (22),2-0,2-0,FC Erzgebirge Aue (22)
+?,(Sun) 29 Feb 2004 (8),Osnabrück (22),0-1,0-0,Energie Cottbus (22)
+?,(Sun) 29 Feb 2004 (8),SSV Jahn Regensburg (22),1-0,1-0,SpVgg Unterhaching (22)
+?,(Sun) 29 Feb 2004 (8),1. FC Union Berlin (22),2-1,0-1,MSV Duisburg (22)
+?,(Mon) 1 Mar 2004 (9),Eintracht Trier (22),4-2,2-1,Lübeck (22)
+?,(Fri) 5 Mar 2004 (9),Wacker Burghausen (22),0-0,0-0,Karlsruher SC (23)
+?,(Fri) 5 Mar 2004 (9),Lübeck (23),0-2,0-1,1. FC Union Berlin (23)
+?,(Fri) 5 Mar 2004 (9),SpVgg Unterhaching (23),0-0,0-0,Eintracht Trier (23)
+?,(Sun) 7 Mar 2004 (9),Arminia Bielefeld (23),0-0,0-0,SSV Jahn Regensburg (23)
+?,(Sun) 7 Mar 2004 (9),Energie Cottbus (23),3-1,1-0,Rot-Weiß Oberhausen (22)
+?,(Sun) 7 Mar 2004 (9),FC Erzgebirge Aue (23),1-0,0-0,Osnabrück (23)
+?,(Sun) 7 Mar 2004 (9),Greuther Fürth (23),2-2,2-1,1. FC Nürnberg (23)
+?,(Sun) 7 Mar 2004 (9),1. FSV Mainz 05 (22),0-0,0-0,Rot Weiss Ahlen (22)
+?,(Mon) 8 Mar 2004 (10),MSV Duisburg (23),2-1,0-1,Alemannia Aachen (23)
+?,(Wed) 10 Mar 2004 (10),Rot-Weiß Oberhausen (23),0-0,0-0,1. FSV Mainz 05 (23)
+?,(Fri) 12 Mar 2004 (10),Alemannia Aachen (24),3-1,1-1,Lübeck (24)
+?,(Fri) 12 Mar 2004 (10),Rot Weiss Ahlen (23),0-0,0-0,Energie Cottbus (24)
+?,(Fri) 12 Mar 2004 (10),Eintracht Trier (24),4-0,1-0,SSV Jahn Regensburg (24)
+?,(Sun) 14 Mar 2004 (10),Wacker Burghausen (23),0-1,0-1,Arminia Bielefeld (24)
+?,(Sun) 14 Mar 2004 (10),1. FC Nürnberg (24),2-0,1-0,MSV Duisburg (24)
+?,(Sun) 14 Mar 2004 (10),Rot-Weiß Oberhausen (24),1-4,1-1,FC Erzgebirge Aue (24)
+?,(Sun) 14 Mar 2004 (10),Osnabrück (24),0-1,0-1,Greuther Fürth (24)
+?,(Sun) 14 Mar 2004 (10),1. FC Union Berlin (24),0-0,0-0,SpVgg Unterhaching (24)
+?,(Mon) 15 Mar 2004 (11),Karlsruher SC (24),1-1,0-0,1. FSV Mainz 05 (24)
+?,(Wed) 17 Mar 2004 (11),Rot Weiss Ahlen (24),3-1,3-1,Wacker Burghausen (24)
+?,(Fri) 19 Mar 2004 (11),Energie Cottbus (25),2-1,0-0,Karlsruher SC (25)
+?,(Fri) 19 Mar 2004 (11),MSV Duisburg (25),3-1,2-1,Osnabrück (25)
+?,(Fri) 19 Mar 2004 (11),Greuther Fürth (25),0-1,0-1,Rot-Weiß Oberhausen (25)
+?,(Sun) 21 Mar 2004 (11),Arminia Bielefeld (25),3-1,2-1,Eintracht Trier (25)
+?,(Sun) 21 Mar 2004 (11),FC Erzgebirge Aue (25),2-0,1-0,Rot Weiss Ahlen (25)
+?,(Sun) 21 Mar 2004 (11),1. FSV Mainz 05 (25),1-0,0-0,Wacker Burghausen (25)
+?,(Sun) 21 Mar 2004 (11),SSV Jahn Regensburg (25),3-1,3-0,1. FC Union Berlin (25)
+?,(Sun) 21 Mar 2004 (11),SpVgg Unterhaching (25),1-1,0-1,Alemannia Aachen (25)
+?,(Mon) 22 Mar 2004 (12),Lübeck (25),2-1,1-0,1. FC Nürnberg (25)
+?,(Fri) 26 Mar 2004 (12),Wacker Burghausen (26),1-1,1-0,Energie Cottbus (26)
+?,(Fri) 26 Mar 2004 (12),Rot-Weiß Oberhausen (26),0-3,0-1,MSV Duisburg (26)
+?,(Fri) 26 Mar 2004 (12),Osnabrück (26),3-1,2-1,Lübeck (26)
+?,(Sun) 28 Mar 2004 (12),Alemannia Aachen (26),1-0,0-0,SSV Jahn Regensburg (26)
+?,(Sun) 28 Mar 2004 (12),Rot Weiss Ahlen (26),3-2,1-0,Greuther Fürth (26)
+?,(Sun) 28 Mar 2004 (12),Karlsruher SC (26),3-5,1-4,FC Erzgebirge Aue (26)
+?,(Sun) 28 Mar 2004 (12),1. FC Nürnberg (26),3-0,2-0,SpVgg Unterhaching (26)
+?,(Sun) 28 Mar 2004 (12),1. FC Union Berlin (26),1-3,1-0,Eintracht Trier (26)
+?,(Mon) 29 Mar 2004 (13),1. FSV Mainz 05 (26),0-2,0-1,Arminia Bielefeld (26)
+?,(Fri) 2 Apr 2004 (13),Eintracht Trier (27),3-3,1-2,Alemannia Aachen (27)
+?,(Fri) 2 Apr 2004 (13),Lübeck (27),1-0,0-0,Rot-Weiß Oberhausen (27)
+?,(Fri) 2 Apr 2004 (13),SSV Jahn Regensburg (27),2-1,1-0,1. FC Nürnberg (27)
+?,(Sun) 4 Apr 2004 (13),Arminia Bielefeld (27),2-1,1-1,1. FC Union Berlin (27)
+?,(Sun) 4 Apr 2004 (13),MSV Duisburg (27),1-2,1-0,Rot Weiss Ahlen (27)
+?,(Sun) 4 Apr 2004 (13),FC Erzgebirge Aue (27),3-0,1-0,Wacker Burghausen (27)
+?,(Sun) 4 Apr 2004 (13),Greuther Fürth (27),2-1,0-1,Karlsruher SC (27)
+?,(Sun) 4 Apr 2004 (13),SpVgg Unterhaching (27),2-1,1-1,Osnabrück (27)
+?,(Mon) 5 Apr 2004 (14),Energie Cottbus (27),0-0,0-0,1. FSV Mainz 05 (27)
+?,(Thu) 8 Apr 2004 (14),Alemannia Aachen (28),4-2,2-2,1. FC Union Berlin (28)
+?,(Thu) 8 Apr 2004 (14),Energie Cottbus (28),1-2,0-0,Arminia Bielefeld (28)
+?,(Thu) 8 Apr 2004 (14),Rot-Weiß Oberhausen (28),3-1,1-0,SpVgg Unterhaching (28)
+?,(Sun) 11 Apr 2004 (14),Rot Weiss Ahlen (28),1-1,1-1,Lübeck (28)
+?,(Sun) 11 Apr 2004 (14),Wacker Burghausen (28),0-2,0-1,Greuther Fürth (28)
+?,(Sun) 11 Apr 2004 (14),Karlsruher SC (28),1-0,1-0,MSV Duisburg (28)
+?,(Sun) 11 Apr 2004 (14),1. FSV Mainz 05 (28),1-1,0-0,FC Erzgebirge Aue (28)
+?,(Sun) 11 Apr 2004 (14),Osnabrück (28),3-0,1-0,SSV Jahn Regensburg (28)
+?,(Mon) 12 Apr 2004 (15),1. FC Nürnberg (28),3-1,2-1,Eintracht Trier (28)
+?,(Fri) 16 Apr 2004 (15),FC Erzgebirge Aue (29),1-0,0-0,Energie Cottbus (29)
+?,(Fri) 16 Apr 2004 (15),Lübeck (29),2-2,1-0,Karlsruher SC (29)
+?,(Fri) 16 Apr 2004 (15),SSV Jahn Regensburg (29),1-1,1-1,Rot-Weiß Oberhausen (29)
+?,(Sun) 18 Apr 2004 (15),MSV Duisburg (29),1-0,0-0,Wacker Burghausen (29)
+?,(Sun) 18 Apr 2004 (15),Eintracht Trier (29),0-0,0-0,Osnabrück (29)
+?,(Sun) 18 Apr 2004 (15),Greuther Fürth (29),3-1,2-0,1. FSV Mainz 05 (29)
+?,(Sun) 18 Apr 2004 (15),1. FC Union Berlin (29),3-5,1-3,1. FC Nürnberg (29)
+?,(Sun) 18 Apr 2004 (15),SpVgg Unterhaching (29),0-0,0-0,Rot Weiss Ahlen (29)
+?,(Mon) 19 Apr 2004 (16),Arminia Bielefeld (29),3-0,1-0,Alemannia Aachen (29)
+?,(Fri) 23 Apr 2004 (16),Wacker Burghausen (30),2-1,0-0,Lübeck (30)
+?,(Fri) 23 Apr 2004 (16),1. FSV Mainz 05 (30),4-1,2-0,MSV Duisburg (30)
+?,(Fri) 23 Apr 2004 (16),Osnabrück (30),0-2,0-1,1. FC Union Berlin (30)
+?,(Sun) 25 Apr 2004 (16),Rot Weiss Ahlen (30),3-1,0-1,SSV Jahn Regensburg (30)
+?,(Sun) 25 Apr 2004 (16),Energie Cottbus (30),4-2,0-1,Greuther Fürth (30)
+?,(Sun) 25 Apr 2004 (16),FC Erzgebirge Aue (30),1-1,0-1,Arminia Bielefeld (30)
+?,(Sun) 25 Apr 2004 (16),Karlsruher SC (30),0-1,0-0,SpVgg Unterhaching (30)
+?,(Sun) 25 Apr 2004 (16),Rot-Weiß Oberhausen (30),1-2,1-1,Eintracht Trier (30)
+?,(Mon) 26 Apr 2004 (17),1. FC Nürnberg (30),3-0,0-0,Alemannia Aachen (30)
+?,(Fri) 30 Apr 2004 (17),Alemannia Aachen (31),2-1,0-0,Osnabrück (31)
+?,(Fri) 30 Apr 2004 (17),Eintracht Trier (31),3-0,2-0,Rot Weiss Ahlen (31)
+?,(Fri) 30 Apr 2004 (17),Lübeck (31),1-4,1-2,1. FSV Mainz 05 (31)
+?,(Sun) 2 May 2004 (17),MSV Duisburg (31),4-2,1-0,Energie Cottbus (31)
+?,(Sun) 2 May 2004 (17),Greuther Fürth (31),5-1,3-1,FC Erzgebirge Aue (31)
+?,(Sun) 2 May 2004 (17),SSV Jahn Regensburg (31),1-1,0-1,Karlsruher SC (31)
+?,(Sun) 2 May 2004 (17),1. FC Union Berlin (31),2-2,1-0,Rot-Weiß Oberhausen (31)
+?,(Sun) 2 May 2004 (17),SpVgg Unterhaching (31),1-2,0-0,Wacker Burghausen (31)
+?,(Mon) 3 May 2004 (18),Arminia Bielefeld (31),1-3,1-2,1. FC Nürnberg (31)
+?,(Fri) 7 May 2004 (18),Wacker Burghausen (32),2-0,2-0,SSV Jahn Regensburg (32)
+?,(Fri) 7 May 2004 (18),1. FSV Mainz 05 (32),2-0,2-0,SpVgg Unterhaching (32)
+?,(Fri) 7 May 2004 (18),Osnabrück (32),3-4,2-1,1. FC Nürnberg (32)
+?,(Sun) 9 May 2004 (18),Rot Weiss Ahlen (32),1-0,0-0,1. FC Union Berlin (32)
+?,(Sun) 9 May 2004 (18),Energie Cottbus (32),1-1,1-0,Lübeck (32)
+?,(Sun) 9 May 2004 (18),FC Erzgebirge Aue (32),2-1,0-1,MSV Duisburg (32)
+?,(Sun) 9 May 2004 (18),Greuther Fürth (32),1-2,0-2,Arminia Bielefeld (32)
+?,(Sun) 9 May 2004 (18),Karlsruher SC (32),0-1,0-0,Eintracht Trier (32)
+?,(Mon) 10 May 2004 (19),Rot-Weiß Oberhausen (32),1-2,1-0,Alemannia Aachen (32)
+?,(Sun) 16 May 2004 (19),Alemannia Aachen (33),1-1,0-1,Rot Weiss Ahlen (33)
+?,(Sun) 16 May 2004 (19),MSV Duisburg (33),1-1,1-1,Greuther Fürth (33)
+?,(Sun) 16 May 2004 (19),Eintracht Trier (33),0-0,0-0,Wacker Burghausen (33)
+?,(Sun) 16 May 2004 (19),Lübeck (33),2-2,0-2,FC Erzgebirge Aue (33)
+?,(Sun) 16 May 2004 (19),1. FC Nürnberg (33),1-3,0-1,Rot-Weiß Oberhausen (33)
+?,(Sun) 16 May 2004 (19),Osnabrück (33),0-0,0-0,Arminia Bielefeld (33)
+?,(Sun) 16 May 2004 (19),SSV Jahn Regensburg (33),0-0,0-0,1. FSV Mainz 05 (33)
+?,(Sun) 16 May 2004 (19),1. FC Union Berlin (33),2-2,2-1,Karlsruher SC (33)
+?,(Sun) 16 May 2004 (19),SpVgg Unterhaching (33),2-0,2-0,Energie Cottbus (33)
+?,(Sun) 23 May 2004 (20),Rot Weiss Ahlen (34),2-0,2-0,1. FC Nürnberg (34)
+?,(Sun) 23 May 2004 (20),Arminia Bielefeld (34),1-3,0-1,MSV Duisburg (34)
+?,(Sun) 23 May 2004 (20),Wacker Burghausen (34),3-1,2-0,1. FC Union Berlin (34)
+?,(Sun) 23 May 2004 (20),Energie Cottbus (34),3-0,1-0,SSV Jahn Regensburg (34)
+?,(Sun) 23 May 2004 (20),FC Erzgebirge Aue (34),3-3,2-3,SpVgg Unterhaching (34)
+?,(Sun) 23 May 2004 (20),Greuther Fürth (34),2-0,1-0,Lübeck (34)
+?,(Sun) 23 May 2004 (20),Karlsruher SC (34),1-0,1-0,Alemannia Aachen (34)
+?,(Sun) 23 May 2004 (20),1. FSV Mainz 05 (34),3-0,1-0,Eintracht Trier (34)
+?,(Sun) 23 May 2004 (20),Rot-Weiß Oberhausen (34),3-2,1-2,Osnabrück (34)

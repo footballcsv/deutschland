@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Eintracht Braunschweig        34  13  3  1  35:8     4  6  7  14:19    49:27  +22   60
@@ -24,9 +24,9 @@
 16. Werder Bremen                 34   7  5  5  34:27    3  4 10  15:29    49:56   -7   39
 17. Fortuna Düsseldorf            34   5  6  6  24:31    4  1 12  20:35    44:66  -22   34
 18. Rot-Weiss Essen               34   5  7  5  24:23    1  6 10  11:30    35:53  -18   31
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

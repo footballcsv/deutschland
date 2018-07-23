@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. TSV 1860 München              34  11  6  0  43:17    9  4  4  37:23    80:40  +40   70
@@ -23,10 +23,10 @@
 15. 1. FC Kaiserslautern          34   7  6  4  25:18    1  4 12  17:47    42:65  -23   34
 16. Karlsruher SC                 34   9  4  4  27:22    0  2 15   8:49    35:71  -36   33
 17. Borussia Neunkirchen          34   7  2  8  19:36    2  2 13  13:46    32:82  -50   31
-18. Tasmania 1900 Berlin          34   2  3 12   8:46    0  1 16   7:62    15:108 -93   10
-~~~
+18. SC Tasmania 1900 Berlin (-1973)  34   2  3 12   8:46    0  1 16   7:62    15:108 -93   10
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

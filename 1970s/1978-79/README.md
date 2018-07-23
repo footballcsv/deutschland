@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Hamburger SV                  34  13  3  1  50:13    8  4  5  28:19    78:32  +46   70
@@ -24,9 +24,9 @@
 16. Arminia Bielefeld             34   6  6  5  23:19    3  2 12  20:37    43:56  -13   35
 17. 1. FC Nürnberg                34   7  6  4  24:24    1  2 14  12:43    36:67  -31   32
 18. SV Darmstadt 98               34   6  4  7  25:31    1  3 13  15:44    40:75  -35   28
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

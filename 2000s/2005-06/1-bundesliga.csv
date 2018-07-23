@@ -1,307 +1,307 @@
-Round,Date,Team 1,Team 2,FT,HT
-1,2005-08-05,Bayern München,Bor. Mönchengladbach,3-0,1-0
-1,2005-08-06,Hamburger SV,1. FC Nürnberg,3-0,2-0
-1,2005-08-06,1. FC Köln,1. FSV Mainz 05,1-0,0-0
-1,2005-08-06,MSV Duisburg,VfB Stuttgart,1-1,1-1
-1,2005-08-06,VfL Wolfsburg,Borussia Dortmund,2-2,1-0
-1,2005-08-06,Hannover 96,Hertha BSC,2-2,0-0
-1,2005-08-06,Werder Bremen,Arminia Bielefeld,5-2,3-2
-1,2005-08-07,FC Schalke 04,1. FC Kaiserslautern,2-1,0-1
-1,2005-08-07,Eintracht Frankfurt,Bayer Leverkusen,1-4,1-1
-2,2005-08-13,Hertha BSC,Eintracht Frankfurt,2-0,0-0
-2,2005-08-13,Bayer Leverkusen,Bayern München,2-5,1-3
-2,2005-08-13,Bor. Mönchengladbach,VfL Wolfsburg,1-1,0-1
-2,2005-08-13,Borussia Dortmund,FC Schalke 04,1-2,1-1
-2,2005-08-13,1. FC Kaiserslautern,MSV Duisburg,5-3,2-1
-2,2005-08-13,Arminia Bielefeld,Hamburger SV,0-2,0-0
-2,2005-08-13,1. FC Nürnberg,Hannover 96,1-1,0-1
-2,2005-08-14,VfB Stuttgart,1. FC Köln,2-3,0-1
-2,2005-08-14,1. FSV Mainz 05,Werder Bremen,0-2,0-1
-3,2005-08-27,Hamburger SV,Hannover 96,1-1,1-1
-3,2005-08-27,1. FC Köln,1. FC Kaiserslautern,2-3,0-1
-3,2005-08-27,FC Schalke 04,Bor. Mönchengladbach,1-1,0-1
-3,2005-08-27,VfL Wolfsburg,Bayer Leverkusen,2-1,1-1
-3,2005-08-27,Bayern München,Hertha BSC,3-0,0-0
-3,2005-08-27,Eintracht Frankfurt,1. FC Nürnberg,1-0,0-0
-3,2005-08-27,Werder Bremen,VfB Stuttgart,1-1,1-0
-3,2005-08-28,MSV Duisburg,Borussia Dortmund,1-1,0-0
-3,2005-08-28,Arminia Bielefeld,1. FSV Mainz 05,2-0,2-0
-4,2005-09-10,Bayer Leverkusen,FC Schalke 04,1-1,0-0
-4,2005-09-10,Bor. Mönchengladbach,MSV Duisburg,2-1,1-1
-4,2005-09-10,1. FC Kaiserslautern,Werder Bremen,1-5,0-3
-4,2005-09-10,VfB Stuttgart,Arminia Bielefeld,1-1,0-0
-4,2005-09-10,1. FSV Mainz 05,Hamburger SV,1-3,0-1
-4,2005-09-10,Hannover 96,Eintracht Frankfurt,2-0,1-0
-4,2005-09-10,1. FC Nürnberg,Bayern München,1-2,1-1
-4,2005-09-11,Hertha BSC,VfL Wolfsburg,3-0,0-0
-4,2005-09-11,Borussia Dortmund,1. FC Köln,2-1,1-0
-5,2005-09-17,Hamburger SV,Eintracht Frankfurt,1-1,0-0
-5,2005-09-17,1. FC Köln,Bor. Mönchengladbach,2-1,2-0
-5,2005-09-17,VfL Wolfsburg,1. FC Nürnberg,1-1,1-0
-5,2005-09-17,Bayern München,Hannover 96,1-0,1-0
-5,2005-09-17,1. FSV Mainz 05,VfB Stuttgart,1-2,0-0
-5,2005-09-17,Arminia Bielefeld,1. FC Kaiserslautern,0-0,0-0
-5,2005-09-17,Werder Bremen,Borussia Dortmund,3-2,1-1
-5,2005-09-18,MSV Duisburg,Bayer Leverkusen,1-3,1-2
-5,2005-09-18,FC Schalke 04,Hertha BSC,0-0,0-0
-6,2005-09-20,Bor. Mönchengladbach,Werder Bremen,2-1,0-1
-6,2005-09-20,Borussia Dortmund,Arminia Bielefeld,2-0,1-0
-6,2005-09-20,Eintracht Frankfurt,Bayern München,0-1,0-0
-6,2005-09-20,Hannover 96,VfL Wolfsburg,2-4,1-4
-6,2005-09-21,Hertha BSC,MSV Duisburg,3-2,1-1
-6,2005-09-21,Bayer Leverkusen,1. FC Köln,2-1,1-0
-6,2005-09-21,1. FC Kaiserslautern,1. FSV Mainz 05,0-2,0-1
-6,2005-09-21,VfB Stuttgart,Hamburger SV,1-2,0-1
-6,2005-09-21,1. FC Nürnberg,FC Schalke 04,1-1,1-0
-7,2005-09-24,Hamburger SV,Bayern München,2-0,1-0
-7,2005-09-24,MSV Duisburg,1. FC Nürnberg,1-0,1-0
-7,2005-09-24,FC Schalke 04,Hannover 96,2-0,0-0
-7,2005-09-24,VfL Wolfsburg,Eintracht Frankfurt,1-0,1-0
-7,2005-09-24,1. FSV Mainz 05,Borussia Dortmund,1-1,0-0
-7,2005-09-24,Arminia Bielefeld,Bor. Mönchengladbach,0-2,0-1
-7,2005-09-24,Werder Bremen,Bayer Leverkusen,2-1,0-0
-7,2005-09-25,1. FC Köln,Hertha BSC,0-1,0-0
-7,2005-09-25,VfB Stuttgart,1. FC Kaiserslautern,1-0,1-0
-8,2005-10-01,Hertha BSC,Werder Bremen,1-2,0-0
-8,2005-10-01,Bayer Leverkusen,Arminia Bielefeld,1-1,0-0
-8,2005-10-01,Bor. Mönchengladbach,1. FSV Mainz 05,1-0,1-0
-8,2005-10-01,Bayern München,VfL Wolfsburg,2-0,0-0
-8,2005-10-01,Eintracht Frankfurt,FC Schalke 04,0-1,0-0
-8,2005-10-01,Hannover 96,MSV Duisburg,1-1,1-1
-8,2005-10-01,1. FC Nürnberg,1. FC Köln,2-1,1-0
-8,2005-10-02,Borussia Dortmund,VfB Stuttgart,0-0,0-0
-8,2005-10-02,1. FC Kaiserslautern,Hamburger SV,0-3,0-1
-9,2005-10-15,Hamburger SV,VfL Wolfsburg,0-1,0-1
-9,2005-10-15,FC Schalke 04,Bayern München,1-1,0-1
-9,2005-10-15,1. FC Kaiserslautern,Borussia Dortmund,3-3,1-3
-9,2005-10-15,VfB Stuttgart,Bor. Mönchengladbach,1-1,0-1
-9,2005-10-15,1. FSV Mainz 05,Bayer Leverkusen,3-1,0-0
-9,2005-10-15,Arminia Bielefeld,Hertha BSC,3-0,2-0
-9,2005-10-15,Werder Bremen,1. FC Nürnberg,6-2,3-1
-9,2005-10-16,1. FC Köln,Hannover 96,1-4,0-0
-9,2005-10-16,MSV Duisburg,Eintracht Frankfurt,0-1,0-1
-10,2005-10-22,Hertha BSC,1. FSV Mainz 05,3-1,2-0
-10,2005-10-22,Bor. Mönchengladbach,1. FC Kaiserslautern,4-1,3-1
-10,2005-10-22,VfL Wolfsburg,FC Schalke 04,0-0,0-0
-10,2005-10-22,Bayern München,MSV Duisburg,4-0,2-0
-10,2005-10-22,Eintracht Frankfurt,1. FC Köln,6-3,4-1
-10,2005-10-22,Hannover 96,Werder Bremen,0-0,0-0
-10,2005-10-22,1. FC Nürnberg,Arminia Bielefeld,2-3,1-1
-10,2005-10-23,Bayer Leverkusen,VfB Stuttgart,1-1,0-0
-10,2005-10-23,Borussia Dortmund,Hamburger SV,1-1,0-0
-11,2005-10-29,Hamburger SV,FC Schalke 04,1-0,1-0
-11,2005-10-29,1. FC Köln,Bayern München,1-2,1-0
-11,2005-10-29,MSV Duisburg,VfL Wolfsburg,1-0,0-0
-11,2005-10-29,Borussia Dortmund,Bor. Mönchengladbach,2-1,1-0
-11,2005-10-29,1. FC Kaiserslautern,Bayer Leverkusen,2-2,1-1
-11,2005-10-29,VfB Stuttgart,Hertha BSC,3-3,0-1
-11,2005-10-29,Werder Bremen,Eintracht Frankfurt,4-1,1-1
-11,2005-10-30,1. FSV Mainz 05,1. FC Nürnberg,4-1,3-1
-11,2005-10-30,Arminia Bielefeld,Hannover 96,4-1,1-0
-12,2005-11-05,Hertha BSC,1. FC Kaiserslautern,3-0,1-0
-12,2005-11-05,Bayer Leverkusen,Borussia Dortmund,2-1,1-0
-12,2005-11-05,FC Schalke 04,MSV Duisburg,3-0,1-0
-12,2005-11-05,VfL Wolfsburg,1. FC Köln,1-1,1-0
-12,2005-11-05,Bayern München,Werder Bremen,3-1,3-1
-12,2005-11-05,Eintracht Frankfurt,Arminia Bielefeld,3-0,1-0
-12,2005-11-05,Hannover 96,1. FSV Mainz 05,2-2,0-1
-12,2005-11-06,Bor. Mönchengladbach,Hamburger SV,0-0,0-0
-12,2005-11-06,1. FC Nürnberg,VfB Stuttgart,0-1,0-1
-13,2005-11-19,1. FC Köln,FC Schalke 04,2-2,0-1
-13,2005-11-19,Bor. Mönchengladbach,Bayer Leverkusen,1-1,1-1
-13,2005-11-19,Borussia Dortmund,Hertha BSC,2-0,2-0
-13,2005-11-19,1. FC Kaiserslautern,1. FC Nürnberg,1-3,1-1
-13,2005-11-19,1. FSV Mainz 05,Eintracht Frankfurt,2-2,0-2
-13,2005-11-19,Arminia Bielefeld,Bayern München,1-2,0-0
-13,2005-11-19,Werder Bremen,VfL Wolfsburg,6-1,2-0
-13,2005-11-20,Hamburger SV,MSV Duisburg,2-0,2-0
-13,2005-11-20,VfB Stuttgart,Hannover 96,2-2,1-0
-14,2005-11-26,Bayer Leverkusen,Hamburger SV,0-1,0-0
-14,2005-11-26,FC Schalke 04,Werder Bremen,2-1,1-0
-14,2005-11-26,VfL Wolfsburg,Arminia Bielefeld,0-0,0-0
-14,2005-11-26,Bayern München,1. FSV Mainz 05,2-1,1-1
-14,2005-11-26,Hannover 96,1. FC Kaiserslautern,5-1,2-0
-14,2005-11-26,1. FC Nürnberg,Borussia Dortmund,1-2,0-2
-14,2005-11-27,Hertha BSC,Bor. Mönchengladbach,2-2,0-2
-14,2005-11-27,Eintracht Frankfurt,VfB Stuttgart,1-1,1-0
-14,2005-12-06,MSV Duisburg,1. FC Köln,1-1,1-1
-15,2005-12-03,Hamburger SV,1. FC Köln,3-1,1-0
-15,2005-12-03,Bor. Mönchengladbach,1. FC Nürnberg,0-1,0-0
-15,2005-12-03,Borussia Dortmund,Hannover 96,0-2,0-1
-15,2005-12-03,VfB Stuttgart,Bayern München,0-0,0-0
-15,2005-12-03,Arminia Bielefeld,FC Schalke 04,0-1,0-0
-15,2005-12-03,Werder Bremen,MSV Duisburg,2-0,0-0
-15,2005-12-04,Bayer Leverkusen,Hertha BSC,1-2,1-0
-15,2005-12-04,1. FSV Mainz 05,VfL Wolfsburg,5-1,3-1
-15,2005-12-14,1. FC Kaiserslautern,Eintracht Frankfurt,1-2,0-0
-16,2005-12-10,Hamburger SV,Hertha BSC,2-1,2-0
-16,2005-12-10,MSV Duisburg,Arminia Bielefeld,1-1,1-0
-16,2005-12-10,FC Schalke 04,1. FSV Mainz 05,1-0,0-0
-16,2005-12-10,VfL Wolfsburg,VfB Stuttgart,0-1,0-0
-16,2005-12-10,Eintracht Frankfurt,Borussia Dortmund,2-0,1-0
-16,2005-12-10,Hannover 96,Bor. Mönchengladbach,1-1,0-0
-16,2005-12-10,1. FC Nürnberg,Bayer Leverkusen,1-1,1-1
-16,2005-12-11,1. FC Köln,Werder Bremen,1-4,1-1
-16,2005-12-11,Bayern München,1. FC Kaiserslautern,2-1,1-1
-17,2005-12-17,Bayer Leverkusen,Hannover 96,0-0,0-0
-17,2005-12-17,Bor. Mönchengladbach,Eintracht Frankfurt,4-3,1-2
-17,2005-12-17,Borussia Dortmund,Bayern München,1-2,0-0
-17,2005-12-17,1. FC Kaiserslautern,VfL Wolfsburg,3-2,1-0
-17,2005-12-17,VfB Stuttgart,FC Schalke 04,2-0,0-0
-17,2005-12-17,1. FSV Mainz 05,MSV Duisburg,1-1,1-0
-17,2005-12-17,Arminia Bielefeld,1. FC Köln,3-2,0-1
-17,2005-12-18,Hertha BSC,1. FC Nürnberg,1-1,0-0
-17,2005-12-18,Werder Bremen,Hamburger SV,1-1,1-0
-18,2006-01-27,Bor. Mönchengladbach,Bayern München,1-3,0-1
-18,2006-01-28,1. FC Nürnberg,Hamburger SV,2-1,0-0
-18,2006-01-28,1. FSV Mainz 05,1. FC Köln,4-2,1-1
-18,2006-01-28,VfB Stuttgart,MSV Duisburg,0-1,0-1
-18,2006-01-28,Borussia Dortmund,VfL Wolfsburg,3-2,2-1
-18,2006-01-28,Bayer Leverkusen,Eintracht Frankfurt,2-1,0-1
-18,2006-01-28,Hertha BSC,Hannover 96,1-1,0-1
-18,2006-01-29,1. FC Kaiserslautern,FC Schalke 04,0-2,0-1
-18,2006-01-29,Arminia Bielefeld,Werder Bremen,0-1,0-0
-19,2006-02-04,Eintracht Frankfurt,Hertha BSC,1-1,0-1
-19,2006-02-04,Bayern München,Bayer Leverkusen,1-0,1-0
-19,2006-02-04,FC Schalke 04,Borussia Dortmund,0-0,0-0
-19,2006-02-04,MSV Duisburg,1. FC Kaiserslautern,2-2,1-0
-19,2006-02-04,1. FC Köln,VfB Stuttgart,0-0,0-0
-19,2006-02-04,Werder Bremen,1. FSV Mainz 05,4-2,3-2
-19,2006-02-04,Hamburger SV,Arminia Bielefeld,2-1,0-1
-19,2006-02-05,VfL Wolfsburg,Bor. Mönchengladbach,2-0,1-0
-19,2006-02-05,Hannover 96,1. FC Nürnberg,1-1,0-0
-20,2006-02-07,1. FC Kaiserslautern,1. FC Köln,2-2,1-1
-20,2006-02-07,Borussia Dortmund,MSV Duisburg,2-0,0-0
-20,2006-02-07,Hertha BSC,Bayern München,0-0,0-0
-20,2006-02-07,1. FSV Mainz 05,Arminia Bielefeld,1-1,0-0
-20,2006-02-08,Hannover 96,Hamburger SV,2-1,0-0
-20,2006-02-08,Bor. Mönchengladbach,FC Schalke 04,0-0,0-0
-20,2006-02-08,Bayer Leverkusen,VfL Wolfsburg,4-0,1-0
-20,2006-02-08,1. FC Nürnberg,Eintracht Frankfurt,0-1,0-1
-20,2006-02-08,VfB Stuttgart,Werder Bremen,0-0,0-0
-21,2006-02-11,VfL Wolfsburg,Hertha BSC,1-1,0-1
-21,2006-02-11,FC Schalke 04,Bayer Leverkusen,7-4,3-1
-21,2006-02-11,MSV Duisburg,Bor. Mönchengladbach,1-1,1-1
-21,2006-02-11,Werder Bremen,1. FC Kaiserslautern,0-2,0-0
-21,2006-02-11,Arminia Bielefeld,VfB Stuttgart,2-1,1-1
-21,2006-02-11,Hamburger SV,1. FSV Mainz 05,1-0,1-0
-21,2006-02-11,Eintracht Frankfurt,Hannover 96,0-1,0-0
-21,2006-02-12,1. FC Köln,Borussia Dortmund,0-0,0-0
-21,2006-02-12,Bayern München,1. FC Nürnberg,2-1,1-1
-22,2006-02-18,Bor. Mönchengladbach,1. FC Köln,2-0,0-0
-22,2006-02-18,Bayer Leverkusen,MSV Duisburg,3-2,2-1
-22,2006-02-18,Hertha BSC,FC Schalke 04,1-2,1-2
-22,2006-02-18,1. FC Nürnberg,VfL Wolfsburg,1-0,1-0
-22,2006-02-18,Hannover 96,Bayern München,1-1,0-0
-22,2006-02-18,1. FC Kaiserslautern,Arminia Bielefeld,2-0,1-0
-22,2006-02-18,Borussia Dortmund,Werder Bremen,0-1,0-1
-22,2006-02-19,Eintracht Frankfurt,Hamburger SV,1-2,1-1
-22,2006-02-19,VfB Stuttgart,1. FSV Mainz 05,2-1,1-1
-23,2006-02-25,1. FC Köln,Bayer Leverkusen,0-3,0-0
-23,2006-02-25,Werder Bremen,Bor. Mönchengladbach,2-0,2-0
-23,2006-02-25,Arminia Bielefeld,Borussia Dortmund,1-0,1-0
-23,2006-02-25,1. FSV Mainz 05,1. FC Kaiserslautern,0-2,0-2
-23,2006-02-25,Bayern München,Eintracht Frankfurt,5-2,3-1
-23,2006-02-25,VfL Wolfsburg,Hannover 96,2-1,1-1
-23,2006-02-25,FC Schalke 04,1. FC Nürnberg,2-0,0-0
-23,2006-02-26,MSV Duisburg,Hertha BSC,2-1,1-0
-23,2006-02-26,Hamburger SV,VfB Stuttgart,0-2,0-1
-24,2006-03-04,Bayern München,Hamburger SV,1-2,0-1
-24,2006-03-04,Hertha BSC,1. FC Köln,2-4,0-0
-24,2006-03-04,1. FC Nürnberg,MSV Duisburg,3-0,2-0
-24,2006-03-04,Hannover 96,FC Schalke 04,1-2,0-2
-24,2006-03-04,Borussia Dortmund,1. FSV Mainz 05,1-1,1-0
-24,2006-03-04,Bayer Leverkusen,Werder Bremen,1-1,1-1
-24,2006-03-05,Eintracht Frankfurt,VfL Wolfsburg,1-1,0-0
-24,2006-03-05,Bor. Mönchengladbach,Arminia Bielefeld,2-0,1-0
-24,2006-03-07,1. FC Kaiserslautern,VfB Stuttgart,1-1,1-0
-25,2006-03-11,Werder Bremen,Hertha BSC,0-3,0-0
-25,2006-03-11,Arminia Bielefeld,Bayer Leverkusen,1-0,1-0
-25,2006-03-11,1. FSV Mainz 05,Bor. Mönchengladbach,3-0,0-0
-25,2006-03-11,VfB Stuttgart,Borussia Dortmund,0-0,0-0
-25,2006-03-11,VfL Wolfsburg,Bayern München,0-0,0-0
-25,2006-03-11,MSV Duisburg,Hannover 96,0-0,0-0
-25,2006-03-11,1. FC Köln,1. FC Nürnberg,3-4,1-3
-25,2006-03-12,FC Schalke 04,Eintracht Frankfurt,2-0,0-0
-25,2006-03-12,Hamburger SV,1. FC Kaiserslautern,3-0,0-0
-26,2006-03-18,VfL Wolfsburg,Hamburger SV,0-1,0-1
-26,2006-03-18,Hannover 96,1. FC Köln,1-0,1-0
-26,2006-03-18,Eintracht Frankfurt,MSV Duisburg,5-2,3-2
-26,2006-03-18,Borussia Dortmund,1. FC Kaiserslautern,2-1,1-1
-26,2006-03-18,Bor. Mönchengladbach,VfB Stuttgart,1-1,0-0
-26,2006-03-18,Bayer Leverkusen,1. FSV Mainz 05,1-2,0-1
-26,2006-03-18,1. FC Nürnberg,Werder Bremen,3-1,2-0
-26,2006-03-19,Bayern München,FC Schalke 04,3-0,0-0
-26,2006-03-19,Hertha BSC,Arminia Bielefeld,1-0,0-0
-27,2006-03-25,1. FSV Mainz 05,Hertha BSC,2-2,0-1
-27,2006-03-25,VfB Stuttgart,Bayer Leverkusen,0-2,0-1
-27,2006-03-25,Hamburger SV,Borussia Dortmund,2-4,1-1
-27,2006-03-25,FC Schalke 04,VfL Wolfsburg,2-2,1-1
-27,2006-03-25,MSV Duisburg,Bayern München,1-3,1-0
-27,2006-03-25,1. FC Köln,Eintracht Frankfurt,1-1,1-1
-27,2006-03-25,Werder Bremen,Hannover 96,5-0,2-0
-27,2006-03-26,1. FC Kaiserslautern,Bor. Mönchengladbach,3-0,2-0
-27,2006-03-26,Arminia Bielefeld,1. FC Nürnberg,0-0,0-0
-28,2006-04-01,Bayern München,1. FC Köln,2-2,2-2
-28,2006-04-01,VfL Wolfsburg,MSV Duisburg,1-1,0-0
-28,2006-04-01,Bor. Mönchengladbach,Borussia Dortmund,2-1,2-1
-28,2006-04-01,Bayer Leverkusen,1. FC Kaiserslautern,5-1,2-0
-28,2006-04-01,Hertha BSC,VfB Stuttgart,2-0,0-0
-28,2006-04-01,1. FC Nürnberg,1. FSV Mainz 05,3-0,1-0
-28,2006-04-01,Eintracht Frankfurt,Werder Bremen,0-1,0-0
-28,2006-04-02,FC Schalke 04,Hamburger SV,0-2,0-0
-28,2006-04-02,Hannover 96,Arminia Bielefeld,0-1,0-1
-29,2006-04-08,1. FC Kaiserslautern,Hertha BSC,0-2,0-2
-29,2006-04-08,Borussia Dortmund,Bayer Leverkusen,1-2,1-1
-29,2006-04-08,1. FC Köln,VfL Wolfsburg,3-0,0-0
-29,2006-04-08,Werder Bremen,Bayern München,3-0,1-0
-29,2006-04-08,Arminia Bielefeld,Eintracht Frankfurt,1-0,0-0
-29,2006-04-08,1. FSV Mainz 05,Hannover 96,0-0,0-0
-29,2006-04-08,VfB Stuttgart,1. FC Nürnberg,1-0,0-0
-29,2006-04-09,Hamburger SV,Bor. Mönchengladbach,2-0,1-0
-29,2006-04-09,MSV Duisburg,FC Schalke 04,1-1,1-0
-30,2006-04-15,MSV Duisburg,Hamburger SV,0-2,0-2
-30,2006-04-15,FC Schalke 04,1. FC Köln,1-1,0-1
-30,2006-04-15,Bayer Leverkusen,Bor. Mönchengladbach,2-1,1-0
-30,2006-04-15,Hertha BSC,Borussia Dortmund,0-0,0-0
-30,2006-04-15,Eintracht Frankfurt,1. FSV Mainz 05,0-0,0-0
-30,2006-04-15,Bayern München,Arminia Bielefeld,2-0,0-0
-30,2006-04-15,VfL Wolfsburg,Werder Bremen,1-1,1-1
-30,2006-04-16,1. FC Nürnberg,1. FC Kaiserslautern,3-2,1-1
-30,2006-04-16,Hannover 96,VfB Stuttgart,3-3,2-0
-31,2006-04-22,Bor. Mönchengladbach,Hertha BSC,2-2,1-1
-31,2006-04-22,Hamburger SV,Bayer Leverkusen,0-2,0-1
-31,2006-04-22,1. FC Köln,MSV Duisburg,3-1,1-0
-31,2006-04-22,Arminia Bielefeld,VfL Wolfsburg,0-1,0-1
-31,2006-04-22,VfB Stuttgart,Eintracht Frankfurt,0-2,0-0
-31,2006-04-22,1. FC Kaiserslautern,Hannover 96,1-0,1-0
-31,2006-04-22,Borussia Dortmund,1. FC Nürnberg,2-1,1-1
-31,2006-04-23,Werder Bremen,FC Schalke 04,0-0,0-0
-31,2006-04-23,1. FSV Mainz 05,Bayern München,2-2,2-2
-32,2006-05-02,1. FC Köln,Hamburger SV,0-1,0-1
-32,2006-05-02,Hertha BSC,Bayer Leverkusen,1-5,1-3
-32,2006-05-02,1. FC Nürnberg,Bor. Mönchengladbach,5-2,1-2
-32,2006-05-02,Hannover 96,Borussia Dortmund,1-2,1-0
-32,2006-05-03,Eintracht Frankfurt,1. FC Kaiserslautern,2-2,0-1
-32,2006-05-03,Bayern München,VfB Stuttgart,3-1,2-1
-32,2006-05-03,VfL Wolfsburg,1. FSV Mainz 05,0-3,0-1
-32,2006-05-03,FC Schalke 04,Arminia Bielefeld,3-1,1-0
-32,2006-05-03,MSV Duisburg,Werder Bremen,3-5,2-3
-33,2006-05-06,Hertha BSC,Hamburger SV,4-2,1-2
-33,2006-05-06,Werder Bremen,1. FC Köln,6-0,3-0
-33,2006-05-06,Arminia Bielefeld,MSV Duisburg,0-2,0-0
-33,2006-05-06,1. FSV Mainz 05,FC Schalke 04,1-0,1-0
-33,2006-05-06,VfB Stuttgart,VfL Wolfsburg,2-1,1-1
-33,2006-05-06,1. FC Kaiserslautern,Bayern München,1-1,1-0
-33,2006-05-06,Borussia Dortmund,Eintracht Frankfurt,1-1,0-0
-33,2006-05-06,Bor. Mönchengladbach,Hannover 96,2-2,0-1
-33,2006-05-06,Bayer Leverkusen,1. FC Nürnberg,2-2,0-1
-34,2006-05-13,1. FC Nürnberg,Hertha BSC,2-1,1-1
-34,2006-05-13,Hannover 96,Bayer Leverkusen,2-2,1-2
-34,2006-05-13,Eintracht Frankfurt,Bor. Mönchengladbach,0-2,0-0
-34,2006-05-13,Bayern München,Borussia Dortmund,3-3,1-1
-34,2006-05-13,VfL Wolfsburg,1. FC Kaiserslautern,2-2,0-1
-34,2006-05-13,FC Schalke 04,VfB Stuttgart,3-2,0-1
-34,2006-05-13,MSV Duisburg,1. FSV Mainz 05,0-0,0-0
-34,2006-05-13,1. FC Köln,Arminia Bielefeld,4-2,1-0
-34,2006-05-13,Hamburger SV,Werder Bremen,1-2,0-1
+Round,Date,Team 1,FT,HT,Team 2
+1,(Fri) 5 Aug 2005 (31),Bayern München (1),3-0,1-0,Bor. Mönchengladbach (1)
+1,(Sat) 6 Aug 2005 (31),Hamburger SV (1),3-0,2-0,1. FC Nürnberg (1)
+1,(Sat) 6 Aug 2005 (31),1. FC Köln (1),1-0,0-0,1. FSV Mainz 05 (1)
+1,(Sat) 6 Aug 2005 (31),MSV Duisburg (1),1-1,1-1,VfB Stuttgart (1)
+1,(Sat) 6 Aug 2005 (31),VfL Wolfsburg (1),2-2,1-0,Borussia Dortmund (1)
+1,(Sat) 6 Aug 2005 (31),Hannover 96 (1),2-2,0-0,Hertha BSC (1)
+1,(Sat) 6 Aug 2005 (31),Werder Bremen (1),5-2,3-2,Arminia Bielefeld (1)
+1,(Sun) 7 Aug 2005 (31),FC Schalke 04 (1),2-1,0-1,1. FC Kaiserslautern (1)
+1,(Sun) 7 Aug 2005 (31),Eintracht Frankfurt (1),1-4,1-1,Bayer 04 Leverkusen (1)
+2,(Sat) 13 Aug 2005 (32),Hertha BSC (2),2-0,0-0,Eintracht Frankfurt (2)
+2,(Sat) 13 Aug 2005 (32),Bayer 04 Leverkusen (2),2-5,1-3,Bayern München (2)
+2,(Sat) 13 Aug 2005 (32),Bor. Mönchengladbach (2),1-1,0-1,VfL Wolfsburg (2)
+2,(Sat) 13 Aug 2005 (32),Borussia Dortmund (2),1-2,1-1,FC Schalke 04 (2)
+2,(Sat) 13 Aug 2005 (32),1. FC Kaiserslautern (2),5-3,2-1,MSV Duisburg (2)
+2,(Sat) 13 Aug 2005 (32),Arminia Bielefeld (2),0-2,0-0,Hamburger SV (2)
+2,(Sat) 13 Aug 2005 (32),1. FC Nürnberg (2),1-1,0-1,Hannover 96 (2)
+2,(Sun) 14 Aug 2005 (32),VfB Stuttgart (2),2-3,0-1,1. FC Köln (2)
+2,(Sun) 14 Aug 2005 (32),1. FSV Mainz 05 (2),0-2,0-1,Werder Bremen (2)
+3,(Sat) 27 Aug 2005 (34),Hamburger SV (3),1-1,1-1,Hannover 96 (3)
+3,(Sat) 27 Aug 2005 (34),1. FC Köln (3),2-3,0-1,1. FC Kaiserslautern (3)
+3,(Sat) 27 Aug 2005 (34),FC Schalke 04 (3),1-1,0-1,Bor. Mönchengladbach (3)
+3,(Sat) 27 Aug 2005 (34),VfL Wolfsburg (3),2-1,1-1,Bayer 04 Leverkusen (3)
+3,(Sat) 27 Aug 2005 (34),Bayern München (3),3-0,0-0,Hertha BSC (3)
+3,(Sat) 27 Aug 2005 (34),Eintracht Frankfurt (3),1-0,0-0,1. FC Nürnberg (3)
+3,(Sat) 27 Aug 2005 (34),Werder Bremen (3),1-1,1-0,VfB Stuttgart (3)
+3,(Sun) 28 Aug 2005 (34),MSV Duisburg (3),1-1,0-0,Borussia Dortmund (3)
+3,(Sun) 28 Aug 2005 (34),Arminia Bielefeld (3),2-0,2-0,1. FSV Mainz 05 (3)
+4,(Sat) 10 Sep 2005 (36),Bayer 04 Leverkusen (4),1-1,0-0,FC Schalke 04 (4)
+4,(Sat) 10 Sep 2005 (36),Bor. Mönchengladbach (4),2-1,1-1,MSV Duisburg (4)
+4,(Sat) 10 Sep 2005 (36),1. FC Kaiserslautern (4),1-5,0-3,Werder Bremen (4)
+4,(Sat) 10 Sep 2005 (36),VfB Stuttgart (4),1-1,0-0,Arminia Bielefeld (4)
+4,(Sat) 10 Sep 2005 (36),1. FSV Mainz 05 (4),1-3,0-1,Hamburger SV (4)
+4,(Sat) 10 Sep 2005 (36),Hannover 96 (4),2-0,1-0,Eintracht Frankfurt (4)
+4,(Sat) 10 Sep 2005 (36),1. FC Nürnberg (4),1-2,1-1,Bayern München (4)
+4,(Sun) 11 Sep 2005 (36),Hertha BSC (4),3-0,0-0,VfL Wolfsburg (4)
+4,(Sun) 11 Sep 2005 (36),Borussia Dortmund (4),2-1,1-0,1. FC Köln (4)
+5,(Sat) 17 Sep 2005 (37),Hamburger SV (5),1-1,0-0,Eintracht Frankfurt (5)
+5,(Sat) 17 Sep 2005 (37),1. FC Köln (5),2-1,2-0,Bor. Mönchengladbach (5)
+5,(Sat) 17 Sep 2005 (37),VfL Wolfsburg (5),1-1,1-0,1. FC Nürnberg (5)
+5,(Sat) 17 Sep 2005 (37),Bayern München (5),1-0,1-0,Hannover 96 (5)
+5,(Sat) 17 Sep 2005 (37),1. FSV Mainz 05 (5),1-2,0-0,VfB Stuttgart (5)
+5,(Sat) 17 Sep 2005 (37),Arminia Bielefeld (5),0-0,0-0,1. FC Kaiserslautern (5)
+5,(Sat) 17 Sep 2005 (37),Werder Bremen (5),3-2,1-1,Borussia Dortmund (5)
+5,(Sun) 18 Sep 2005 (37),MSV Duisburg (5),1-3,1-2,Bayer 04 Leverkusen (5)
+5,(Sun) 18 Sep 2005 (37),FC Schalke 04 (5),0-0,0-0,Hertha BSC (5)
+6,(Tue) 20 Sep 2005 (38),Bor. Mönchengladbach (6),2-1,0-1,Werder Bremen (6)
+6,(Tue) 20 Sep 2005 (38),Borussia Dortmund (6),2-0,1-0,Arminia Bielefeld (6)
+6,(Tue) 20 Sep 2005 (38),Eintracht Frankfurt (6),0-1,0-0,Bayern München (6)
+6,(Tue) 20 Sep 2005 (38),Hannover 96 (6),2-4,1-4,VfL Wolfsburg (6)
+6,(Wed) 21 Sep 2005 (38),Hertha BSC (6),3-2,1-1,MSV Duisburg (6)
+6,(Wed) 21 Sep 2005 (38),Bayer 04 Leverkusen (6),2-1,1-0,1. FC Köln (6)
+6,(Wed) 21 Sep 2005 (38),1. FC Kaiserslautern (6),0-2,0-1,1. FSV Mainz 05 (6)
+6,(Wed) 21 Sep 2005 (38),VfB Stuttgart (6),1-2,0-1,Hamburger SV (6)
+6,(Wed) 21 Sep 2005 (38),1. FC Nürnberg (6),1-1,1-0,FC Schalke 04 (6)
+7,(Sat) 24 Sep 2005 (38),Hamburger SV (7),2-0,1-0,Bayern München (7)
+7,(Sat) 24 Sep 2005 (38),MSV Duisburg (7),1-0,1-0,1. FC Nürnberg (7)
+7,(Sat) 24 Sep 2005 (38),FC Schalke 04 (7),2-0,0-0,Hannover 96 (7)
+7,(Sat) 24 Sep 2005 (38),VfL Wolfsburg (7),1-0,1-0,Eintracht Frankfurt (7)
+7,(Sat) 24 Sep 2005 (38),1. FSV Mainz 05 (7),1-1,0-0,Borussia Dortmund (7)
+7,(Sat) 24 Sep 2005 (38),Arminia Bielefeld (7),0-2,0-1,Bor. Mönchengladbach (7)
+7,(Sat) 24 Sep 2005 (38),Werder Bremen (7),2-1,0-0,Bayer 04 Leverkusen (7)
+7,(Sun) 25 Sep 2005 (38),1. FC Köln (7),0-1,0-0,Hertha BSC (7)
+7,(Sun) 25 Sep 2005 (38),VfB Stuttgart (7),1-0,1-0,1. FC Kaiserslautern (7)
+8,(Sat) 1 Oct 2005 (39),Hertha BSC (8),1-2,0-0,Werder Bremen (8)
+8,(Sat) 1 Oct 2005 (39),Bayer 04 Leverkusen (8),1-1,0-0,Arminia Bielefeld (8)
+8,(Sat) 1 Oct 2005 (39),Bor. Mönchengladbach (8),1-0,1-0,1. FSV Mainz 05 (8)
+8,(Sat) 1 Oct 2005 (39),Bayern München (8),2-0,0-0,VfL Wolfsburg (8)
+8,(Sat) 1 Oct 2005 (39),Eintracht Frankfurt (8),0-1,0-0,FC Schalke 04 (8)
+8,(Sat) 1 Oct 2005 (39),Hannover 96 (8),1-1,1-1,MSV Duisburg (8)
+8,(Sat) 1 Oct 2005 (39),1. FC Nürnberg (8),2-1,1-0,1. FC Köln (8)
+8,(Sun) 2 Oct 2005 (39),Borussia Dortmund (8),0-0,0-0,VfB Stuttgart (8)
+8,(Sun) 2 Oct 2005 (39),1. FC Kaiserslautern (8),0-3,0-1,Hamburger SV (8)
+9,(Sat) 15 Oct 2005 (41),Hamburger SV (9),0-1,0-1,VfL Wolfsburg (9)
+9,(Sat) 15 Oct 2005 (41),FC Schalke 04 (9),1-1,0-1,Bayern München (9)
+9,(Sat) 15 Oct 2005 (41),1. FC Kaiserslautern (9),3-3,1-3,Borussia Dortmund (9)
+9,(Sat) 15 Oct 2005 (41),VfB Stuttgart (9),1-1,0-1,Bor. Mönchengladbach (9)
+9,(Sat) 15 Oct 2005 (41),1. FSV Mainz 05 (9),3-1,0-0,Bayer 04 Leverkusen (9)
+9,(Sat) 15 Oct 2005 (41),Arminia Bielefeld (9),3-0,2-0,Hertha BSC (9)
+9,(Sat) 15 Oct 2005 (41),Werder Bremen (9),6-2,3-1,1. FC Nürnberg (9)
+9,(Sun) 16 Oct 2005 (41),1. FC Köln (9),1-4,0-0,Hannover 96 (9)
+9,(Sun) 16 Oct 2005 (41),MSV Duisburg (9),0-1,0-1,Eintracht Frankfurt (9)
+10,(Sat) 22 Oct 2005 (42),Hertha BSC (10),3-1,2-0,1. FSV Mainz 05 (10)
+10,(Sat) 22 Oct 2005 (42),Bor. Mönchengladbach (10),4-1,3-1,1. FC Kaiserslautern (10)
+10,(Sat) 22 Oct 2005 (42),VfL Wolfsburg (10),0-0,0-0,FC Schalke 04 (10)
+10,(Sat) 22 Oct 2005 (42),Bayern München (10),4-0,2-0,MSV Duisburg (10)
+10,(Sat) 22 Oct 2005 (42),Eintracht Frankfurt (10),6-3,4-1,1. FC Köln (10)
+10,(Sat) 22 Oct 2005 (42),Hannover 96 (10),0-0,0-0,Werder Bremen (10)
+10,(Sat) 22 Oct 2005 (42),1. FC Nürnberg (10),2-3,1-1,Arminia Bielefeld (10)
+10,(Sun) 23 Oct 2005 (42),Bayer 04 Leverkusen (10),1-1,0-0,VfB Stuttgart (10)
+10,(Sun) 23 Oct 2005 (42),Borussia Dortmund (10),1-1,0-0,Hamburger SV (10)
+11,(Sat) 29 Oct 2005 (43),Hamburger SV (11),1-0,1-0,FC Schalke 04 (11)
+11,(Sat) 29 Oct 2005 (43),1. FC Köln (11),1-2,1-0,Bayern München (11)
+11,(Sat) 29 Oct 2005 (43),MSV Duisburg (11),1-0,0-0,VfL Wolfsburg (11)
+11,(Sat) 29 Oct 2005 (43),Borussia Dortmund (11),2-1,1-0,Bor. Mönchengladbach (11)
+11,(Sat) 29 Oct 2005 (43),1. FC Kaiserslautern (11),2-2,1-1,Bayer 04 Leverkusen (11)
+11,(Sat) 29 Oct 2005 (43),VfB Stuttgart (11),3-3,0-1,Hertha BSC (11)
+11,(Sat) 29 Oct 2005 (43),Werder Bremen (11),4-1,1-1,Eintracht Frankfurt (11)
+11,(Sun) 30 Oct 2005 (43),1. FSV Mainz 05 (11),4-1,3-1,1. FC Nürnberg (11)
+11,(Sun) 30 Oct 2005 (43),Arminia Bielefeld (11),4-1,1-0,Hannover 96 (11)
+12,(Sat) 5 Nov 2005 (44),Hertha BSC (12),3-0,1-0,1. FC Kaiserslautern (12)
+12,(Sat) 5 Nov 2005 (44),Bayer 04 Leverkusen (12),2-1,1-0,Borussia Dortmund (12)
+12,(Sat) 5 Nov 2005 (44),FC Schalke 04 (12),3-0,1-0,MSV Duisburg (12)
+12,(Sat) 5 Nov 2005 (44),VfL Wolfsburg (12),1-1,1-0,1. FC Köln (12)
+12,(Sat) 5 Nov 2005 (44),Bayern München (12),3-1,3-1,Werder Bremen (12)
+12,(Sat) 5 Nov 2005 (44),Eintracht Frankfurt (12),3-0,1-0,Arminia Bielefeld (12)
+12,(Sat) 5 Nov 2005 (44),Hannover 96 (12),2-2,0-1,1. FSV Mainz 05 (12)
+12,(Sun) 6 Nov 2005 (44),Bor. Mönchengladbach (12),0-0,0-0,Hamburger SV (12)
+12,(Sun) 6 Nov 2005 (44),1. FC Nürnberg (12),0-1,0-1,VfB Stuttgart (12)
+13,(Sat) 19 Nov 2005 (46),1. FC Köln (13),2-2,0-1,FC Schalke 04 (13)
+13,(Sat) 19 Nov 2005 (46),Bor. Mönchengladbach (13),1-1,1-1,Bayer 04 Leverkusen (13)
+13,(Sat) 19 Nov 2005 (46),Borussia Dortmund (13),2-0,2-0,Hertha BSC (13)
+13,(Sat) 19 Nov 2005 (46),1. FC Kaiserslautern (13),1-3,1-1,1. FC Nürnberg (13)
+13,(Sat) 19 Nov 2005 (46),1. FSV Mainz 05 (13),2-2,0-2,Eintracht Frankfurt (13)
+13,(Sat) 19 Nov 2005 (46),Arminia Bielefeld (13),1-2,0-0,Bayern München (13)
+13,(Sat) 19 Nov 2005 (46),Werder Bremen (13),6-1,2-0,VfL Wolfsburg (13)
+13,(Sun) 20 Nov 2005 (46),Hamburger SV (13),2-0,2-0,MSV Duisburg (13)
+13,(Sun) 20 Nov 2005 (46),VfB Stuttgart (13),2-2,1-0,Hannover 96 (13)
+14,(Sat) 26 Nov 2005 (47),Bayer 04 Leverkusen (14),0-1,0-0,Hamburger SV (14)
+14,(Sat) 26 Nov 2005 (47),FC Schalke 04 (14),2-1,1-0,Werder Bremen (14)
+14,(Sat) 26 Nov 2005 (47),VfL Wolfsburg (14),0-0,0-0,Arminia Bielefeld (14)
+14,(Sat) 26 Nov 2005 (47),Bayern München (14),2-1,1-1,1. FSV Mainz 05 (14)
+14,(Sat) 26 Nov 2005 (47),Hannover 96 (14),5-1,2-0,1. FC Kaiserslautern (14)
+14,(Sat) 26 Nov 2005 (47),1. FC Nürnberg (14),1-2,0-2,Borussia Dortmund (14)
+14,(Sun) 27 Nov 2005 (47),Hertha BSC (14),2-2,0-2,Bor. Mönchengladbach (14)
+14,(Sun) 27 Nov 2005 (47),Eintracht Frankfurt (14),1-1,1-0,VfB Stuttgart (14)
+14,(Tue) 6 Dec 2005 (49),MSV Duisburg (14),1-1,1-1,1. FC Köln (14)
+15,(Sat) 3 Dec 2005 (48),Hamburger SV (15),3-1,1-0,1. FC Köln (15)
+15,(Sat) 3 Dec 2005 (48),Bor. Mönchengladbach (15),0-1,0-0,1. FC Nürnberg (15)
+15,(Sat) 3 Dec 2005 (48),Borussia Dortmund (15),0-2,0-1,Hannover 96 (15)
+15,(Sat) 3 Dec 2005 (48),VfB Stuttgart (15),0-0,0-0,Bayern München (15)
+15,(Sat) 3 Dec 2005 (48),Arminia Bielefeld (15),0-1,0-0,FC Schalke 04 (15)
+15,(Sat) 3 Dec 2005 (48),Werder Bremen (15),2-0,0-0,MSV Duisburg (15)
+15,(Sun) 4 Dec 2005 (48),Bayer 04 Leverkusen (15),1-2,1-0,Hertha BSC (15)
+15,(Sun) 4 Dec 2005 (48),1. FSV Mainz 05 (15),5-1,3-1,VfL Wolfsburg (15)
+15,(Wed) 14 Dec 2005 (50),1. FC Kaiserslautern (15),1-2,0-0,Eintracht Frankfurt (15)
+16,(Sat) 10 Dec 2005 (49),Hamburger SV (16),2-1,2-0,Hertha BSC (16)
+16,(Sat) 10 Dec 2005 (49),MSV Duisburg (16),1-1,1-0,Arminia Bielefeld (16)
+16,(Sat) 10 Dec 2005 (49),FC Schalke 04 (16),1-0,0-0,1. FSV Mainz 05 (16)
+16,(Sat) 10 Dec 2005 (49),VfL Wolfsburg (16),0-1,0-0,VfB Stuttgart (16)
+16,(Sat) 10 Dec 2005 (49),Eintracht Frankfurt (16),2-0,1-0,Borussia Dortmund (16)
+16,(Sat) 10 Dec 2005 (49),Hannover 96 (16),1-1,0-0,Bor. Mönchengladbach (16)
+16,(Sat) 10 Dec 2005 (49),1. FC Nürnberg (16),1-1,1-1,Bayer 04 Leverkusen (16)
+16,(Sun) 11 Dec 2005 (49),1. FC Köln (16),1-4,1-1,Werder Bremen (16)
+16,(Sun) 11 Dec 2005 (49),Bayern München (16),2-1,1-1,1. FC Kaiserslautern (16)
+17,(Sat) 17 Dec 2005 (50),Bayer 04 Leverkusen (17),0-0,0-0,Hannover 96 (17)
+17,(Sat) 17 Dec 2005 (50),Bor. Mönchengladbach (17),4-3,1-2,Eintracht Frankfurt (17)
+17,(Sat) 17 Dec 2005 (50),Borussia Dortmund (17),1-2,0-0,Bayern München (17)
+17,(Sat) 17 Dec 2005 (50),1. FC Kaiserslautern (17),3-2,1-0,VfL Wolfsburg (17)
+17,(Sat) 17 Dec 2005 (50),VfB Stuttgart (17),2-0,0-0,FC Schalke 04 (17)
+17,(Sat) 17 Dec 2005 (50),1. FSV Mainz 05 (17),1-1,1-0,MSV Duisburg (17)
+17,(Sat) 17 Dec 2005 (50),Arminia Bielefeld (17),3-2,0-1,1. FC Köln (17)
+17,(Sun) 18 Dec 2005 (50),Hertha BSC (17),1-1,0-0,1. FC Nürnberg (17)
+17,(Sun) 18 Dec 2005 (50),Werder Bremen (17),1-1,1-0,Hamburger SV (17)
+18,(Fri) 27 Jan 2006 (4),Bor. Mönchengladbach (18),1-3,0-1,Bayern München (18)
+18,(Sat) 28 Jan 2006 (4),1. FC Nürnberg (18),2-1,0-0,Hamburger SV (18)
+18,(Sat) 28 Jan 2006 (4),1. FSV Mainz 05 (18),4-2,1-1,1. FC Köln (18)
+18,(Sat) 28 Jan 2006 (4),VfB Stuttgart (18),0-1,0-1,MSV Duisburg (18)
+18,(Sat) 28 Jan 2006 (4),Borussia Dortmund (18),3-2,2-1,VfL Wolfsburg (18)
+18,(Sat) 28 Jan 2006 (4),Bayer 04 Leverkusen (18),2-1,0-1,Eintracht Frankfurt (18)
+18,(Sat) 28 Jan 2006 (4),Hertha BSC (18),1-1,0-1,Hannover 96 (18)
+18,(Sun) 29 Jan 2006 (4),1. FC Kaiserslautern (18),0-2,0-1,FC Schalke 04 (18)
+18,(Sun) 29 Jan 2006 (4),Arminia Bielefeld (18),0-1,0-0,Werder Bremen (18)
+19,(Sat) 4 Feb 2006 (5),Eintracht Frankfurt (19),1-1,0-1,Hertha BSC (19)
+19,(Sat) 4 Feb 2006 (5),Bayern München (19),1-0,1-0,Bayer 04 Leverkusen (19)
+19,(Sat) 4 Feb 2006 (5),FC Schalke 04 (19),0-0,0-0,Borussia Dortmund (19)
+19,(Sat) 4 Feb 2006 (5),MSV Duisburg (19),2-2,1-0,1. FC Kaiserslautern (19)
+19,(Sat) 4 Feb 2006 (5),1. FC Köln (19),0-0,0-0,VfB Stuttgart (19)
+19,(Sat) 4 Feb 2006 (5),Werder Bremen (19),4-2,3-2,1. FSV Mainz 05 (19)
+19,(Sat) 4 Feb 2006 (5),Hamburger SV (19),2-1,0-1,Arminia Bielefeld (19)
+19,(Sun) 5 Feb 2006 (5),VfL Wolfsburg (19),2-0,1-0,Bor. Mönchengladbach (19)
+19,(Sun) 5 Feb 2006 (5),Hannover 96 (19),1-1,0-0,1. FC Nürnberg (19)
+20,(Tue) 7 Feb 2006 (6),1. FC Kaiserslautern (20),2-2,1-1,1. FC Köln (20)
+20,(Tue) 7 Feb 2006 (6),Borussia Dortmund (20),2-0,0-0,MSV Duisburg (20)
+20,(Tue) 7 Feb 2006 (6),Hertha BSC (20),0-0,0-0,Bayern München (20)
+20,(Tue) 7 Feb 2006 (6),1. FSV Mainz 05 (20),1-1,0-0,Arminia Bielefeld (20)
+20,(Wed) 8 Feb 2006 (6),Hannover 96 (20),2-1,0-0,Hamburger SV (20)
+20,(Wed) 8 Feb 2006 (6),Bor. Mönchengladbach (20),0-0,0-0,FC Schalke 04 (20)
+20,(Wed) 8 Feb 2006 (6),Bayer 04 Leverkusen (20),4-0,1-0,VfL Wolfsburg (20)
+20,(Wed) 8 Feb 2006 (6),1. FC Nürnberg (20),0-1,0-1,Eintracht Frankfurt (20)
+20,(Wed) 8 Feb 2006 (6),VfB Stuttgart (20),0-0,0-0,Werder Bremen (20)
+21,(Sat) 11 Feb 2006 (6),VfL Wolfsburg (21),1-1,0-1,Hertha BSC (21)
+21,(Sat) 11 Feb 2006 (6),FC Schalke 04 (21),7-4,3-1,Bayer 04 Leverkusen (21)
+21,(Sat) 11 Feb 2006 (6),MSV Duisburg (21),1-1,1-1,Bor. Mönchengladbach (21)
+21,(Sat) 11 Feb 2006 (6),Werder Bremen (21),0-2,0-0,1. FC Kaiserslautern (21)
+21,(Sat) 11 Feb 2006 (6),Arminia Bielefeld (21),2-1,1-1,VfB Stuttgart (21)
+21,(Sat) 11 Feb 2006 (6),Hamburger SV (21),1-0,1-0,1. FSV Mainz 05 (21)
+21,(Sat) 11 Feb 2006 (6),Eintracht Frankfurt (21),0-1,0-0,Hannover 96 (21)
+21,(Sun) 12 Feb 2006 (6),1. FC Köln (21),0-0,0-0,Borussia Dortmund (21)
+21,(Sun) 12 Feb 2006 (6),Bayern München (21),2-1,1-1,1. FC Nürnberg (21)
+22,(Sat) 18 Feb 2006 (7),Bor. Mönchengladbach (22),2-0,0-0,1. FC Köln (22)
+22,(Sat) 18 Feb 2006 (7),Bayer 04 Leverkusen (22),3-2,2-1,MSV Duisburg (22)
+22,(Sat) 18 Feb 2006 (7),Hertha BSC (22),1-2,1-2,FC Schalke 04 (22)
+22,(Sat) 18 Feb 2006 (7),1. FC Nürnberg (22),1-0,1-0,VfL Wolfsburg (22)
+22,(Sat) 18 Feb 2006 (7),Hannover 96 (22),1-1,0-0,Bayern München (22)
+22,(Sat) 18 Feb 2006 (7),1. FC Kaiserslautern (22),2-0,1-0,Arminia Bielefeld (22)
+22,(Sat) 18 Feb 2006 (7),Borussia Dortmund (22),0-1,0-1,Werder Bremen (22)
+22,(Sun) 19 Feb 2006 (7),Eintracht Frankfurt (22),1-2,1-1,Hamburger SV (22)
+22,(Sun) 19 Feb 2006 (7),VfB Stuttgart (22),2-1,1-1,1. FSV Mainz 05 (22)
+23,(Sat) 25 Feb 2006 (8),1. FC Köln (23),0-3,0-0,Bayer 04 Leverkusen (23)
+23,(Sat) 25 Feb 2006 (8),Werder Bremen (23),2-0,2-0,Bor. Mönchengladbach (23)
+23,(Sat) 25 Feb 2006 (8),Arminia Bielefeld (23),1-0,1-0,Borussia Dortmund (23)
+23,(Sat) 25 Feb 2006 (8),1. FSV Mainz 05 (23),0-2,0-2,1. FC Kaiserslautern (23)
+23,(Sat) 25 Feb 2006 (8),Bayern München (23),5-2,3-1,Eintracht Frankfurt (23)
+23,(Sat) 25 Feb 2006 (8),VfL Wolfsburg (23),2-1,1-1,Hannover 96 (23)
+23,(Sat) 25 Feb 2006 (8),FC Schalke 04 (23),2-0,0-0,1. FC Nürnberg (23)
+23,(Sun) 26 Feb 2006 (8),MSV Duisburg (23),2-1,1-0,Hertha BSC (23)
+23,(Sun) 26 Feb 2006 (8),Hamburger SV (23),0-2,0-1,VfB Stuttgart (23)
+24,(Sat) 4 Mar 2006 (9),Bayern München (24),1-2,0-1,Hamburger SV (24)
+24,(Sat) 4 Mar 2006 (9),Hertha BSC (24),2-4,0-0,1. FC Köln (24)
+24,(Sat) 4 Mar 2006 (9),1. FC Nürnberg (24),3-0,2-0,MSV Duisburg (24)
+24,(Sat) 4 Mar 2006 (9),Hannover 96 (24),1-2,0-2,FC Schalke 04 (24)
+24,(Sat) 4 Mar 2006 (9),Borussia Dortmund (24),1-1,1-0,1. FSV Mainz 05 (24)
+24,(Sat) 4 Mar 2006 (9),Bayer 04 Leverkusen (24),1-1,1-1,Werder Bremen (24)
+24,(Sun) 5 Mar 2006 (9),Eintracht Frankfurt (24),1-1,0-0,VfL Wolfsburg (24)
+24,(Sun) 5 Mar 2006 (9),Bor. Mönchengladbach (24),2-0,1-0,Arminia Bielefeld (24)
+24,(Tue) 7 Mar 2006 (10),1. FC Kaiserslautern (24),1-1,1-0,VfB Stuttgart (24)
+25,(Sat) 11 Mar 2006 (10),Werder Bremen (25),0-3,0-0,Hertha BSC (25)
+25,(Sat) 11 Mar 2006 (10),Arminia Bielefeld (25),1-0,1-0,Bayer 04 Leverkusen (25)
+25,(Sat) 11 Mar 2006 (10),1. FSV Mainz 05 (25),3-0,0-0,Bor. Mönchengladbach (25)
+25,(Sat) 11 Mar 2006 (10),VfB Stuttgart (25),0-0,0-0,Borussia Dortmund (25)
+25,(Sat) 11 Mar 2006 (10),VfL Wolfsburg (25),0-0,0-0,Bayern München (25)
+25,(Sat) 11 Mar 2006 (10),MSV Duisburg (25),0-0,0-0,Hannover 96 (25)
+25,(Sat) 11 Mar 2006 (10),1. FC Köln (25),3-4,1-3,1. FC Nürnberg (25)
+25,(Sun) 12 Mar 2006 (10),FC Schalke 04 (25),2-0,0-0,Eintracht Frankfurt (25)
+25,(Sun) 12 Mar 2006 (10),Hamburger SV (25),3-0,0-0,1. FC Kaiserslautern (25)
+26,(Sat) 18 Mar 2006 (11),VfL Wolfsburg (26),0-1,0-1,Hamburger SV (26)
+26,(Sat) 18 Mar 2006 (11),Hannover 96 (26),1-0,1-0,1. FC Köln (26)
+26,(Sat) 18 Mar 2006 (11),Eintracht Frankfurt (26),5-2,3-2,MSV Duisburg (26)
+26,(Sat) 18 Mar 2006 (11),Borussia Dortmund (26),2-1,1-1,1. FC Kaiserslautern (26)
+26,(Sat) 18 Mar 2006 (11),Bor. Mönchengladbach (26),1-1,0-0,VfB Stuttgart (26)
+26,(Sat) 18 Mar 2006 (11),Bayer 04 Leverkusen (26),1-2,0-1,1. FSV Mainz 05 (26)
+26,(Sat) 18 Mar 2006 (11),1. FC Nürnberg (26),3-1,2-0,Werder Bremen (26)
+26,(Sun) 19 Mar 2006 (11),Bayern München (26),3-0,0-0,FC Schalke 04 (26)
+26,(Sun) 19 Mar 2006 (11),Hertha BSC (26),1-0,0-0,Arminia Bielefeld (26)
+27,(Sat) 25 Mar 2006 (12),1. FSV Mainz 05 (27),2-2,0-1,Hertha BSC (27)
+27,(Sat) 25 Mar 2006 (12),VfB Stuttgart (27),0-2,0-1,Bayer 04 Leverkusen (27)
+27,(Sat) 25 Mar 2006 (12),Hamburger SV (27),2-4,1-1,Borussia Dortmund (27)
+27,(Sat) 25 Mar 2006 (12),FC Schalke 04 (27),2-2,1-1,VfL Wolfsburg (27)
+27,(Sat) 25 Mar 2006 (12),MSV Duisburg (27),1-3,1-0,Bayern München (27)
+27,(Sat) 25 Mar 2006 (12),1. FC Köln (27),1-1,1-1,Eintracht Frankfurt (27)
+27,(Sat) 25 Mar 2006 (12),Werder Bremen (27),5-0,2-0,Hannover 96 (27)
+27,(Sun) 26 Mar 2006 (12),1. FC Kaiserslautern (27),3-0,2-0,Bor. Mönchengladbach (27)
+27,(Sun) 26 Mar 2006 (12),Arminia Bielefeld (27),0-0,0-0,1. FC Nürnberg (27)
+28,(Sat) 1 Apr 2006 (13),Bayern München (28),2-2,2-2,1. FC Köln (28)
+28,(Sat) 1 Apr 2006 (13),VfL Wolfsburg (28),1-1,0-0,MSV Duisburg (28)
+28,(Sat) 1 Apr 2006 (13),Bor. Mönchengladbach (28),2-1,2-1,Borussia Dortmund (28)
+28,(Sat) 1 Apr 2006 (13),Bayer 04 Leverkusen (28),5-1,2-0,1. FC Kaiserslautern (28)
+28,(Sat) 1 Apr 2006 (13),Hertha BSC (28),2-0,0-0,VfB Stuttgart (28)
+28,(Sat) 1 Apr 2006 (13),1. FC Nürnberg (28),3-0,1-0,1. FSV Mainz 05 (28)
+28,(Sat) 1 Apr 2006 (13),Eintracht Frankfurt (28),0-1,0-0,Werder Bremen (28)
+28,(Sun) 2 Apr 2006 (13),FC Schalke 04 (28),0-2,0-0,Hamburger SV (28)
+28,(Sun) 2 Apr 2006 (13),Hannover 96 (28),0-1,0-1,Arminia Bielefeld (28)
+29,(Sat) 8 Apr 2006 (14),1. FC Kaiserslautern (29),0-2,0-2,Hertha BSC (29)
+29,(Sat) 8 Apr 2006 (14),Borussia Dortmund (29),1-2,1-1,Bayer 04 Leverkusen (29)
+29,(Sat) 8 Apr 2006 (14),1. FC Köln (29),3-0,0-0,VfL Wolfsburg (29)
+29,(Sat) 8 Apr 2006 (14),Werder Bremen (29),3-0,1-0,Bayern München (29)
+29,(Sat) 8 Apr 2006 (14),Arminia Bielefeld (29),1-0,0-0,Eintracht Frankfurt (29)
+29,(Sat) 8 Apr 2006 (14),1. FSV Mainz 05 (29),0-0,0-0,Hannover 96 (29)
+29,(Sat) 8 Apr 2006 (14),VfB Stuttgart (29),1-0,0-0,1. FC Nürnberg (29)
+29,(Sun) 9 Apr 2006 (14),Hamburger SV (29),2-0,1-0,Bor. Mönchengladbach (29)
+29,(Sun) 9 Apr 2006 (14),MSV Duisburg (29),1-1,1-0,FC Schalke 04 (29)
+30,(Sat) 15 Apr 2006 (15),MSV Duisburg (30),0-2,0-2,Hamburger SV (30)
+30,(Sat) 15 Apr 2006 (15),FC Schalke 04 (30),1-1,0-1,1. FC Köln (30)
+30,(Sat) 15 Apr 2006 (15),Bayer 04 Leverkusen (30),2-1,1-0,Bor. Mönchengladbach (30)
+30,(Sat) 15 Apr 2006 (15),Hertha BSC (30),0-0,0-0,Borussia Dortmund (30)
+30,(Sat) 15 Apr 2006 (15),Eintracht Frankfurt (30),0-0,0-0,1. FSV Mainz 05 (30)
+30,(Sat) 15 Apr 2006 (15),Bayern München (30),2-0,0-0,Arminia Bielefeld (30)
+30,(Sat) 15 Apr 2006 (15),VfL Wolfsburg (30),1-1,1-1,Werder Bremen (30)
+30,(Sun) 16 Apr 2006 (15),1. FC Nürnberg (30),3-2,1-1,1. FC Kaiserslautern (30)
+30,(Sun) 16 Apr 2006 (15),Hannover 96 (30),3-3,2-0,VfB Stuttgart (30)
+31,(Sat) 22 Apr 2006 (16),Bor. Mönchengladbach (31),2-2,1-1,Hertha BSC (31)
+31,(Sat) 22 Apr 2006 (16),Hamburger SV (31),0-2,0-1,Bayer 04 Leverkusen (31)
+31,(Sat) 22 Apr 2006 (16),1. FC Köln (31),3-1,1-0,MSV Duisburg (31)
+31,(Sat) 22 Apr 2006 (16),Arminia Bielefeld (31),0-1,0-1,VfL Wolfsburg (31)
+31,(Sat) 22 Apr 2006 (16),VfB Stuttgart (31),0-2,0-0,Eintracht Frankfurt (31)
+31,(Sat) 22 Apr 2006 (16),1. FC Kaiserslautern (31),1-0,1-0,Hannover 96 (31)
+31,(Sat) 22 Apr 2006 (16),Borussia Dortmund (31),2-1,1-1,1. FC Nürnberg (31)
+31,(Sun) 23 Apr 2006 (16),Werder Bremen (31),0-0,0-0,FC Schalke 04 (31)
+31,(Sun) 23 Apr 2006 (16),1. FSV Mainz 05 (31),2-2,2-2,Bayern München (31)
+32,(Tue) 2 May 2006 (18),1. FC Köln (32),0-1,0-1,Hamburger SV (32)
+32,(Tue) 2 May 2006 (18),Hertha BSC (32),1-5,1-3,Bayer 04 Leverkusen (32)
+32,(Tue) 2 May 2006 (18),1. FC Nürnberg (32),5-2,1-2,Bor. Mönchengladbach (32)
+32,(Tue) 2 May 2006 (18),Hannover 96 (32),1-2,1-0,Borussia Dortmund (32)
+32,(Wed) 3 May 2006 (18),Eintracht Frankfurt (32),2-2,0-1,1. FC Kaiserslautern (32)
+32,(Wed) 3 May 2006 (18),Bayern München (32),3-1,2-1,VfB Stuttgart (32)
+32,(Wed) 3 May 2006 (18),VfL Wolfsburg (32),0-3,0-1,1. FSV Mainz 05 (32)
+32,(Wed) 3 May 2006 (18),FC Schalke 04 (32),3-1,1-0,Arminia Bielefeld (32)
+32,(Wed) 3 May 2006 (18),MSV Duisburg (32),3-5,2-3,Werder Bremen (32)
+33,(Sat) 6 May 2006 (18),Hertha BSC (33),4-2,1-2,Hamburger SV (33)
+33,(Sat) 6 May 2006 (18),Werder Bremen (33),6-0,3-0,1. FC Köln (33)
+33,(Sat) 6 May 2006 (18),Arminia Bielefeld (33),0-2,0-0,MSV Duisburg (33)
+33,(Sat) 6 May 2006 (18),1. FSV Mainz 05 (33),1-0,1-0,FC Schalke 04 (33)
+33,(Sat) 6 May 2006 (18),VfB Stuttgart (33),2-1,1-1,VfL Wolfsburg (33)
+33,(Sat) 6 May 2006 (18),1. FC Kaiserslautern (33),1-1,1-0,Bayern München (33)
+33,(Sat) 6 May 2006 (18),Borussia Dortmund (33),1-1,0-0,Eintracht Frankfurt (33)
+33,(Sat) 6 May 2006 (18),Bor. Mönchengladbach (33),2-2,0-1,Hannover 96 (33)
+33,(Sat) 6 May 2006 (18),Bayer 04 Leverkusen (33),2-2,0-1,1. FC Nürnberg (33)
+34,(Sat) 13 May 2006 (19),1. FC Nürnberg (34),2-1,1-1,Hertha BSC (34)
+34,(Sat) 13 May 2006 (19),Hannover 96 (34),2-2,1-2,Bayer 04 Leverkusen (34)
+34,(Sat) 13 May 2006 (19),Eintracht Frankfurt (34),0-2,0-0,Bor. Mönchengladbach (34)
+34,(Sat) 13 May 2006 (19),Bayern München (34),3-3,1-1,Borussia Dortmund (34)
+34,(Sat) 13 May 2006 (19),VfL Wolfsburg (34),2-2,0-1,1. FC Kaiserslautern (34)
+34,(Sat) 13 May 2006 (19),FC Schalke 04 (34),3-2,0-1,VfB Stuttgart (34)
+34,(Sat) 13 May 2006 (19),MSV Duisburg (34),0-0,0-0,1. FSV Mainz 05 (34)
+34,(Sat) 13 May 2006 (19),1. FC Köln (34),4-2,1-0,Arminia Bielefeld (34)
+34,(Sat) 13 May 2006 (19),Hamburger SV (34),1-2,0-1,Werder Bremen (34)

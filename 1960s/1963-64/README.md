@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. 1. FC Köln                    30  10  4  1  48:21    7  7  1  30:19    78:40  +38   62
@@ -22,9 +22,9 @@
 14. Karlsruher SC                 30   4  5  6  24:30    4  3  8  18:25    42:55  -13   32
 15. Preussen Münster              30   5  4  6  21:23    2  5  8  13:29    34:52  -18   30
 16. 1. FC Saarbrücken             30   3  4  8  20:31    3  1 11  24:41    44:72  -28   23
-~~~
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 

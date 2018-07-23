@@ -3,7 +3,7 @@
 ### Standings
 
 
-~~~
+```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. Bor. Mönchengladbach          34  11  4  2  38:12    5  9  3  28:25    66:37  +29   61
@@ -23,10 +23,10 @@
 15. Fortuna Düsseldorf            34   8  6  3  32:18    2  4 11  15:39    47:57  -10   40
 16. Hannover 96                   34   8  6  3  33:23    1  3 13  15:37    48:60  -12   36
 17. Kickers Offenbach             34   8  5  4  26:28    1  4 12  14:44    40:72  -32   36
-18. Bayer 05 Uerdingen            34   4  9  4  18:24    2  1 14  10:45    28:69  -41   28
-~~~
+18. KFC Uerdingen                 34   4  9  4  18:24    2  1 14  10:45    28:69  -41   28
+```
 
-(Source: `1-bundesliga.csv`)
+(Source: [`1-bundesliga.csv`](1-bundesliga.csv))
 
 
 
