@@ -2,8 +2,8 @@
 
 Football data for Deutschland (Germany) includes:
 
-- 1. Bundesliga
-- 2. Bundesliga
+- \1. Bundesliga
+- \2. Bundesliga
 
 
 Example - [`2013-14/bundesliga.csv`](2010s/2013-14/1-bundesliga.csv):
