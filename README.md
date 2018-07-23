@@ -11,10 +11,10 @@ More [`football.csv` Project Site »](http://footballcsv.github.io)
 
 Football data for Deutschland (Germany) includes:
 
-- 1\. Bundesliga
-- 2\. Bundesliga
-
-<!-- note: for markdown needs to escape numbered list marker e.g. 1. => 1\. -->
+| Level |                               |
+| ----: | ----------------------------- | 
+|     I |  1. Bundesliga                |
+|    II |  2. Bundesliga                |
 
 
 Example - [`2013-14/bundesliga.csv`](2010s/2013-14/1-bundesliga.csv):
