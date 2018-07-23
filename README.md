@@ -1,4 +1,13 @@
-# Deutschland (Germany)
+# Deutschland (Germany) - 1. Bundesliga, 2. Bundesliga
+
+## What's `football.csv`?
+
+Free open public domain football datafiles / datasets in text using
+the world's most popular tabular data interchange format, that is, comma-separated values (.csv).
+More [`football.csv` Project Site »](http://footballcsv.github.io)
+
+
+## Intro
 
 Football data for Deutschland (Germany) includes:
 
