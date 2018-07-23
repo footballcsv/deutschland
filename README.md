@@ -4,19 +4,6 @@
 
 Free open public domain football datafiles / datasets in text using
 the world's most popular tabular data interchange format, that is, comma-separated values (.csv).
-More [`football.csv` Project Site »](http://footballcsv.github.io)
-
-
-## Intro
-
-Football data for Deutschland (Germany) includes:
-
-| Level |                               |
-| ----: | ----------------------------- | 
-|     I |  1. Bundesliga                |
-|    II |  2. Bundesliga                |
-
-
 Example - [`2013-14/bundesliga.csv`](2010s/2013-14/1-bundesliga.csv):
 
 ```
@@ -31,6 +18,19 @@ Example - [`2013-14/bundesliga.csv`](2010s/2013-14/1-bundesliga.csv):
 2013-08-11,Schalke 04,Hamburg,3-3,2-2
 ...
 ```
+
+
+More [`football.csv` Project Site »](http://footballcsv.github.io)
+
+
+## Intro
+
+Football data for Deutschland (Germany) includes:
+
+| Level |                               |
+| ----: | ----------------------------- | 
+|     I |  1. Bundesliga                |
+|    II |  2. Bundesliga                |
 
 
 ## Summary
