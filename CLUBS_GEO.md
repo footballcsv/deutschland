@@ -1,0 +1,97 @@
+# Clubs by Geo(graphy)
+
+- **Berlin** (5): 
+  - 1. FC Union Berlin  (2) Union Berlin · FC Union Berlin
+  - Blau-Weiß 90 Berlin (-1992)  (1) Blau-Weiss 90 Berlin
+  - Hertha BSC  (3) Hertha · Hertha BSC Berlin · Hertha Berliner Sport-Club
+  - SC Tasmania 1900 Berlin (-1973)  (2) Tasmania Berlin · Tasmania 1900 Berlin
+  - Tennis Borussia Berlin  (2) TB Berlin · TeBe Berlin
+- **Bochum** (2): 
+  - SG Wattenscheid 09  (2) Wattenscheid · Wattenscheid 09
+  - VfL Bochum  (2) Bochum · VfL Bochum 1848
+- **Frankfurt am Main** (2): 
+  - Eintracht Frankfurt  (6) Frankfurt · E. Frankfurt · Ein Frankfurt · Eint Frankfurt · Eintr. Frankfurt · SG Eintracht Frankfurt
+  - FSV Frankfurt  (2) Frankfurt FSV · FSV Frankfurt 1899
+- **Hamburg** (2): 
+  - FC St. Pauli  (3) St Pauli · St. Pauli · FC Sankt Pauli
+  - Hamburger SV  (1) Hamburg
+- **Köln** (2): 
+  - 1. FC Köln  (2) Köln · FC Köln
+  - Fortuna Köln  (3) F Köln · SC Fortuna Köln · Sportclub Fortuna Köln
+- **Leipzig** (2): 
+  - RB Leipzig 
+  - VfB Leipzig (-2004)  (1) Leipzig
+- **Mannheim** (2): 
+  - SV Waldhof Mannheim  (3) W. Mannheim · Waldhof Mannheim · SV Waldhof Mannheim 07
+  - VfR Mannheim  (1) Mannheim
+- **München** (2): 
+  - Bayern München  (4) Bayern · FC Bayern München · Bayern Munich [en] · FC Bayern Munich [en]
+  - TSV 1860 München  (4) 1860 München · TSV München 1860 · Munich 1860 [en] · TSV 1860 Munich [en]
+- **Stuttgart** (2): 
+  - Stuttgarter Kickers  (2) Stutt. Kick. · Stuttgarter K
+  - VfB Stuttgart  (1) Stuttgart
+- **Aachen** (1): Alemannia Aachen  (2) Aachen · TSV Alemannia Aachen
+- **Aalen** (1): VfR Aalen  (1) Aalen
+- **Ahlen** (1): Rot Weiss Ahlen  (1) Ahlen
+- **Aue** (1): FC Erzgebirge Aue  (2) Aue · Erzgebirge Aue
+- **Augsburg** (1): FC Augsburg  (1) Augsburg
+- **Bielefeld** (1): Arminia Bielefeld  (2) Bielefeld · DSC Arminia Bielefeld
+- **Braunschweig** (1): Eintracht Braunschweig  (3) Braunschweig · E. Braunschweig · Eintr. Braunschweig
+- **Bremen** (1): Werder Bremen  (2) Bremen · SV Werder Bremen
+- **Burghausen** (1): Wacker Burghausen  (1) Burghausen
+- **Chemnitz** (1): Chemnitzer FC  (1) Chemnitz
+- **Cottbus** (1): Energie Cottbus  (2) Cottbus · FC Energie Cottbus
+- **Darmstadt** (1): SV Darmstadt 98  (1) Darmstadt
+- **Dortmund** (1): Borussia Dortmund  (3) Dortmund · Bor. Dortmund · BV 09 Borussia Dortmund
+- **Dresden** (1): Dynamo Dresden  (2) Dresden · SG Dynamo Dresden
+- **Duisburg** (1): MSV Duisburg  (2) Duisburg · Meidericher SV
+- **Düsseldorf** (1): Fortuna Düsseldorf  (2) Düsseldorf · F. Düsseldorf
+- **Erfurt** (1): FC Rot-Weiß Erfurt  (3) Erfurt · RW Erfurt · Rot-Weiß Erfurt
+- **Essen** (1): Rot-Weiss Essen  (2) Essen · RW Essen
+- **Freiburg** (1): SC Freiburg  (1) Freiburg
+- **Fürth** (1): SpVgg Greuther Fürth  (1) Greuther Fürth
+- **Gelsenkirchen** (1): FC Schalke 04  (2) Schalke · Schalke 04
+- **Gütersloh** (1): Gütersloh 
+- **Hannover** (1): Hannover 96  (2) Hannover · Hannover 1896
+- **Heidenheim an der Brenz** (1): 1. FC Heidenheim  (3) Heidenheim · FC Heidenheim · 1. FC Heidenheim 1846
+- **Homburg** (1): FC 08 Homburg  (3) Homburg · FC Homburg · FC Homburg/Saar
+- **Ingolstadt** (1): FC Ingolstadt 04  (2) Ingolstadt · FC Ingolstadt
+- **Jena** (1): FC Carl Zeiss Jena  (2) CZ Jena · Carl Zeiss Jena
+- **Kaiserslautern** (1): 1. FC Kaiserslautern  (4) K'lautern · Kaiserslautern · 1. FC K'lautern · FC Kaiserslautern
+- **Karlsruhe** (1): Karlsruher SC  (1) Karlsruhe
+- **Kiel** (1): Holstein Kiel  (1) Kiel
+- **Koblenz** (1): TuS Koblenz  (1) Koblenz
+- **Krefeld** (1): KFC Uerdingen  (5) Uerdingen · KFC Uerdingen 05 · Bayer 05 Uerdingen · FC Bayer 05 Uerdingen · Bayer Uerdingen
+- **Leverkusen** (1): Bayer 04 Leverkusen  (4) Bayer · Leverkusen · Bayer Leverkusen · Bay. Leverkusen
+- **Lübeck** (1): VfB Lübeck  (1) Lübeck
+- **Magdeburg** (1): 1. FC Magdeburg  (2) Magdeburg · FC Magdeburg
+- **Mainz** (1): 1. FSV Mainz 05  (3) Mainz · Mainz 05 · FSV Mainz 05
+- **Meppen** (1): SV Meppen  (1) Meppen
+- **Mönchengladbach** (1): Bor. Mönchengladbach  (6) Mönchengladbach · M'Gladbach · Borussia M'gladbach · Bor. M'gladbach · Borussia Mönchengladbach · VfL Borussia Mönchengladbach
+- **Münster** (1): Preußen Münster  (3) Münster · SC Preußen 06 · SC Preußen Münster
+- **Neunkirchen** (1): VfB Borussia Neunkirchen  (1) Borussia Neunkirchen
+- **Nürnberg** (1): 1. FC Nürnberg  (1) Nürnberg
+- **Oberhausen** (1): Rot-Weiß Oberhausen  (2) Oberhausen · Rot-Weiss Oberhausen
+- **Offenbach am Main** (1): Kickers Offenbach  (1) Offenbach
+- **Oldenburg** (1): VfB Oldenburg  (1) Oldenburg
+- **Osnabrück** (1): VfL Osnabrück  (1) Osnabrück
+- **Paderborn** (1): SC Paderborn 07  (3) Paderborn · Paderborn 07 · SC Paderborn
+- **Potsdam** (1): SV Babelsberg 03  (1) Babelsberg
+- **Regensburg** (1): SSV Jahn Regensburg  (2) Regensburg · Jahn Regensburg
+- **Reutlingen** (1): SSV Reutlingen 05  (1) Reutlingen
+- **Rostock** (1): Hansa Rostock  (2) Rostock · FC Hansa Rostock
+- **Saarbrücken** (1): 1. FC Saarbrücken  (2) Saarbrücken · FC Saarbrücken
+- **Sandhausen** (1): SV Sandhausen  (2) Sandhausen · SV Sandhausen 1916
+- **Schweinfurt** (1): 1. FC Schweinfurt 05  (2) Schweinfurt · Schweinfurt 05
+- **Siegen** (1): SF Siegen  (2) Siegen · Sportfreunde Siegen
+- **Sinsheim** (1): TSG 1899 Hoffenheim  (3) Hoffenheim · 1899 Hoffenheim · TSG Hoffenheim
+- **Trier** (1): Eintracht Trier  (1) Ein Trier
+- **Ulm** (1): SSV Ulm 1846  (1) Ulm
+- **Unterhaching** (1): SpVgg Unterhaching  (2) U'haching · Unterhaching
+- **Wiesbaden** (1): SV Wehen Wiesbaden  (3) Wehen · Wiesbaden · Wehen Wiesbaden
+- **Wolfsburg** (1): VfL Wolfsburg  (1) Wolfsburg
+- **Wuppertal** (1): Wuppertaler SV  (1) Wuppertaler
+- **Würzburg** (1): Würzburger Kickers  (2) FC Würzburger Kickers · Kickers Würzburg
+- **Zwickau** (1): FSV Zwickau  (1) Zwickau
+
+
