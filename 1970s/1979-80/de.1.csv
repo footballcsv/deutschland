@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Sat Aug 11 1979,Werder Bremen,1-0,KFC Uerdingen
+1,Sat Aug 11 1979,1. FC Köln,2-1,TSV 1860 München
+1,Sat Aug 11 1979,Eintracht Frankfurt,0-1,Borussia Dortmund
+1,Sat Aug 11 1979,1. FC Kaiserslautern,4-0,Fortuna Düsseldorf
+1,Sat Aug 11 1979,MSV Duisburg,1-1,VfB Stuttgart
+1,Sat Aug 11 1979,Hertha BSC,0-0,Eintracht Braunschweig
+1,Sat Aug 11 1979,Bayern München,3-1,Bayer 04 Leverkusen
+1,Sat Aug 11 1979,Bor. Mönchengladbach,1-1,FC Schalke 04
+1,Sat Aug 11 1979,VfL Bochum,0-3,Hamburger SV
+2,Sat Aug 18 1979,Hamburger SV,3-0,Bor. Mönchengladbach
+2,Sat Aug 18 1979,Bayer 04 Leverkusen,2-1,Hertha BSC
+2,Sat Aug 18 1979,Eintracht Braunschweig,2-0,MSV Duisburg
+2,Sat Aug 18 1979,VfB Stuttgart,3-1,1. FC Kaiserslautern
+2,Sat Aug 18 1979,Fortuna Düsseldorf,1-3,Eintracht Frankfurt
+2,Sat Aug 18 1979,Borussia Dortmund,3-1,1. FC Köln
+2,Sat Aug 18 1979,TSV 1860 München,4-1,Werder Bremen
+2,Sat Aug 18 1979,KFC Uerdingen,1-0,VfL Bochum
+2,Sat Aug 18 1979,FC Schalke 04,1-1,Bayern München
+3,Tue Aug 28 1979,Werder Bremen,2-1,Borussia Dortmund
+3,Tue Aug 28 1979,Eintracht Frankfurt,2-0,VfB Stuttgart
+3,Tue Aug 28 1979,1. FC Kaiserslautern,2-0,Eintracht Braunschweig
+3,Tue Aug 28 1979,MSV Duisburg,5-0,Bayer 04 Leverkusen
+3,Tue Aug 28 1979,Hertha BSC,0-2,FC Schalke 04
+3,Tue Aug 28 1979,Bayern München,1-1,Hamburger SV
+3,Tue Aug 28 1979,VfL Bochum,0-0,Bor. Mönchengladbach
+3,Wed Aug 29 1979,1. FC Köln,1-1,Fortuna Düsseldorf
+3,Wed Aug 29 1979,KFC Uerdingen,1-0,TSV 1860 München
+4,Sat Sep 1 1979,Hamburger SV,5-1,Hertha BSC
+4,Sat Sep 1 1979,Bayer 04 Leverkusen,3-1,1. FC Kaiserslautern
+4,Sat Sep 1 1979,Eintracht Braunschweig,2-3,Eintracht Frankfurt
+4,Sat Sep 1 1979,VfB Stuttgart,3-0,1. FC Köln
+4,Sat Sep 1 1979,Fortuna Düsseldorf,4-1,Werder Bremen
+4,Sat Sep 1 1979,Borussia Dortmund,3-1,KFC Uerdingen
+4,Sat Sep 1 1979,TSV 1860 München,1-0,VfL Bochum
+4,Sat Sep 1 1979,FC Schalke 04,1-2,MSV Duisburg
+4,Wed Sep 5 1979,Bor. Mönchengladbach,2-1,Bayern München
+5,Fri Sep 7 1979,MSV Duisburg,3-0,Hamburger SV
+5,Sat Sep 8 1979,Werder Bremen,2-3,VfB Stuttgart
+5,Sat Sep 8 1979,1. FC Köln,8-0,Eintracht Braunschweig
+5,Sat Sep 8 1979,Eintracht Frankfurt,3-0,Bayer 04 Leverkusen
+5,Sat Sep 8 1979,1. FC Kaiserslautern,2-2,FC Schalke 04
+5,Sat Sep 8 1979,Hertha BSC,3-1,Bor. Mönchengladbach
+5,Sat Sep 8 1979,TSV 1860 München,0-2,Borussia Dortmund
+5,Sat Sep 8 1979,KFC Uerdingen,3-1,Fortuna Düsseldorf
+5,Sat Sep 8 1979,VfL Bochum,0-1,Bayern München
+6,Sat Sep 15 1979,Hamburger SV,1-0,1. FC Kaiserslautern
+6,Sat Sep 15 1979,Bayer 04 Leverkusen,1-1,1. FC Köln
+6,Sat Sep 15 1979,Eintracht Braunschweig,1-2,Werder Bremen
+6,Sat Sep 15 1979,VfB Stuttgart,2-0,KFC Uerdingen
+6,Sat Sep 15 1979,Fortuna Düsseldorf,4-0,TSV 1860 München
+6,Sat Sep 15 1979,Borussia Dortmund,2-2,VfL Bochum
+6,Sat Sep 15 1979,Bayern München,1-1,Hertha BSC
+6,Sat Sep 15 1979,Bor. Mönchengladbach,6-0,MSV Duisburg
+6,Sat Sep 15 1979,FC Schalke 04,1-0,Eintracht Frankfurt
+7,Fri Sep 21 1979,Werder Bremen,1-1,Bayer 04 Leverkusen
+7,Sat Sep 22 1979,1. FC Köln,3-1,FC Schalke 04
+7,Sat Sep 22 1979,Eintracht Frankfurt,3-2,Hamburger SV
+7,Sat Sep 22 1979,1. FC Kaiserslautern,4-2,Bor. Mönchengladbach
+7,Sat Sep 22 1979,MSV Duisburg,1-2,Bayern München
+7,Sat Sep 22 1979,Borussia Dortmund,5-3,Fortuna Düsseldorf
+7,Sat Sep 22 1979,TSV 1860 München,1-1,VfB Stuttgart
+7,Sat Sep 22 1979,KFC Uerdingen,2-1,Eintracht Braunschweig
+7,Sat Sep 22 1979,VfL Bochum,2-1,Hertha BSC
+8,Fri Oct 5 1979,Bayer 04 Leverkusen,1-1,KFC Uerdingen
+8,Fri Oct 5 1979,Hertha BSC,0-1,MSV Duisburg
+8,Sat Oct 6 1979,Hamburger SV,3-0,1. FC Köln
+8,Sat Oct 6 1979,Eintracht Braunschweig,0-0,TSV 1860 München
+8,Sat Oct 6 1979,VfB Stuttgart,1-2,Borussia Dortmund
+8,Sat Oct 6 1979,Fortuna Düsseldorf,1-4,VfL Bochum
+8,Sat Oct 6 1979,Bayern München,2-0,1. FC Kaiserslautern
+8,Sat Oct 6 1979,Bor. Mönchengladbach,4-1,Eintracht Frankfurt
+8,Sat Oct 6 1979,FC Schalke 04,3-0,Werder Bremen
+9,Fri Oct 19 1979,Borussia Dortmund,2-0,Eintracht Braunschweig
+9,Sat Oct 20 1979,Werder Bremen,1-1,Hamburger SV
+9,Sat Oct 20 1979,1. FC Köln,4-4,Bor. Mönchengladbach
+9,Sat Oct 20 1979,Eintracht Frankfurt,3-2,Bayern München
+9,Sat Oct 20 1979,1. FC Kaiserslautern,4-0,Hertha BSC
+9,Sat Oct 20 1979,Fortuna Düsseldorf,6-2,VfB Stuttgart
+9,Sat Oct 20 1979,TSV 1860 München,2-2,Bayer 04 Leverkusen
+9,Sat Oct 20 1979,KFC Uerdingen,1-4,FC Schalke 04
+9,Sat Oct 20 1979,VfL Bochum,3-0,MSV Duisburg
+10,Fri Oct 26 1979,Bayer 04 Leverkusen,2-1,Borussia Dortmund
+10,Sat Oct 27 1979,Hamburger SV,2-2,KFC Uerdingen
+10,Sat Oct 27 1979,Eintracht Braunschweig,2-3,Fortuna Düsseldorf
+10,Sat Oct 27 1979,VfB Stuttgart,1-3,VfL Bochum
+10,Sat Oct 27 1979,MSV Duisburg,1-1,1. FC Kaiserslautern
+10,Sat Oct 27 1979,Hertha BSC,1-0,Eintracht Frankfurt
+10,Sat Oct 27 1979,Bayern München,1-2,1. FC Köln
+10,Sat Oct 27 1979,Bor. Mönchengladbach,2-1,Werder Bremen
+10,Sat Oct 27 1979,FC Schalke 04,3-0,TSV 1860 München
+11,Fri Nov 2 1979,VfL Bochum,0-0,1. FC Kaiserslautern
+11,Sat Nov 3 1979,VfB Stuttgart,2-0,Eintracht Braunschweig
+11,Sat Nov 3 1979,1. FC Köln,2-2,Hertha BSC
+11,Sat Nov 3 1979,Eintracht Frankfurt,6-0,MSV Duisburg
+11,Sat Nov 3 1979,KFC Uerdingen,0-1,Bor. Mönchengladbach
+11,Sat Nov 3 1979,Fortuna Düsseldorf,1-1,Bayer 04 Leverkusen
+11,Sat Nov 3 1979,Borussia Dortmund,2-1,FC Schalke 04
+11,Sat Nov 3 1979,TSV 1860 München,0-2,Hamburger SV
+11,Sat Nov 3 1979,Werder Bremen,1-4,Bayern München
+12,Sat Nov 10 1979,Bayer 04 Leverkusen,1-3,VfB Stuttgart
+12,Sat Nov 10 1979,Hamburger SV,4-0,Borussia Dortmund
+12,Sat Nov 10 1979,Eintracht Braunschweig,3-0,VfL Bochum
+12,Sat Nov 10 1979,1. FC Kaiserslautern,0-1,Eintracht Frankfurt
+12,Sat Nov 10 1979,MSV Duisburg,0-2,1. FC Köln
+12,Sat Nov 10 1979,Hertha BSC,0-0,Werder Bremen
+12,Sat Nov 10 1979,Bayern München,3-0,KFC Uerdingen
+12,Sat Nov 10 1979,Bor. Mönchengladbach,1-1,TSV 1860 München
+12,Sat Nov 10 1979,FC Schalke 04,2-2,Fortuna Düsseldorf
+13,Fri Nov 16 1979,Werder Bremen,2-1,MSV Duisburg
+13,Fri Nov 16 1979,Borussia Dortmund,1-1,Bor. Mönchengladbach
+13,Sat Nov 17 1979,1. FC Köln,2-0,1. FC Kaiserslautern
+13,Sat Nov 17 1979,Eintracht Braunschweig,3-1,Bayer 04 Leverkusen
+13,Sat Nov 17 1979,VfB Stuttgart,0-0,FC Schalke 04
+13,Sat Nov 17 1979,Fortuna Düsseldorf,1-1,Hamburger SV
+13,Sat Nov 17 1979,TSV 1860 München,1-2,Bayern München
+13,Sat Nov 17 1979,KFC Uerdingen,3-1,Hertha BSC
+13,Sat Nov 17 1979,VfL Bochum,1-0,Eintracht Frankfurt
+14,Fri Nov 23 1979,Bayer 04 Leverkusen,3-1,VfL Bochum
+14,Fri Nov 23 1979,1. FC Kaiserslautern,3-1,Werder Bremen
+14,Sat Nov 24 1979,MSV Duisburg,2-2,KFC Uerdingen
+14,Sat Nov 24 1979,Eintracht Frankfurt,3-0,1. FC Köln
+14,Sat Nov 24 1979,FC Schalke 04,1-0,Eintracht Braunschweig
+14,Sat Nov 24 1979,Hertha BSC,1-1,TSV 1860 München
+14,Sat Nov 24 1979,Bayern München,4-2,Borussia Dortmund
+14,Sat Nov 24 1979,Bor. Mönchengladbach,2-1,Fortuna Düsseldorf
+14,Sat Nov 24 1979,Hamburger SV,3-2,VfB Stuttgart
+15,Fri Nov 30 1979,1. FC Köln,2-1,VfL Bochum
+15,Sat Dec 1 1979,Werder Bremen,4-3,Eintracht Frankfurt
+15,Sat Dec 1 1979,Eintracht Braunschweig,1-1,Hamburger SV
+15,Sat Dec 1 1979,VfB Stuttgart,4-0,Bor. Mönchengladbach
+15,Sat Dec 1 1979,Fortuna Düsseldorf,0-3,Bayern München
+15,Sat Dec 1 1979,Borussia Dortmund,4-1,Hertha BSC
+15,Sat Dec 1 1979,TSV 1860 München,2-1,MSV Duisburg
+15,Sat Dec 1 1979,KFC Uerdingen,3-2,1. FC Kaiserslautern
+15,Sat Dec 1 1979,FC Schalke 04,0-2,Bayer 04 Leverkusen
+16,Sat Dec 8 1979,Hamburger SV,3-0,Bayer 04 Leverkusen
+16,Sat Dec 8 1979,1. FC Köln,4-1,Werder Bremen
+16,Sat Dec 8 1979,Eintracht Frankfurt,2-0,KFC Uerdingen
+16,Sat Dec 8 1979,1. FC Kaiserslautern,3-1,TSV 1860 München
+16,Sat Dec 8 1979,MSV Duisburg,1-0,Borussia Dortmund
+16,Sat Dec 8 1979,Hertha BSC,3-0,Fortuna Düsseldorf
+16,Sat Dec 8 1979,Bayern München,4-0,VfB Stuttgart
+16,Sat Dec 8 1979,Bor. Mönchengladbach,1-1,Eintracht Braunschweig
+16,Sat Dec 8 1979,VfL Bochum,0-0,FC Schalke 04
+17,Fri Dec 14 1979,Werder Bremen,2-0,VfL Bochum
+17,Sat Dec 15 1979,Bayer 04 Leverkusen,0-0,Bor. Mönchengladbach
+17,Sat Dec 15 1979,Eintracht Braunschweig,1-1,Bayern München
+17,Sat Dec 15 1979,VfB Stuttgart,5-0,Hertha BSC
+17,Sat Dec 15 1979,Fortuna Düsseldorf,1-0,MSV Duisburg
+17,Sat Dec 15 1979,Borussia Dortmund,6-2,1. FC Kaiserslautern
+17,Sat Dec 15 1979,TSV 1860 München,2-1,Eintracht Frankfurt
+17,Sat Dec 15 1979,KFC Uerdingen,1-3,1. FC Köln
+17,Sat Dec 15 1979,FC Schalke 04,1-0,Hamburger SV
+18,Sat Jan 19 1980,Fortuna Düsseldorf,6-1,1. FC Kaiserslautern
+18,Sat Jan 19 1980,KFC Uerdingen,2-0,Werder Bremen
+18,Sat Jan 19 1980,TSV 1860 München,1-1,1. FC Köln
+18,Sat Jan 19 1980,Borussia Dortmund,0-1,Eintracht Frankfurt
+18,Sat Jan 19 1980,VfB Stuttgart,2-0,MSV Duisburg
+18,Sat Jan 19 1980,Eintracht Braunschweig,3-1,Hertha BSC
+18,Sat Jan 19 1980,Bayer 04 Leverkusen,1-0,Bayern München
+18,Sat Jan 19 1980,FC Schalke 04,1-0,Bor. Mönchengladbach
+18,Sat Jan 19 1980,Hamburger SV,3-1,VfL Bochum
+19,Sat Jan 26 1980,Bor. Mönchengladbach,2-2,Hamburger SV
+19,Sat Jan 26 1980,Hertha BSC,3-0,Bayer 04 Leverkusen
+19,Sat Jan 26 1980,MSV Duisburg,0-0,Eintracht Braunschweig
+19,Sat Jan 26 1980,1. FC Kaiserslautern,2-1,VfB Stuttgart
+19,Sat Jan 26 1980,Eintracht Frankfurt,1-2,Fortuna Düsseldorf
+19,Sat Jan 26 1980,1. FC Köln,4-1,Borussia Dortmund
+19,Sat Jan 26 1980,Werder Bremen,4-6,TSV 1860 München
+19,Sat Jan 26 1980,VfL Bochum,1-0,KFC Uerdingen
+19,Sat Jan 26 1980,Bayern München,3-1,FC Schalke 04
+20,Sat Feb 2 1980,Borussia Dortmund,5-0,Werder Bremen
+20,Sat Feb 2 1980,Fortuna Düsseldorf,3-6,1. FC Köln
+20,Sat Feb 2 1980,VfB Stuttgart,4-2,Eintracht Frankfurt
+20,Sat Feb 2 1980,Eintracht Braunschweig,0-1,1. FC Kaiserslautern
+20,Sat Feb 2 1980,Bayer 04 Leverkusen,2-2,MSV Duisburg
+20,Sat Feb 2 1980,FC Schalke 04,1-0,Hertha BSC
+20,Sat Feb 2 1980,Hamburger SV,3-1,Bayern München
+20,Sat Feb 2 1980,TSV 1860 München,4-0,KFC Uerdingen
+20,Sat Feb 2 1980,Bor. Mönchengladbach,3-2,VfL Bochum
+21,Sat Feb 9 1980,1. FC Kaiserslautern,4-0,Bayer 04 Leverkusen
+21,Sat Feb 9 1980,Eintracht Frankfurt,7-2,Eintracht Braunschweig
+21,Sat Feb 9 1980,1. FC Köln,2-2,VfB Stuttgart
+21,Sat Feb 9 1980,KFC Uerdingen,3-0,Borussia Dortmund
+21,Sat Feb 9 1980,VfL Bochum,2-0,TSV 1860 München
+21,Sat Feb 9 1980,Bayern München,3-1,Bor. Mönchengladbach
+21,Sat Feb 9 1980,MSV Duisburg,1-2,FC Schalke 04
+22,Fri Feb 22 1980,Bayer 04 Leverkusen,2-1,Eintracht Frankfurt
+22,Sat Feb 23 1980,Borussia Dortmund,0-0,TSV 1860 München
+22,Sat Feb 23 1980,Hamburger SV,1-2,MSV Duisburg
+22,Sat Feb 23 1980,Eintracht Braunschweig,2-1,1. FC Köln
+22,Sat Feb 23 1980,Fortuna Düsseldorf,3-1,KFC Uerdingen
+22,Sat Feb 23 1980,VfB Stuttgart,5-1,Werder Bremen
+22,Sat Feb 23 1980,Bayern München,3-0,VfL Bochum
+22,Sat Feb 23 1980,FC Schalke 04,2-1,1. FC Kaiserslautern
+22,Sat Feb 23 1980,Bor. Mönchengladbach,4-1,Hertha BSC
+23,Sat Mar 1 1980,1. FC Kaiserslautern,4-2,Hamburger SV
+23,Sat Mar 1 1980,VfL Bochum,2-2,Borussia Dortmund
+23,Sat Mar 1 1980,TSV 1860 München,2-0,Fortuna Düsseldorf
+23,Sat Mar 1 1980,MSV Duisburg,3-0,Bor. Mönchengladbach
+23,Sat Mar 1 1980,Hertha BSC,1-1,Bayern München
+23,Sat Mar 1 1980,1. FC Köln,4-0,Bayer 04 Leverkusen
+23,Sat Mar 1 1980,Werder Bremen,4-0,Eintracht Braunschweig
+23,Sat Mar 1 1980,KFC Uerdingen,4-2,VfB Stuttgart
+23,Sat Mar 1 1980,Eintracht Frankfurt,3-2,FC Schalke 04
+21,Tue Mar 4 1980,Werder Bremen,4-1,Fortuna Düsseldorf
+24,Fri Mar 7 1980,Bayer 04 Leverkusen,4-0,Werder Bremen
+24,Sat Mar 8 1980,FC Schalke 04,1-1,1. FC Köln
+24,Sat Mar 8 1980,Hamburger SV,5-0,Eintracht Frankfurt
+24,Sat Mar 8 1980,VfB Stuttgart,1-1,TSV 1860 München
+24,Sat Mar 8 1980,Eintracht Braunschweig,1-1,KFC Uerdingen
+24,Sat Mar 8 1980,Bayern München,3-1,MSV Duisburg
+24,Sat Mar 8 1980,Hertha BSC,1-0,VfL Bochum
+24,Sat Mar 8 1980,Fortuna Düsseldorf,2-1,Borussia Dortmund
+24,Sat Mar 8 1980,Bor. Mönchengladbach,0-3,1. FC Kaiserslautern
+25,Fri Mar 14 1980,VfL Bochum,0-0,Fortuna Düsseldorf
+25,Fri Mar 14 1980,Werder Bremen,4-0,FC Schalke 04
+25,Sat Mar 15 1980,1. FC Kaiserslautern,1-1,Bayern München
+25,Sat Mar 15 1980,TSV 1860 München,2-0,Eintracht Braunschweig
+25,Sat Mar 15 1980,MSV Duisburg,2-2,Hertha BSC
+25,Sat Mar 15 1980,KFC Uerdingen,2-0,Bayer 04 Leverkusen
+25,Sat Mar 15 1980,Eintracht Frankfurt,5-2,Bor. Mönchengladbach
+25,Sat Mar 15 1980,Borussia Dortmund,2-4,VfB Stuttgart
+25,Sat Mar 15 1980,1. FC Köln,2-3,Hamburger SV
+26,Fri Mar 21 1980,MSV Duisburg,0-1,VfL Bochum
+26,Sat Mar 22 1980,Bor. Mönchengladbach,2-2,1. FC Köln
+26,Sat Mar 22 1980,Bayern München,2-0,Eintracht Frankfurt
+26,Sat Mar 22 1980,Hamburger SV,5-0,Werder Bremen
+26,Sat Mar 22 1980,Bayer 04 Leverkusen,1-0,TSV 1860 München
+26,Sat Mar 22 1980,FC Schalke 04,1-2,KFC Uerdingen
+26,Sat Mar 22 1980,Hertha BSC,0-2,1. FC Kaiserslautern
+26,Sat Mar 22 1980,VfB Stuttgart,5-1,Fortuna Düsseldorf
+26,Sat Mar 22 1980,Eintracht Braunschweig,1-0,Borussia Dortmund
+27,Fri Mar 28 1980,Borussia Dortmund,2-1,Bayer 04 Leverkusen
+27,Fri Mar 28 1980,1. FC Kaiserslautern,4-2,MSV Duisburg
+27,Fri Mar 28 1980,Werder Bremen,4-2,Bor. Mönchengladbach
+27,Sat Mar 29 1980,VfL Bochum,0-1,VfB Stuttgart
+27,Sat Mar 29 1980,Eintracht Frankfurt,0-4,Hertha BSC
+27,Sat Mar 29 1980,KFC Uerdingen,0-3,Hamburger SV
+27,Sat Mar 29 1980,Fortuna Düsseldorf,3-2,Eintracht Braunschweig
+27,Sat Mar 29 1980,1. FC Köln,2-4,Bayern München
+27,Sat Mar 29 1980,TSV 1860 München,3-0,FC Schalke 04
+21,Sat Apr 5 1980,Hertha BSC,0-6,Hamburger SV
+28,Fri Apr 11 1980,Bayer 04 Leverkusen,0-0,Fortuna Düsseldorf
+28,Fri Apr 11 1980,1. FC Kaiserslautern,4-1,VfL Bochum
+28,Sat Apr 12 1980,Bayern München,7-0,Werder Bremen
+28,Sat Apr 12 1980,Hertha BSC,1-0,1. FC Köln
+28,Sat Apr 12 1980,MSV Duisburg,1-0,Eintracht Frankfurt
+28,Sat Apr 12 1980,Eintracht Braunschweig,0-2,VfB Stuttgart
+28,Sat Apr 12 1980,FC Schalke 04,2-2,Borussia Dortmund
+28,Sat Apr 12 1980,Hamburger SV,6-1,TSV 1860 München
+28,Sat Apr 12 1980,Bor. Mönchengladbach,3-2,KFC Uerdingen
+29,Fri Apr 18 1980,VfL Bochum,2-1,Eintracht Braunschweig
+29,Fri Apr 18 1980,Werder Bremen,1-0,Hertha BSC
+29,Sat Apr 19 1980,Borussia Dortmund,2-2,Hamburger SV
+29,Sat Apr 19 1980,VfB Stuttgart,3-2,Bayer 04 Leverkusen
+29,Sat Apr 19 1980,Eintracht Frankfurt,3-5,1. FC Kaiserslautern
+29,Sat Apr 19 1980,1. FC Köln,2-3,MSV Duisburg
+29,Sat Apr 19 1980,KFC Uerdingen,1-3,Bayern München
+29,Sat Apr 19 1980,TSV 1860 München,0-0,Bor. Mönchengladbach
+29,Sat Apr 19 1980,Fortuna Düsseldorf,4-1,FC Schalke 04
+30,Fri Apr 25 1980,MSV Duisburg,4-1,Werder Bremen
+30,Sat Apr 26 1980,1. FC Kaiserslautern,2-0,1. FC Köln
+30,Sat Apr 26 1980,Bayer 04 Leverkusen,3-1,Eintracht Braunschweig
+30,Sat Apr 26 1980,FC Schalke 04,0-4,VfB Stuttgart
+30,Sat Apr 26 1980,Hamburger SV,1-0,Fortuna Düsseldorf
+30,Sat Apr 26 1980,Bor. Mönchengladbach,2-2,Borussia Dortmund
+30,Sat Apr 26 1980,Hertha BSC,3-0,KFC Uerdingen
+30,Sat Apr 26 1980,Eintracht Frankfurt,0-1,VfL Bochum
+31,Fri May 2 1980,KFC Uerdingen,1-1,MSV Duisburg
+31,Fri May 2 1980,Fortuna Düsseldorf,1-4,Bor. Mönchengladbach
+31,Fri May 2 1980,VfL Bochum,4-2,Bayer 04 Leverkusen
+31,Sat May 3 1980,Werder Bremen,2-4,1. FC Kaiserslautern
+31,Sat May 3 1980,TSV 1860 München,0-1,Hertha BSC
+31,Sat May 3 1980,VfB Stuttgart,2-2,Hamburger SV
+31,Sat May 3 1980,1. FC Köln,2-2,Eintracht Frankfurt
+31,Sat May 3 1980,Borussia Dortmund,1-0,Bayern München
+31,Sat May 3 1980,Eintracht Braunschweig,1-1,FC Schalke 04
+30,Sat May 10 1980,Bayern München,6-1,TSV 1860 München
+32,Fri May 16 1980,Hamburger SV,2-0,Eintracht Braunschweig
+32,Fri May 16 1980,Hertha BSC,3-2,Borussia Dortmund
+32,Fri May 16 1980,1. FC Kaiserslautern,4-0,KFC Uerdingen
+32,Sat May 17 1980,Eintracht Frankfurt,3-2,Werder Bremen
+32,Sat May 17 1980,VfL Bochum,2-0,1. FC Köln
+32,Sat May 17 1980,Bor. Mönchengladbach,1-1,VfB Stuttgart
+32,Sat May 17 1980,Bayern München,6-0,Fortuna Düsseldorf
+32,Sat May 17 1980,MSV Duisburg,1-0,TSV 1860 München
+32,Sat May 17 1980,Bayer 04 Leverkusen,2-0,FC Schalke 04
+33,Sat May 24 1980,Bayer 04 Leverkusen,2-1,Hamburger SV
+33,Sat May 24 1980,Werder Bremen,0-5,1. FC Köln
+33,Sat May 24 1980,KFC Uerdingen,3-2,Eintracht Frankfurt
+33,Sat May 24 1980,TSV 1860 München,3-2,1. FC Kaiserslautern
+33,Sat May 24 1980,Borussia Dortmund,3-1,MSV Duisburg
+33,Sat May 24 1980,Fortuna Düsseldorf,4-0,Hertha BSC
+33,Sat May 24 1980,VfB Stuttgart,1-3,Bayern München
+33,Sat May 24 1980,Eintracht Braunschweig,0-3,Bor. Mönchengladbach
+33,Sat May 24 1980,FC Schalke 04,1-0,VfL Bochum
+34,Sat May 31 1980,VfL Bochum,5-2,Werder Bremen
+34,Sat May 31 1980,Bor. Mönchengladbach,4-2,Bayer 04 Leverkusen
+34,Sat May 31 1980,Bayern München,2-1,Eintracht Braunschweig
+34,Sat May 31 1980,Hertha BSC,4-2,VfB Stuttgart
+34,Sat May 31 1980,MSV Duisburg,0-2,Fortuna Düsseldorf
+34,Sat May 31 1980,1. FC Kaiserslautern,2-2,Borussia Dortmund
+34,Sat May 31 1980,Eintracht Frankfurt,1-1,TSV 1860 München
+34,Sat May 31 1980,1. FC Köln,1-0,KFC Uerdingen
+34,Sat May 31 1980,Hamburger SV,4-0,FC Schalke 04

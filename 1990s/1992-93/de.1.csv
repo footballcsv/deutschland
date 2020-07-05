@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Aug 14 1992,1. FC Kaiserslautern,1-0,1. FC Köln
+1,Fri Aug 14 1992,Bayer 04 Leverkusen,1-1,1. FC Saarbrücken
+1,Fri Aug 14 1992,1. FC Nürnberg,0-0,Werder Bremen
+1,Sat Aug 15 1992,Eintracht Frankfurt,1-1,Dynamo Dresden
+1,Sat Aug 15 1992,KFC Uerdingen,0-3,Bayern München
+1,Sat Aug 15 1992,FC Schalke 04,3-4,SG Wattenscheid 09
+1,Sat Aug 15 1992,VfL Bochum,2-2,Borussia Dortmund
+1,Sat Aug 15 1992,Karlsruher SC,4-2,Bor. Mönchengladbach
+1,Sat Aug 15 1992,Hamburger SV,1-1,VfB Stuttgart
+2,Fri Aug 21 1992,SG Wattenscheid 09,1-1,KFC Uerdingen
+2,Fri Aug 21 1992,Dynamo Dresden,1-1,Hamburger SV
+2,Sat Aug 22 1992,Bor. Mönchengladbach,1-1,VfL Bochum
+2,Sat Aug 22 1992,VfB Stuttgart,3-0,1. FC Nürnberg
+2,Sat Aug 22 1992,1. FC Saarbrücken,2-0,Karlsruher SC
+2,Sat Aug 22 1992,Borussia Dortmund,0-2,FC Schalke 04
+2,Sat Aug 22 1992,Bayern München,1-0,1. FC Kaiserslautern
+2,Sat Aug 22 1992,1. FC Köln,0-1,Eintracht Frankfurt
+2,Sat Aug 22 1992,Werder Bremen,1-1,Bayer 04 Leverkusen
+3,Tue Aug 25 1992,KFC Uerdingen,0-2,Borussia Dortmund
+3,Tue Aug 25 1992,FC Schalke 04,1-2,Bor. Mönchengladbach
+3,Tue Aug 25 1992,Bayer 04 Leverkusen,4-0,VfB Stuttgart
+3,Tue Aug 25 1992,Hamburger SV,0-1,1. FC Nürnberg
+3,Wed Aug 26 1992,1. FC Kaiserslautern,4-1,SG Wattenscheid 09
+3,Wed Aug 26 1992,VfL Bochum,4-0,1. FC Saarbrücken
+3,Wed Aug 26 1992,Karlsruher SC,5-2,Werder Bremen
+3,Wed Aug 26 1992,Dynamo Dresden,3-0,1. FC Köln
+4,Fri Aug 28 1992,Bor. Mönchengladbach,0-4,KFC Uerdingen
+4,Fri Aug 28 1992,1. FC Nürnberg,0-1,Bayer 04 Leverkusen
+4,Sat Aug 29 1992,1. FC Saarbrücken,1-3,FC Schalke 04
+4,Sat Aug 29 1992,Werder Bremen,3-1,VfL Bochum
+4,Sat Aug 29 1992,Bayern München,3-1,Dynamo Dresden
+4,Sat Aug 29 1992,1. FC Köln,2-2,Hamburger SV
+4,Sat Aug 29 1992,Borussia Dortmund,1-0,1. FC Kaiserslautern
+4,Sat Aug 29 1992,SG Wattenscheid 09,1-2,Eintracht Frankfurt
+4,Sat Aug 29 1992,VfB Stuttgart,2-1,Karlsruher SC
+5,Tue Sep 1 1992,Karlsruher SC,1-1,1. FC Nürnberg
+5,Tue Sep 1 1992,Dynamo Dresden,2-1,SG Wattenscheid 09
+5,Tue Sep 1 1992,Eintracht Frankfurt,4-1,Borussia Dortmund
+5,Tue Sep 1 1992,1. FC Kaiserslautern,0-0,Bor. Mönchengladbach
+5,Tue Sep 1 1992,FC Schalke 04,0-0,Werder Bremen
+5,Wed Sep 2 1992,VfL Bochum,0-0,VfB Stuttgart
+5,Wed Sep 2 1992,1. FC Köln,1-3,Bayern München
+5,Wed Sep 2 1992,KFC Uerdingen,1-1,1. FC Saarbrücken
+5,Wed Sep 2 1992,Hamburger SV,0-0,Bayer 04 Leverkusen
+6,Fri Sep 4 1992,Bor. Mönchengladbach,3-3,Eintracht Frankfurt
+6,Fri Sep 4 1992,Borussia Dortmund,3-0,Dynamo Dresden
+6,Sat Sep 5 1992,SG Wattenscheid 09,4-2,1. FC Köln
+6,Sat Sep 5 1992,Bayern München,4-0,Hamburger SV
+6,Sat Sep 5 1992,Bayer 04 Leverkusen,5-1,Karlsruher SC
+6,Sat Sep 5 1992,1. FC Nürnberg,2-1,VfL Bochum
+6,Sat Sep 5 1992,1. FC Saarbrücken,2-0,1. FC Kaiserslautern
+6,Sat Sep 5 1992,Werder Bremen,2-1,KFC Uerdingen
+6,Sat Sep 5 1992,VfB Stuttgart,1-0,FC Schalke 04
+7,Fri Sep 18 1992,Dynamo Dresden,1-0,Bor. Mönchengladbach
+7,Fri Sep 18 1992,Hamburger SV,1-2,Karlsruher SC
+7,Fri Sep 18 1992,VfL Bochum,2-2,Bayer 04 Leverkusen
+7,Sat Sep 19 1992,1. FC Kaiserslautern,3-1,Werder Bremen
+7,Sat Sep 19 1992,FC Schalke 04,0-0,1. FC Nürnberg
+7,Sat Sep 19 1992,Bayern München,1-1,SG Wattenscheid 09
+7,Sat Sep 19 1992,Eintracht Frankfurt,1-1,1. FC Saarbrücken
+7,Sat Sep 19 1992,1. FC Köln,0-1,Borussia Dortmund
+7,Sat Sep 19 1992,KFC Uerdingen,3-3,VfB Stuttgart
+8,Fri Sep 25 1992,1. FC Saarbrücken,1-1,Dynamo Dresden
+8,Fri Sep 25 1992,Borussia Dortmund,1-2,Bayern München
+8,Sat Sep 26 1992,VfB Stuttgart,3-1,1. FC Kaiserslautern
+8,Sat Sep 26 1992,Bor. Mönchengladbach,1-2,1. FC Köln
+8,Sat Sep 26 1992,SG Wattenscheid 09,2-2,Hamburger SV
+8,Sat Sep 26 1992,Karlsruher SC,1-0,VfL Bochum
+8,Sat Sep 26 1992,1. FC Nürnberg,2-0,KFC Uerdingen
+8,Sat Sep 26 1992,Werder Bremen,0-0,Eintracht Frankfurt
+8,Sat Sep 26 1992,Bayer 04 Leverkusen,6-1,FC Schalke 04
+9,Fri Oct 2 1992,FC Schalke 04,2-2,Karlsruher SC
+9,Fri Oct 2 1992,Hamburger SV,2-0,VfL Bochum
+9,Fri Oct 2 1992,KFC Uerdingen,2-1,Bayer 04 Leverkusen
+9,Sat Oct 3 1992,Bayern München,2-2,Bor. Mönchengladbach
+9,Sat Oct 3 1992,Dynamo Dresden,2-3,Werder Bremen
+9,Sat Oct 3 1992,1. FC Kaiserslautern,2-0,1. FC Nürnberg
+9,Sat Oct 3 1992,1. FC Köln,4-2,1. FC Saarbrücken
+9,Sat Oct 3 1992,SG Wattenscheid 09,1-3,Borussia Dortmund
+9,Sun Oct 4 1992,Eintracht Frankfurt,4-0,VfB Stuttgart
+10,Fri Oct 16 1992,Bor. Mönchengladbach,4-1,SG Wattenscheid 09
+10,Fri Oct 16 1992,VfL Bochum,0-1,FC Schalke 04
+10,Fri Oct 16 1992,Karlsruher SC,4-0,KFC Uerdingen
+10,Sat Oct 17 1992,VfB Stuttgart,4-0,Dynamo Dresden
+10,Sat Oct 17 1992,Bayer 04 Leverkusen,2-0,1. FC Kaiserslautern
+10,Sat Oct 17 1992,1. FC Nürnberg,1-2,Eintracht Frankfurt
+10,Sat Oct 17 1992,1. FC Saarbrücken,1-1,Bayern München
+10,Sat Oct 17 1992,Borussia Dortmund,3-1,Hamburger SV
+10,Sat Oct 17 1992,Werder Bremen,2-0,1. FC Köln
+11,Fri Oct 23 1992,SG Wattenscheid 09,3-1,1. FC Saarbrücken
+11,Fri Oct 23 1992,Dynamo Dresden,1-2,1. FC Nürnberg
+11,Fri Oct 23 1992,Hamburger SV,1-2,FC Schalke 04
+11,Sat Oct 24 1992,Eintracht Frankfurt,2-2,Bayer 04 Leverkusen
+11,Sat Oct 24 1992,1. FC Kaiserslautern,2-3,Karlsruher SC
+11,Sat Oct 24 1992,Bayern München,1-3,Werder Bremen
+11,Sat Oct 24 1992,1. FC Köln,3-1,VfB Stuttgart
+11,Sat Oct 24 1992,KFC Uerdingen,2-1,VfL Bochum
+11,Sat Oct 24 1992,Borussia Dortmund,4-1,Bor. Mönchengladbach
+3,Tue Oct 27 1992,Eintracht Frankfurt,1-1,Bayern München
+12,Fri Oct 30 1992,FC Schalke 04,1-1,KFC Uerdingen
+12,Fri Oct 30 1992,Bayer 04 Leverkusen,0-0,Dynamo Dresden
+12,Fri Oct 30 1992,Werder Bremen,3-0,SG Wattenscheid 09
+12,Sat Oct 31 1992,VfB Stuttgart,2-3,Bayern München
+12,Sat Oct 31 1992,1. FC Saarbrücken,3-1,Borussia Dortmund
+12,Sat Oct 31 1992,Bor. Mönchengladbach,0-0,Hamburger SV
+12,Sat Oct 31 1992,VfL Bochum,1-3,1. FC Kaiserslautern
+12,Sat Oct 31 1992,1. FC Nürnberg,2-1,1. FC Köln
+12,Sun Nov 1 1992,Karlsruher SC,4-1,Eintracht Frankfurt
+13,Fri Nov 13 1992,1. FC Kaiserslautern,3-0,FC Schalke 04
+13,Fri Nov 13 1992,Borussia Dortmund,2-2,Werder Bremen
+13,Fri Nov 13 1992,Dynamo Dresden,3-0,Karlsruher SC
+13,Sat Nov 14 1992,Eintracht Frankfurt,4-1,VfL Bochum
+13,Sat Nov 14 1992,Bor. Mönchengladbach,2-5,1. FC Saarbrücken
+13,Sat Nov 14 1992,SG Wattenscheid 09,0-0,VfB Stuttgart
+13,Sat Nov 14 1992,Bayern München,1-0,1. FC Nürnberg
+13,Sat Nov 14 1992,1. FC Köln,1-0,Bayer 04 Leverkusen
+13,Sat Nov 14 1992,Hamburger SV,3-0,KFC Uerdingen
+14,Fri Nov 20 1992,1. FC Saarbrücken,0-3,Hamburger SV
+14,Fri Nov 20 1992,VfL Bochum,2-2,Dynamo Dresden
+14,Fri Nov 20 1992,1. FC Nürnberg,2-1,SG Wattenscheid 09
+14,Sat Nov 21 1992,VfB Stuttgart,1-0,Borussia Dortmund
+14,Sat Nov 21 1992,KFC Uerdingen,0-5,1. FC Kaiserslautern
+14,Sat Nov 21 1992,FC Schalke 04,0-0,Eintracht Frankfurt
+14,Sat Nov 21 1992,Karlsruher SC,3-1,1. FC Köln
+14,Sat Nov 21 1992,Bayer 04 Leverkusen,2-4,Bayern München
+14,Sat Nov 21 1992,Werder Bremen,2-0,Bor. Mönchengladbach
+15,Fri Nov 27 1992,SG Wattenscheid 09,1-3,Bayer 04 Leverkusen
+15,Fri Nov 27 1992,Dynamo Dresden,1-0,FC Schalke 04
+15,Fri Nov 27 1992,Werder Bremen,2-0,1. FC Saarbrücken
+15,Sat Nov 28 1992,Eintracht Frankfurt,1-0,KFC Uerdingen
+15,Sat Nov 28 1992,1. FC Kaiserslautern,2-2,Hamburger SV
+15,Sat Nov 28 1992,Bor. Mönchengladbach,1-1,VfB Stuttgart
+15,Sat Nov 28 1992,Borussia Dortmund,4-2,1. FC Nürnberg
+15,Sat Nov 28 1992,Bayern München,3-3,Karlsruher SC
+15,Sat Nov 28 1992,1. FC Köln,1-0,VfL Bochum
+16,Fri Dec 4 1992,KFC Uerdingen,1-1,Dynamo Dresden
+16,Fri Dec 4 1992,Hamburger SV,0-0,Werder Bremen
+16,Sat Dec 5 1992,1. FC Nürnberg,0-1,Bor. Mönchengladbach
+16,Sat Dec 5 1992,VfB Stuttgart,2-2,1. FC Saarbrücken
+16,Sat Dec 5 1992,VfL Bochum,2-2,Bayern München
+16,Sat Dec 5 1992,Karlsruher SC,2-1,SG Wattenscheid 09
+16,Sat Dec 5 1992,Bayer 04 Leverkusen,3-3,Borussia Dortmund
+16,Sat Dec 5 1992,1. FC Kaiserslautern,0-2,Eintracht Frankfurt
+16,Sun Dec 6 1992,FC Schalke 04,1-0,1. FC Köln
+17,Fri Dec 11 1992,SG Wattenscheid 09,2-0,VfL Bochum
+17,Fri Dec 11 1992,1. FC Saarbrücken,0-1,1. FC Nürnberg
+17,Fri Dec 11 1992,Bor. Mönchengladbach,2-2,Bayer 04 Leverkusen
+17,Sat Dec 12 1992,Eintracht Frankfurt,3-3,Hamburger SV
+17,Sat Dec 12 1992,Borussia Dortmund,3-1,Karlsruher SC
+17,Sat Dec 12 1992,Bayern München,1-1,FC Schalke 04
+17,Sat Dec 12 1992,1. FC Köln,5-0,KFC Uerdingen
+17,Sat Dec 12 1992,Dynamo Dresden,1-3,1. FC Kaiserslautern
+17,Sat Dec 12 1992,Werder Bremen,1-1,VfB Stuttgart
+18,Fri Feb 19 1993,SG Wattenscheid 09,0-0,FC Schalke 04
+18,Fri Feb 19 1993,1. FC Köln,0-3,1. FC Kaiserslautern
+18,Fri Feb 19 1993,Werder Bremen,3-0,1. FC Nürnberg
+18,Sat Feb 20 1993,Dynamo Dresden,0-2,Eintracht Frankfurt
+18,Sat Feb 20 1993,Bayern München,2-0,KFC Uerdingen
+18,Sat Feb 20 1993,Borussia Dortmund,1-0,VfL Bochum
+18,Sat Feb 20 1993,Bor. Mönchengladbach,3-1,Karlsruher SC
+18,Sat Feb 20 1993,1. FC Saarbrücken,3-1,Bayer 04 Leverkusen
+18,Sat Feb 20 1993,VfB Stuttgart,1-1,Hamburger SV
+19,Fri Feb 26 1993,VfL Bochum,2-1,Bor. Mönchengladbach
+19,Sat Feb 27 1993,1. FC Nürnberg,3-2,VfB Stuttgart
+19,Sat Feb 27 1993,Karlsruher SC,2-2,1. FC Saarbrücken
+19,Sat Feb 27 1993,FC Schalke 04,0-0,Borussia Dortmund
+19,Sat Feb 27 1993,KFC Uerdingen,1-1,SG Wattenscheid 09
+19,Sat Feb 27 1993,1. FC Kaiserslautern,1-3,Bayern München
+19,Sat Feb 27 1993,Eintracht Frankfurt,2-1,1. FC Köln
+19,Sat Feb 27 1993,Bayer 04 Leverkusen,2-2,Werder Bremen
+19,Sun Feb 28 1993,Hamburger SV,1-1,Dynamo Dresden
+20,Fri Mar 5 1993,Werder Bremen,3-0,Karlsruher SC
+20,Fri Mar 5 1993,1. FC Nürnberg,1-0,Hamburger SV
+20,Sat Mar 6 1993,Bayern München,1-0,Eintracht Frankfurt
+20,Sat Mar 6 1993,SG Wattenscheid 09,1-0,1. FC Kaiserslautern
+20,Sat Mar 6 1993,Borussia Dortmund,2-0,KFC Uerdingen
+20,Sat Mar 6 1993,Bor. Mönchengladbach,2-0,FC Schalke 04
+20,Sat Mar 6 1993,1. FC Saarbrücken,1-1,VfL Bochum
+20,Sat Mar 6 1993,VfB Stuttgart,0-3,Bayer 04 Leverkusen
+20,Sat Mar 6 1993,1. FC Köln,3-1,Dynamo Dresden
+21,Fri Mar 12 1993,FC Schalke 04,2-2,1. FC Saarbrücken
+21,Fri Mar 12 1993,1. FC Kaiserslautern,0-0,Borussia Dortmund
+21,Fri Mar 12 1993,Hamburger SV,3-0,1. FC Köln
+21,Sat Mar 13 1993,Karlsruher SC,1-1,VfB Stuttgart
+21,Sat Mar 13 1993,KFC Uerdingen,1-3,Bor. Mönchengladbach
+21,Sat Mar 13 1993,Eintracht Frankfurt,4-1,SG Wattenscheid 09
+21,Sat Mar 13 1993,Dynamo Dresden,0-0,Bayern München
+21,Sat Mar 13 1993,Bayer 04 Leverkusen,2-1,1. FC Nürnberg
+21,Sat Mar 13 1993,VfL Bochum,2-0,Werder Bremen
+22,Fri Mar 19 1993,1. FC Saarbrücken,3-3,KFC Uerdingen
+22,Fri Mar 19 1993,SG Wattenscheid 09,2-1,Dynamo Dresden
+22,Fri Mar 19 1993,1. FC Nürnberg,0-0,Karlsruher SC
+22,Sat Mar 20 1993,Bor. Mönchengladbach,2-2,1. FC Kaiserslautern
+22,Sat Mar 20 1993,Werder Bremen,2-0,FC Schalke 04
+22,Sat Mar 20 1993,VfB Stuttgart,4-1,VfL Bochum
+22,Sat Mar 20 1993,Bayern München,3-0,1. FC Köln
+22,Sat Mar 20 1993,Bayer 04 Leverkusen,1-1,Hamburger SV
+22,Sun Mar 21 1993,Borussia Dortmund,3-0,Eintracht Frankfurt
+23,Fri Mar 26 1993,VfL Bochum,4-0,1. FC Nürnberg
+23,Fri Mar 26 1993,KFC Uerdingen,0-2,Werder Bremen
+23,Sat Mar 27 1993,FC Schalke 04,1-0,VfB Stuttgart
+23,Sat Mar 27 1993,1. FC Kaiserslautern,1-1,1. FC Saarbrücken
+23,Sat Mar 27 1993,Eintracht Frankfurt,1-3,Bor. Mönchengladbach
+23,Sat Mar 27 1993,Dynamo Dresden,3-0,Borussia Dortmund
+23,Sat Mar 27 1993,1. FC Köln,3-0,SG Wattenscheid 09
+23,Sat Mar 27 1993,Karlsruher SC,1-1,Bayer 04 Leverkusen
+23,Sun Mar 28 1993,Hamburger SV,3-1,Bayern München
+24,Fri Apr 2 1993,1. FC Saarbrücken,0-0,Eintracht Frankfurt
+24,Fri Apr 2 1993,SG Wattenscheid 09,2-0,Bayern München
+24,Fri Apr 2 1993,Bor. Mönchengladbach,5-1,Dynamo Dresden
+24,Sat Apr 3 1993,Werder Bremen,1-0,1. FC Kaiserslautern
+24,Sat Apr 3 1993,VfB Stuttgart,1-2,KFC Uerdingen
+24,Sat Apr 3 1993,1. FC Nürnberg,1-4,FC Schalke 04
+24,Sat Apr 3 1993,Bayer 04 Leverkusen,3-1,VfL Bochum
+24,Sat Apr 3 1993,Borussia Dortmund,4-1,1. FC Köln
+24,Sat Apr 3 1993,Karlsruher SC,1-0,Hamburger SV
+25,Thu Apr 8 1993,1. FC Kaiserslautern,0-0,VfB Stuttgart
+25,Thu Apr 8 1993,FC Schalke 04,2-1,Bayer 04 Leverkusen
+25,Thu Apr 8 1993,KFC Uerdingen,2-1,1. FC Nürnberg
+25,Sat Apr 10 1993,Dynamo Dresden,0-0,1. FC Saarbrücken
+25,Sat Apr 10 1993,1. FC Köln,1-2,Bor. Mönchengladbach
+25,Sat Apr 10 1993,Bayern München,2-0,Borussia Dortmund
+25,Sat Apr 10 1993,Hamburger SV,1-1,SG Wattenscheid 09
+25,Sat Apr 10 1993,VfL Bochum,2-2,Karlsruher SC
+25,Sat Apr 10 1993,Eintracht Frankfurt,3-0,Werder Bremen
+26,Fri Apr 16 1993,1. FC Nürnberg,0-0,1. FC Kaiserslautern
+26,Fri Apr 16 1993,Borussia Dortmund,6-0,SG Wattenscheid 09
+26,Fri Apr 16 1993,Werder Bremen,3-0,Dynamo Dresden
+26,Fri Apr 16 1993,VfL Bochum,1-2,Hamburger SV
+26,Sat Apr 17 1993,VfB Stuttgart,2-2,Eintracht Frankfurt
+26,Sat Apr 17 1993,Bayer 04 Leverkusen,1-0,KFC Uerdingen
+26,Sat Apr 17 1993,Karlsruher SC,0-0,FC Schalke 04
+26,Sat Apr 17 1993,Bor. Mönchengladbach,2-2,Bayern München
+26,Sat Apr 17 1993,1. FC Saarbrücken,0-3,1. FC Köln
+27,Fri Apr 23 1993,SG Wattenscheid 09,3-1,Bor. Mönchengladbach
+27,Fri Apr 23 1993,Bayern München,6-0,1. FC Saarbrücken
+27,Fri Apr 23 1993,1. FC Köln,0-0,Werder Bremen
+27,Sat Apr 24 1993,Dynamo Dresden,0-0,VfB Stuttgart
+27,Sat Apr 24 1993,Hamburger SV,1-2,Borussia Dortmund
+27,Sat Apr 24 1993,FC Schalke 04,0-3,VfL Bochum
+27,Sat Apr 24 1993,KFC Uerdingen,1-1,Karlsruher SC
+27,Sat Apr 24 1993,1. FC Kaiserslautern,4-0,Bayer 04 Leverkusen
+27,Sat Apr 24 1993,Eintracht Frankfurt,0-0,1. FC Nürnberg
+28,Mon Apr 26 1993,Werder Bremen,4-1,Bayern München
+28,Tue Apr 27 1993,Bor. Mönchengladbach,0-3,Borussia Dortmund
+28,Tue Apr 27 1993,1. FC Saarbrücken,0-1,SG Wattenscheid 09
+28,Tue Apr 27 1993,VfB Stuttgart,2-0,1. FC Köln
+28,Tue Apr 27 1993,Karlsruher SC,1-1,1. FC Kaiserslautern
+28,Tue Apr 27 1993,VfL Bochum,4-1,KFC Uerdingen
+28,Tue Apr 27 1993,Bayer 04 Leverkusen,1-1,Eintracht Frankfurt
+28,Wed Apr 28 1993,1. FC Nürnberg,0-0,Dynamo Dresden
+28,Wed Apr 28 1993,FC Schalke 04,0-0,Hamburger SV
+29,Fri Apr 30 1993,Bayern München,5-3,VfB Stuttgart
+29,Fri Apr 30 1993,Borussia Dortmund,3-0,1. FC Saarbrücken
+29,Fri Apr 30 1993,Eintracht Frankfurt,4-1,Karlsruher SC
+29,Sat May 1 1993,Hamburger SV,0-2,Bor. Mönchengladbach
+29,Sat May 1 1993,KFC Uerdingen,4-2,FC Schalke 04
+29,Sat May 1 1993,1. FC Kaiserslautern,3-1,VfL Bochum
+29,Sat May 1 1993,Dynamo Dresden,2-0,Bayer 04 Leverkusen
+29,Sat May 1 1993,1. FC Köln,2-0,1. FC Nürnberg
+29,Sat May 1 1993,SG Wattenscheid 09,2-2,Werder Bremen
+30,Fri May 7 1993,FC Schalke 04,4-0,1. FC Kaiserslautern
+30,Fri May 7 1993,Karlsruher SC,3-1,Dynamo Dresden
+30,Fri May 7 1993,KFC Uerdingen,0-2,Hamburger SV
+30,Sat May 8 1993,VfL Bochum,1-0,Eintracht Frankfurt
+30,Sat May 8 1993,1. FC Saarbrücken,0-4,Bor. Mönchengladbach
+30,Sat May 8 1993,VfB Stuttgart,4-1,SG Wattenscheid 09
+30,Sat May 8 1993,1. FC Nürnberg,0-0,Bayern München
+30,Sat May 8 1993,Bayer 04 Leverkusen,3-0,1. FC Köln
+30,Sun May 9 1993,Werder Bremen,1-0,Borussia Dortmund
+31,Fri May 14 1993,Borussia Dortmund,0-4,VfB Stuttgart
+31,Fri May 14 1993,1. FC Kaiserslautern,2-1,KFC Uerdingen
+31,Fri May 14 1993,Bor. Mönchengladbach,3-1,Werder Bremen
+31,Sat May 15 1993,Hamburger SV,2-0,1. FC Saarbrücken
+31,Sat May 15 1993,Eintracht Frankfurt,0-3,FC Schalke 04
+31,Sat May 15 1993,Dynamo Dresden,0-0,VfL Bochum
+31,Sat May 15 1993,1. FC Köln,2-0,Karlsruher SC
+31,Sat May 15 1993,Bayern München,4-1,Bayer 04 Leverkusen
+31,Sat May 15 1993,SG Wattenscheid 09,4-1,1. FC Nürnberg
+32,Fri May 21 1993,Hamburger SV,2-2,1. FC Kaiserslautern
+32,Fri May 21 1993,FC Schalke 04,2-0,Dynamo Dresden
+32,Fri May 21 1993,1. FC Saarbrücken,0-4,Werder Bremen
+32,Sat May 22 1993,KFC Uerdingen,2-0,Eintracht Frankfurt
+32,Sat May 22 1993,VfB Stuttgart,3-2,Bor. Mönchengladbach
+32,Sat May 22 1993,1. FC Nürnberg,1-2,Borussia Dortmund
+32,Sat May 22 1993,Bayer 04 Leverkusen,3-1,SG Wattenscheid 09
+32,Sat May 22 1993,VfL Bochum,0-0,1. FC Köln
+32,Sun May 23 1993,Karlsruher SC,4-2,Bayern München
+33,Sat May 29 1993,1. FC Saarbrücken,1-4,VfB Stuttgart
+33,Sat May 29 1993,Eintracht Frankfurt,3-0,1. FC Kaiserslautern
+33,Sat May 29 1993,Dynamo Dresden,1-1,KFC Uerdingen
+33,Sat May 29 1993,1. FC Köln,2-1,FC Schalke 04
+33,Sat May 29 1993,Bayern München,3-1,VfL Bochum
+33,Sat May 29 1993,SG Wattenscheid 09,0-2,Karlsruher SC
+33,Sat May 29 1993,Borussia Dortmund,1-2,Bayer 04 Leverkusen
+33,Sat May 29 1993,Bor. Mönchengladbach,2-1,1. FC Nürnberg
+33,Sat May 29 1993,Werder Bremen,5-0,Hamburger SV
+34,Sat Jun 5 1993,Hamburger SV,1-2,Eintracht Frankfurt
+34,Sat Jun 5 1993,1. FC Nürnberg,4-1,1. FC Saarbrücken
+34,Sat Jun 5 1993,Bayer 04 Leverkusen,4-0,Bor. Mönchengladbach
+34,Sat Jun 5 1993,Karlsruher SC,3-0,Borussia Dortmund
+34,Sat Jun 5 1993,VfL Bochum,3-1,SG Wattenscheid 09
+34,Sat Jun 5 1993,FC Schalke 04,3-3,Bayern München
+34,Sat Jun 5 1993,KFC Uerdingen,0-0,1. FC Köln
+34,Sat Jun 5 1993,1. FC Kaiserslautern,2-0,Dynamo Dresden
+34,Sat Jun 5 1993,VfB Stuttgart,0-3,Werder Bremen

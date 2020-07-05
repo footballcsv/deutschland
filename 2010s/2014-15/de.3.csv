@@ -1,0 +1,381 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Sat Jul 26 2014,1. FSV Mainz 05 II,1-2,Arminia Bielefeld
+1,Sat Jul 26 2014,FC Rot-Weiß Erfurt,1-2,Borussia Dortmund II
+1,Sat Jul 26 2014,SV Wehen Wiesbaden,2-1,Stuttgarter Kickers
+1,Sat Jul 26 2014,SSV Jahn Regensburg,3-1,MSV Duisburg
+1,Sat Jul 26 2014,VfL Osnabrück,1-3,Energie Cottbus
+1,Sat Jul 26 2014,Dynamo Dresden,2-1,VfB Stuttgart II
+1,Sat Jul 26 2014,Hallescher FC,0-3,Chemnitzer FC
+1,Sat Jul 26 2014,Holstein Kiel,0-0,SpVgg Unterhaching
+1,Sun Jul 27 2014,SG Großaspach,2-1,Fortuna Köln
+1,Sun Jul 27 2014,Preußen Münster,3-4,Hansa Rostock
+2,Sat Aug 2 2014,Arminia Bielefeld,1-5,Hallescher FC
+2,Sat Aug 2 2014,Hansa Rostock,1-1,FC Rot-Weiß Erfurt
+2,Sat Aug 2 2014,VfB Stuttgart II,0-3,Preußen Münster
+2,Sat Aug 2 2014,SpVgg Unterhaching,3-3,SV Wehen Wiesbaden
+2,Sat Aug 2 2014,Chemnitzer FC,2-0,VfL Osnabrück
+2,Sat Aug 2 2014,MSV Duisburg,1-1,SG Großaspach
+2,Sat Aug 2 2014,Borussia Dortmund II,2-2,Holstein Kiel
+2,Sat Aug 2 2014,Fortuna Köln,2-2,1. FSV Mainz 05 II
+2,Sat Aug 2 2014,Stuttgarter Kickers,3-1,SSV Jahn Regensburg
+2,Sun Aug 3 2014,Energie Cottbus,1-3,Dynamo Dresden
+3,Tue Aug 5 2014,Chemnitzer FC,0-0,Arminia Bielefeld
+3,Tue Aug 5 2014,SSV Jahn Regensburg,0-2,SpVgg Unterhaching
+3,Tue Aug 5 2014,SG Großaspach,1-1,Stuttgarter Kickers
+3,Tue Aug 5 2014,SV Wehen Wiesbaden,1-0,Borussia Dortmund II
+3,Tue Aug 5 2014,FC Rot-Weiß Erfurt,3-1,VfB Stuttgart II
+3,Wed Aug 6 2014,VfL Osnabrück,2-2,Dynamo Dresden
+3,Wed Aug 6 2014,1. FSV Mainz 05 II,3-4,MSV Duisburg
+3,Wed Aug 6 2014,Hallescher FC,0-2,Fortuna Köln
+3,Wed Aug 6 2014,Preußen Münster,0-0,Energie Cottbus
+3,Wed Aug 6 2014,Holstein Kiel,2-0,Hansa Rostock
+4,Sat Aug 9 2014,Energie Cottbus,0-0,FC Rot-Weiß Erfurt
+4,Sat Aug 9 2014,SpVgg Unterhaching,3-1,SG Großaspach
+4,Sat Aug 9 2014,MSV Duisburg,1-1,Hallescher FC
+4,Sat Aug 9 2014,VfB Stuttgart II,1-0,Holstein Kiel
+4,Sat Aug 9 2014,Stuttgarter Kickers,2-0,1. FSV Mainz 05 II
+4,Sat Aug 9 2014,Arminia Bielefeld,1-2,VfL Osnabrück
+4,Sat Aug 9 2014,Borussia Dortmund II,5-1,SSV Jahn Regensburg
+4,Sat Aug 9 2014,Dynamo Dresden,3-1,Preußen Münster
+4,Sun Aug 10 2014,Fortuna Köln,1-2,Chemnitzer FC
+4,Sun Aug 10 2014,Hansa Rostock,0-1,SV Wehen Wiesbaden
+5,Fri Aug 22 2014,SV Wehen Wiesbaden,4-1,VfB Stuttgart II
+5,Fri Aug 22 2014,SG Großaspach,0-0,Borussia Dortmund II
+5,Sat Aug 23 2014,Arminia Bielefeld,2-0,Fortuna Köln
+5,Sat Aug 23 2014,FC Rot-Weiß Erfurt,2-0,Dynamo Dresden
+5,Sat Aug 23 2014,1. FSV Mainz 05 II,1-5,SpVgg Unterhaching
+5,Sat Aug 23 2014,Hallescher FC,1-2,Stuttgarter Kickers
+5,Sat Aug 23 2014,Holstein Kiel,0-1,Energie Cottbus
+5,Sat Aug 23 2014,VfL Osnabrück,0-1,Preußen Münster
+5,Sat Aug 23 2014,SSV Jahn Regensburg,4-4,Hansa Rostock
+5,Sun Aug 24 2014,Chemnitzer FC,0-0,MSV Duisburg
+6,Tue Aug 26 2014,Fortuna Köln,0-1,VfL Osnabrück
+6,Tue Aug 26 2014,Energie Cottbus,2-0,SV Wehen Wiesbaden
+6,Tue Aug 26 2014,Borussia Dortmund II,1-3,1. FSV Mainz 05 II
+6,Tue Aug 26 2014,Dynamo Dresden,1-2,Holstein Kiel
+6,Tue Aug 26 2014,Hansa Rostock,1-3,SG Großaspach
+6,Wed Aug 27 2014,MSV Duisburg,1-1,Arminia Bielefeld
+6,Wed Aug 27 2014,Stuttgarter Kickers,2-0,Chemnitzer FC
+6,Wed Aug 27 2014,SpVgg Unterhaching,0-4,Hallescher FC
+6,Wed Aug 27 2014,Preußen Münster,2-2,FC Rot-Weiß Erfurt
+6,Wed Aug 27 2014,VfB Stuttgart II,1-2,SSV Jahn Regensburg
+7,Fri Aug 29 2014,1. FSV Mainz 05 II,0-2,Hansa Rostock
+7,Sat Aug 30 2014,Chemnitzer FC,2-0,SpVgg Unterhaching
+7,Sat Aug 30 2014,Holstein Kiel,1-1,Preußen Münster
+7,Sat Aug 30 2014,SG Großaspach,3-3,VfB Stuttgart II
+7,Sat Aug 30 2014,VfL Osnabrück,3-1,FC Rot-Weiß Erfurt
+7,Sat Aug 30 2014,Hallescher FC,0-0,Borussia Dortmund II
+7,Sat Aug 30 2014,SV Wehen Wiesbaden,0-2,Dynamo Dresden
+7,Sat Aug 30 2014,Fortuna Köln,0-1,MSV Duisburg
+7,Sat Aug 30 2014,SSV Jahn Regensburg,1-1,Energie Cottbus
+7,Sun Aug 31 2014,Arminia Bielefeld,4-2,Stuttgarter Kickers
+8,Sat Sep 6 2014,Dynamo Dresden,2-1,SSV Jahn Regensburg
+8,Sat Sep 6 2014,FC Rot-Weiß Erfurt,3-2,Holstein Kiel
+8,Sat Sep 6 2014,Stuttgarter Kickers,2-0,Fortuna Köln
+8,Sat Sep 6 2014,MSV Duisburg,3-0,VfL Osnabrück
+8,Sat Sep 6 2014,Hansa Rostock,0-1,Hallescher FC
+8,Sun Sep 7 2014,Preußen Münster,3-2,SV Wehen Wiesbaden
+9,Fri Sep 12 2014,SV Wehen Wiesbaden,3-1,FC Rot-Weiß Erfurt
+9,Sat Sep 13 2014,1. FSV Mainz 05 II,0-0,Energie Cottbus
+9,Sat Sep 13 2014,Hallescher FC,0-2,VfB Stuttgart II
+9,Sat Sep 13 2014,Fortuna Köln,2-0,SpVgg Unterhaching
+9,Sat Sep 13 2014,VfL Osnabrück,2-1,Holstein Kiel
+9,Sat Sep 13 2014,SSV Jahn Regensburg,0-1,Preußen Münster
+9,Sat Sep 13 2014,SG Großaspach,1-3,Dynamo Dresden
+9,Sat Sep 13 2014,Arminia Bielefeld,3-0,Borussia Dortmund II
+9,Sat Sep 13 2014,MSV Duisburg,2-0,Stuttgarter Kickers
+9,Sun Sep 14 2014,Chemnitzer FC,2-0,Hansa Rostock
+8,Tue Sep 16 2014,Energie Cottbus,2-0,SG Großaspach
+8,Tue Sep 16 2014,SpVgg Unterhaching,1-3,Arminia Bielefeld
+8,Tue Sep 16 2014,VfB Stuttgart II,1-0,1. FSV Mainz 05 II
+8,Wed Sep 17 2014,Borussia Dortmund II,1-3,Chemnitzer FC
+10,Fri Sep 19 2014,SpVgg Unterhaching,1-1,MSV Duisburg
+10,Fri Sep 19 2014,Stuttgarter Kickers,1-1,VfL Osnabrück
+10,Fri Sep 19 2014,Dynamo Dresden,1-1,1. FSV Mainz 05 II
+10,Sat Sep 20 2014,Preußen Münster,3-1,SG Großaspach
+10,Sat Sep 20 2014,Hansa Rostock,4-2,Arminia Bielefeld
+10,Sat Sep 20 2014,Energie Cottbus,1-2,Hallescher FC
+10,Sat Sep 20 2014,Borussia Dortmund II,0-2,Fortuna Köln
+10,Sat Sep 20 2014,FC Rot-Weiß Erfurt,2-0,SSV Jahn Regensburg
+10,Sat Sep 20 2014,Holstein Kiel,0-0,SV Wehen Wiesbaden
+10,Sat Sep 20 2014,VfB Stuttgart II,0-0,Chemnitzer FC
+11,Tue Sep 23 2014,VfL Osnabrück,1-3,SV Wehen Wiesbaden
+11,Tue Sep 23 2014,Chemnitzer FC,0-1,Energie Cottbus
+11,Tue Sep 23 2014,Stuttgarter Kickers,3-0,SpVgg Unterhaching
+11,Tue Sep 23 2014,1. FSV Mainz 05 II,4-0,Preußen Münster
+11,Wed Sep 24 2014,SSV Jahn Regensburg,0-2,Holstein Kiel
+11,Wed Sep 24 2014,Arminia Bielefeld,3-0,VfB Stuttgart II
+11,Wed Sep 24 2014,Fortuna Köln,1-0,Hansa Rostock
+11,Wed Sep 24 2014,MSV Duisburg,2-1,Borussia Dortmund II
+11,Wed Sep 24 2014,Hallescher FC,1-1,Dynamo Dresden
+11,Wed Sep 24 2014,SG Großaspach,1-1,FC Rot-Weiß Erfurt
+12,Sat Sep 27 2014,FC Rot-Weiß Erfurt,1-0,1. FSV Mainz 05 II
+12,Sat Sep 27 2014,SpVgg Unterhaching,3-4,VfL Osnabrück
+12,Sat Sep 27 2014,Hansa Rostock,1-3,MSV Duisburg
+12,Sat Sep 27 2014,SV Wehen Wiesbaden,2-0,SSV Jahn Regensburg
+12,Sat Sep 27 2014,Borussia Dortmund II,1-1,Stuttgarter Kickers
+12,Sat Sep 27 2014,Holstein Kiel,3-1,SG Großaspach
+12,Sat Sep 27 2014,Dynamo Dresden,1-0,Chemnitzer FC
+12,Sun Sep 28 2014,Preußen Münster,2-0,Hallescher FC
+12,Sun Sep 28 2014,VfB Stuttgart II,3-1,Fortuna Köln
+12,Sun Sep 28 2014,Energie Cottbus,1-1,Arminia Bielefeld
+13,Sat Oct 4 2014,MSV Duisburg,1-1,VfB Stuttgart II
+13,Sat Oct 4 2014,Stuttgarter Kickers,3-0,Hansa Rostock
+13,Sat Oct 4 2014,Arminia Bielefeld,4-1,Dynamo Dresden
+13,Sat Oct 4 2014,Fortuna Köln,3-0,Energie Cottbus
+13,Sat Oct 4 2014,VfL Osnabrück,2-0,SSV Jahn Regensburg
+13,Sat Oct 4 2014,SpVgg Unterhaching,2-0,Borussia Dortmund II
+13,Sat Oct 4 2014,Chemnitzer FC,1-0,Preußen Münster
+13,Sun Oct 5 2014,1. FSV Mainz 05 II,1-1,Holstein Kiel
+13,Sun Oct 5 2014,Hallescher FC,1-2,FC Rot-Weiß Erfurt
+13,Sun Oct 5 2014,SG Großaspach,0-3,SV Wehen Wiesbaden
+14,Sat Oct 18 2014,VfB Stuttgart II,5-1,Stuttgarter Kickers
+14,Sat Oct 18 2014,Hansa Rostock,2-2,SpVgg Unterhaching
+14,Sat Oct 18 2014,SV Wehen Wiesbaden,1-2,1. FSV Mainz 05 II
+14,Sat Oct 18 2014,SSV Jahn Regensburg,2-0,SG Großaspach
+14,Sat Oct 18 2014,Borussia Dortmund II,2-2,VfL Osnabrück
+14,Sat Oct 18 2014,Dynamo Dresden,0-0,Fortuna Köln
+14,Sat Oct 18 2014,Energie Cottbus,2-0,MSV Duisburg
+14,Sat Oct 18 2014,Holstein Kiel,3-0,Hallescher FC
+14,Sat Oct 18 2014,FC Rot-Weiß Erfurt,2-0,Chemnitzer FC
+14,Sun Oct 19 2014,Preußen Münster,3-1,Arminia Bielefeld
+15,Fri Oct 24 2014,Fortuna Köln,1-1,Preußen Münster
+15,Fri Oct 24 2014,Arminia Bielefeld,3-0,FC Rot-Weiß Erfurt
+15,Sat Oct 25 2014,Chemnitzer FC,0-0,Holstein Kiel
+15,Sat Oct 25 2014,MSV Duisburg,0-0,Dynamo Dresden
+15,Sat Oct 25 2014,VfL Osnabrück,2-0,SG Großaspach
+15,Sat Oct 25 2014,SpVgg Unterhaching,0-1,VfB Stuttgart II
+15,Sat Oct 25 2014,Stuttgarter Kickers,2-2,Energie Cottbus
+15,Sat Oct 25 2014,Hallescher FC,3-1,SV Wehen Wiesbaden
+15,Sun Oct 26 2014,1. FSV Mainz 05 II,1-0,SSV Jahn Regensburg
+15,Sun Oct 26 2014,Borussia Dortmund II,1-1,Hansa Rostock
+16,Fri Oct 31 2014,SG Großaspach,3-1,1. FSV Mainz 05 II
+16,Fri Oct 31 2014,Hansa Rostock,2-2,VfL Osnabrück
+16,Sat Nov 1 2014,Dynamo Dresden,1-1,Stuttgarter Kickers
+16,Sat Nov 1 2014,Energie Cottbus,3-0,SpVgg Unterhaching
+16,Sat Nov 1 2014,Holstein Kiel,1-0,Arminia Bielefeld
+16,Sat Nov 1 2014,SV Wehen Wiesbaden,2-0,Chemnitzer FC
+16,Sun Nov 2 2014,SSV Jahn Regensburg,1-1,Hallescher FC
+16,Sun Nov 2 2014,FC Rot-Weiß Erfurt,2-1,Fortuna Köln
+16,Sun Nov 2 2014,VfB Stuttgart II,2-1,Borussia Dortmund II
+16,Sun Nov 2 2014,Preußen Münster,1-0,MSV Duisburg
+17,Fri Nov 7 2014,Borussia Dortmund II,3-0,Energie Cottbus
+17,Sat Nov 8 2014,MSV Duisburg,2-0,FC Rot-Weiß Erfurt
+17,Sat Nov 8 2014,Stuttgarter Kickers,1-1,Preußen Münster
+17,Sat Nov 8 2014,Hallescher FC,0-2,SG Großaspach
+17,Sat Nov 8 2014,Arminia Bielefeld,1-1,SV Wehen Wiesbaden
+17,Sat Nov 8 2014,SpVgg Unterhaching,3-0,Dynamo Dresden
+17,Sat Nov 8 2014,Chemnitzer FC,4-1,SSV Jahn Regensburg
+17,Sat Nov 8 2014,Hansa Rostock,4-1,VfB Stuttgart II
+17,Sat Nov 8 2014,VfL Osnabrück,2-0,1. FSV Mainz 05 II
+17,Sun Nov 9 2014,Fortuna Köln,0-0,Holstein Kiel
+18,Fri Nov 21 2014,VfL Osnabrück,3-1,VfB Stuttgart II
+18,Fri Nov 21 2014,Dynamo Dresden,1-1,Borussia Dortmund II
+18,Sat Nov 22 2014,Preußen Münster,2-0,SpVgg Unterhaching
+18,Sat Nov 22 2014,FC Rot-Weiß Erfurt,1-1,Stuttgarter Kickers
+18,Sat Nov 22 2014,SG Großaspach,1-0,Chemnitzer FC
+18,Sat Nov 22 2014,SSV Jahn Regensburg,0-1,Arminia Bielefeld
+18,Sat Nov 22 2014,Holstein Kiel,1-0,MSV Duisburg
+18,Sat Nov 22 2014,Energie Cottbus,1-0,Hansa Rostock
+18,Sat Nov 22 2014,SV Wehen Wiesbaden,0-1,Fortuna Köln
+18,Sun Nov 23 2014,1. FSV Mainz 05 II,0-1,Hallescher FC
+19,Fri Nov 28 2014,Arminia Bielefeld,2-0,SG Großaspach
+19,Fri Nov 28 2014,VfB Stuttgart II,0-1,Energie Cottbus
+19,Sat Nov 29 2014,Hansa Rostock,1-3,Dynamo Dresden
+19,Sat Nov 29 2014,SpVgg Unterhaching,4-2,FC Rot-Weiß Erfurt
+19,Sat Nov 29 2014,Stuttgarter Kickers,0-0,Holstein Kiel
+19,Sat Nov 29 2014,MSV Duisburg,3-2,SV Wehen Wiesbaden
+19,Sat Nov 29 2014,Chemnitzer FC,1-2,1. FSV Mainz 05 II
+19,Sat Nov 29 2014,Hallescher FC,2-1,VfL Osnabrück
+19,Sat Nov 29 2014,Fortuna Köln,1-0,SSV Jahn Regensburg
+19,Sun Nov 30 2014,Borussia Dortmund II,1-1,Preußen Münster
+20,Fri Dec 5 2014,Arminia Bielefeld,2-0,1. FSV Mainz 05 II
+20,Sat Dec 6 2014,SpVgg Unterhaching,1-1,Holstein Kiel
+20,Sat Dec 6 2014,Chemnitzer FC,0-2,Hallescher FC
+20,Sat Dec 6 2014,MSV Duisburg,2-0,SSV Jahn Regensburg
+20,Sat Dec 6 2014,Stuttgarter Kickers,2-1,SV Wehen Wiesbaden
+20,Sat Dec 6 2014,Borussia Dortmund II,0-0,FC Rot-Weiß Erfurt
+20,Sat Dec 6 2014,Fortuna Köln,4-0,SG Großaspach
+20,Sat Dec 6 2014,Hansa Rostock,0-2,Preußen Münster
+20,Sun Dec 7 2014,Energie Cottbus,2-2,VfL Osnabrück
+20,Sun Dec 7 2014,VfB Stuttgart II,0-0,Dynamo Dresden
+21,Fri Dec 12 2014,1. FSV Mainz 05 II,1-1,Fortuna Köln
+21,Sat Dec 13 2014,SV Wehen Wiesbaden,4-0,SpVgg Unterhaching
+21,Sat Dec 13 2014,Dynamo Dresden,1-0,Energie Cottbus
+21,Sat Dec 13 2014,SSV Jahn Regensburg,0-2,Stuttgarter Kickers
+21,Sat Dec 13 2014,Preußen Münster,1-0,VfB Stuttgart II
+21,Sat Dec 13 2014,Hallescher FC,0-3,Arminia Bielefeld
+21,Sat Dec 13 2014,Holstein Kiel,0-2,Borussia Dortmund II
+21,Sat Dec 13 2014,SG Großaspach,1-1,MSV Duisburg
+21,Sat Dec 13 2014,VfL Osnabrück,2-0,Chemnitzer FC
+21,Sat Dec 13 2014,FC Rot-Weiß Erfurt,4-1,Hansa Rostock
+22,Sat Dec 20 2014,Arminia Bielefeld,2-0,Chemnitzer FC
+22,Sat Dec 20 2014,Stuttgarter Kickers,2-0,SG Großaspach
+22,Sat Dec 20 2014,Fortuna Köln,2-2,Hallescher FC
+22,Sat Dec 20 2014,Dynamo Dresden,2-1,VfL Osnabrück
+22,Sat Dec 20 2014,Energie Cottbus,2-1,Preußen Münster
+22,Sat Dec 20 2014,MSV Duisburg,1-1,1. FSV Mainz 05 II
+22,Sat Dec 20 2014,Hansa Rostock,0-4,Holstein Kiel
+22,Sat Dec 20 2014,VfB Stuttgart II,2-2,FC Rot-Weiß Erfurt
+22,Sat Dec 20 2014,SpVgg Unterhaching,3-2,SSV Jahn Regensburg
+23,Sat Jan 31 2015,SV Wehen Wiesbaden,1-2,Hansa Rostock
+23,Sat Jan 31 2015,SSV Jahn Regensburg,3-0,Borussia Dortmund II
+23,Sat Jan 31 2015,Chemnitzer FC,3-1,Fortuna Köln
+23,Sat Jan 31 2015,Hallescher FC,1-2,MSV Duisburg
+23,Sat Jan 31 2015,FC Rot-Weiß Erfurt,2-0,Energie Cottbus
+23,Sat Jan 31 2015,Holstein Kiel,1-1,VfB Stuttgart II
+23,Sun Feb 1 2015,Preußen Münster,2-1,Dynamo Dresden
+23,Sun Feb 1 2015,1. FSV Mainz 05 II,2-3,Stuttgarter Kickers
+22,Tue Feb 3 2015,Borussia Dortmund II,0-0,SV Wehen Wiesbaden
+24,Sat Feb 7 2015,MSV Duisburg,3-0,Chemnitzer FC
+24,Sat Feb 7 2015,Dynamo Dresden,0-1,FC Rot-Weiß Erfurt
+24,Sat Feb 7 2015,Preußen Münster,2-0,VfL Osnabrück
+24,Sat Feb 7 2015,Energie Cottbus,0-2,Holstein Kiel
+24,Sat Feb 7 2015,Hansa Rostock,2-2,SSV Jahn Regensburg
+24,Sun Feb 8 2015,Fortuna Köln,3-0,Arminia Bielefeld
+25,Fri Feb 13 2015,VfL Osnabrück,0-1,Fortuna Köln
+25,Fri Feb 13 2015,1. FSV Mainz 05 II,0-0,Borussia Dortmund II
+25,Sat Feb 14 2015,SG Großaspach,1-1,Hansa Rostock
+25,Sat Feb 14 2015,Holstein Kiel,1-0,Dynamo Dresden
+25,Sat Feb 14 2015,SV Wehen Wiesbaden,1-2,Energie Cottbus
+25,Sat Feb 14 2015,Chemnitzer FC,1-1,Stuttgarter Kickers
+25,Sat Feb 14 2015,SSV Jahn Regensburg,4-1,VfB Stuttgart II
+25,Sat Feb 14 2015,Hallescher FC,2-1,SpVgg Unterhaching
+25,Sat Feb 14 2015,FC Rot-Weiß Erfurt,1-0,Preußen Münster
+25,Sun Feb 15 2015,Arminia Bielefeld,4-2,MSV Duisburg
+23,Wed Feb 18 2015,VfL Osnabrück,0-4,Arminia Bielefeld
+26,Fri Feb 20 2015,SpVgg Unterhaching,0-0,Chemnitzer FC
+26,Fri Feb 20 2015,Borussia Dortmund II,1-1,Hallescher FC
+26,Sat Feb 21 2015,MSV Duisburg,2-0,Fortuna Köln
+26,Sat Feb 21 2015,FC Rot-Weiß Erfurt,3-1,VfL Osnabrück
+26,Sat Feb 21 2015,Dynamo Dresden,0-1,SV Wehen Wiesbaden
+26,Sat Feb 21 2015,VfB Stuttgart II,4-1,SG Großaspach
+26,Sat Feb 21 2015,Preußen Münster,1-3,Holstein Kiel
+26,Sat Feb 21 2015,Hansa Rostock,2-1,1. FSV Mainz 05 II
+26,Sat Feb 21 2015,Stuttgarter Kickers,0-2,Arminia Bielefeld
+26,Sat Feb 21 2015,Energie Cottbus,4-1,SSV Jahn Regensburg
+23,Tue Feb 24 2015,SG Großaspach,1-4,SpVgg Unterhaching
+27,Fri Feb 27 2015,Holstein Kiel,4-1,FC Rot-Weiß Erfurt
+27,Sat Feb 28 2015,VfL Osnabrück,1-1,MSV Duisburg
+27,Sat Feb 28 2015,SSV Jahn Regensburg,2-3,Dynamo Dresden
+27,Sat Feb 28 2015,Chemnitzer FC,3-1,Borussia Dortmund II
+27,Sat Feb 28 2015,SG Großaspach,2-2,Energie Cottbus
+27,Sat Feb 28 2015,Hallescher FC,1-2,Hansa Rostock
+27,Sat Feb 28 2015,Arminia Bielefeld,4-0,SpVgg Unterhaching
+27,Sat Feb 28 2015,SV Wehen Wiesbaden,2-2,Preußen Münster
+27,Sat Feb 28 2015,1. FSV Mainz 05 II,0-2,VfB Stuttgart II
+27,Sat Feb 28 2015,Fortuna Köln,0-2,Stuttgarter Kickers
+24,Tue Mar 3 2015,VfB Stuttgart II,1-1,SV Wehen Wiesbaden
+28,Sat Mar 7 2015,Dynamo Dresden,0-1,SG Großaspach
+28,Sat Mar 7 2015,Holstein Kiel,1-0,VfL Osnabrück
+28,Sat Mar 7 2015,Preußen Münster,3-0,SSV Jahn Regensburg
+28,Sat Mar 7 2015,FC Rot-Weiß Erfurt,0-2,SV Wehen Wiesbaden
+28,Sat Mar 7 2015,Stuttgarter Kickers,4-2,MSV Duisburg
+28,Sat Mar 7 2015,Hansa Rostock,1-0,Chemnitzer FC
+28,Sat Mar 7 2015,VfB Stuttgart II,0-1,Hallescher FC
+28,Sat Mar 7 2015,Energie Cottbus,2-1,1. FSV Mainz 05 II
+28,Sat Mar 7 2015,Borussia Dortmund II,1-1,Arminia Bielefeld
+28,Sat Mar 7 2015,SpVgg Unterhaching,1-1,Fortuna Köln
+24,Tue Mar 10 2015,SpVgg Unterhaching,1-2,1. FSV Mainz 05 II
+24,Tue Mar 10 2015,Stuttgarter Kickers,1-1,Hallescher FC
+24,Wed Mar 11 2015,Borussia Dortmund II,0-1,SG Großaspach
+29,Fri Mar 13 2015,SV Wehen Wiesbaden,0-1,Holstein Kiel
+29,Sat Mar 14 2015,Hallescher FC,3-1,Energie Cottbus
+29,Sat Mar 14 2015,1. FSV Mainz 05 II,1-0,Dynamo Dresden
+29,Sat Mar 14 2015,SG Großaspach,1-1,Preußen Münster
+29,Sat Mar 14 2015,Chemnitzer FC,1-0,VfB Stuttgart II
+29,Sat Mar 14 2015,MSV Duisburg,1-0,SpVgg Unterhaching
+29,Sat Mar 14 2015,Arminia Bielefeld,3-2,Hansa Rostock
+29,Sat Mar 14 2015,VfL Osnabrück,4-1,Stuttgarter Kickers
+29,Sat Mar 14 2015,SSV Jahn Regensburg,1-0,FC Rot-Weiß Erfurt
+29,Sat Mar 14 2015,Fortuna Köln,0-0,Borussia Dortmund II
+30,Fri Mar 20 2015,SV Wehen Wiesbaden,2-0,VfL Osnabrück
+30,Sat Mar 21 2015,Energie Cottbus,2-2,Chemnitzer FC
+30,Sat Mar 21 2015,FC Rot-Weiß Erfurt,0-1,SG Großaspach
+30,Sat Mar 21 2015,SpVgg Unterhaching,1-2,Stuttgarter Kickers
+30,Sat Mar 21 2015,Hansa Rostock,4-0,Fortuna Köln
+30,Sat Mar 21 2015,Preußen Münster,1-1,1. FSV Mainz 05 II
+30,Sat Mar 21 2015,Holstein Kiel,1-0,SSV Jahn Regensburg
+30,Sat Mar 21 2015,Borussia Dortmund II,1-4,MSV Duisburg
+30,Sat Mar 21 2015,Dynamo Dresden,2-3,Hallescher FC
+30,Sun Mar 22 2015,VfB Stuttgart II,2-0,Arminia Bielefeld
+31,Sat Apr 4 2015,SG Großaspach,1-1,Holstein Kiel
+31,Sat Apr 4 2015,Arminia Bielefeld,3-0,Energie Cottbus
+31,Sat Apr 4 2015,Fortuna Köln,0-1,VfB Stuttgart II
+31,Sat Apr 4 2015,1. FSV Mainz 05 II,3-1,FC Rot-Weiß Erfurt
+31,Sat Apr 4 2015,Stuttgarter Kickers,2-0,Borussia Dortmund II
+31,Sat Apr 4 2015,SSV Jahn Regensburg,3-0,SV Wehen Wiesbaden
+31,Sat Apr 4 2015,Chemnitzer FC,2-0,Dynamo Dresden
+31,Sat Apr 4 2015,Hallescher FC,3-0,Preußen Münster
+31,Sun Apr 5 2015,MSV Duisburg,2-2,Hansa Rostock
+31,Sun Apr 5 2015,VfL Osnabrück,1-0,SpVgg Unterhaching
+32,Sat Apr 11 2015,Preußen Münster,2-3,Chemnitzer FC
+32,Sat Apr 11 2015,Energie Cottbus,1-1,Fortuna Köln
+32,Sat Apr 11 2015,SV Wehen Wiesbaden,0-1,SG Großaspach
+32,Sat Apr 11 2015,SSV Jahn Regensburg,1-1,VfL Osnabrück
+32,Sat Apr 11 2015,FC Rot-Weiß Erfurt,1-2,Hallescher FC
+32,Sat Apr 11 2015,Hansa Rostock,1-0,Stuttgarter Kickers
+32,Sat Apr 11 2015,Dynamo Dresden,2-0,Arminia Bielefeld
+32,Sat Apr 11 2015,Holstein Kiel,1-0,1. FSV Mainz 05 II
+32,Sun Apr 12 2015,VfB Stuttgart II,1-2,MSV Duisburg
+32,Sun Apr 12 2015,Borussia Dortmund II,1-0,SpVgg Unterhaching
+33,Fri Apr 17 2015,SpVgg Unterhaching,2-1,Hansa Rostock
+33,Sat Apr 18 2015,VfL Osnabrück,1-1,Borussia Dortmund II
+33,Sat Apr 18 2015,MSV Duisburg,3-2,Energie Cottbus
+33,Sat Apr 18 2015,Arminia Bielefeld,2-1,Preußen Münster
+33,Sat Apr 18 2015,Stuttgarter Kickers,2-1,VfB Stuttgart II
+33,Sat Apr 18 2015,Fortuna Köln,1-0,Dynamo Dresden
+33,Sat Apr 18 2015,SG Großaspach,2-1,SSV Jahn Regensburg
+33,Sat Apr 18 2015,Chemnitzer FC,2-1,FC Rot-Weiß Erfurt
+33,Sat Apr 18 2015,1. FSV Mainz 05 II,1-1,SV Wehen Wiesbaden
+33,Sun Apr 19 2015,Hallescher FC,2-2,Holstein Kiel
+34,Fri Apr 24 2015,SG Großaspach,1-0,VfL Osnabrück
+34,Sat Apr 25 2015,Energie Cottbus,2-0,Stuttgarter Kickers
+34,Sat Apr 25 2015,SSV Jahn Regensburg,0-0,1. FSV Mainz 05 II
+34,Sat Apr 25 2015,SV Wehen Wiesbaden,3-0,Hallescher FC
+34,Sat Apr 25 2015,Preußen Münster,1-0,Fortuna Köln
+34,Sat Apr 25 2015,FC Rot-Weiß Erfurt,0-4,Arminia Bielefeld
+34,Sat Apr 25 2015,Hansa Rostock,3-2,Borussia Dortmund II
+34,Sat Apr 25 2015,Holstein Kiel,2-1,Chemnitzer FC
+34,Sun Apr 26 2015,Dynamo Dresden,0-2,MSV Duisburg
+34,Sun Apr 26 2015,VfB Stuttgart II,1-3,SpVgg Unterhaching
+35,Sat May 2 2015,Stuttgarter Kickers,3-4,Dynamo Dresden
+35,Sat May 2 2015,1. FSV Mainz 05 II,3-1,SG Großaspach
+35,Sat May 2 2015,Chemnitzer FC,2-1,SV Wehen Wiesbaden
+35,Sat May 2 2015,Fortuna Köln,2-2,FC Rot-Weiß Erfurt
+35,Sat May 2 2015,Arminia Bielefeld,2-2,Holstein Kiel
+35,Sat May 2 2015,Hallescher FC,2-1,SSV Jahn Regensburg
+35,Sat May 2 2015,SpVgg Unterhaching,3-3,Energie Cottbus
+35,Sun May 3 2015,VfL Osnabrück,1-0,Hansa Rostock
+35,Sun May 3 2015,Borussia Dortmund II,2-0,VfB Stuttgart II
+35,Sun May 3 2015,MSV Duisburg,2-1,Preußen Münster
+36,Fri May 8 2015,VfB Stuttgart II,3-2,Hansa Rostock
+36,Sat May 9 2015,Preußen Münster,2-3,Stuttgarter Kickers
+36,Sat May 9 2015,SSV Jahn Regensburg,0-1,Chemnitzer FC
+36,Sat May 9 2015,Energie Cottbus,0-3,Borussia Dortmund II
+36,Sat May 9 2015,1. FSV Mainz 05 II,1-1,VfL Osnabrück
+36,Sat May 9 2015,SV Wehen Wiesbaden,1-1,Arminia Bielefeld
+36,Sat May 9 2015,Holstein Kiel,4-0,Fortuna Köln
+36,Sat May 9 2015,Dynamo Dresden,5-1,SpVgg Unterhaching
+36,Sun May 10 2015,FC Rot-Weiß Erfurt,0-2,MSV Duisburg
+36,Sun May 10 2015,SG Großaspach,2-1,Hallescher FC
+37,Sat May 16 2015,Arminia Bielefeld,2-2,SSV Jahn Regensburg
+37,Sat May 16 2015,Hallescher FC,1-2,1. FSV Mainz 05 II
+37,Sat May 16 2015,Borussia Dortmund II,2-3,Dynamo Dresden
+37,Sat May 16 2015,Stuttgarter Kickers,0-0,FC Rot-Weiß Erfurt
+37,Sat May 16 2015,MSV Duisburg,3-1,Holstein Kiel
+37,Sat May 16 2015,Hansa Rostock,0-1,Energie Cottbus
+37,Sat May 16 2015,SpVgg Unterhaching,1-0,Preußen Münster
+37,Sat May 16 2015,Fortuna Köln,2-1,SV Wehen Wiesbaden
+37,Sat May 16 2015,Chemnitzer FC,2-0,SG Großaspach
+37,Sat May 16 2015,VfB Stuttgart II,0-0,VfL Osnabrück
+38,Sat May 23 2015,Energie Cottbus,2-3,VfB Stuttgart II
+38,Sat May 23 2015,1. FSV Mainz 05 II,1-1,Chemnitzer FC
+38,Sat May 23 2015,SSV Jahn Regensburg,4-0,Fortuna Köln
+38,Sat May 23 2015,Holstein Kiel,0-2,Stuttgarter Kickers
+38,Sat May 23 2015,SG Großaspach,0-1,Arminia Bielefeld
+38,Sat May 23 2015,VfL Osnabrück,2-0,Hallescher FC
+38,Sat May 23 2015,Preußen Münster,1-2,Borussia Dortmund II
+38,Sat May 23 2015,SV Wehen Wiesbaden,1-0,MSV Duisburg
+38,Sat May 23 2015,Dynamo Dresden,2-1,Hansa Rostock
+38,Sat May 23 2015,FC Rot-Weiß Erfurt,1-0,SpVgg Unterhaching

@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Sat Aug 16 1969,Alemannia Aachen,0-0,TSV 1860 München
+1,Sat Aug 16 1969,FC Schalke 04,2-0,Bor. Mönchengladbach
+1,Sat Aug 16 1969,Hertha BSC,1-0,MSV Duisburg
+1,Sat Aug 16 1969,Rot-Weiß Oberhausen,3-1,Eintracht Frankfurt
+1,Sat Aug 16 1969,VfB Stuttgart,1-1,Werder Bremen
+1,Sat Aug 16 1969,Hamburger SV,2-1,1. FC Kaiserslautern
+1,Sat Aug 16 1969,1. FC Köln,3-2,Eintracht Braunschweig
+1,Sat Aug 16 1969,Hannover 96,4-2,Borussia Dortmund
+1,Sat Aug 16 1969,Bayern München,4-0,Rot-Weiss Essen
+2,Fri Aug 22 1969,Eintracht Frankfurt,2-1,FC Schalke 04
+2,Sat Aug 23 1969,1. FC Kaiserslautern,0-0,Rot-Weiß Oberhausen
+2,Sat Aug 23 1969,TSV 1860 München,2-0,Hertha BSC
+2,Sat Aug 23 1969,Bor. Mönchengladbach,2-1,Bayern München
+2,Sat Aug 23 1969,Werder Bremen,2-1,1. FC Köln
+2,Sat Aug 23 1969,MSV Duisburg,1-1,VfB Stuttgart
+2,Sat Aug 23 1969,Eintracht Braunschweig,1-1,Hannover 96
+2,Sat Aug 23 1969,Borussia Dortmund,2-1,Hamburger SV
+2,Sat Aug 23 1969,Rot-Weiss Essen,2-0,Alemannia Aachen
+3,Wed Aug 27 1969,Bayern München,2-1,Eintracht Frankfurt
+3,Fri Aug 29 1969,1. FC Köln,6-2,MSV Duisburg
+3,Sat Aug 30 1969,Hertha BSC,2-1,Alemannia Aachen
+3,Sat Aug 30 1969,Rot-Weiß Oberhausen,2-1,Borussia Dortmund
+3,Sat Aug 30 1969,Hannover 96,3-2,Werder Bremen
+3,Sat Aug 30 1969,Hamburger SV,3-3,Eintracht Braunschweig
+3,Sat Aug 30 1969,Bor. Mönchengladbach,2-1,Rot-Weiss Essen
+3,Sat Aug 30 1969,FC Schalke 04,4-2,1. FC Kaiserslautern
+3,Sat Aug 30 1969,VfB Stuttgart,3-1,TSV 1860 München
+4,Fri Sep 5 1969,Eintracht Frankfurt,1-2,Bor. Mönchengladbach
+4,Fri Sep 5 1969,MSV Duisburg,1-0,Hannover 96
+4,Sat Sep 6 1969,1. FC Kaiserslautern,0-0,Bayern München
+4,Sat Sep 6 1969,TSV 1860 München,1-0,1. FC Köln
+4,Sat Sep 6 1969,Rot-Weiss Essen,5-2,Hertha BSC
+4,Sat Sep 6 1969,Eintracht Braunschweig,0-4,Rot-Weiß Oberhausen
+4,Sat Sep 6 1969,Werder Bremen,1-1,Hamburger SV
+4,Sat Sep 6 1969,Alemannia Aachen,4-2,VfB Stuttgart
+4,Sat Sep 6 1969,Borussia Dortmund,1-1,FC Schalke 04
+5,Fri Sep 12 1969,Eintracht Frankfurt,2-1,Rot-Weiss Essen
+5,Fri Sep 12 1969,Bor. Mönchengladbach,1-1,1. FC Kaiserslautern
+5,Fri Sep 12 1969,Bayern München,3-0,Borussia Dortmund
+5,Sat Sep 13 1969,Hamburger SV,4-1,MSV Duisburg
+5,Sat Sep 13 1969,Rot-Weiß Oberhausen,3-1,Werder Bremen
+5,Sat Sep 13 1969,FC Schalke 04,1-1,Eintracht Braunschweig
+5,Sat Sep 13 1969,1. FC Köln,3-0,Alemannia Aachen
+5,Sat Sep 13 1969,Hannover 96,3-1,TSV 1860 München
+5,Sat Sep 13 1969,VfB Stuttgart,1-4,Hertha BSC
+6,Fri Sep 26 1969,Hertha BSC,1-0,1. FC Köln
+6,Fri Sep 26 1969,MSV Duisburg,2-1,Rot-Weiß Oberhausen
+6,Sat Sep 27 1969,TSV 1860 München,0-2,Hamburger SV
+6,Sat Sep 27 1969,Eintracht Braunschweig,0-4,Bayern München
+6,Sat Sep 27 1969,Werder Bremen,0-1,FC Schalke 04
+6,Sat Sep 27 1969,Rot-Weiss Essen,3-3,VfB Stuttgart
+6,Sat Sep 27 1969,1. FC Kaiserslautern,2-0,Eintracht Frankfurt
+6,Sat Sep 27 1969,Borussia Dortmund,2-1,Bor. Mönchengladbach
+6,Sat Sep 27 1969,Alemannia Aachen,1-1,Hannover 96
+7,Fri Oct 3 1969,Eintracht Frankfurt,2-0,Borussia Dortmund
+7,Sat Oct 4 1969,Hamburger SV,4-1,Alemannia Aachen
+7,Sat Oct 4 1969,Hannover 96,2-1,Hertha BSC
+7,Sat Oct 4 1969,Bor. Mönchengladbach,1-0,Eintracht Braunschweig
+7,Sat Oct 4 1969,1. FC Köln,3-1,VfB Stuttgart
+7,Sat Oct 4 1969,1. FC Kaiserslautern,0-0,Rot-Weiss Essen
+7,Sat Oct 4 1969,Bayern München,4-1,Werder Bremen
+7,Sat Oct 4 1969,Rot-Weiß Oberhausen,3-0,TSV 1860 München
+7,Sat Oct 4 1969,FC Schalke 04,0-0,MSV Duisburg
+8,Fri Oct 10 1969,MSV Duisburg,4-2,Bayern München
+8,Fri Oct 10 1969,TSV 1860 München,0-2,FC Schalke 04
+8,Sat Oct 11 1969,Borussia Dortmund,5-1,1. FC Kaiserslautern
+8,Sat Oct 11 1969,Alemannia Aachen,2-0,Rot-Weiß Oberhausen
+8,Sat Oct 11 1969,Werder Bremen,0-0,Bor. Mönchengladbach
+8,Sat Oct 11 1969,Hertha BSC,1-0,Hamburger SV
+8,Sat Oct 11 1969,Eintracht Braunschweig,3-1,Eintracht Frankfurt
+8,Sat Oct 11 1969,VfB Stuttgart,2-1,Hannover 96
+8,Sat Oct 11 1969,Rot-Weiss Essen,0-0,1. FC Köln
+9,Wed Oct 15 1969,Bor. Mönchengladbach,4-1,MSV Duisburg
+9,Wed Oct 15 1969,Eintracht Frankfurt,2-1,Werder Bremen
+9,Wed Oct 15 1969,Hamburger SV,1-3,VfB Stuttgart
+9,Wed Oct 15 1969,1. FC Kaiserslautern,2-0,Eintracht Braunschweig
+9,Wed Oct 15 1969,Rot-Weiß Oberhausen,3-1,Hertha BSC
+9,Wed Oct 15 1969,Borussia Dortmund,4-1,Rot-Weiss Essen
+9,Wed Oct 15 1969,FC Schalke 04,3-0,Alemannia Aachen
+9,Wed Oct 15 1969,Hannover 96,3-4,1. FC Köln
+9,Sat Oct 18 1969,Bayern München,2-0,TSV 1860 München
+10,Fri Oct 24 1969,MSV Duisburg,1-1,Eintracht Frankfurt
+10,Sat Oct 25 1969,VfB Stuttgart,4-2,Rot-Weiß Oberhausen
+10,Sat Oct 25 1969,Werder Bremen,3-2,1. FC Kaiserslautern
+10,Sat Oct 25 1969,1. FC Köln,3-0,Hamburger SV
+10,Sat Oct 25 1969,Eintracht Braunschweig,1-1,Borussia Dortmund
+10,Sat Oct 25 1969,Rot-Weiss Essen,1-0,Hannover 96
+10,Sat Oct 25 1969,Hertha BSC,3-0,FC Schalke 04
+10,Sat Oct 25 1969,TSV 1860 München,0-3,Bor. Mönchengladbach
+10,Sat Oct 25 1969,Alemannia Aachen,1-3,Bayern München
+11,Thu Oct 30 1969,Bayern München,1-2,Hertha BSC
+11,Fri Oct 31 1969,Borussia Dortmund,2-1,Werder Bremen
+11,Fri Oct 31 1969,FC Schalke 04,1-2,VfB Stuttgart
+11,Fri Oct 31 1969,Bor. Mönchengladbach,5-1,Alemannia Aachen
+11,Sat Nov 1 1969,Eintracht Frankfurt,4-3,TSV 1860 München
+11,Sat Nov 1 1969,Hamburger SV,2-0,Hannover 96
+11,Sat Nov 1 1969,Eintracht Braunschweig,0-0,Rot-Weiss Essen
+11,Sat Nov 1 1969,1. FC Kaiserslautern,0-2,MSV Duisburg
+11,Sun Nov 2 1969,Rot-Weiß Oberhausen,0-2,1. FC Köln
+12,Fri Nov 7 1969,MSV Duisburg,0-1,Borussia Dortmund
+12,Fri Nov 7 1969,TSV 1860 München,0-1,1. FC Kaiserslautern
+12,Sat Nov 8 1969,Hannover 96,2-1,Rot-Weiß Oberhausen
+12,Sat Nov 8 1969,Werder Bremen,0-1,Eintracht Braunschweig
+12,Sat Nov 8 1969,Rot-Weiss Essen,2-2,Hamburger SV
+12,Sat Nov 8 1969,1. FC Köln,8-0,FC Schalke 04
+12,Sat Nov 8 1969,Alemannia Aachen,2-1,Eintracht Frankfurt
+12,Sat Nov 8 1969,Hertha BSC,1-1,Bor. Mönchengladbach
+12,Sat Nov 8 1969,VfB Stuttgart,2-3,Bayern München
+13,Sat Nov 15 1969,Eintracht Braunschweig,2-1,MSV Duisburg
+13,Sat Nov 15 1969,Eintracht Frankfurt,1-1,Hertha BSC
+13,Sat Nov 15 1969,Werder Bremen,2-1,Rot-Weiss Essen
+13,Sat Nov 15 1969,FC Schalke 04,2-0,Hannover 96
+13,Sat Nov 15 1969,1. FC Kaiserslautern,3-1,Alemannia Aachen
+13,Sat Nov 15 1969,Bor. Mönchengladbach,3-0,VfB Stuttgart
+13,Sat Nov 15 1969,Bayern München,1-2,1. FC Köln
+13,Sat Nov 15 1969,Borussia Dortmund,3-1,TSV 1860 München
+13,Sat Nov 15 1969,Rot-Weiß Oberhausen,1-3,Hamburger SV
+14,Fri Nov 28 1969,MSV Duisburg,1-1,Werder Bremen
+14,Fri Nov 28 1969,Alemannia Aachen,3-1,Borussia Dortmund
+14,Sat Nov 29 1969,Rot-Weiss Essen,1-0,Rot-Weiß Oberhausen
+14,Sat Nov 29 1969,Hannover 96,0-1,Bayern München
+14,Sat Nov 29 1969,TSV 1860 München,1-0,Eintracht Braunschweig
+14,Sat Nov 29 1969,VfB Stuttgart,4-0,Eintracht Frankfurt
+14,Sat Nov 29 1969,Hamburger SV,1-1,FC Schalke 04
+14,Sat Nov 29 1969,Hertha BSC,3-0,1. FC Kaiserslautern
+14,Sat Nov 29 1969,1. FC Köln,0-1,Bor. Mönchengladbach
+15,Fri Dec 5 1969,Eintracht Braunschweig,3-0,Alemannia Aachen
+15,Fri Dec 5 1969,Bor. Mönchengladbach,5-0,Hannover 96
+15,Fri Dec 5 1969,Borussia Dortmund,0-0,Hertha BSC
+15,Sat Dec 6 1969,Rot-Weiss Essen,0-0,MSV Duisburg
+15,Sat Dec 6 1969,Bayern München,2-1,Hamburger SV
+15,Sat Dec 6 1969,Eintracht Frankfurt,0-0,1. FC Köln
+15,Sat Dec 6 1969,1. FC Kaiserslautern,3-2,VfB Stuttgart
+15,Sat Dec 6 1969,Werder Bremen,1-1,TSV 1860 München
+15,Sat Dec 6 1969,Rot-Weiß Oberhausen,0-3,FC Schalke 04
+16,Fri Dec 12 1969,Alemannia Aachen,0-0,Werder Bremen
+16,Fri Dec 12 1969,Hertha BSC,2-0,Eintracht Braunschweig
+16,Sat Dec 13 1969,Hamburger SV,1-3,Bor. Mönchengladbach
+16,Sat Dec 13 1969,Hannover 96,1-1,Eintracht Frankfurt
+16,Sat Dec 13 1969,VfB Stuttgart,2-1,Borussia Dortmund
+16,Sat Dec 13 1969,FC Schalke 04,5-3,Rot-Weiss Essen
+16,Sat Dec 13 1969,Rot-Weiß Oberhausen,3-3,Bayern München
+16,Sat Dec 13 1969,TSV 1860 München,2-2,MSV Duisburg
+16,Sat Dec 13 1969,1. FC Köln,6-1,1. FC Kaiserslautern
+17,Fri Dec 19 1969,Borussia Dortmund,1-0,1. FC Köln
+17,Fri Dec 19 1969,Bor. Mönchengladbach,6-1,Rot-Weiß Oberhausen
+17,Fri Dec 19 1969,1. FC Kaiserslautern,5-2,Hannover 96
+17,Sat Dec 20 1969,Eintracht Braunschweig,1-0,VfB Stuttgart
+17,Sat Dec 20 1969,Eintracht Frankfurt,2-2,Hamburger SV
+17,Sat Dec 20 1969,Werder Bremen,1-0,Hertha BSC
+17,Sat Dec 20 1969,Rot-Weiss Essen,3-0,TSV 1860 München
+17,Sat Dec 20 1969,MSV Duisburg,2-1,Alemannia Aachen
+19,Sat Jan 17 1970,Rot-Weiß Oberhausen,0-0,1. FC Kaiserslautern
+19,Sat Jan 17 1970,FC Schalke 04,0-0,Eintracht Frankfurt
+19,Sat Jan 17 1970,Alemannia Aachen,0-0,Rot-Weiss Essen
+20,Sat Jan 24 1970,Alemannia Aachen,2-4,Hertha BSC
+20,Sat Jan 24 1970,TSV 1860 München,4-1,VfB Stuttgart
+20,Sat Jan 24 1970,Borussia Dortmund,3-2,Rot-Weiß Oberhausen
+21,Sat Jan 31 1970,1. FC Köln,2-1,TSV 1860 München
+21,Sat Jan 31 1970,FC Schalke 04,1-1,Borussia Dortmund
+21,Sat Jan 31 1970,Rot-Weiß Oberhausen,2-1,Eintracht Braunschweig
+21,Sat Jan 31 1970,Hannover 96,0-0,MSV Duisburg
+21,Sat Jan 31 1970,VfB Stuttgart,5-0,Alemannia Aachen
+21,Sat Jan 31 1970,Bor. Mönchengladbach,1-2,Eintracht Frankfurt
+21,Sat Jan 31 1970,Bayern München,1-1,1. FC Kaiserslautern
+22,Sat Feb 7 1970,1. FC Kaiserslautern,1-4,Bor. Mönchengladbach
+22,Sat Feb 7 1970,TSV 1860 München,3-0,Hannover 96
+22,Sat Feb 7 1970,Alemannia Aachen,1-3,1. FC Köln
+22,Sat Feb 7 1970,Borussia Dortmund,1-3,Bayern München
+22,Sat Feb 7 1970,Rot-Weiss Essen,1-1,Eintracht Frankfurt
+22,Sat Feb 7 1970,MSV Duisburg,0-0,Hamburger SV
+22,Sat Feb 7 1970,Werder Bremen,1-1,Rot-Weiß Oberhausen
+23,Sat Feb 14 1970,Bayern München,5-1,Eintracht Braunschweig
+23,Sat Feb 14 1970,VfB Stuttgart,4-1,Rot-Weiss Essen
+23,Sat Feb 14 1970,1. FC Köln,5-1,Hertha BSC
+23,Sat Feb 14 1970,Eintracht Frankfurt,2-1,1. FC Kaiserslautern
+23,Sat Feb 14 1970,Hamburger SV,0-1,TSV 1860 München
+23,Sat Feb 14 1970,Bor. Mönchengladbach,4-2,Borussia Dortmund
+22,Wed Feb 18 1970,Eintracht Braunschweig,3-0,FC Schalke 04
+24,Sat Feb 21 1970,MSV Duisburg,2-0,FC Schalke 04
+24,Sat Feb 21 1970,TSV 1860 München,4-1,Rot-Weiß Oberhausen
+24,Sat Feb 21 1970,VfB Stuttgart,0-3,1. FC Köln
+17,Wed Feb 25 1970,Bayern München,6-0,FC Schalke 04
+21,Wed Feb 25 1970,Hertha BSC,4-0,Rot-Weiss Essen
+25,Sat Feb 28 1970,Eintracht Frankfurt,0-0,Eintracht Braunschweig
+25,Sat Feb 28 1970,1. FC Kaiserslautern,2-2,Borussia Dortmund
+25,Sat Feb 28 1970,1. FC Köln,5-2,Rot-Weiss Essen
+25,Sat Feb 28 1970,Bor. Mönchengladbach,1-0,Werder Bremen
+25,Sat Feb 28 1970,Bayern München,2-0,MSV Duisburg
+25,Sat Feb 28 1970,FC Schalke 04,3-1,TSV 1860 München
+25,Sat Feb 28 1970,Rot-Weiß Oberhausen,1-0,Alemannia Aachen
+25,Sat Feb 28 1970,Hannover 96,2-0,VfB Stuttgart
+20,Tue Mar 3 1970,Eintracht Frankfurt,2-1,Bayern München
+19,Tue Mar 3 1970,Hannover 96,0-2,Eintracht Braunschweig
+26,Sat Mar 7 1970,VfB Stuttgart,1-1,Hamburger SV
+26,Sat Mar 7 1970,Alemannia Aachen,1-2,FC Schalke 04
+26,Sat Mar 7 1970,Werder Bremen,3-2,Eintracht Frankfurt
+26,Sat Mar 7 1970,1. FC Köln,5-0,Hannover 96
+26,Sat Mar 7 1970,TSV 1860 München,2-1,Bayern München
+26,Sat Mar 7 1970,Eintracht Braunschweig,1-0,1. FC Kaiserslautern
+26,Sat Mar 7 1970,MSV Duisburg,0-1,Bor. Mönchengladbach
+26,Sat Mar 7 1970,Rot-Weiss Essen,3-3,Borussia Dortmund
+18,Tue Mar 10 1970,MSV Duisburg,1-3,Hertha BSC
+18,Tue Mar 10 1970,Werder Bremen,1-1,VfB Stuttgart
+18,Tue Mar 10 1970,Rot-Weiss Essen,1-1,Bayern München
+18,Tue Mar 10 1970,Eintracht Braunschweig,1-2,1. FC Köln
+18,Tue Mar 10 1970,TSV 1860 München,0-0,Alemannia Aachen
+18,Tue Mar 10 1970,Borussia Dortmund,2-1,Hannover 96
+18,Wed Mar 11 1970,Bor. Mönchengladbach,2-0,FC Schalke 04
+27,Sat Mar 14 1970,Eintracht Frankfurt,0-1,MSV Duisburg
+27,Sat Mar 14 1970,Rot-Weiß Oberhausen,3-0,VfB Stuttgart
+27,Sat Mar 14 1970,1. FC Kaiserslautern,1-0,Werder Bremen
+27,Sat Mar 14 1970,Bayern München,6-0,Alemannia Aachen
+27,Sat Mar 14 1970,Bor. Mönchengladbach,3-1,TSV 1860 München
+27,Sat Mar 14 1970,Borussia Dortmund,2-2,Eintracht Braunschweig
+27,Sat Mar 14 1970,Hannover 96,3-0,Rot-Weiss Essen
+27,Sat Mar 14 1970,Hamburger SV,2-5,1. FC Köln
+27,Sat Mar 14 1970,FC Schalke 04,1-3,Hertha BSC
+19,Wed Mar 18 1970,Hamburger SV,4-3,Borussia Dortmund
+18,Wed Mar 18 1970,Eintracht Frankfurt,5-1,Rot-Weiß Oberhausen
+19,Wed Mar 18 1970,1. FC Köln,3-0,Werder Bremen
+19,Wed Mar 18 1970,VfB Stuttgart,4-3,MSV Duisburg
+28,Sat Mar 21 1970,1. FC Köln,0-1,Rot-Weiß Oberhausen
+28,Sat Mar 21 1970,VfB Stuttgart,2-0,FC Schalke 04
+28,Sat Mar 21 1970,Alemannia Aachen,0-3,Bor. Mönchengladbach
+28,Sat Mar 21 1970,Werder Bremen,1-3,Borussia Dortmund
+28,Sat Mar 21 1970,Hertha BSC,0-4,Bayern München
+28,Sat Mar 21 1970,MSV Duisburg,0-0,1. FC Kaiserslautern
+28,Sat Mar 21 1970,Hannover 96,1-1,Hamburger SV
+24,Tue Mar 24 1970,Eintracht Braunschweig,0-1,Bor. Mönchengladbach
+19,Wed Mar 25 1970,Hertha BSC,4-2,TSV 1860 München
+23,Wed Mar 25 1970,FC Schalke 04,0-0,Werder Bremen
+29,Sat Mar 28 1970,Borussia Dortmund,3-1,MSV Duisburg
+29,Sat Mar 28 1970,FC Schalke 04,1-0,1. FC Köln
+29,Sat Mar 28 1970,1. FC Kaiserslautern,3-2,TSV 1860 München
+29,Sat Mar 28 1970,Bayern München,1-2,VfB Stuttgart
+29,Sat Mar 28 1970,Bor. Mönchengladbach,1-1,Hertha BSC
+29,Sat Mar 28 1970,Eintracht Braunschweig,1-2,Werder Bremen
+29,Sat Mar 28 1970,Hamburger SV,1-0,Rot-Weiss Essen
+29,Sat Mar 28 1970,Rot-Weiß Oberhausen,0-0,Hannover 96
+29,Mon Mar 30 1970,Eintracht Frankfurt,6-2,Alemannia Aachen
+18,Wed Apr 1 1970,1. FC Kaiserslautern,1-1,Hamburger SV
+20,Wed Apr 1 1970,Werder Bremen,1-0,Hannover 96
+26,Wed Apr 1 1970,Hertha BSC,1-0,Rot-Weiß Oberhausen
+30,Sat Apr 4 1970,1. FC Köln,0-2,Bayern München
+30,Sat Apr 4 1970,Hamburger SV,2-1,Rot-Weiß Oberhausen
+30,Sat Apr 4 1970,MSV Duisburg,1-0,Eintracht Braunschweig
+30,Sat Apr 4 1970,Hertha BSC,2-0,Eintracht Frankfurt
+30,Sat Apr 4 1970,VfB Stuttgart,0-0,Bor. Mönchengladbach
+30,Sat Apr 4 1970,Hannover 96,3-1,FC Schalke 04
+24,Tue Apr 7 1970,Hertha BSC,1-1,Hannover 96
+24,Tue Apr 7 1970,Alemannia Aachen,0-2,Hamburger SV
+30,Wed Apr 8 1970,TSV 1860 München,3-0,Borussia Dortmund
+31,Sat Apr 11 1970,1. FC Kaiserslautern,1-0,Hertha BSC
+31,Sat Apr 11 1970,Bor. Mönchengladbach,2-0,1. FC Köln
+31,Sat Apr 11 1970,Eintracht Frankfurt,4-0,VfB Stuttgart
+31,Sat Apr 11 1970,FC Schalke 04,1-1,Hamburger SV
+31,Sat Apr 11 1970,Borussia Dortmund,3-1,Alemannia Aachen
+31,Sat Apr 11 1970,Bayern München,7-2,Hannover 96
+31,Sat Apr 11 1970,Werder Bremen,0-0,MSV Duisburg
+31,Sat Apr 11 1970,Eintracht Braunschweig,2-2,TSV 1860 München
+31,Sat Apr 11 1970,Rot-Weiß Oberhausen,1-1,Rot-Weiss Essen
+21,Tue Apr 14 1970,Hamburger SV,2-2,Werder Bremen
+20,Tue Apr 14 1970,MSV Duisburg,1-1,1. FC Köln
+28,Wed Apr 15 1970,Rot-Weiss Essen,1-1,Eintracht Braunschweig
+24,Wed Apr 15 1970,Borussia Dortmund,2-1,Eintracht Frankfurt
+30,Wed Apr 15 1970,Alemannia Aachen,1-1,1. FC Kaiserslautern
+19,Wed Apr 15 1970,Bayern München,1-0,Bor. Mönchengladbach
+32,Sat Apr 18 1970,TSV 1860 München,0-1,Werder Bremen
+32,Sat Apr 18 1970,Hertha BSC,9-1,Borussia Dortmund
+32,Sat Apr 18 1970,Hamburger SV,1-3,Bayern München
+32,Sat Apr 18 1970,1. FC Köln,1-2,Eintracht Frankfurt
+32,Sat Apr 18 1970,Hannover 96,1-0,Bor. Mönchengladbach
+32,Sat Apr 18 1970,MSV Duisburg,0-1,Rot-Weiss Essen
+32,Sat Apr 18 1970,Alemannia Aachen,1-1,Eintracht Braunschweig
+32,Sat Apr 18 1970,FC Schalke 04,2-2,Rot-Weiß Oberhausen
+32,Sat Apr 18 1970,VfB Stuttgart,2-1,1. FC Kaiserslautern
+24,Tue Apr 21 1970,Werder Bremen,1-0,Bayern München
+28,Tue Apr 21 1970,TSV 1860 München,1-1,Eintracht Frankfurt
+20,Tue Apr 21 1970,1. FC Kaiserslautern,1-1,FC Schalke 04
+20,Tue Apr 21 1970,Rot-Weiss Essen,1-0,Bor. Mönchengladbach
+20,Tue Apr 21 1970,Eintracht Braunschweig,3-0,Hamburger SV
+23,Wed Apr 22 1970,Rot-Weiß Oberhausen,2-0,MSV Duisburg
+23,Wed Apr 22 1970,Hannover 96,5-0,Alemannia Aachen
+22,Wed Apr 22 1970,Hertha BSC,3-1,VfB Stuttgart
+33,Fri Apr 24 1970,Rot-Weiss Essen,1-1,FC Schalke 04
+25,Sat Apr 25 1970,Hamburger SV,1-0,Hertha BSC
+33,Sat Apr 25 1970,1. FC Kaiserslautern,3-2,1. FC Köln
+30,Mon Apr 27 1970,Rot-Weiss Essen,3-2,Werder Bremen
+24,Thu Apr 30 1970,Rot-Weiss Essen,1-1,1. FC Kaiserslautern
+33,Thu Apr 30 1970,Werder Bremen,4-1,Alemannia Aachen
+33,Thu Apr 30 1970,Eintracht Braunschweig,1-2,Hertha BSC
+33,Thu Apr 30 1970,Bor. Mönchengladbach,4-3,Hamburger SV
+33,Thu Apr 30 1970,Eintracht Frankfurt,3-3,Hannover 96
+33,Thu Apr 30 1970,MSV Duisburg,2-1,TSV 1860 München
+33,Thu Apr 30 1970,Bayern München,6-2,Rot-Weiß Oberhausen
+33,Thu Apr 30 1970,Borussia Dortmund,0-0,VfB Stuttgart
+34,Sun May 3 1970,Hannover 96,4-2,1. FC Kaiserslautern
+34,Sun May 3 1970,1. FC Köln,5-2,Borussia Dortmund
+34,Sun May 3 1970,Rot-Weiß Oberhausen,3-4,Bor. Mönchengladbach
+34,Sun May 3 1970,VfB Stuttgart,3-2,Eintracht Braunschweig
+34,Sun May 3 1970,Hamburger SV,5-1,Eintracht Frankfurt
+34,Sun May 3 1970,Hertha BSC,4-1,Werder Bremen
+34,Sun May 3 1970,Alemannia Aachen,3-2,MSV Duisburg
+34,Sun May 3 1970,TSV 1860 München,0-0,Rot-Weiss Essen
+34,Sun May 3 1970,FC Schalke 04,2-2,Bayern München

@@ -1,4 +1,4 @@
-# Deutschland (Germany) - 1. Bundesliga, 2. Bundesliga
+# Deutschland (Germany) - Bundesliga, 2. Bundesliga, 3. Liga
 
 ## What's `football.csv`?
 
@@ -7,15 +7,16 @@ the world's most popular tabular data interchange format, that is, comma-separat
 Example - [`2013-14/de.1.csv`](2010s/2013-14/de.1.csv):
 
 ```
-2013-08-09,Bayern München,M'gladbach,3-1,2-1
-2013-08-10,Augsburg,Dortmund,0-4,0-1
-2013-08-10,Braunschweig,Werder Bremen,0-1,0-0
-2013-08-10,Hannover,Wolfsburg,2-0,1-0
-2013-08-10,Hertha,Ein Frankfurt,6-1,2-1
-2013-08-10,Hoffenheim,Nürnberg,2-2,1-0
-2013-08-10,Leverkusen,Freiburg,3-1,1-1
-2013-08-11,Mainz,Stuttgart,3-2,1-1
-2013-08-11,Schalke 04,Hamburg,3-3,2-2
+Matchday, Date,            Team 1,                 FT,  Team 2
+1,        Fri Aug 9 2013,  Bayern München,         3-1, Bor. Mönchengladbach
+1,        Sat Aug 10 2013, FC Augsburg,            0-4, Borussia Dortmund
+1,        Sat Aug 10 2013, Eintracht Braunschweig, 0-1, Werder Bremen
+1,        Sat Aug 10 2013, Hannover 96,            2-0, VfL Wolfsburg
+1,        Sat Aug 10 2013, Hertha BSC,             6-1, Eintracht Frankfurt
+1,        Sat Aug 10 2013, TSG 1899 Hoffenheim,    2-2, 1. FC Nürnberg
+1,        Sat Aug 10 2013, Bayer 04 Leverkusen,    3-1, SC Freiburg
+1,        Sun Aug 11 2013, 1. FSV Mainz 05,        3-2, VfB Stuttgart
+1,        Sun Aug 11 2013, FC Schalke 04,          3-3, Hamburger SV
 ...
 ```
 
@@ -28,10 +29,15 @@ More [`football.csv` Project Site »](http://footballcsv.github.io)
 Football data for Deutschland (Germany) includes:
 
 | Level |                               |
-| ----: | ----------------------------- | 
-|     I |  1. Bundesliga                |
+| ----: | ----------------------------- |
+|     I |  Bundesliga                   |
 |    II |  2. Bundesliga                |
+|   III |  3. Liga                      |
 
+
+## Sources
+
+The datasets are a 1:1 mirror, that is, an export in the comma-separated values (CSV) format from the [open football.db /deutschland datasets](https://github.com/openfootball/deutschland).
 
 
 ## Questions? Comments?

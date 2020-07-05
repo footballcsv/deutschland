@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Aug 20 2010,Bayern München,2-1,VfL Wolfsburg
+1,Sat Aug 21 2010,1. FC Köln,1-3,1. FC Kaiserslautern
+1,Sat Aug 21 2010,SC Freiburg,1-3,FC St. Pauli
+1,Sat Aug 21 2010,Bor. Mönchengladbach,1-1,1. FC Nürnberg
+1,Sat Aug 21 2010,TSG 1899 Hoffenheim,4-1,Werder Bremen
+1,Sat Aug 21 2010,Hamburger SV,2-1,FC Schalke 04
+1,Sat Aug 21 2010,Hannover 96,2-1,Eintracht Frankfurt
+1,Sun Aug 22 2010,1. FSV Mainz 05,2-0,VfB Stuttgart
+1,Sun Aug 22 2010,Borussia Dortmund,0-2,Bayer 04 Leverkusen
+2,Fri Aug 27 2010,1. FC Kaiserslautern,2-0,Bayern München
+2,Sat Aug 28 2010,FC Schalke 04,1-2,Hannover 96
+2,Sat Aug 28 2010,VfL Wolfsburg,3-4,1. FSV Mainz 05
+2,Sat Aug 28 2010,1. FC Nürnberg,1-2,SC Freiburg
+2,Sat Aug 28 2010,Werder Bremen,4-2,1. FC Köln
+2,Sat Aug 28 2010,FC St. Pauli,0-1,TSG 1899 Hoffenheim
+2,Sat Aug 28 2010,Eintracht Frankfurt,1-3,Hamburger SV
+2,Sun Aug 29 2010,Bayer 04 Leverkusen,3-6,Bor. Mönchengladbach
+2,Sun Aug 29 2010,VfB Stuttgart,1-3,Borussia Dortmund
+3,Fri Sep 10 2010,TSG 1899 Hoffenheim,2-0,FC Schalke 04
+3,Sat Sep 11 2010,Hamburger SV,1-1,1. FC Nürnberg
+3,Sat Sep 11 2010,Hannover 96,2-2,Bayer 04 Leverkusen
+3,Sat Sep 11 2010,Bor. Mönchengladbach,0-4,Eintracht Frankfurt
+3,Sat Sep 11 2010,Borussia Dortmund,2-0,VfL Wolfsburg
+3,Sat Sep 11 2010,SC Freiburg,2-1,VfB Stuttgart
+3,Sat Sep 11 2010,Bayern München,0-0,Werder Bremen
+3,Sun Sep 12 2010,1. FSV Mainz 05,2-1,1. FC Kaiserslautern
+3,Sun Sep 12 2010,1. FC Köln,1-0,FC St. Pauli
+4,Fri Sep 17 2010,Eintracht Frankfurt,0-1,SC Freiburg
+4,Sat Sep 18 2010,1. FC Kaiserslautern,2-2,TSG 1899 Hoffenheim
+4,Sat Sep 18 2010,Werder Bremen,0-2,1. FSV Mainz 05
+4,Sat Sep 18 2010,VfL Wolfsburg,2-0,Hannover 96
+4,Sat Sep 18 2010,VfB Stuttgart,7-0,Bor. Mönchengladbach
+4,Sat Sep 18 2010,Bayern München,0-0,1. FC Köln
+4,Sun Sep 19 2010,Bayer 04 Leverkusen,0-0,1. FC Nürnberg
+4,Sun Sep 19 2010,FC St. Pauli,1-1,Hamburger SV
+4,Sun Sep 19 2010,FC Schalke 04,1-3,Borussia Dortmund
+5,Tue Sep 21 2010,1. FSV Mainz 05,2-0,1. FC Köln
+5,Tue Sep 21 2010,TSG 1899 Hoffenheim,1-2,Bayern München
+5,Tue Sep 21 2010,Hannover 96,4-1,Werder Bremen
+5,Wed Sep 22 2010,Bor. Mönchengladbach,1-2,FC St. Pauli
+5,Wed Sep 22 2010,Bayer 04 Leverkusen,2-1,Eintracht Frankfurt
+5,Wed Sep 22 2010,1. FC Nürnberg,2-1,VfB Stuttgart
+5,Wed Sep 22 2010,Hamburger SV,1-3,VfL Wolfsburg
+5,Wed Sep 22 2010,Borussia Dortmund,5-0,1. FC Kaiserslautern
+5,Wed Sep 22 2010,SC Freiburg,1-2,FC Schalke 04
+6,Fri Sep 24 2010,1. FC Köln,1-1,TSG 1899 Hoffenheim
+6,Sat Sep 25 2010,FC St. Pauli,1-3,Borussia Dortmund
+6,Sat Sep 25 2010,Bayern München,1-2,1. FSV Mainz 05
+6,Sat Sep 25 2010,VfB Stuttgart,1-4,Bayer 04 Leverkusen
+6,Sat Sep 25 2010,Werder Bremen,3-2,Hamburger SV
+6,Sat Sep 25 2010,Eintracht Frankfurt,2-0,1. FC Nürnberg
+6,Sat Sep 25 2010,FC Schalke 04,2-2,Bor. Mönchengladbach
+6,Sun Sep 26 2010,1. FC Kaiserslautern,0-1,Hannover 96
+6,Sun Sep 26 2010,VfL Wolfsburg,2-1,SC Freiburg
+7,Fri Oct 1 2010,Hannover 96,0-1,FC St. Pauli
+7,Sat Oct 2 2010,1. FSV Mainz 05,4-2,TSG 1899 Hoffenheim
+7,Sat Oct 2 2010,1. FC Nürnberg,2-1,FC Schalke 04
+7,Sat Oct 2 2010,Hamburger SV,2-1,1. FC Kaiserslautern
+7,Sat Oct 2 2010,Bor. Mönchengladbach,1-1,VfL Wolfsburg
+7,Sat Oct 2 2010,SC Freiburg,3-2,1. FC Köln
+7,Sun Oct 3 2010,Borussia Dortmund,2-0,Bayern München
+7,Sun Oct 3 2010,VfB Stuttgart,1-2,Eintracht Frankfurt
+7,Sun Oct 3 2010,Bayer 04 Leverkusen,2-2,Werder Bremen
+8,Fri Oct 15 2010,1. FC Köln,1-2,Borussia Dortmund
+8,Sat Oct 16 2010,Werder Bremen,2-1,SC Freiburg
+8,Sat Oct 16 2010,FC St. Pauli,3-2,1. FC Nürnberg
+8,Sat Oct 16 2010,1. FSV Mainz 05,0-1,Hamburger SV
+8,Sat Oct 16 2010,FC Schalke 04,2-2,VfB Stuttgart
+8,Sat Oct 16 2010,Bayern München,3-0,Hannover 96
+8,Sat Oct 16 2010,VfL Wolfsburg,2-3,Bayer 04 Leverkusen
+8,Sun Oct 17 2010,TSG 1899 Hoffenheim,3-2,Bor. Mönchengladbach
+8,Sun Oct 17 2010,1. FC Kaiserslautern,0-3,Eintracht Frankfurt
+9,Fri Oct 22 2010,Hamburger SV,0-0,Bayern München
+9,Sat Oct 23 2010,Bor. Mönchengladbach,1-4,Werder Bremen
+9,Sat Oct 23 2010,1. FC Nürnberg,2-1,VfL Wolfsburg
+9,Sat Oct 23 2010,Hannover 96,2-1,1. FC Köln
+9,Sat Oct 23 2010,SC Freiburg,2-1,1. FC Kaiserslautern
+9,Sat Oct 23 2010,Eintracht Frankfurt,0-0,FC Schalke 04
+9,Sun Oct 24 2010,Bayer 04 Leverkusen,0-1,1. FSV Mainz 05
+9,Sun Oct 24 2010,VfB Stuttgart,2-0,FC St. Pauli
+9,Sun Oct 24 2010,Borussia Dortmund,1-1,TSG 1899 Hoffenheim
+10,Fri Oct 29 2010,Bayern München,4-2,SC Freiburg
+10,Sat Oct 30 2010,FC Schalke 04,0-1,Bayer 04 Leverkusen
+10,Sat Oct 30 2010,FC St. Pauli,1-3,Eintracht Frankfurt
+10,Sat Oct 30 2010,1. FC Köln,3-2,Hamburger SV
+10,Sat Oct 30 2010,VfL Wolfsburg,2-0,VfB Stuttgart
+10,Sat Oct 30 2010,Werder Bremen,2-3,1. FC Nürnberg
+10,Sat Oct 30 2010,1. FC Kaiserslautern,3-0,Bor. Mönchengladbach
+10,Sun Oct 31 2010,TSG 1899 Hoffenheim,4-0,Hannover 96
+10,Sun Oct 31 2010,1. FSV Mainz 05,0-2,Borussia Dortmund
+11,Fri Nov 5 2010,FC Schalke 04,3-0,FC St. Pauli
+11,Sat Nov 6 2010,Eintracht Frankfurt,3-1,VfL Wolfsburg
+11,Sat Nov 6 2010,Bor. Mönchengladbach,3-3,Bayern München
+11,Sat Nov 6 2010,SC Freiburg,1-0,1. FSV Mainz 05
+11,Sat Nov 6 2010,Hamburger SV,2-1,TSG 1899 Hoffenheim
+11,Sat Nov 6 2010,1. FC Nürnberg,3-1,1. FC Köln
+11,Sun Nov 7 2010,Bayer 04 Leverkusen,3-1,1. FC Kaiserslautern
+11,Sun Nov 7 2010,Hannover 96,0-4,Borussia Dortmund
+11,Sun Nov 7 2010,VfB Stuttgart,6-0,Werder Bremen
+12,Fri Nov 12 2010,Borussia Dortmund,2-0,Hamburger SV
+12,Sat Nov 13 2010,FC St. Pauli,0-1,Bayer 04 Leverkusen
+12,Sat Nov 13 2010,1. FC Kaiserslautern,3-3,VfB Stuttgart
+12,Sat Nov 13 2010,Werder Bremen,0-0,Eintracht Frankfurt
+12,Sat Nov 13 2010,1. FSV Mainz 05,0-1,Hannover 96
+12,Sat Nov 13 2010,1. FC Köln,0-4,Bor. Mönchengladbach
+12,Sat Nov 13 2010,VfL Wolfsburg,2-2,FC Schalke 04
+12,Sun Nov 14 2010,Bayern München,3-0,1. FC Nürnberg
+12,Sun Nov 14 2010,TSG 1899 Hoffenheim,0-1,SC Freiburg
+13,Sat Nov 20 2010,FC Schalke 04,4-0,Werder Bremen
+13,Sat Nov 20 2010,Hannover 96,3-2,Hamburger SV
+13,Sat Nov 20 2010,Bayer 04 Leverkusen,1-1,Bayern München
+13,Sat Nov 20 2010,Bor. Mönchengladbach,2-3,1. FSV Mainz 05
+13,Sat Nov 20 2010,1. FC Nürnberg,1-3,1. FC Kaiserslautern
+13,Sat Nov 20 2010,SC Freiburg,1-2,Borussia Dortmund
+13,Sat Nov 20 2010,Eintracht Frankfurt,0-4,TSG 1899 Hoffenheim
+13,Sun Nov 21 2010,VfB Stuttgart,0-1,1. FC Köln
+13,Sun Nov 21 2010,FC St. Pauli,1-1,VfL Wolfsburg
+14,Fri Nov 26 2010,1. FSV Mainz 05,3-0,1. FC Nürnberg
+14,Sat Nov 27 2010,1. FC Kaiserslautern,5-0,FC Schalke 04
+14,Sat Nov 27 2010,Hamburger SV,4-2,VfB Stuttgart
+14,Sat Nov 27 2010,TSG 1899 Hoffenheim,2-2,Bayer 04 Leverkusen
+14,Sat Nov 27 2010,Hannover 96,3-0,SC Freiburg
+14,Sat Nov 27 2010,Borussia Dortmund,4-1,Bor. Mönchengladbach
+14,Sat Nov 27 2010,Bayern München,4-1,Eintracht Frankfurt
+14,Sun Nov 28 2010,Werder Bremen,3-0,FC St. Pauli
+14,Sun Nov 28 2010,1. FC Köln,1-1,VfL Wolfsburg
+15,Fri Dec 3 2010,FC St. Pauli,1-0,1. FC Kaiserslautern
+15,Sat Dec 4 2010,FC Schalke 04,2-0,Bayern München
+15,Sat Dec 4 2010,VfL Wolfsburg,0-0,Werder Bremen
+15,Sat Dec 4 2010,VfB Stuttgart,1-1,TSG 1899 Hoffenheim
+15,Sat Dec 4 2010,Bor. Mönchengladbach,1-2,Hannover 96
+15,Sat Dec 4 2010,Eintracht Frankfurt,2-1,1. FSV Mainz 05
+15,Sat Dec 4 2010,SC Freiburg,1-0,Hamburger SV
+15,Sun Dec 5 2010,1. FC Nürnberg,0-2,Borussia Dortmund
+15,Sun Dec 5 2010,Bayer 04 Leverkusen,3-2,1. FC Köln
+16,Fri Dec 10 2010,Hannover 96,2-1,VfB Stuttgart
+16,Sat Dec 11 2010,1. FC Köln,1-0,Eintracht Frankfurt
+16,Sat Dec 11 2010,Borussia Dortmund,2-0,Werder Bremen
+16,Sat Dec 11 2010,Hamburger SV,2-4,Bayer 04 Leverkusen
+16,Sat Dec 11 2010,1. FC Kaiserslautern,0-0,VfL Wolfsburg
+16,Sat Dec 11 2010,TSG 1899 Hoffenheim,1-1,1. FC Nürnberg
+16,Sat Dec 11 2010,Bayern München,3-0,FC St. Pauli
+16,Sun Dec 12 2010,SC Freiburg,3-0,Bor. Mönchengladbach
+16,Sun Dec 12 2010,1. FSV Mainz 05,0-1,FC Schalke 04
+17,Fri Dec 17 2010,Bor. Mönchengladbach,1-2,Hamburger SV
+17,Sat Dec 18 2010,1. FC Nürnberg,3-1,Hannover 96
+17,Sat Dec 18 2010,FC Schalke 04,3-0,1. FC Köln
+17,Sat Dec 18 2010,VfL Wolfsburg,2-2,TSG 1899 Hoffenheim
+17,Sat Dec 18 2010,Eintracht Frankfurt,1-0,Borussia Dortmund
+17,Sat Dec 18 2010,FC St. Pauli,2-4,1. FSV Mainz 05
+17,Sat Dec 18 2010,Werder Bremen,1-2,1. FC Kaiserslautern
+17,Sun Dec 19 2010,VfB Stuttgart,3-5,Bayern München
+17,Sun Dec 19 2010,Bayer 04 Leverkusen,2-2,SC Freiburg
+18,Fri Jan 14 2011,Bayer 04 Leverkusen,1-3,Borussia Dortmund
+18,Sat Jan 15 2011,1. FC Nürnberg,0-1,Bor. Mönchengladbach
+18,Sat Jan 15 2011,FC Schalke 04,0-1,Hamburger SV
+18,Sat Jan 15 2011,VfB Stuttgart,1-0,1. FSV Mainz 05
+18,Sat Jan 15 2011,Werder Bremen,2-1,TSG 1899 Hoffenheim
+18,Sat Jan 15 2011,VfL Wolfsburg,1-1,Bayern München
+18,Sat Jan 15 2011,FC St. Pauli,2-2,SC Freiburg
+18,Sun Jan 16 2011,1. FC Kaiserslautern,1-1,1. FC Köln
+18,Sun Jan 16 2011,Eintracht Frankfurt,0-3,Hannover 96
+19,Fri Jan 21 2011,Hamburger SV,1-0,Eintracht Frankfurt
+19,Sat Jan 22 2011,1. FSV Mainz 05,0-1,VfL Wolfsburg
+19,Sat Jan 22 2011,Borussia Dortmund,1-1,VfB Stuttgart
+19,Sat Jan 22 2011,Bayern München,5-1,1. FC Kaiserslautern
+19,Sat Jan 22 2011,SC Freiburg,1-1,1. FC Nürnberg
+19,Sat Jan 22 2011,1. FC Köln,3-0,Werder Bremen
+19,Sat Jan 22 2011,Hannover 96,0-1,FC Schalke 04
+19,Sun Jan 23 2011,Bor. Mönchengladbach,1-3,Bayer 04 Leverkusen
+19,Sun Jan 23 2011,TSG 1899 Hoffenheim,2-2,FC St. Pauli
+20,Fri Jan 28 2011,Bayer 04 Leverkusen,2-0,Hannover 96
+20,Sat Jan 29 2011,FC Schalke 04,0-1,TSG 1899 Hoffenheim
+20,Sat Jan 29 2011,Werder Bremen,1-3,Bayern München
+20,Sat Jan 29 2011,VfL Wolfsburg,0-3,Borussia Dortmund
+20,Sat Jan 29 2011,1. FC Nürnberg,2-0,Hamburger SV
+20,Sat Jan 29 2011,FC St. Pauli,3-0,1. FC Köln
+20,Sat Jan 29 2011,1. FC Kaiserslautern,0-1,1. FSV Mainz 05
+20,Sun Jan 30 2011,Eintracht Frankfurt,0-1,Bor. Mönchengladbach
+20,Sun Jan 30 2011,VfB Stuttgart,0-1,SC Freiburg
+21,Fri Feb 4 2011,Borussia Dortmund,0-0,FC Schalke 04
+21,Sat Feb 5 2011,1. FSV Mainz 05,1-1,Werder Bremen
+21,Sat Feb 5 2011,Hannover 96,1-0,VfL Wolfsburg
+21,Sat Feb 5 2011,1. FC Nürnberg,1-0,Bayer 04 Leverkusen
+21,Sat Feb 5 2011,Bor. Mönchengladbach,2-3,VfB Stuttgart
+21,Sat Feb 5 2011,TSG 1899 Hoffenheim,3-2,1. FC Kaiserslautern
+21,Sat Feb 5 2011,1. FC Köln,3-2,Bayern München
+21,Sun Feb 6 2011,SC Freiburg,0-0,Eintracht Frankfurt
+22,Sat Feb 12 2011,Bayern München,4-0,TSG 1899 Hoffenheim
+22,Sat Feb 12 2011,1. FC Kaiserslautern,1-1,Borussia Dortmund
+22,Sat Feb 12 2011,VfL Wolfsburg,0-1,Hamburger SV
+22,Sat Feb 12 2011,FC Schalke 04,1-0,SC Freiburg
+22,Sat Feb 12 2011,VfB Stuttgart,1-4,1. FC Nürnberg
+22,Sat Feb 12 2011,FC St. Pauli,3-1,Bor. Mönchengladbach
+22,Sat Feb 12 2011,Eintracht Frankfurt,0-3,Bayer 04 Leverkusen
+22,Sun Feb 13 2011,Werder Bremen,1-1,Hannover 96
+22,Sun Feb 13 2011,1. FC Köln,4-2,1. FSV Mainz 05
+21,Wed Feb 16 2011,Hamburger SV,0-1,FC St. Pauli
+23,Fri Feb 18 2011,1. FC Nürnberg,3-0,Eintracht Frankfurt
+23,Sat Feb 19 2011,Hannover 96,3-0,1. FC Kaiserslautern
+23,Sat Feb 19 2011,TSG 1899 Hoffenheim,1-1,1. FC Köln
+23,Sat Feb 19 2011,1. FSV Mainz 05,1-3,Bayern München
+23,Sat Feb 19 2011,Borussia Dortmund,2-0,FC St. Pauli
+23,Sat Feb 19 2011,Hamburger SV,4-0,Werder Bremen
+23,Sat Feb 19 2011,SC Freiburg,2-1,VfL Wolfsburg
+23,Sun Feb 20 2011,Bor. Mönchengladbach,2-1,FC Schalke 04
+23,Sun Feb 20 2011,Bayer 04 Leverkusen,4-2,VfB Stuttgart
+24,Fri Feb 25 2011,VfL Wolfsburg,2-1,Bor. Mönchengladbach
+24,Sat Feb 26 2011,1. FC Kaiserslautern,1-1,Hamburger SV
+24,Sat Feb 26 2011,1. FC Köln,1-0,SC Freiburg
+24,Sat Feb 26 2011,Bayern München,1-3,Borussia Dortmund
+24,Sat Feb 26 2011,FC St. Pauli,0-1,Hannover 96
+24,Sat Feb 26 2011,TSG 1899 Hoffenheim,1-2,1. FSV Mainz 05
+24,Sat Feb 26 2011,FC Schalke 04,1-1,1. FC Nürnberg
+24,Sun Feb 27 2011,Werder Bremen,2-2,Bayer 04 Leverkusen
+24,Sun Feb 27 2011,Eintracht Frankfurt,0-2,VfB Stuttgart
+25,Fri Mar 4 2011,Borussia Dortmund,1-0,1. FC Köln
+25,Sat Mar 5 2011,Eintracht Frankfurt,0-0,1. FC Kaiserslautern
+25,Sat Mar 5 2011,Bayer 04 Leverkusen,3-0,VfL Wolfsburg
+25,Sat Mar 5 2011,Bor. Mönchengladbach,2-0,TSG 1899 Hoffenheim
+25,Sat Mar 5 2011,1. FC Nürnberg,5-0,FC St. Pauli
+25,Sat Mar 5 2011,VfB Stuttgart,1-0,FC Schalke 04
+25,Sat Mar 5 2011,Hannover 96,3-1,Bayern München
+25,Sun Mar 6 2011,Hamburger SV,2-4,1. FSV Mainz 05
+25,Sun Mar 6 2011,SC Freiburg,1-3,Werder Bremen
+26,Fri Mar 11 2011,1. FC Köln,4-0,Hannover 96
+26,Sat Mar 12 2011,VfL Wolfsburg,1-2,1. FC Nürnberg
+26,Sat Mar 12 2011,1. FC Kaiserslautern,2-1,SC Freiburg
+26,Sat Mar 12 2011,FC Schalke 04,2-1,Eintracht Frankfurt
+26,Sat Mar 12 2011,TSG 1899 Hoffenheim,1-0,Borussia Dortmund
+26,Sat Mar 12 2011,Werder Bremen,1-1,Bor. Mönchengladbach
+26,Sat Mar 12 2011,Bayern München,6-0,Hamburger SV
+26,Sun Mar 13 2011,FC St. Pauli,1-2,VfB Stuttgart
+26,Sun Mar 13 2011,1. FSV Mainz 05,0-1,Bayer 04 Leverkusen
+27,Fri Mar 18 2011,Bor. Mönchengladbach,0-1,1. FC Kaiserslautern
+27,Sat Mar 19 2011,Eintracht Frankfurt,2-1,FC St. Pauli
+27,Sat Mar 19 2011,SC Freiburg,1-2,Bayern München
+27,Sat Mar 19 2011,Hannover 96,2-0,TSG 1899 Hoffenheim
+27,Sat Mar 19 2011,Hamburger SV,6-2,1. FC Köln
+27,Sat Mar 19 2011,Borussia Dortmund,1-1,1. FSV Mainz 05
+27,Sat Mar 19 2011,1. FC Nürnberg,1-3,Werder Bremen
+27,Sun Mar 20 2011,Bayer 04 Leverkusen,2-0,FC Schalke 04
+27,Sun Mar 20 2011,VfB Stuttgart,1-1,VfL Wolfsburg
+28,Fri Apr 1 2011,FC St. Pauli,0-2,FC Schalke 04
+28,Sat Apr 2 2011,Bayern München,1-0,Bor. Mönchengladbach
+28,Sat Apr 2 2011,Borussia Dortmund,4-1,Hannover 96
+28,Sat Apr 2 2011,1. FSV Mainz 05,1-1,SC Freiburg
+28,Sat Apr 2 2011,1. FC Kaiserslautern,0-1,Bayer 04 Leverkusen
+28,Sat Apr 2 2011,TSG 1899 Hoffenheim,0-0,Hamburger SV
+28,Sat Apr 2 2011,Werder Bremen,1-1,VfB Stuttgart
+28,Sun Apr 3 2011,1. FC Köln,1-0,1. FC Nürnberg
+28,Sun Apr 3 2011,VfL Wolfsburg,1-1,Eintracht Frankfurt
+29,Fri Apr 8 2011,Eintracht Frankfurt,1-1,Werder Bremen
+29,Sat Apr 9 2011,SC Freiburg,3-2,TSG 1899 Hoffenheim
+29,Sat Apr 9 2011,FC Schalke 04,1-0,VfL Wolfsburg
+29,Sat Apr 9 2011,1. FC Nürnberg,1-1,Bayern München
+29,Sat Apr 9 2011,VfB Stuttgart,2-4,1. FC Kaiserslautern
+29,Sat Apr 9 2011,Hamburger SV,1-1,Borussia Dortmund
+29,Sat Apr 9 2011,Hannover 96,2-0,1. FSV Mainz 05
+29,Sun Apr 10 2011,Bor. Mönchengladbach,5-1,1. FC Köln
+29,Sun Apr 10 2011,Bayer 04 Leverkusen,2-1,FC St. Pauli
+30,Fri Apr 15 2011,1. FSV Mainz 05,1-0,Bor. Mönchengladbach
+30,Sat Apr 16 2011,Hamburger SV,0-0,Hannover 96
+30,Sat Apr 16 2011,Werder Bremen,1-1,FC Schalke 04
+30,Sat Apr 16 2011,1. FC Köln,1-3,VfB Stuttgart
+30,Sat Apr 16 2011,1. FC Kaiserslautern,0-2,1. FC Nürnberg
+30,Sat Apr 16 2011,TSG 1899 Hoffenheim,1-0,Eintracht Frankfurt
+30,Sat Apr 16 2011,VfL Wolfsburg,2-2,FC St. Pauli
+30,Sun Apr 17 2011,Borussia Dortmund,3-0,SC Freiburg
+30,Sun Apr 17 2011,Bayern München,5-1,Bayer 04 Leverkusen
+31,Thu Apr 21 2011,SC Freiburg,1-3,Hannover 96
+31,Sat Apr 23 2011,FC Schalke 04,0-1,1. FC Kaiserslautern
+31,Sat Apr 23 2011,FC St. Pauli,1-3,Werder Bremen
+31,Sat Apr 23 2011,Bor. Mönchengladbach,1-0,Borussia Dortmund
+31,Sat Apr 23 2011,Bayer 04 Leverkusen,2-1,TSG 1899 Hoffenheim
+31,Sat Apr 23 2011,Eintracht Frankfurt,1-1,Bayern München
+31,Sat Apr 23 2011,VfB Stuttgart,3-0,Hamburger SV
+31,Sun Apr 24 2011,VfL Wolfsburg,4-1,1. FC Köln
+31,Sun Apr 24 2011,1. FC Nürnberg,0-0,1. FSV Mainz 05
+32,Fri Apr 29 2011,Werder Bremen,0-1,VfL Wolfsburg
+32,Fri Apr 29 2011,1. FC Kaiserslautern,2-0,FC St. Pauli
+32,Sat Apr 30 2011,1. FSV Mainz 05,3-0,Eintracht Frankfurt
+32,Sat Apr 30 2011,1. FC Köln,2-0,Bayer 04 Leverkusen
+32,Sat Apr 30 2011,Bayern München,4-1,FC Schalke 04
+32,Sat Apr 30 2011,Hannover 96,0-1,Bor. Mönchengladbach
+32,Sat Apr 30 2011,Hamburger SV,0-2,SC Freiburg
+32,Sat Apr 30 2011,TSG 1899 Hoffenheim,1-2,VfB Stuttgart
+32,Sat Apr 30 2011,Borussia Dortmund,2-0,1. FC Nürnberg
+33,Sat May 7 2011,Eintracht Frankfurt,0-2,1. FC Köln
+33,Sat May 7 2011,FC Schalke 04,1-3,1. FSV Mainz 05
+33,Sat May 7 2011,FC St. Pauli,1-8,Bayern München
+33,Sat May 7 2011,Werder Bremen,2-0,Borussia Dortmund
+33,Sat May 7 2011,Bayer 04 Leverkusen,1-1,Hamburger SV
+33,Sat May 7 2011,Bor. Mönchengladbach,2-0,SC Freiburg
+33,Sat May 7 2011,1. FC Nürnberg,1-2,TSG 1899 Hoffenheim
+33,Sat May 7 2011,VfB Stuttgart,2-1,Hannover 96
+33,Sat May 7 2011,VfL Wolfsburg,1-2,1. FC Kaiserslautern
+34,Sat May 14 2011,Hannover 96,3-1,1. FC Nürnberg
+34,Sat May 14 2011,1. FC Köln,2-1,FC Schalke 04
+34,Sat May 14 2011,Hamburger SV,1-1,Bor. Mönchengladbach
+34,Sat May 14 2011,TSG 1899 Hoffenheim,1-3,VfL Wolfsburg
+34,Sat May 14 2011,SC Freiburg,0-1,Bayer 04 Leverkusen
+34,Sat May 14 2011,1. FSV Mainz 05,2-1,FC St. Pauli
+34,Sat May 14 2011,Borussia Dortmund,3-1,Eintracht Frankfurt
+34,Sat May 14 2011,Bayern München,2-1,VfB Stuttgart
+34,Sat May 14 2011,1. FC Kaiserslautern,3-2,Werder Bremen

@@ -1,0 +1,381 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Jul 24 2015,1. FC Magdeburg,2-1,FC Rot-Weiß Erfurt
+1,Sat Jul 25 2015,Dynamo Dresden,4-1,VfB Stuttgart II
+1,Sat Jul 25 2015,FC Erzgebirge Aue,0-0,VfL Osnabrück
+1,Sat Jul 25 2015,VfR Aalen,0-0,Chemnitzer FC
+1,Sat Jul 25 2015,Stuttgarter Kickers,2-1,Fortuna Köln
+1,Sat Jul 25 2015,Preußen Münster,1-1,SG Großaspach
+1,Sat Jul 25 2015,SV Wehen Wiesbaden,0-0,Würzburger Kickers
+1,Sat Jul 25 2015,Hansa Rostock,1-2,Werder Bremen II
+1,Sat Jul 25 2015,Holstein Kiel,0-4,1. FSV Mainz 05 II
+1,Sun Jul 26 2015,Energie Cottbus,2-0,Hallescher FC
+2,Fri Jul 31 2015,VfB Stuttgart II,1-3,Preußen Münster
+2,Fri Jul 31 2015,1. FSV Mainz 05 II,2-2,1. FC Magdeburg
+2,Sat Aug 1 2015,FC Rot-Weiß Erfurt,0-0,SV Wehen Wiesbaden
+2,Sat Aug 1 2015,Fortuna Köln,1-1,VfR Aalen
+2,Sat Aug 1 2015,VfL Osnabrück,1-1,Stuttgarter Kickers
+2,Sat Aug 1 2015,Chemnitzer FC,1-1,Hansa Rostock
+2,Sat Aug 1 2015,Würzburger Kickers,1-1,Dynamo Dresden
+2,Sat Aug 1 2015,Werder Bremen II,0-2,Energie Cottbus
+2,Sun Aug 2 2015,Hallescher FC,0-2,Holstein Kiel
+2,Sun Aug 2 2015,SG Großaspach,2-0,FC Erzgebirge Aue
+3,Thu Aug 13 2015,Dynamo Dresden,3-1,FC Rot-Weiß Erfurt
+3,Fri Aug 14 2015,VfR Aalen,1-0,VfL Osnabrück
+3,Sat Aug 15 2015,SV Wehen Wiesbaden,1-1,1. FSV Mainz 05 II
+3,Sat Aug 15 2015,Holstein Kiel,3-0,Werder Bremen II
+3,Sat Aug 15 2015,Energie Cottbus,0-1,Chemnitzer FC
+3,Sat Aug 15 2015,Hansa Rostock,4-2,Fortuna Köln
+3,Sat Aug 15 2015,FC Erzgebirge Aue,2-0,Stuttgarter Kickers
+3,Sat Aug 15 2015,Preußen Münster,0-0,Würzburger Kickers
+3,Sat Aug 15 2015,SG Großaspach,1-3,VfB Stuttgart II
+3,Sun Aug 16 2015,1. FC Magdeburg,2-1,Hallescher FC
+4,Fri Aug 21 2015,Werder Bremen II,1-1,1. FC Magdeburg
+4,Fri Aug 21 2015,Fortuna Köln,3-0,Energie Cottbus
+4,Sat Aug 22 2015,FC Rot-Weiß Erfurt,1-1,Preußen Münster
+4,Sat Aug 22 2015,VfL Osnabrück,0-1,Hansa Rostock
+4,Sat Aug 22 2015,Würzburger Kickers,0-1,SG Großaspach
+4,Sat Aug 22 2015,VfB Stuttgart II,1-2,FC Erzgebirge Aue
+4,Sat Aug 22 2015,Hallescher FC,3-0,SV Wehen Wiesbaden
+4,Sat Aug 22 2015,Chemnitzer FC,4-2,Holstein Kiel
+4,Sun Aug 23 2015,1. FSV Mainz 05 II,1-1,Dynamo Dresden
+4,Sun Aug 23 2015,Stuttgarter Kickers,0-0,VfR Aalen
+5,Tue Aug 25 2015,SV Wehen Wiesbaden,3-1,Werder Bremen II
+5,Tue Aug 25 2015,VfB Stuttgart II,0-2,Würzburger Kickers
+5,Tue Aug 25 2015,Holstein Kiel,2-2,Fortuna Köln
+5,Tue Aug 25 2015,Energie Cottbus,1-2,VfL Osnabrück
+5,Tue Aug 25 2015,1. FC Magdeburg,2-0,Chemnitzer FC
+5,Wed Aug 26 2015,SG Großaspach,2-2,FC Rot-Weiß Erfurt
+5,Wed Aug 26 2015,Hansa Rostock,0-1,Stuttgarter Kickers
+5,Wed Aug 26 2015,Preußen Münster,0-1,1. FSV Mainz 05 II
+5,Wed Aug 26 2015,FC Erzgebirge Aue,1-0,VfR Aalen
+5,Wed Aug 26 2015,Dynamo Dresden,3-2,Hallescher FC
+6,Fri Aug 28 2015,Fortuna Köln,2-1,1. FC Magdeburg
+6,Sat Aug 29 2015,VfL Osnabrück,3-2,Holstein Kiel
+6,Sat Aug 29 2015,Würzburger Kickers,1-0,FC Erzgebirge Aue
+6,Sat Aug 29 2015,Werder Bremen II,1-2,Dynamo Dresden
+6,Sat Aug 29 2015,FC Rot-Weiß Erfurt,3-0,VfB Stuttgart II
+6,Sat Aug 29 2015,Hallescher FC,1-3,Preußen Münster
+6,Sat Aug 29 2015,Chemnitzer FC,1-0,SV Wehen Wiesbaden
+6,Sat Aug 29 2015,Stuttgarter Kickers,0-0,Energie Cottbus
+6,Sun Aug 30 2015,1. FSV Mainz 05 II,2-1,SG Großaspach
+6,Sun Aug 30 2015,VfR Aalen,1-1,Hansa Rostock
+7,Sat Sep 5 2015,Holstein Kiel,1-2,Stuttgarter Kickers
+7,Sat Sep 5 2015,Preußen Münster,3-1,Werder Bremen II
+7,Sat Sep 5 2015,Energie Cottbus,0-4,VfR Aalen
+7,Sat Sep 5 2015,SV Wehen Wiesbaden,3-0,Fortuna Köln
+7,Sat Sep 5 2015,Würzburger Kickers,0-0,FC Rot-Weiß Erfurt
+7,Sat Sep 5 2015,FC Erzgebirge Aue,0-0,Hansa Rostock
+7,Sun Sep 6 2015,Dynamo Dresden,1-0,Chemnitzer FC
+8,Fri Sep 11 2015,Hansa Rostock,1-1,Energie Cottbus
+8,Fri Sep 11 2015,Stuttgarter Kickers,1-0,1. FC Magdeburg
+8,Sat Sep 12 2015,Hallescher FC,3-0,VfB Stuttgart II
+8,Sat Sep 12 2015,Fortuna Köln,1-5,Dynamo Dresden
+8,Sat Sep 12 2015,Werder Bremen II,0-4,SG Großaspach
+8,Sat Sep 12 2015,FC Rot-Weiß Erfurt,0-1,FC Erzgebirge Aue
+8,Sat Sep 12 2015,1. FSV Mainz 05 II,1-0,Würzburger Kickers
+8,Sat Sep 12 2015,VfL Osnabrück,4-0,SV Wehen Wiesbaden
+8,Sat Sep 12 2015,Chemnitzer FC,0-1,Preußen Münster
+8,Sun Sep 13 2015,VfR Aalen,0-0,Holstein Kiel
+7,Tue Sep 15 2015,VfB Stuttgart II,1-1,1. FSV Mainz 05 II
+7,Tue Sep 15 2015,1. FC Magdeburg,3-0,VfL Osnabrück
+7,Tue Sep 15 2015,SG Großaspach,0-0,Hallescher FC
+9,Fri Sep 18 2015,1. FC Magdeburg,1-2,VfR Aalen
+9,Fri Sep 18 2015,FC Erzgebirge Aue,1-0,Energie Cottbus
+9,Sat Sep 19 2015,Dynamo Dresden,2-1,VfL Osnabrück
+9,Sat Sep 19 2015,SV Wehen Wiesbaden,3-3,Stuttgarter Kickers
+9,Sat Sep 19 2015,FC Rot-Weiß Erfurt,3-0,1. FSV Mainz 05 II
+9,Sat Sep 19 2015,Holstein Kiel,0-0,Hansa Rostock
+9,Sat Sep 19 2015,SG Großaspach,4-2,Chemnitzer FC
+9,Sat Sep 19 2015,VfB Stuttgart II,1-1,Werder Bremen II
+9,Sat Sep 19 2015,Preußen Münster,3-1,Fortuna Köln
+9,Sat Sep 19 2015,Würzburger Kickers,0-1,Hallescher FC
+10,Tue Sep 22 2015,1. FSV Mainz 05 II,1-1,FC Erzgebirge Aue
+10,Tue Sep 22 2015,Werder Bremen II,0-0,Würzburger Kickers
+10,Tue Sep 22 2015,Chemnitzer FC,2-1,VfB Stuttgart II
+10,Tue Sep 22 2015,Hallescher FC,2-1,FC Rot-Weiß Erfurt
+10,Tue Sep 22 2015,VfR Aalen,3-1,SV Wehen Wiesbaden
+10,Wed Sep 23 2015,Hansa Rostock,1-1,1. FC Magdeburg
+10,Wed Sep 23 2015,Stuttgarter Kickers,1-2,Dynamo Dresden
+10,Wed Sep 23 2015,Energie Cottbus,1-2,Holstein Kiel
+10,Wed Sep 23 2015,Fortuna Köln,2-2,SG Großaspach
+10,Wed Sep 23 2015,VfL Osnabrück,2-2,Preußen Münster
+11,Fri Sep 25 2015,Würzburger Kickers,1-1,Chemnitzer FC
+11,Fri Sep 25 2015,1. FSV Mainz 05 II,2-0,Hallescher FC
+11,Sat Sep 26 2015,FC Rot-Weiß Erfurt,2-1,Werder Bremen II
+11,Sat Sep 26 2015,SV Wehen Wiesbaden,0-0,Hansa Rostock
+11,Sat Sep 26 2015,SG Großaspach,3-3,VfL Osnabrück
+11,Sat Sep 26 2015,1. FC Magdeburg,2-2,Energie Cottbus
+11,Sat Sep 26 2015,FC Erzgebirge Aue,0-0,Holstein Kiel
+11,Sat Sep 26 2015,Preußen Münster,4-2,Stuttgarter Kickers
+11,Sun Sep 27 2015,VfB Stuttgart II,3-0,Fortuna Köln
+11,Sun Sep 27 2015,Dynamo Dresden,4-0,VfR Aalen
+12,Thu Oct 1 2015,Chemnitzer FC,1-1,FC Rot-Weiß Erfurt
+12,Fri Oct 2 2015,Holstein Kiel,0-0,1. FC Magdeburg
+12,Sat Oct 3 2015,Werder Bremen II,2-1,1. FSV Mainz 05 II
+12,Sat Oct 3 2015,Hallescher FC,1-0,FC Erzgebirge Aue
+12,Sat Oct 3 2015,Stuttgarter Kickers,0-4,SG Großaspach
+12,Sat Oct 3 2015,Fortuna Köln,0-3,Würzburger Kickers
+12,Sat Oct 3 2015,VfR Aalen,0-0,Preußen Münster
+12,Sat Oct 3 2015,Hansa Rostock,1-3,Dynamo Dresden
+12,Sat Oct 3 2015,VfL Osnabrück,1-1,VfB Stuttgart II
+12,Sun Oct 4 2015,Energie Cottbus,2-2,SV Wehen Wiesbaden
+13,Fri Oct 16 2015,Preußen Münster,1-1,Hansa Rostock
+13,Sat Oct 17 2015,Hallescher FC,6-2,Werder Bremen II
+13,Sat Oct 17 2015,SG Großaspach,2-0,VfR Aalen
+13,Sat Oct 17 2015,SV Wehen Wiesbaden,3-1,Holstein Kiel
+13,Sat Oct 17 2015,Würzburger Kickers,0-1,VfL Osnabrück
+13,Sat Oct 17 2015,Dynamo Dresden,0-1,Energie Cottbus
+13,Sat Oct 17 2015,FC Rot-Weiß Erfurt,0-2,Fortuna Köln
+13,Sat Oct 17 2015,1. FSV Mainz 05 II,0-0,Chemnitzer FC
+13,Sun Oct 18 2015,FC Erzgebirge Aue,0-0,1. FC Magdeburg
+13,Sun Oct 18 2015,VfB Stuttgart II,2-1,Stuttgarter Kickers
+14,Fri Oct 23 2015,Werder Bremen II,4-0,FC Erzgebirge Aue
+14,Sat Oct 24 2015,Energie Cottbus,0-0,Preußen Münster
+14,Sat Oct 24 2015,Fortuna Köln,3-1,1. FSV Mainz 05 II
+14,Sat Oct 24 2015,VfL Osnabrück,1-0,FC Rot-Weiß Erfurt
+14,Sat Oct 24 2015,1. FC Magdeburg,1-0,SV Wehen Wiesbaden
+14,Sat Oct 24 2015,VfR Aalen,1-0,VfB Stuttgart II
+14,Sat Oct 24 2015,Stuttgarter Kickers,1-2,Würzburger Kickers
+14,Sat Oct 24 2015,Holstein Kiel,1-2,Dynamo Dresden
+14,Sat Oct 24 2015,Hansa Rostock,1-3,SG Großaspach
+14,Sun Oct 25 2015,Chemnitzer FC,3-1,Hallescher FC
+15,Fri Oct 30 2015,VfB Stuttgart II,3-1,Hansa Rostock
+15,Fri Oct 30 2015,FC Erzgebirge Aue,1-1,SV Wehen Wiesbaden
+15,Sat Oct 31 2015,Hallescher FC,1-1,Fortuna Köln
+15,Sat Oct 31 2015,Dynamo Dresden,3-2,1. FC Magdeburg
+15,Sat Oct 31 2015,1. FSV Mainz 05 II,0-0,VfL Osnabrück
+15,Sat Oct 31 2015,Würzburger Kickers,2-2,VfR Aalen
+15,Sat Oct 31 2015,FC Rot-Weiß Erfurt,1-0,Stuttgarter Kickers
+15,Sat Oct 31 2015,SG Großaspach,1-1,Energie Cottbus
+15,Sat Oct 31 2015,Preußen Münster,2-0,Holstein Kiel
+15,Sun Nov 1 2015,Werder Bremen II,3-2,Chemnitzer FC
+16,Fri Nov 6 2015,VfL Osnabrück,2-0,Hallescher FC
+16,Fri Nov 6 2015,SV Wehen Wiesbaden,2-2,Dynamo Dresden
+16,Sat Nov 7 2015,1. FC Magdeburg,3-0,Preußen Münster
+16,Sat Nov 7 2015,Stuttgarter Kickers,1-4,1. FSV Mainz 05 II
+16,Sat Nov 7 2015,Holstein Kiel,3-1,SG Großaspach
+16,Sat Nov 7 2015,VfR Aalen,2-2,FC Rot-Weiß Erfurt
+16,Sat Nov 7 2015,Chemnitzer FC,1-2,FC Erzgebirge Aue
+16,Sat Nov 7 2015,Energie Cottbus,2-2,VfB Stuttgart II
+16,Sat Nov 7 2015,Hansa Rostock,0-0,Würzburger Kickers
+16,Sat Nov 7 2015,Fortuna Köln,2-1,Werder Bremen II
+17,Fri Nov 20 2015,VfB Stuttgart II,1-3,Holstein Kiel
+17,Sat Nov 21 2015,Hallescher FC,1-1,Stuttgarter Kickers
+17,Sat Nov 21 2015,Werder Bremen II,0-1,VfL Osnabrück
+17,Sat Nov 21 2015,FC Rot-Weiß Erfurt,3-2,Hansa Rostock
+17,Sat Nov 21 2015,1. FSV Mainz 05 II,1-0,VfR Aalen
+17,Sat Nov 21 2015,SG Großaspach,1-0,1. FC Magdeburg
+17,Sat Nov 21 2015,Würzburger Kickers,2-2,Energie Cottbus
+17,Sat Nov 21 2015,FC Erzgebirge Aue,1-1,Dynamo Dresden
+17,Sat Nov 21 2015,Preußen Münster,0-0,SV Wehen Wiesbaden
+17,Sun Nov 22 2015,Chemnitzer FC,3-1,Fortuna Köln
+18,Sat Nov 28 2015,Dynamo Dresden,0-0,Preußen Münster
+18,Sat Nov 28 2015,SV Wehen Wiesbaden,2-2,SG Großaspach
+18,Sat Nov 28 2015,Hansa Rostock,1-0,1. FSV Mainz 05 II
+18,Sat Nov 28 2015,Stuttgarter Kickers,0-2,Werder Bremen II
+18,Sat Nov 28 2015,Energie Cottbus,2-1,FC Rot-Weiß Erfurt
+18,Sat Nov 28 2015,VfR Aalen,0-0,Hallescher FC
+18,Sat Nov 28 2015,1. FC Magdeburg,2-2,VfB Stuttgart II
+18,Sat Nov 28 2015,Holstein Kiel,1-2,Würzburger Kickers
+18,Sat Nov 28 2015,VfL Osnabrück,2-0,Chemnitzer FC
+18,Sun Nov 29 2015,FC Erzgebirge Aue,2-0,Fortuna Köln
+19,Fri Dec 4 2015,SG Großaspach,0-0,Dynamo Dresden
+19,Fri Dec 4 2015,Fortuna Köln,3-1,VfL Osnabrück
+19,Sat Dec 5 2015,VfB Stuttgart II,1-2,SV Wehen Wiesbaden
+19,Sat Dec 5 2015,1. FSV Mainz 05 II,0-1,Energie Cottbus
+19,Sat Dec 5 2015,Würzburger Kickers,1-1,1. FC Magdeburg
+19,Sat Dec 5 2015,Hallescher FC,2-0,Hansa Rostock
+19,Sat Dec 5 2015,Chemnitzer FC,1-0,Stuttgarter Kickers
+19,Sat Dec 5 2015,Werder Bremen II,1-1,VfR Aalen
+19,Sat Dec 5 2015,FC Rot-Weiß Erfurt,1-3,Holstein Kiel
+19,Sat Dec 5 2015,Preußen Münster,0-1,FC Erzgebirge Aue
+20,Fri Dec 11 2015,VfB Stuttgart II,1-1,Dynamo Dresden
+20,Sat Dec 12 2015,Chemnitzer FC,1-1,VfR Aalen
+20,Sat Dec 12 2015,Würzburger Kickers,0-0,SV Wehen Wiesbaden
+20,Sat Dec 12 2015,SG Großaspach,3-1,Preußen Münster
+20,Sat Dec 12 2015,Fortuna Köln,3-1,Stuttgarter Kickers
+20,Sat Dec 12 2015,VfL Osnabrück,0-0,FC Erzgebirge Aue
+20,Sat Dec 12 2015,1. FSV Mainz 05 II,0-0,Holstein Kiel
+20,Sun Dec 13 2015,Werder Bremen II,1-1,Hansa Rostock
+20,Sun Dec 13 2015,Hallescher FC,1-1,Energie Cottbus
+20,Mon Dec 14 2015,FC Rot-Weiß Erfurt,0-2,1. FC Magdeburg
+21,Thu Dec 17 2015,Dynamo Dresden,2-1,Würzburger Kickers
+21,Fri Dec 18 2015,Stuttgarter Kickers,2-2,VfL Osnabrück
+21,Fri Dec 18 2015,SV Wehen Wiesbaden,3-0,FC Rot-Weiß Erfurt
+21,Fri Dec 18 2015,Holstein Kiel,0-4,Hallescher FC
+21,Sat Dec 19 2015,1. FC Magdeburg,3-1,1. FSV Mainz 05 II
+21,Sat Dec 19 2015,Energie Cottbus,1-1,Werder Bremen II
+21,Sat Dec 19 2015,Hansa Rostock,1-0,Chemnitzer FC
+21,Sat Dec 19 2015,Preußen Münster,1-2,VfB Stuttgart II
+21,Sat Dec 19 2015,FC Erzgebirge Aue,2-0,SG Großaspach
+21,Sat Dec 19 2015,VfR Aalen,0-2,Fortuna Köln
+22,Fri Jan 22 2016,Fortuna Köln,5-1,Hansa Rostock
+22,Fri Jan 22 2016,Stuttgarter Kickers,1-1,FC Erzgebirge Aue
+22,Sat Jan 23 2016,VfL Osnabrück,2-1,VfR Aalen
+22,Sat Jan 23 2016,1. FSV Mainz 05 II,0-0,SV Wehen Wiesbaden
+22,Sat Jan 23 2016,FC Rot-Weiß Erfurt,3-2,Dynamo Dresden
+22,Sun Jan 24 2016,VfB Stuttgart II,0-3,SG Großaspach
+22,Sun Jan 24 2016,Hallescher FC,1-2,1. FC Magdeburg
+22,Sun Jan 24 2016,Werder Bremen II,2-1,Holstein Kiel
+23,Sat Jan 30 2016,SG Großaspach,1-2,Würzburger Kickers
+23,Sat Jan 30 2016,Hansa Rostock,0-0,VfL Osnabrück
+23,Sat Jan 30 2016,Dynamo Dresden,3-0,1. FSV Mainz 05 II
+23,Sat Jan 30 2016,Preußen Münster,2-0,FC Rot-Weiß Erfurt
+23,Sat Jan 30 2016,Holstein Kiel,5-2,Chemnitzer FC
+23,Sat Jan 30 2016,1. FC Magdeburg,1-1,Werder Bremen II
+23,Sat Jan 30 2016,FC Erzgebirge Aue,1-0,VfB Stuttgart II
+23,Sat Jan 30 2016,VfR Aalen,3-0,Stuttgarter Kickers
+23,Sun Jan 31 2016,SV Wehen Wiesbaden,1-0,Hallescher FC
+23,Sun Jan 31 2016,Energie Cottbus,0-0,Fortuna Köln
+24,Fri Feb 5 2016,Chemnitzer FC,0-0,1. FC Magdeburg
+24,Fri Feb 5 2016,VfL Osnabrück,0-0,Energie Cottbus
+24,Fri Feb 5 2016,VfR Aalen,0-2,FC Erzgebirge Aue
+24,Sat Feb 6 2016,Stuttgarter Kickers,2-0,Hansa Rostock
+24,Sat Feb 6 2016,1. FSV Mainz 05 II,2-3,Preußen Münster
+24,Sat Feb 6 2016,Werder Bremen II,1-0,SV Wehen Wiesbaden
+24,Sat Feb 6 2016,Würzburger Kickers,0-0,VfB Stuttgart II
+24,Sat Feb 6 2016,FC Rot-Weiß Erfurt,0-2,SG Großaspach
+24,Sun Feb 7 2016,Fortuna Köln,2-3,Holstein Kiel
+24,Sun Feb 7 2016,Hallescher FC,0-0,Dynamo Dresden
+25,Fri Feb 12 2016,VfB Stuttgart II,1-2,FC Rot-Weiß Erfurt
+25,Sat Feb 13 2016,Hansa Rostock,3-0,VfR Aalen
+25,Sat Feb 13 2016,1. FC Magdeburg,0-0,Fortuna Köln
+25,Sat Feb 13 2016,SG Großaspach,0-3,1. FSV Mainz 05 II
+25,Sat Feb 13 2016,SV Wehen Wiesbaden,1-1,Chemnitzer FC
+25,Sat Feb 13 2016,Holstein Kiel,0-1,VfL Osnabrück
+25,Sat Feb 13 2016,Energie Cottbus,1-2,Stuttgarter Kickers
+25,Sat Feb 13 2016,Preußen Münster,0-1,Hallescher FC
+25,Sun Feb 14 2016,Dynamo Dresden,2-1,Werder Bremen II
+25,Sun Feb 14 2016,FC Erzgebirge Aue,0-0,Würzburger Kickers
+22,Wed Feb 17 2016,Würzburger Kickers,3-0,Preußen Münster
+26,Fri Feb 19 2016,Stuttgarter Kickers,0-0,Holstein Kiel
+26,Sat Feb 20 2016,Hallescher FC,4-1,SG Großaspach
+26,Sat Feb 20 2016,Hansa Rostock,0-2,FC Erzgebirge Aue
+26,Sat Feb 20 2016,1. FSV Mainz 05 II,3-1,VfB Stuttgart II
+26,Sat Feb 20 2016,Fortuna Köln,4-1,SV Wehen Wiesbaden
+26,Sat Feb 20 2016,VfR Aalen,3-0,Energie Cottbus
+26,Sat Feb 20 2016,Chemnitzer FC,2-2,Dynamo Dresden
+26,Sat Feb 20 2016,Werder Bremen II,0-0,Preußen Münster
+26,Sat Feb 20 2016,VfL Osnabrück,2-0,1. FC Magdeburg
+26,Sun Feb 21 2016,FC Rot-Weiß Erfurt,1-0,Würzburger Kickers
+27,Fri Feb 26 2016,VfB Stuttgart II,1-1,Hallescher FC
+27,Sat Feb 27 2016,Holstein Kiel,1-0,VfR Aalen
+27,Sat Feb 27 2016,Dynamo Dresden,4-0,Fortuna Köln
+27,Sat Feb 27 2016,SV Wehen Wiesbaden,0-2,VfL Osnabrück
+27,Sat Feb 27 2016,Preußen Münster,3-1,Chemnitzer FC
+27,Sat Feb 27 2016,SG Großaspach,0-1,Werder Bremen II
+27,Sat Feb 27 2016,Würzburger Kickers,1-0,1. FSV Mainz 05 II
+27,Sat Feb 27 2016,Energie Cottbus,0-1,Hansa Rostock
+27,Sun Feb 28 2016,FC Erzgebirge Aue,2-2,FC Rot-Weiß Erfurt
+27,Sun Feb 28 2016,1. FC Magdeburg,2-1,Stuttgarter Kickers
+28,Tue Mar 1 2016,Hallescher FC,1-3,Würzburger Kickers
+28,Tue Mar 1 2016,Chemnitzer FC,0-2,SG Großaspach
+28,Tue Mar 1 2016,Hansa Rostock,1-0,Holstein Kiel
+28,Tue Mar 1 2016,Werder Bremen II,0-1,VfB Stuttgart II
+28,Tue Mar 1 2016,Fortuna Köln,2-1,Preußen Münster
+28,Wed Mar 2 2016,VfL Osnabrück,0-3,Dynamo Dresden
+28,Wed Mar 2 2016,Energie Cottbus,0-0,FC Erzgebirge Aue
+28,Wed Mar 2 2016,VfR Aalen,0-0,1. FC Magdeburg
+28,Wed Mar 2 2016,1. FSV Mainz 05 II,1-0,FC Rot-Weiß Erfurt
+28,Wed Mar 2 2016,Stuttgarter Kickers,1-0,SV Wehen Wiesbaden
+29,Sat Mar 5 2016,1. FC Magdeburg,4-1,Hansa Rostock
+29,Sat Mar 5 2016,FC Rot-Weiß Erfurt,1-1,Hallescher FC
+29,Sat Mar 5 2016,Würzburger Kickers,1-1,Werder Bremen II
+29,Sat Mar 5 2016,Holstein Kiel,1-2,Energie Cottbus
+29,Sat Mar 5 2016,SG Großaspach,1-1,Fortuna Köln
+29,Sat Mar 5 2016,SV Wehen Wiesbaden,0-1,VfR Aalen
+29,Sun Mar 6 2016,FC Erzgebirge Aue,1-0,1. FSV Mainz 05 II
+29,Sun Mar 6 2016,Dynamo Dresden,1-1,Stuttgarter Kickers
+29,Sun Mar 6 2016,VfB Stuttgart II,1-1,Chemnitzer FC
+29,Sun Mar 6 2016,Preußen Münster,0-0,VfL Osnabrück
+30,Fri Mar 11 2016,Hallescher FC,1-1,1. FSV Mainz 05 II
+30,Fri Mar 11 2016,VfR Aalen,0-0,Dynamo Dresden
+30,Sat Mar 12 2016,Werder Bremen II,0-1,FC Rot-Weiß Erfurt
+30,Sat Mar 12 2016,Stuttgarter Kickers,1-0,Preußen Münster
+30,Sat Mar 12 2016,Holstein Kiel,3-0,FC Erzgebirge Aue
+30,Sat Mar 12 2016,Fortuna Köln,1-3,VfB Stuttgart II
+30,Sat Mar 12 2016,VfL Osnabrück,2-2,SG Großaspach
+30,Sat Mar 12 2016,Energie Cottbus,2-0,1. FC Magdeburg
+30,Sat Mar 12 2016,Hansa Rostock,4-0,SV Wehen Wiesbaden
+30,Sat Mar 12 2016,Chemnitzer FC,0-1,Würzburger Kickers
+31,Fri Mar 18 2016,Würzburger Kickers,4-1,Fortuna Köln
+31,Fri Mar 18 2016,FC Erzgebirge Aue,4-0,Hallescher FC
+31,Fri Mar 18 2016,VfB Stuttgart II,0-1,VfL Osnabrück
+31,Sat Mar 19 2016,1. FSV Mainz 05 II,2-2,Werder Bremen II
+31,Sat Mar 19 2016,Dynamo Dresden,2-2,Hansa Rostock
+31,Sat Mar 19 2016,SG Großaspach,1-1,Stuttgarter Kickers
+31,Sat Mar 19 2016,Preußen Münster,0-2,VfR Aalen
+31,Sat Mar 19 2016,SV Wehen Wiesbaden,0-0,Energie Cottbus
+31,Sun Mar 20 2016,FC Rot-Weiß Erfurt,0-2,Chemnitzer FC
+31,Sun Mar 20 2016,1. FC Magdeburg,0-1,Holstein Kiel
+22,Thu Mar 24 2016,Chemnitzer FC,4-0,Energie Cottbus
+32,Fri Apr 1 2016,1. FC Magdeburg,0-3,FC Erzgebirge Aue
+32,Sat Apr 2 2016,Holstein Kiel,1-1,SV Wehen Wiesbaden
+32,Sat Apr 2 2016,Werder Bremen II,2-0,Hallescher FC
+32,Sat Apr 2 2016,VfL Osnabrück,1-1,Würzburger Kickers
+32,Sat Apr 2 2016,Stuttgarter Kickers,4-1,VfB Stuttgart II
+32,Sat Apr 2 2016,Hansa Rostock,0-0,Preußen Münster
+32,Sat Apr 2 2016,Chemnitzer FC,5-1,1. FSV Mainz 05 II
+32,Sat Apr 2 2016,VfR Aalen,0-1,SG Großaspach
+32,Sat Apr 2 2016,Energie Cottbus,0-2,Dynamo Dresden
+32,Sat Apr 2 2016,Fortuna Köln,1-3,FC Rot-Weiß Erfurt
+33,Fri Apr 8 2016,SV Wehen Wiesbaden,0-0,1. FC Magdeburg
+33,Fri Apr 8 2016,SG Großaspach,0-1,Hansa Rostock
+33,Sat Apr 9 2016,Dynamo Dresden,0-0,Holstein Kiel
+33,Sat Apr 9 2016,FC Erzgebirge Aue,1-0,Werder Bremen II
+33,Sat Apr 9 2016,VfB Stuttgart II,1-1,VfR Aalen
+33,Sat Apr 9 2016,Preußen Münster,3-0,Energie Cottbus
+33,Sat Apr 9 2016,Würzburger Kickers,2-1,Stuttgarter Kickers
+33,Sat Apr 9 2016,FC Rot-Weiß Erfurt,4-2,VfL Osnabrück
+33,Sat Apr 9 2016,1. FSV Mainz 05 II,0-1,Fortuna Köln
+33,Sun Apr 10 2016,Hallescher FC,1-2,Chemnitzer FC
+34,Fri Apr 15 2016,VfR Aalen,0-1,Würzburger Kickers
+34,Fri Apr 15 2016,SV Wehen Wiesbaden,1-0,FC Erzgebirge Aue
+34,Sat Apr 16 2016,Holstein Kiel,0-0,Preußen Münster
+34,Sat Apr 16 2016,Energie Cottbus,0-5,SG Großaspach
+34,Sat Apr 16 2016,Hansa Rostock,2-0,VfB Stuttgart II
+34,Sat Apr 16 2016,1. FC Magdeburg,2-2,Dynamo Dresden
+34,Sat Apr 16 2016,Chemnitzer FC,2-1,Werder Bremen II
+34,Sat Apr 16 2016,Stuttgarter Kickers,0-1,FC Rot-Weiß Erfurt
+34,Sat Apr 16 2016,VfL Osnabrück,1-1,1. FSV Mainz 05 II
+34,Sun Apr 17 2016,Fortuna Köln,0-2,Hallescher FC
+35,Fri Apr 22 2016,VfB Stuttgart II,0-1,Energie Cottbus
+35,Fri Apr 22 2016,Werder Bremen II,1-3,Fortuna Köln
+35,Fri Apr 22 2016,Preußen Münster,1-2,1. FC Magdeburg
+35,Sat Apr 23 2016,Dynamo Dresden,4-0,SV Wehen Wiesbaden
+35,Sat Apr 23 2016,FC Rot-Weiß Erfurt,2-0,VfR Aalen
+35,Sat Apr 23 2016,Hallescher FC,1-0,VfL Osnabrück
+35,Sat Apr 23 2016,1. FSV Mainz 05 II,1-2,Stuttgarter Kickers
+35,Sat Apr 23 2016,SG Großaspach,0-0,Holstein Kiel
+35,Sat Apr 23 2016,Würzburger Kickers,2-1,Hansa Rostock
+35,Sun Apr 24 2016,FC Erzgebirge Aue,2-0,Chemnitzer FC
+36,Fri Apr 29 2016,Fortuna Köln,0-3,Chemnitzer FC
+36,Fri Apr 29 2016,SV Wehen Wiesbaden,0-2,Preußen Münster
+36,Sat Apr 30 2016,VfL Osnabrück,3-1,Werder Bremen II
+36,Sat Apr 30 2016,Hansa Rostock,3-1,FC Rot-Weiß Erfurt
+36,Sat Apr 30 2016,VfR Aalen,3-2,1. FSV Mainz 05 II
+36,Sat Apr 30 2016,Holstein Kiel,1-0,VfB Stuttgart II
+36,Sat Apr 30 2016,1. FC Magdeburg,4-0,SG Großaspach
+36,Sat Apr 30 2016,Energie Cottbus,1-2,Würzburger Kickers
+36,Sat Apr 30 2016,Dynamo Dresden,1-1,FC Erzgebirge Aue
+36,Sat Apr 30 2016,Stuttgarter Kickers,1-0,Hallescher FC
+37,Sat May 7 2016,Hallescher FC,3-1,VfR Aalen
+37,Sat May 7 2016,Werder Bremen II,1-0,Stuttgarter Kickers
+37,Sat May 7 2016,Würzburger Kickers,1-1,Holstein Kiel
+37,Sat May 7 2016,1. FSV Mainz 05 II,4-0,Hansa Rostock
+37,Sat May 7 2016,Fortuna Köln,0-2,FC Erzgebirge Aue
+37,Sat May 7 2016,SG Großaspach,0-1,SV Wehen Wiesbaden
+37,Sat May 7 2016,Chemnitzer FC,2-1,VfL Osnabrück
+37,Sat May 7 2016,Preußen Münster,2-3,Dynamo Dresden
+37,Sat May 7 2016,FC Rot-Weiß Erfurt,0-1,Energie Cottbus
+37,Sat May 7 2016,VfB Stuttgart II,0-1,1. FC Magdeburg
+38,Sat May 14 2016,SV Wehen Wiesbaden,3-1,VfB Stuttgart II
+38,Sat May 14 2016,FC Erzgebirge Aue,3-0,Preußen Münster
+38,Sat May 14 2016,1. FC Magdeburg,0-1,Würzburger Kickers
+38,Sat May 14 2016,Hansa Rostock,3-1,Hallescher FC
+38,Sat May 14 2016,Holstein Kiel,0-3,FC Rot-Weiß Erfurt
+38,Sat May 14 2016,VfL Osnabrück,1-3,Fortuna Köln
+38,Sat May 14 2016,Dynamo Dresden,2-1,SG Großaspach
+38,Sat May 14 2016,Stuttgarter Kickers,0-1,Chemnitzer FC
+38,Sat May 14 2016,VfR Aalen,1-2,Werder Bremen II
+38,Sat May 14 2016,Energie Cottbus,2-3,1. FSV Mainz 05 II

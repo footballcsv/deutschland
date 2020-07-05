@@ -1,0 +1,381 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Jul 21 2017,Karlsruher SC,2-2,VfL Osnabrück
+1,Sat Jul 22 2017,SV Wehen Wiesbaden,1-0,FC Carl Zeiss Jena
+1,Sat Jul 22 2017,Werder Bremen II,3-0,SpVgg Unterhaching
+1,Sat Jul 22 2017,SV Meppen,2-2,Würzburger Kickers
+1,Sat Jul 22 2017,Fortuna Köln,1-0,VfR Aalen
+1,Sat Jul 22 2017,FC Rot-Weiß Erfurt,1-1,Preußen Münster
+1,Sat Jul 22 2017,Hallescher FC,4-4,SC Paderborn 07
+1,Sat Jul 22 2017,SF Lotte,0-2,Hansa Rostock
+1,Sun Jul 23 2017,SG Großaspach,4-1,1. FC Magdeburg
+1,Sun Jul 23 2017,Chemnitzer FC,1-0,FSV Zwickau
+2,Fri Jul 28 2017,SpVgg Unterhaching,3-2,Karlsruher SC
+2,Fri Jul 28 2017,VfL Osnabrück,0-4,SV Wehen Wiesbaden
+2,Sat Jul 29 2017,FSV Zwickau,1-1,SF Lotte
+2,Sat Jul 29 2017,FC Carl Zeiss Jena,0-2,Fortuna Köln
+2,Sat Jul 29 2017,Hansa Rostock,0-0,SG Großaspach
+2,Sat Jul 29 2017,1. FC Magdeburg,3-0,FC Rot-Weiß Erfurt
+2,Sat Jul 29 2017,Preußen Münster,3-0,SV Meppen
+2,Sat Jul 29 2017,SC Paderborn 07,3-2,Chemnitzer FC
+2,Sat Jul 29 2017,VfR Aalen,2-1,Hallescher FC
+2,Sun Jul 30 2017,Würzburger Kickers,1-1,Werder Bremen II
+3,Tue Aug 1 2017,SV Wehen Wiesbaden,1-0,SpVgg Unterhaching
+3,Tue Aug 1 2017,Hallescher FC,0-2,FC Carl Zeiss Jena
+3,Tue Aug 1 2017,FC Rot-Weiß Erfurt,0-1,Hansa Rostock
+3,Tue Aug 1 2017,SG Großaspach,2-0,FSV Zwickau
+3,Tue Aug 1 2017,SF Lotte,1-2,SC Paderborn 07
+3,Wed Aug 2 2017,Werder Bremen II,2-0,Karlsruher SC
+3,Wed Aug 2 2017,Chemnitzer FC,2-4,VfR Aalen
+3,Wed Aug 2 2017,Fortuna Köln,3-0,VfL Osnabrück
+3,Wed Aug 2 2017,Würzburger Kickers,0-1,Preußen Münster
+3,Wed Aug 2 2017,SV Meppen,1-2,1. FC Magdeburg
+4,Fri Aug 4 2017,FSV Zwickau,1-1,FC Rot-Weiß Erfurt
+4,Sat Aug 5 2017,Preußen Münster,0-1,Werder Bremen II
+4,Sat Aug 5 2017,SpVgg Unterhaching,2-2,Fortuna Köln
+4,Sat Aug 5 2017,Karlsruher SC,2-1,SV Wehen Wiesbaden
+4,Sat Aug 5 2017,SC Paderborn 07,5-0,SG Großaspach
+4,Sat Aug 5 2017,FC Carl Zeiss Jena,1-1,Chemnitzer FC
+4,Sat Aug 5 2017,VfR Aalen,3-0,SF Lotte
+4,Sat Aug 5 2017,Hansa Rostock,1-2,SV Meppen
+4,Sun Aug 6 2017,VfL Osnabrück,3-3,Hallescher FC
+4,Sun Aug 6 2017,1. FC Magdeburg,2-1,Würzburger Kickers
+5,Fri Aug 18 2017,Fortuna Köln,4-0,Karlsruher SC
+5,Fri Aug 18 2017,SV Meppen,4-0,FSV Zwickau
+5,Sat Aug 19 2017,Werder Bremen II,0-0,SV Wehen Wiesbaden
+5,Sat Aug 19 2017,Hallescher FC,1-2,SpVgg Unterhaching
+5,Sat Aug 19 2017,Chemnitzer FC,0-0,VfL Osnabrück
+5,Sat Aug 19 2017,Preußen Münster,0-1,1. FC Magdeburg
+5,Sat Aug 19 2017,SG Großaspach,0-0,VfR Aalen
+5,Sat Aug 19 2017,FC Rot-Weiß Erfurt,0-1,SC Paderborn 07
+5,Sun Aug 20 2017,SF Lotte,4-0,FC Carl Zeiss Jena
+5,Sun Aug 20 2017,Würzburger Kickers,0-3,Hansa Rostock
+6,Fri Aug 25 2017,SC Paderborn 07,1-0,SV Meppen
+6,Sat Aug 26 2017,SpVgg Unterhaching,4-2,Chemnitzer FC
+6,Sat Aug 26 2017,VfL Osnabrück,1-0,SF Lotte
+6,Sat Aug 26 2017,Karlsruher SC,1-1,Hallescher FC
+6,Sat Aug 26 2017,1. FC Magdeburg,4-1,Werder Bremen II
+6,Sat Aug 26 2017,FC Carl Zeiss Jena,0-0,SG Großaspach
+6,Sat Aug 26 2017,SV Wehen Wiesbaden,1-1,Fortuna Köln
+6,Sat Aug 26 2017,VfR Aalen,1-1,FC Rot-Weiß Erfurt
+6,Sun Aug 27 2017,Hansa Rostock,1-1,Preußen Münster
+6,Sun Aug 27 2017,FSV Zwickau,0-1,Würzburger Kickers
+7,Fri Sep 8 2017,Preußen Münster,0-2,FSV Zwickau
+7,Fri Sep 8 2017,Werder Bremen II,1-2,Fortuna Köln
+7,Sat Sep 9 2017,1. FC Magdeburg,2-0,Hansa Rostock
+7,Sat Sep 9 2017,Hallescher FC,2-1,SV Wehen Wiesbaden
+7,Sat Sep 9 2017,SG Großaspach,0-1,VfL Osnabrück
+7,Sat Sep 9 2017,Chemnitzer FC,0-0,Karlsruher SC
+7,Sat Sep 9 2017,Würzburger Kickers,2-3,SC Paderborn 07
+7,Sat Sep 9 2017,FC Rot-Weiß Erfurt,1-0,FC Carl Zeiss Jena
+7,Sat Sep 9 2017,SF Lotte,2-1,SpVgg Unterhaching
+7,Sun Sep 10 2017,SV Meppen,1-1,VfR Aalen
+8,Fri Sep 15 2017,SV Wehen Wiesbaden,2-1,Chemnitzer FC
+8,Fri Sep 15 2017,FSV Zwickau,3-1,1. FC Magdeburg
+8,Fri Sep 15 2017,VfL Osnabrück,0-1,FC Rot-Weiß Erfurt
+8,Sat Sep 16 2017,VfR Aalen,2-3,Würzburger Kickers
+8,Sat Sep 16 2017,Fortuna Köln,1-1,Hallescher FC
+8,Sat Sep 16 2017,SpVgg Unterhaching,1-4,SG Großaspach
+8,Sat Sep 16 2017,Karlsruher SC,1-0,SF Lotte
+8,Sat Sep 16 2017,Hansa Rostock,0-0,Werder Bremen II
+8,Sat Sep 16 2017,SC Paderborn 07,2-1,Preußen Münster
+8,Sat Sep 16 2017,FC Carl Zeiss Jena,2-2,SV Meppen
+9,Tue Sep 19 2017,1. FC Magdeburg,1-0,SC Paderborn 07
+9,Tue Sep 19 2017,SG Großaspach,1-0,Karlsruher SC
+9,Tue Sep 19 2017,Werder Bremen II,1-2,Hallescher FC
+9,Tue Sep 19 2017,SF Lotte,0-1,SV Wehen Wiesbaden
+9,Tue Sep 19 2017,Hansa Rostock,1-1,FSV Zwickau
+9,Wed Sep 20 2017,SV Meppen,1-0,VfL Osnabrück
+9,Wed Sep 20 2017,Chemnitzer FC,1-2,Fortuna Köln
+9,Wed Sep 20 2017,FC Rot-Weiß Erfurt,0-2,SpVgg Unterhaching
+9,Wed Sep 20 2017,Würzburger Kickers,2-2,FC Carl Zeiss Jena
+9,Wed Sep 20 2017,Preußen Münster,1-1,VfR Aalen
+10,Fri Sep 22 2017,SC Paderborn 07,2-1,Hansa Rostock
+10,Sat Sep 23 2017,FSV Zwickau,1-0,Werder Bremen II
+10,Sat Sep 23 2017,VfL Osnabrück,1-1,Würzburger Kickers
+10,Sat Sep 23 2017,Hallescher FC,0-3,Chemnitzer FC
+10,Sat Sep 23 2017,FC Carl Zeiss Jena,2-0,Preußen Münster
+10,Sat Sep 23 2017,SpVgg Unterhaching,4-0,SV Meppen
+10,Sat Sep 23 2017,SV Wehen Wiesbaden,5-0,SG Großaspach
+10,Sat Sep 23 2017,Fortuna Köln,0-3,SF Lotte
+10,Sun Sep 24 2017,VfR Aalen,0-1,1. FC Magdeburg
+10,Sun Sep 24 2017,Karlsruher SC,2-0,FC Rot-Weiß Erfurt
+11,Fri Sep 29 2017,SF Lotte,2-1,Hallescher FC
+11,Sat Sep 30 2017,Preußen Münster,4-1,VfL Osnabrück
+11,Sat Sep 30 2017,Werder Bremen II,1-1,Chemnitzer FC
+11,Sat Sep 30 2017,SG Großaspach,1-3,Fortuna Köln
+11,Sat Sep 30 2017,Würzburger Kickers,0-2,SpVgg Unterhaching
+11,Sat Sep 30 2017,Hansa Rostock,1-0,VfR Aalen
+11,Sat Sep 30 2017,FC Rot-Weiß Erfurt,1-3,SV Wehen Wiesbaden
+11,Sun Oct 1 2017,FSV Zwickau,1-3,SC Paderborn 07
+11,Sun Oct 1 2017,SV Meppen,2-0,Karlsruher SC
+11,Sun Oct 1 2017,1. FC Magdeburg,2-0,FC Carl Zeiss Jena
+12,Fri Oct 13 2017,Hallescher FC,3-0,SG Großaspach
+12,Fri Oct 13 2017,Fortuna Köln,2-0,FC Rot-Weiß Erfurt
+12,Fri Oct 13 2017,VfL Osnabrück,0-2,1. FC Magdeburg
+12,Sat Oct 14 2017,FC Carl Zeiss Jena,1-0,Hansa Rostock
+12,Sat Oct 14 2017,Karlsruher SC,2-0,Würzburger Kickers
+12,Sat Oct 14 2017,Chemnitzer FC,3-1,SF Lotte
+12,Sat Oct 14 2017,SpVgg Unterhaching,1-0,Preußen Münster
+12,Sat Oct 14 2017,SV Wehen Wiesbaden,0-1,SV Meppen
+12,Sat Oct 14 2017,SC Paderborn 07,7-1,Werder Bremen II
+12,Sat Oct 14 2017,VfR Aalen,2-2,FSV Zwickau
+13,Fri Oct 20 2017,Hansa Rostock,2-0,VfL Osnabrück
+13,Fri Oct 20 2017,SG Großaspach,3-1,Chemnitzer FC
+13,Sat Oct 21 2017,Würzburger Kickers,0-5,SV Wehen Wiesbaden
+13,Sat Oct 21 2017,SV Meppen,1-0,Fortuna Köln
+13,Sat Oct 21 2017,FC Rot-Weiß Erfurt,1-1,Hallescher FC
+13,Sat Oct 21 2017,SC Paderborn 07,3-0,VfR Aalen
+13,Sat Oct 21 2017,1. FC Magdeburg,0-3,SpVgg Unterhaching
+13,Sat Oct 21 2017,Werder Bremen II,1-1,SF Lotte
+13,Sat Oct 21 2017,Preußen Münster,1-1,Karlsruher SC
+13,Sun Oct 22 2017,FSV Zwickau,2-1,FC Carl Zeiss Jena
+14,Fri Oct 27 2017,Chemnitzer FC,1-0,FC Rot-Weiß Erfurt
+14,Fri Oct 27 2017,SpVgg Unterhaching,0-3,Hansa Rostock
+14,Sat Oct 28 2017,Hallescher FC,2-0,SV Meppen
+14,Sat Oct 28 2017,VfR Aalen,1-0,Werder Bremen II
+14,Sat Oct 28 2017,FC Carl Zeiss Jena,3-1,SC Paderborn 07
+14,Sat Oct 28 2017,VfL Osnabrück,4-0,FSV Zwickau
+14,Sat Oct 28 2017,Fortuna Köln,2-1,Würzburger Kickers
+14,Sat Oct 28 2017,SF Lotte,0-2,SG Großaspach
+14,Sun Oct 29 2017,SV Wehen Wiesbaden,6-2,Preußen Münster
+14,Sun Oct 29 2017,Karlsruher SC,1-0,1. FC Magdeburg
+15,Fri Nov 3 2017,Werder Bremen II,0-5,SG Großaspach
+15,Fri Nov 3 2017,Preußen Münster,1-1,Fortuna Köln
+15,Sat Nov 4 2017,Würzburger Kickers,1-0,Hallescher FC
+15,Sat Nov 4 2017,1. FC Magdeburg,0-0,SV Wehen Wiesbaden
+15,Sat Nov 4 2017,SV Meppen,3-2,Chemnitzer FC
+15,Sat Nov 4 2017,SC Paderborn 07,3-0,VfL Osnabrück
+15,Sat Nov 4 2017,FSV Zwickau,1-3,SpVgg Unterhaching
+15,Sat Nov 4 2017,VfR Aalen,3-1,FC Carl Zeiss Jena
+15,Sun Nov 5 2017,Hansa Rostock,0-3,Karlsruher SC
+15,Sun Nov 5 2017,FC Rot-Weiß Erfurt,2-3,SF Lotte
+16,Fri Nov 17 2017,SV Wehen Wiesbaden,0-1,Hansa Rostock
+16,Fri Nov 17 2017,Hallescher FC,3-0,Preußen Münster
+16,Fri Nov 17 2017,VfL Osnabrück,4-1,VfR Aalen
+16,Sat Nov 18 2017,Fortuna Köln,1-2,1. FC Magdeburg
+16,Sat Nov 18 2017,SF Lotte,2-2,SV Meppen
+16,Sat Nov 18 2017,Chemnitzer FC,0-3,Würzburger Kickers
+16,Sat Nov 18 2017,FC Carl Zeiss Jena,2-1,Werder Bremen II
+16,Sat Nov 18 2017,SG Großaspach,1-0,FC Rot-Weiß Erfurt
+16,Sat Nov 18 2017,SpVgg Unterhaching,0-3,SC Paderborn 07
+16,Sat Nov 18 2017,Karlsruher SC,1-0,FSV Zwickau
+17,Fri Nov 24 2017,Preußen Münster,1-0,Chemnitzer FC
+17,Fri Nov 24 2017,SV Meppen,1-1,SG Großaspach
+17,Fri Nov 24 2017,SC Paderborn 07,0-2,Karlsruher SC
+17,Sat Nov 25 2017,Hansa Rostock,5-3,Fortuna Köln
+17,Sat Nov 25 2017,Würzburger Kickers,2-1,SF Lotte
+17,Sat Nov 25 2017,1. FC Magdeburg,2-1,Hallescher FC
+17,Sat Nov 25 2017,Werder Bremen II,0-0,FC Rot-Weiß Erfurt
+17,Sat Nov 25 2017,FSV Zwickau,0-2,SV Wehen Wiesbaden
+17,Sat Nov 25 2017,VfR Aalen,3-1,SpVgg Unterhaching
+17,Sat Nov 25 2017,FC Carl Zeiss Jena,0-0,VfL Osnabrück
+18,Fri Dec 1 2017,Hallescher FC,0-2,Hansa Rostock
+18,Sat Dec 2 2017,Fortuna Köln,1-1,FSV Zwickau
+18,Sat Dec 2 2017,FC Rot-Weiß Erfurt,0-0,SV Meppen
+18,Sat Dec 2 2017,SF Lotte,0-0,Preußen Münster
+18,Sat Dec 2 2017,Karlsruher SC,0-0,VfR Aalen
+18,Sat Dec 2 2017,SV Wehen Wiesbaden,4-1,SC Paderborn 07
+18,Sat Dec 2 2017,Chemnitzer FC,2-3,1. FC Magdeburg
+18,Sun Dec 3 2017,SpVgg Unterhaching,3-2,FC Carl Zeiss Jena
+18,Sun Dec 3 2017,Werder Bremen II,2-2,VfL Osnabrück
+18,Sun Dec 3 2017,SG Großaspach,1-3,Würzburger Kickers
+19,Fri Dec 8 2017,1. FC Magdeburg,2-0,SF Lotte
+19,Fri Dec 8 2017,Würzburger Kickers,4-1,FC Rot-Weiß Erfurt
+19,Sat Dec 9 2017,FC Carl Zeiss Jena,0-0,Karlsruher SC
+19,Sat Dec 9 2017,SC Paderborn 07,3-1,Fortuna Köln
+19,Sat Dec 9 2017,Preußen Münster,1-4,SG Großaspach
+19,Sat Dec 9 2017,VfL Osnabrück,2-0,SpVgg Unterhaching
+19,Sat Dec 9 2017,VfR Aalen,1-0,SV Wehen Wiesbaden
+19,Sat Dec 9 2017,SV Meppen,2-2,Werder Bremen II
+19,Sun Dec 10 2017,Hansa Rostock,3-1,Chemnitzer FC
+19,Sun Dec 10 2017,FSV Zwickau,1-1,Hallescher FC
+20,Fri Dec 15 2017,VfR Aalen,1-1,Fortuna Köln
+20,Fri Dec 15 2017,SC Paderborn 07,0-0,Hallescher FC
+20,Sat Dec 16 2017,FC Carl Zeiss Jena,4-3,SV Wehen Wiesbaden
+20,Sat Dec 16 2017,Würzburger Kickers,2-0,SV Meppen
+20,Sat Dec 16 2017,SpVgg Unterhaching,1-0,Werder Bremen II
+20,Sat Dec 16 2017,Hansa Rostock,0-3,SF Lotte
+20,Sat Dec 16 2017,FSV Zwickau,3-2,Chemnitzer FC
+20,Sat Dec 16 2017,1. FC Magdeburg,3-0,SG Großaspach
+21,Sat Jan 20 2018,Fortuna Köln,1-0,FC Carl Zeiss Jena
+21,Sat Jan 20 2018,Chemnitzer FC,0-2,SC Paderborn 07
+21,Sat Jan 20 2018,Hallescher FC,3-2,VfR Aalen
+21,Sat Jan 20 2018,Karlsruher SC,3-1,SpVgg Unterhaching
+21,Sat Jan 20 2018,SF Lotte,1-0,FSV Zwickau
+21,Sat Jan 20 2018,SV Wehen Wiesbaden,5-1,VfL Osnabrück
+21,Sun Jan 21 2018,SV Meppen,2-0,Preußen Münster
+21,Sun Jan 21 2018,Werder Bremen II,0-1,Würzburger Kickers
+21,Mon Jan 22 2018,FC Rot-Weiß Erfurt,3-1,1. FC Magdeburg
+22,Fri Jan 26 2018,FSV Zwickau,2-0,SG Großaspach
+22,Fri Jan 26 2018,Preußen Münster,1-0,Würzburger Kickers
+22,Sat Jan 27 2018,SpVgg Unterhaching,0-1,SV Wehen Wiesbaden
+22,Sat Jan 27 2018,Karlsruher SC,1-0,Werder Bremen II
+22,Sat Jan 27 2018,SC Paderborn 07,5-0,SF Lotte
+22,Sat Jan 27 2018,VfR Aalen,3-2,Chemnitzer FC
+22,Sat Jan 27 2018,Hansa Rostock,3-1,FC Rot-Weiß Erfurt
+22,Sat Jan 27 2018,VfL Osnabrück,2-2,Fortuna Köln
+22,Sat Jan 27 2018,1. FC Magdeburg,0-0,SV Meppen
+22,Sun Jan 28 2018,FC Carl Zeiss Jena,2-1,Hallescher FC
+20,Tue Jan 30 2018,Preußen Münster,5-0,FC Rot-Weiß Erfurt
+23,Fri Feb 2 2018,SF Lotte,2-0,VfR Aalen
+23,Fri Feb 2 2018,SV Wehen Wiesbaden,1-1,Karlsruher SC
+23,Sat Feb 3 2018,Würzburger Kickers,1-0,1. FC Magdeburg
+23,Sat Feb 3 2018,SV Meppen,0-2,Hansa Rostock
+23,Sat Feb 3 2018,Fortuna Köln,0-0,SpVgg Unterhaching
+23,Sat Feb 3 2018,SG Großaspach,1-1,SC Paderborn 07
+23,Sat Feb 3 2018,Hallescher FC,1-0,VfL Osnabrück
+23,Sat Feb 3 2018,Chemnitzer FC,1-0,FC Carl Zeiss Jena
+23,Sat Feb 3 2018,Werder Bremen II,2-4,Preußen Münster
+23,Sun Feb 4 2018,FC Rot-Weiß Erfurt,0-3,FSV Zwickau
+24,Fri Feb 9 2018,VfL Osnabrück,6-1,Chemnitzer FC
+24,Fri Feb 9 2018,SC Paderborn 07,0-1,FC Rot-Weiß Erfurt
+24,Sat Feb 10 2018,FC Carl Zeiss Jena,2-2,SF Lotte
+24,Sat Feb 10 2018,1. FC Magdeburg,3-1,Preußen Münster
+24,Sat Feb 10 2018,Hansa Rostock,3-1,Würzburger Kickers
+24,Sat Feb 10 2018,VfR Aalen,4-1,SG Großaspach
+24,Sat Feb 10 2018,Karlsruher SC,1-0,Fortuna Köln
+24,Sat Feb 10 2018,FSV Zwickau,0-1,SV Meppen
+24,Sun Feb 11 2018,SpVgg Unterhaching,1-1,Hallescher FC
+24,Sun Feb 11 2018,SV Wehen Wiesbaden,2-2,Werder Bremen II
+20,Wed Feb 14 2018,VfL Osnabrück,0-0,Karlsruher SC
+25,Fri Feb 16 2018,Preußen Münster,2-0,Hansa Rostock
+25,Sat Feb 17 2018,Fortuna Köln,1-0,SV Wehen Wiesbaden
+25,Sat Feb 17 2018,SG Großaspach,0-0,FC Carl Zeiss Jena
+25,Sat Feb 17 2018,Werder Bremen II,1-3,1. FC Magdeburg
+25,Sat Feb 17 2018,Chemnitzer FC,2-1,SpVgg Unterhaching
+25,Sat Feb 17 2018,Würzburger Kickers,1-1,FSV Zwickau
+25,Sat Feb 17 2018,Hallescher FC,0-1,Karlsruher SC
+25,Sun Feb 18 2018,FC Rot-Weiß Erfurt,0-1,VfR Aalen
+25,Sun Feb 18 2018,SF Lotte,2-3,VfL Osnabrück
+26,Fri Feb 23 2018,Fortuna Köln,2-1,Werder Bremen II
+26,Sat Feb 24 2018,VfR Aalen,1-1,SV Meppen
+26,Sat Feb 24 2018,SpVgg Unterhaching,3-0,SF Lotte
+26,Sat Feb 24 2018,SC Paderborn 07,0-0,Würzburger Kickers
+26,Sat Feb 24 2018,FSV Zwickau,1-0,Preußen Münster
+26,Sat Feb 24 2018,VfL Osnabrück,2-1,SG Großaspach
+26,Sat Feb 24 2018,SV Wehen Wiesbaden,3-1,Hallescher FC
+26,Sat Feb 24 2018,Hansa Rostock,1-0,1. FC Magdeburg
+26,Sun Feb 25 2018,FC Carl Zeiss Jena,1-0,FC Rot-Weiß Erfurt
+26,Sun Feb 25 2018,Karlsruher SC,2-0,Chemnitzer FC
+27,Fri Mar 2 2018,Werder Bremen II,1-1,Hansa Rostock
+27,Fri Mar 2 2018,SF Lotte,1-1,Karlsruher SC
+27,Sat Mar 3 2018,SG Großaspach,1-2,SpVgg Unterhaching
+27,Sat Mar 3 2018,Würzburger Kickers,2-2,VfR Aalen
+27,Sat Mar 3 2018,Preußen Münster,1-1,SC Paderborn 07
+27,Sun Mar 4 2018,Hallescher FC,0-3,Fortuna Köln
+28,Tue Mar 6 2018,SC Paderborn 07,1-1,1. FC Magdeburg
+28,Tue Mar 6 2018,SpVgg Unterhaching,1-1,FC Rot-Weiß Erfurt
+28,Tue Mar 6 2018,SV Wehen Wiesbaden,3-1,SF Lotte
+28,Tue Mar 6 2018,VfL Osnabrück,2-2,SV Meppen
+28,Wed Mar 7 2018,FSV Zwickau,1-0,Hansa Rostock
+28,Wed Mar 7 2018,VfR Aalen,0-0,Preußen Münster
+28,Wed Mar 7 2018,Hallescher FC,1-0,Werder Bremen II
+28,Wed Mar 7 2018,Karlsruher SC,3-1,SG Großaspach
+28,Wed Mar 7 2018,Fortuna Köln,3-0,Chemnitzer FC
+29,Sat Mar 10 2018,Werder Bremen II,0-0,FSV Zwickau
+29,Sat Mar 10 2018,SV Meppen,1-1,SpVgg Unterhaching
+29,Sat Mar 10 2018,SF Lotte,0-2,Fortuna Köln
+29,Sat Mar 10 2018,Preußen Münster,2-2,FC Carl Zeiss Jena
+29,Sat Mar 10 2018,Würzburger Kickers,1-0,VfL Osnabrück
+29,Sat Mar 10 2018,SG Großaspach,1-3,SV Wehen Wiesbaden
+29,Sat Mar 10 2018,Hansa Rostock,2-3,SC Paderborn 07
+29,Sun Mar 11 2018,Chemnitzer FC,1-1,Hallescher FC
+29,Sun Mar 11 2018,FC Rot-Weiß Erfurt,1-3,Karlsruher SC
+29,Sun Mar 11 2018,1. FC Magdeburg,6-1,VfR Aalen
+30,Fri Mar 16 2018,SV Wehen Wiesbaden,4-2,FC Rot-Weiß Erfurt
+30,Fri Mar 16 2018,Hallescher FC,1-0,SF Lotte
+30,Fri Mar 16 2018,Fortuna Köln,1-3,SG Großaspach
+30,Sat Mar 17 2018,VfR Aalen,1-0,Hansa Rostock
+30,Sat Mar 17 2018,SpVgg Unterhaching,3-2,Würzburger Kickers
+30,Sat Mar 17 2018,SC Paderborn 07,2-0,FSV Zwickau
+30,Sat Mar 17 2018,Karlsruher SC,2-0,SV Meppen
+30,Sun Mar 18 2018,Chemnitzer FC,2-1,Werder Bremen II
+30,Sun Mar 18 2018,VfL Osnabrück,0-1,Preußen Münster
+21,Tue Mar 20 2018,SG Großaspach,0-0,Hansa Rostock
+31,Fri Mar 23 2018,FSV Zwickau,2-2,VfR Aalen
+31,Fri Mar 23 2018,Werder Bremen II,0-2,SC Paderborn 07
+31,Sat Mar 24 2018,Preußen Münster,2-0,SpVgg Unterhaching
+31,Sat Mar 24 2018,SV Meppen,1-3,SV Wehen Wiesbaden
+31,Sat Mar 24 2018,SF Lotte,3-1,Chemnitzer FC
+31,Sat Mar 24 2018,Würzburger Kickers,0-0,Karlsruher SC
+31,Sat Mar 24 2018,Hansa Rostock,0-0,FC Carl Zeiss Jena
+31,Sat Mar 24 2018,FC Rot-Weiß Erfurt,2-1,Fortuna Köln
+31,Sat Mar 24 2018,SG Großaspach,0-3,Hallescher FC
+31,Sun Mar 25 2018,1. FC Magdeburg,2-0,VfL Osnabrück
+28,Tue Mar 27 2018,FC Carl Zeiss Jena,1-2,Würzburger Kickers
+25,Tue Mar 27 2018,SV Meppen,0-0,SC Paderborn 07
+27,Tue Mar 27 2018,Chemnitzer FC,1-4,SV Wehen Wiesbaden
+27,Wed Mar 28 2018,FC Rot-Weiß Erfurt,4-4,VfL Osnabrück
+27,Wed Mar 28 2018,1. FC Magdeburg,2-2,FSV Zwickau
+32,Sat Mar 31 2018,SV Wehen Wiesbaden,0-2,Würzburger Kickers
+32,Sat Mar 31 2018,FC Carl Zeiss Jena,2-1,FSV Zwickau
+32,Sat Mar 31 2018,VfL Osnabrück,1-1,Hansa Rostock
+32,Sat Mar 31 2018,Chemnitzer FC,2-3,SG Großaspach
+32,Sat Mar 31 2018,Fortuna Köln,0-2,SV Meppen
+32,Sat Mar 31 2018,VfR Aalen,0-5,SC Paderborn 07
+32,Sat Mar 31 2018,Karlsruher SC,3-0,Preußen Münster
+32,Sun Apr 1 2018,Hallescher FC,3-0,FC Rot-Weiß Erfurt
+32,Sun Apr 1 2018,SpVgg Unterhaching,0-1,1. FC Magdeburg
+32,Sun Apr 1 2018,SF Lotte,3-2,Werder Bremen II
+27,Wed Apr 4 2018,SV Meppen,2-1,FC Carl Zeiss Jena
+33,Fri Apr 6 2018,Werder Bremen II,1-0,VfR Aalen
+33,Sat Apr 7 2018,Preußen Münster,1-0,SV Wehen Wiesbaden
+33,Sat Apr 7 2018,Würzburger Kickers,1-0,Fortuna Köln
+33,Sat Apr 7 2018,SC Paderborn 07,6-0,FC Carl Zeiss Jena
+33,Sat Apr 7 2018,1. FC Magdeburg,2-0,Karlsruher SC
+33,Sat Apr 7 2018,SG Großaspach,1-1,SF Lotte
+33,Sat Apr 7 2018,Hansa Rostock,1-1,SpVgg Unterhaching
+33,Sun Apr 8 2018,FC Rot-Weiß Erfurt,0-5,Chemnitzer FC
+33,Sun Apr 8 2018,SV Meppen,2-2,Hallescher FC
+33,Sun Apr 8 2018,FSV Zwickau,1-1,VfL Osnabrück
+34,Fri Apr 13 2018,SV Wehen Wiesbaden,1-2,1. FC Magdeburg
+34,Sat Apr 14 2018,Chemnitzer FC,1-2,SV Meppen
+34,Sat Apr 14 2018,Fortuna Köln,2-4,Preußen Münster
+34,Sat Apr 14 2018,Hallescher FC,1-3,Würzburger Kickers
+34,Sat Apr 14 2018,FC Carl Zeiss Jena,3-2,VfR Aalen
+34,Sat Apr 14 2018,SG Großaspach,2-2,Werder Bremen II
+34,Sat Apr 14 2018,VfL Osnabrück,0-5,SC Paderborn 07
+34,Sun Apr 15 2018,SF Lotte,1-0,FC Rot-Weiß Erfurt
+34,Sun Apr 15 2018,Karlsruher SC,0-0,Hansa Rostock
+34,Sun Apr 15 2018,SpVgg Unterhaching,2-1,FSV Zwickau
+30,Tue Apr 17 2018,FC Carl Zeiss Jena,1-5,1. FC Magdeburg
+35,Fri Apr 20 2018,SV Meppen,2-1,SF Lotte
+35,Sat Apr 21 2018,SC Paderborn 07,3-0,SpVgg Unterhaching
+35,Sat Apr 21 2018,FC Rot-Weiß Erfurt,0-6,SG Großaspach
+35,Sat Apr 21 2018,Hansa Rostock,2-0,SV Wehen Wiesbaden
+35,Sat Apr 21 2018,1. FC Magdeburg,2-0,Fortuna Köln
+35,Sat Apr 21 2018,Werder Bremen II,2-4,FC Carl Zeiss Jena
+35,Sat Apr 21 2018,Würzburger Kickers,0-0,Chemnitzer FC
+35,Sun Apr 22 2018,Preußen Münster,1-2,Hallescher FC
+35,Sun Apr 22 2018,VfR Aalen,2-1,VfL Osnabrück
+35,Mon Apr 23 2018,FSV Zwickau,2-4,Karlsruher SC
+36,Fri Apr 27 2018,SpVgg Unterhaching,0-1,VfR Aalen
+36,Sat Apr 28 2018,VfL Osnabrück,1-2,FC Carl Zeiss Jena
+36,Sat Apr 28 2018,SV Wehen Wiesbaden,3-0,FSV Zwickau
+36,Sat Apr 28 2018,Karlsruher SC,0-0,SC Paderborn 07
+36,Sat Apr 28 2018,Fortuna Köln,0-0,Hansa Rostock
+36,Sat Apr 28 2018,Hallescher FC,0-2,1. FC Magdeburg
+36,Sat Apr 28 2018,SF Lotte,1-3,Würzburger Kickers
+36,Sun Apr 29 2018,Chemnitzer FC,1-2,Preußen Münster
+36,Sun Apr 29 2018,SG Großaspach,2-3,SV Meppen
+36,Sun Apr 29 2018,FC Rot-Weiß Erfurt,0-3,Werder Bremen II
+37,Sat May 5 2018,FC Carl Zeiss Jena,2-1,SpVgg Unterhaching
+37,Sat May 5 2018,VfL Osnabrück,1-1,Werder Bremen II
+37,Sat May 5 2018,Preußen Münster,3-0,SF Lotte
+37,Sat May 5 2018,Hansa Rostock,4-2,Hallescher FC
+37,Sat May 5 2018,Würzburger Kickers,1-1,SG Großaspach
+37,Sat May 5 2018,1. FC Magdeburg,3-1,Chemnitzer FC
+37,Sat May 5 2018,SC Paderborn 07,3-1,SV Wehen Wiesbaden
+37,Sat May 5 2018,SV Meppen,3-0,FC Rot-Weiß Erfurt
+37,Sat May 5 2018,VfR Aalen,0-2,Karlsruher SC
+37,Sat May 5 2018,FSV Zwickau,1-0,Fortuna Köln
+38,Sat May 12 2018,SpVgg Unterhaching,4-1,VfL Osnabrück
+38,Sat May 12 2018,Karlsruher SC,2-3,FC Carl Zeiss Jena
+38,Sat May 12 2018,Chemnitzer FC,1-1,Hansa Rostock
+38,Sat May 12 2018,Werder Bremen II,2-1,SV Meppen
+38,Sat May 12 2018,SF Lotte,0-1,1. FC Magdeburg
+38,Sat May 12 2018,FC Rot-Weiß Erfurt,1-3,Würzburger Kickers
+38,Sat May 12 2018,Hallescher FC,2-0,FSV Zwickau
+38,Sat May 12 2018,SV Wehen Wiesbaden,2-0,VfR Aalen
+38,Sat May 12 2018,Fortuna Köln,2-4,SC Paderborn 07
+38,Sat May 12 2018,SG Großaspach,2-2,Preußen Münster

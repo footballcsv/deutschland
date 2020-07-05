@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Sat Aug 8 1981,Bayern München,6-2,Bayer 04 Leverkusen
+1,Sat Aug 8 1981,Arminia Bielefeld,1-1,SV Darmstadt 98
+1,Sat Aug 8 1981,Bor. Mönchengladbach,2-4,Werder Bremen
+1,Sat Aug 8 1981,VfB Stuttgart,3-2,Fortuna Düsseldorf
+1,Sat Aug 8 1981,MSV Duisburg,1-1,Karlsruher SC
+1,Sat Aug 8 1981,Hamburger SV,4-2,Eintracht Braunschweig
+1,Sat Aug 8 1981,Eintracht Frankfurt,2-2,1. FC Kaiserslautern
+1,Sat Aug 8 1981,1. FC Köln,1-0,Borussia Dortmund
+1,Sat Aug 8 1981,VfL Bochum,2-0,1. FC Nürnberg
+2,Fri Aug 14 1981,1. FC Nürnberg,1-3,1. FC Köln
+2,Fri Aug 14 1981,Werder Bremen,1-0,Arminia Bielefeld
+2,Fri Aug 14 1981,Bayer 04 Leverkusen,0-3,VfL Bochum
+2,Sat Aug 15 1981,Eintracht Braunschweig,2-1,MSV Duisburg
+2,Sat Aug 15 1981,Borussia Dortmund,0-2,Eintracht Frankfurt
+2,Sat Aug 15 1981,Karlsruher SC,0-2,VfB Stuttgart
+2,Sat Aug 15 1981,Fortuna Düsseldorf,0-2,Bor. Mönchengladbach
+2,Sat Aug 15 1981,SV Darmstadt 98,1-2,Bayern München
+2,Sat Aug 15 1981,1. FC Kaiserslautern,1-1,Hamburger SV
+3,Fri Aug 21 1981,Bor. Mönchengladbach,2-2,Karlsruher SC
+3,Fri Aug 21 1981,MSV Duisburg,3-1,1. FC Kaiserslautern
+3,Fri Aug 21 1981,Bayer 04 Leverkusen,3-2,SV Darmstadt 98
+3,Sat Aug 22 1981,VfL Bochum,3-1,1. FC Köln
+3,Sat Aug 22 1981,Bayern München,3-1,Werder Bremen
+3,Sat Aug 22 1981,VfB Stuttgart,2-0,Eintracht Braunschweig
+3,Sat Aug 22 1981,Hamburger SV,2-2,Borussia Dortmund
+3,Sat Aug 22 1981,Eintracht Frankfurt,3-1,1. FC Nürnberg
+3,Sat Aug 22 1981,Arminia Bielefeld,1-1,Fortuna Düsseldorf
+4,Tue Aug 25 1981,1. FC Kaiserslautern,3-2,VfB Stuttgart
+4,Tue Aug 25 1981,Eintracht Braunschweig,0-1,Bor. Mönchengladbach
+4,Tue Aug 25 1981,Werder Bremen,0-0,Bayer 04 Leverkusen
+4,Wed Aug 26 1981,1. FC Nürnberg,0-3,Hamburger SV
+4,Wed Aug 26 1981,Karlsruher SC,2-1,Arminia Bielefeld
+4,Wed Aug 26 1981,Fortuna Düsseldorf,1-2,Bayern München
+4,Wed Aug 26 1981,SV Darmstadt 98,2-0,VfL Bochum
+4,Wed Aug 26 1981,1. FC Köln,2-0,Eintracht Frankfurt
+4,Wed Aug 26 1981,Borussia Dortmund,2-1,MSV Duisburg
+5,Sat Sep 5 1981,Arminia Bielefeld,2-1,Eintracht Braunschweig
+5,Sat Sep 5 1981,Bor. Mönchengladbach,2-2,1. FC Kaiserslautern
+5,Sat Sep 5 1981,VfB Stuttgart,0-2,Borussia Dortmund
+5,Sat Sep 5 1981,MSV Duisburg,3-2,1. FC Nürnberg
+5,Sat Sep 5 1981,Hamburger SV,3-1,1. FC Köln
+5,Sat Sep 5 1981,SV Darmstadt 98,1-1,Werder Bremen
+5,Sat Sep 5 1981,Bayer 04 Leverkusen,1-1,Fortuna Düsseldorf
+5,Sat Sep 5 1981,VfL Bochum,3-2,Eintracht Frankfurt
+5,Tue Sep 8 1981,Bayern München,4-1,Karlsruher SC
+6,Fri Sep 11 1981,1. FC Kaiserslautern,4-0,Arminia Bielefeld
+6,Fri Sep 11 1981,Werder Bremen,3-1,VfL Bochum
+6,Fri Sep 11 1981,1. FC Köln,3-0,MSV Duisburg
+6,Sat Sep 12 1981,1. FC Nürnberg,0-0,VfB Stuttgart
+6,Sat Sep 12 1981,Eintracht Braunschweig,3-1,Bayern München
+6,Sat Sep 12 1981,Karlsruher SC,1-2,Bayer 04 Leverkusen
+6,Sat Sep 12 1981,Fortuna Düsseldorf,2-2,SV Darmstadt 98
+6,Sat Sep 12 1981,Eintracht Frankfurt,3-2,Hamburger SV
+6,Sat Sep 12 1981,Borussia Dortmund,2-3,Bor. Mönchengladbach
+7,Fri Sep 18 1981,Werder Bremen,4-1,Fortuna Düsseldorf
+7,Fri Sep 18 1981,Bayer 04 Leverkusen,1-0,Eintracht Braunschweig
+7,Sat Sep 19 1981,Bayern München,4-2,1. FC Kaiserslautern
+7,Sat Sep 19 1981,Arminia Bielefeld,1-1,Borussia Dortmund
+7,Sat Sep 19 1981,Bor. Mönchengladbach,4-2,1. FC Nürnberg
+7,Sat Sep 19 1981,VfB Stuttgart,1-1,1. FC Köln
+7,Sat Sep 19 1981,MSV Duisburg,4-2,Eintracht Frankfurt
+7,Sat Sep 19 1981,SV Darmstadt 98,2-6,Karlsruher SC
+7,Sat Sep 19 1981,VfL Bochum,2-1,Hamburger SV
+8,Fri Sep 25 1981,1. FC Kaiserslautern,5-2,Bayer 04 Leverkusen
+8,Fri Sep 25 1981,Karlsruher SC,3-0,Werder Bremen
+8,Sat Sep 26 1981,1. FC Nürnberg,1-0,Arminia Bielefeld
+8,Sat Sep 26 1981,Eintracht Braunschweig,3-0,SV Darmstadt 98
+8,Sat Sep 26 1981,Fortuna Düsseldorf,2-1,VfL Bochum
+8,Sat Sep 26 1981,Hamburger SV,7-0,MSV Duisburg
+8,Sat Sep 26 1981,Eintracht Frankfurt,4-1,VfB Stuttgart
+8,Sat Sep 26 1981,1. FC Köln,3-0,Bor. Mönchengladbach
+8,Sat Sep 26 1981,Borussia Dortmund,2-0,Bayern München
+9,Fri Oct 2 1981,Fortuna Düsseldorf,2-0,Karlsruher SC
+9,Fri Oct 2 1981,VfL Bochum,2-2,MSV Duisburg
+9,Sat Oct 3 1981,Bayern München,1-1,1. FC Nürnberg
+9,Sat Oct 3 1981,Arminia Bielefeld,0-2,1. FC Köln
+9,Sat Oct 3 1981,Bor. Mönchengladbach,1-0,Eintracht Frankfurt
+9,Sat Oct 3 1981,VfB Stuttgart,1-2,Hamburger SV
+9,Sat Oct 3 1981,Werder Bremen,2-0,Eintracht Braunschweig
+9,Sat Oct 3 1981,SV Darmstadt 98,0-0,1. FC Kaiserslautern
+9,Sat Oct 3 1981,Bayer 04 Leverkusen,2-1,Borussia Dortmund
+10,Fri Oct 16 1981,Karlsruher SC,2-2,VfL Bochum
+10,Sat Oct 17 1981,MSV Duisburg,1-2,VfB Stuttgart
+10,Sat Oct 17 1981,1. FC Nürnberg,3-2,Bayer 04 Leverkusen
+10,Sat Oct 17 1981,1. FC Kaiserslautern,1-1,Werder Bremen
+10,Sat Oct 17 1981,Eintracht Braunschweig,4-2,Fortuna Düsseldorf
+10,Sat Oct 17 1981,Hamburger SV,1-1,Bor. Mönchengladbach
+10,Sat Oct 17 1981,Eintracht Frankfurt,2-1,Arminia Bielefeld
+10,Sat Oct 17 1981,1. FC Köln,4-0,Bayern München
+10,Sat Oct 17 1981,Borussia Dortmund,4-0,SV Darmstadt 98
+11,Fri Oct 23 1981,Karlsruher SC,2-1,Eintracht Braunschweig
+11,Sat Oct 24 1981,SV Darmstadt 98,2-1,1. FC Nürnberg
+11,Sat Oct 24 1981,Arminia Bielefeld,1-1,Hamburger SV
+11,Sat Oct 24 1981,Bor. Mönchengladbach,4-2,MSV Duisburg
+11,Sat Oct 24 1981,Fortuna Düsseldorf,4-2,1. FC Kaiserslautern
+11,Sat Oct 24 1981,Werder Bremen,2-0,Borussia Dortmund
+11,Sat Oct 24 1981,Bayer 04 Leverkusen,1-1,1. FC Köln
+11,Sat Oct 24 1981,VfL Bochum,3-3,VfB Stuttgart
+11,Sat Oct 24 1981,Bayern München,3-2,Eintracht Frankfurt
+12,Fri Oct 30 1981,Eintracht Frankfurt,3-2,Bayer 04 Leverkusen
+12,Fri Oct 30 1981,Borussia Dortmund,4-2,Fortuna Düsseldorf
+12,Sat Oct 31 1981,1. FC Nürnberg,2-1,Werder Bremen
+12,Sat Oct 31 1981,1. FC Kaiserslautern,2-1,Karlsruher SC
+12,Sat Oct 31 1981,Eintracht Braunschweig,2-1,VfL Bochum
+12,Sat Oct 31 1981,VfB Stuttgart,2-2,Bor. Mönchengladbach
+12,Sat Oct 31 1981,MSV Duisburg,1-3,Arminia Bielefeld
+12,Sat Oct 31 1981,Hamburger SV,4-1,Bayern München
+12,Sat Oct 31 1981,1. FC Köln,1-1,SV Darmstadt 98
+13,Sat Nov 7 1981,SV Darmstadt 98,1-4,Eintracht Frankfurt
+13,Sat Nov 7 1981,Bayern München,4-0,MSV Duisburg
+13,Sat Nov 7 1981,Arminia Bielefeld,1-0,VfB Stuttgart
+13,Sat Nov 7 1981,Eintracht Braunschweig,2-1,1. FC Kaiserslautern
+13,Sat Nov 7 1981,Karlsruher SC,0-2,Borussia Dortmund
+13,Sat Nov 7 1981,Fortuna Düsseldorf,1-1,1. FC Nürnberg
+13,Sat Nov 7 1981,Werder Bremen,1-1,1. FC Köln
+13,Sat Nov 7 1981,Bayer 04 Leverkusen,0-3,Hamburger SV
+13,Sat Nov 7 1981,VfL Bochum,1-1,Bor. Mönchengladbach
+14,Fri Nov 13 1981,1. FC Kaiserslautern,3-3,VfL Bochum
+14,Fri Nov 13 1981,Bor. Mönchengladbach,3-1,Arminia Bielefeld
+14,Sat Nov 14 1981,1. FC Nürnberg,3-1,Karlsruher SC
+14,Sat Nov 14 1981,VfB Stuttgart,0-3,Bayern München
+14,Sat Nov 14 1981,MSV Duisburg,2-1,Bayer 04 Leverkusen
+14,Sat Nov 14 1981,Hamburger SV,6-1,SV Darmstadt 98
+14,Sat Nov 14 1981,Eintracht Frankfurt,9-2,Werder Bremen
+14,Sat Nov 14 1981,1. FC Köln,3-0,Fortuna Düsseldorf
+14,Sat Nov 14 1981,Borussia Dortmund,1-2,Eintracht Braunschweig
+15,Sat Nov 28 1981,SV Darmstadt 98,3-2,MSV Duisburg
+15,Sat Nov 28 1981,Bayern München,1-1,Bor. Mönchengladbach
+15,Sat Nov 28 1981,Eintracht Braunschweig,4-2,1. FC Nürnberg
+15,Sat Nov 28 1981,Karlsruher SC,1-4,1. FC Köln
+15,Sat Nov 28 1981,Fortuna Düsseldorf,2-2,Eintracht Frankfurt
+15,Sat Nov 28 1981,Werder Bremen,3-2,Hamburger SV
+15,Sat Nov 28 1981,Bayer 04 Leverkusen,0-0,VfB Stuttgart
+15,Sat Nov 28 1981,Borussia Dortmund,2-2,1. FC Kaiserslautern
+16,Sat Dec 12 1981,VfB Stuttgart,1-0,SV Darmstadt 98
+16,Sat Dec 12 1981,VfL Bochum,0-0,Borussia Dortmund
+16,Sat Dec 12 1981,1. FC Nürnberg,4-2,1. FC Kaiserslautern
+16,Sat Dec 12 1981,Eintracht Frankfurt,4-1,Karlsruher SC
+16,Sat Dec 12 1981,1. FC Köln,3-0,Eintracht Braunschweig
+16,Sat Dec 12 1981,Arminia Bielefeld,1-2,Bayern München
+16,Tue Dec 15 1981,MSV Duisburg,0-1,Werder Bremen
+17,Wed Dec 16 1981,Eintracht Braunschweig,4-1,Eintracht Frankfurt
+17,Sat Dec 19 1981,SV Darmstadt 98,1-1,Bor. Mönchengladbach
+17,Sat Dec 19 1981,Bayern München,1-0,VfL Bochum
+17,Sat Dec 19 1981,Fortuna Düsseldorf,2-0,MSV Duisburg
+17,Sat Dec 19 1981,Werder Bremen,2-2,VfB Stuttgart
+17,Sat Dec 19 1981,Bayer 04 Leverkusen,2-2,Arminia Bielefeld
+17,Sat Dec 19 1981,Borussia Dortmund,3-1,1. FC Nürnberg
+16,Tue Dec 22 1981,Bor. Mönchengladbach,3-1,Bayer 04 Leverkusen
+15,Tue Jan 12 1982,Arminia Bielefeld,2-0,VfL Bochum
+18,Sat Jan 16 1982,Bayer 04 Leverkusen,0-2,Bayern München
+18,Sat Jan 16 1982,Werder Bremen,0-1,Bor. Mönchengladbach
+18,Sat Jan 16 1982,SV Darmstadt 98,1-0,Arminia Bielefeld
+18,Sat Jan 16 1982,Fortuna Düsseldorf,2-3,VfB Stuttgart
+18,Sat Jan 16 1982,Borussia Dortmund,1-0,1. FC Köln
+18,Sat Jan 16 1982,Eintracht Braunschweig,2-1,Hamburger SV
+18,Sat Jan 16 1982,1. FC Nürnberg,2-1,VfL Bochum
+19,Sat Jan 23 1982,Bayern München,4-1,SV Darmstadt 98
+19,Sat Jan 23 1982,Bor. Mönchengladbach,3-0,Fortuna Düsseldorf
+19,Sat Jan 23 1982,Arminia Bielefeld,0-2,Werder Bremen
+19,Sat Jan 23 1982,Eintracht Frankfurt,1-4,Borussia Dortmund
+19,Sat Jan 23 1982,1. FC Köln,4-1,1. FC Nürnberg
+20,Sat Jan 30 1982,Fortuna Düsseldorf,4-1,Arminia Bielefeld
+20,Sat Jan 30 1982,Karlsruher SC,1-1,Bor. Mönchengladbach
+20,Sat Jan 30 1982,1. FC Kaiserslautern,3-0,MSV Duisburg
+20,Sat Jan 30 1982,Borussia Dortmund,2-3,Hamburger SV
+20,Sat Jan 30 1982,1. FC Köln,1-0,VfL Bochum
+16,Tue Feb 2 1982,Hamburger SV,6-1,Fortuna Düsseldorf
+21,Sat Feb 6 1982,MSV Duisburg,1-2,Borussia Dortmund
+21,Sat Feb 6 1982,Eintracht Frankfurt,4-2,1. FC Köln
+21,Sat Feb 6 1982,Bayern München,7-0,Fortuna Düsseldorf
+21,Sat Feb 6 1982,VfL Bochum,1-0,SV Darmstadt 98
+21,Sat Feb 6 1982,Bor. Mönchengladbach,4-2,Eintracht Braunschweig
+21,Sat Feb 6 1982,VfB Stuttgart,4-0,1. FC Kaiserslautern
+21,Sat Feb 6 1982,Hamburger SV,6-1,1. FC Nürnberg
+22,Sat Feb 13 1982,Fortuna Düsseldorf,5-1,Bayer 04 Leverkusen
+22,Sat Feb 13 1982,Eintracht Frankfurt,0-1,VfL Bochum
+22,Sat Feb 13 1982,Karlsruher SC,4-1,Bayern München
+22,Sat Feb 13 1982,Eintracht Braunschweig,3-1,Arminia Bielefeld
+22,Sat Feb 13 1982,1. FC Nürnberg,0-0,MSV Duisburg
+22,Sat Feb 13 1982,1. FC Köln,1-1,Hamburger SV
+22,Sat Feb 13 1982,Werder Bremen,4-4,SV Darmstadt 98
+22,Sat Feb 13 1982,1. FC Kaiserslautern,3-2,Bor. Mönchengladbach
+22,Sat Feb 13 1982,Borussia Dortmund,2-3,VfB Stuttgart
+20,Thu Feb 18 1982,SV Darmstadt 98,1-3,Bayer 04 Leverkusen
+18,Sat Feb 20 1982,Karlsruher SC,2-0,MSV Duisburg
+18,Sat Feb 20 1982,1. FC Kaiserslautern,6-2,Eintracht Frankfurt
+23,Sat Feb 27 1982,Bayer 04 Leverkusen,2-1,Karlsruher SC
+23,Sat Feb 27 1982,Hamburger SV,2-0,Eintracht Frankfurt
+23,Sat Feb 27 1982,VfL Bochum,0-2,Werder Bremen
+23,Sat Feb 27 1982,Bor. Mönchengladbach,0-1,Borussia Dortmund
+23,Sat Feb 27 1982,Arminia Bielefeld,2-0,1. FC Kaiserslautern
+23,Sat Feb 27 1982,MSV Duisburg,1-0,1. FC Köln
+23,Sat Feb 27 1982,SV Darmstadt 98,2-2,Fortuna Düsseldorf
+23,Sat Feb 27 1982,Bayern München,3-1,Eintracht Braunschweig
+23,Sat Feb 27 1982,VfB Stuttgart,1-2,1. FC Nürnberg
+19,Tue Mar 2 1982,MSV Duisburg,5-2,Eintracht Braunschweig
+24,Sat Mar 6 1982,Eintracht Braunschweig,5-1,Bayer 04 Leverkusen
+24,Sat Mar 6 1982,Borussia Dortmund,3-0,Arminia Bielefeld
+24,Sat Mar 6 1982,1. FC Kaiserslautern,2-1,Bayern München
+24,Sat Mar 6 1982,Hamburger SV,2-2,VfL Bochum
+24,Sat Mar 6 1982,Eintracht Frankfurt,4-1,MSV Duisburg
+24,Sat Mar 6 1982,1. FC Köln,3-0,VfB Stuttgart
+24,Sat Mar 6 1982,Karlsruher SC,3-1,SV Darmstadt 98
+24,Sat Mar 6 1982,1. FC Nürnberg,3-2,Bor. Mönchengladbach
+24,Sat Mar 6 1982,Fortuna Düsseldorf,0-0,Werder Bremen
+17,Tue Mar 9 1982,1. FC Kaiserslautern,1-1,1. FC Köln
+20,Tue Mar 9 1982,1. FC Nürnberg,5-3,Eintracht Frankfurt
+17,Tue Mar 9 1982,Karlsruher SC,2-2,Hamburger SV
+25,Sat Mar 13 1982,Arminia Bielefeld,2-0,1. FC Nürnberg
+25,Sat Mar 13 1982,MSV Duisburg,1-2,Hamburger SV
+25,Sat Mar 13 1982,Bayern München,3-1,Borussia Dortmund
+25,Sat Mar 13 1982,Werder Bremen,2-1,Karlsruher SC
+25,Sat Mar 13 1982,Bayer 04 Leverkusen,0-1,1. FC Kaiserslautern
+25,Sat Mar 13 1982,VfL Bochum,3-0,Fortuna Düsseldorf
+25,Sat Mar 13 1982,SV Darmstadt 98,2-3,Eintracht Braunschweig
+25,Sat Mar 13 1982,Bor. Mönchengladbach,0-2,1. FC Köln
+25,Sat Mar 13 1982,VfB Stuttgart,5-2,Eintracht Frankfurt
+19,Tue Mar 16 1982,VfB Stuttgart,5-1,Karlsruher SC
+21,Sat Mar 20 1982,Arminia Bielefeld,3-0,Karlsruher SC
+19,Sat Mar 20 1982,VfL Bochum,3-1,Bayer 04 Leverkusen
+26,Sat Mar 27 1982,Karlsruher SC,1-0,Fortuna Düsseldorf
+26,Sat Mar 27 1982,MSV Duisburg,1-0,VfL Bochum
+26,Tue Mar 30 1982,1. FC Nürnberg,0-3,Bayern München
+26,Tue Mar 30 1982,1. FC Köln,0-1,Arminia Bielefeld
+26,Tue Mar 30 1982,Eintracht Frankfurt,3-0,Bor. Mönchengladbach
+26,Tue Mar 30 1982,Eintracht Braunschweig,1-1,Werder Bremen
+26,Tue Mar 30 1982,1. FC Kaiserslautern,3-1,SV Darmstadt 98
+26,Wed Mar 31 1982,Hamburger SV,1-1,VfB Stuttgart
+26,Wed Mar 31 1982,Borussia Dortmund,2-0,Bayer 04 Leverkusen
+27,Fri Apr 2 1982,VfL Bochum,3-1,Karlsruher SC
+27,Sat Apr 3 1982,Bayern München,1-1,1. FC Köln
+27,Sat Apr 3 1982,Bayer 04 Leverkusen,4-0,1. FC Nürnberg
+27,Sat Apr 3 1982,Werder Bremen,0-1,1. FC Kaiserslautern
+27,Sat Apr 3 1982,Fortuna Düsseldorf,1-1,Eintracht Braunschweig
+27,Sat Apr 3 1982,VfB Stuttgart,4-1,MSV Duisburg
+27,Sat Apr 3 1982,Arminia Bielefeld,3-0,Eintracht Frankfurt
+27,Sat Apr 3 1982,SV Darmstadt 98,1-3,Borussia Dortmund
+27,Sat Apr 3 1982,Bor. Mönchengladbach,1-3,Hamburger SV
+20,Thu Apr 8 1982,Eintracht Braunschweig,2-0,VfB Stuttgart
+21,Sat Apr 10 1982,Bayer 04 Leverkusen,1-3,Werder Bremen
+28,Fri Apr 16 1982,Borussia Dortmund,1-0,Werder Bremen
+28,Sat Apr 17 1982,1. FC Köln,5-2,Bayer 04 Leverkusen
+28,Sat Apr 17 1982,1. FC Kaiserslautern,1-1,Fortuna Düsseldorf
+28,Sat Apr 17 1982,Hamburger SV,3-1,Arminia Bielefeld
+28,Sat Apr 17 1982,Eintracht Braunschweig,0-0,Karlsruher SC
+28,Sat Apr 17 1982,Eintracht Frankfurt,4-3,Bayern München
+28,Sat Apr 17 1982,1. FC Nürnberg,1-1,SV Darmstadt 98
+28,Sat Apr 17 1982,MSV Duisburg,0-1,Bor. Mönchengladbach
+28,Sat Apr 17 1982,VfB Stuttgart,3-0,VfL Bochum
+29,Fri Apr 23 1982,Werder Bremen,3-1,1. FC Nürnberg
+29,Fri Apr 23 1982,Fortuna Düsseldorf,0-0,Borussia Dortmund
+29,Sat Apr 24 1982,Karlsruher SC,1-1,1. FC Kaiserslautern
+29,Sat Apr 24 1982,Bor. Mönchengladbach,0-0,VfB Stuttgart
+29,Sat Apr 24 1982,Bayer 04 Leverkusen,1-2,Eintracht Frankfurt
+29,Sat Apr 24 1982,SV Darmstadt 98,2-4,1. FC Köln
+29,Sat Apr 24 1982,Arminia Bielefeld,2-0,MSV Duisburg
+29,Sat Apr 24 1982,VfL Bochum,2-0,Eintracht Braunschweig
+29,Sat Apr 24 1982,Bayern München,3-4,Hamburger SV
+30,Tue Apr 27 1982,Hamburger SV,0-0,Bayer 04 Leverkusen
+30,Tue Apr 27 1982,1. FC Kaiserslautern,5-3,Eintracht Braunschweig
+30,Tue Apr 27 1982,1. FC Nürnberg,2-2,Fortuna Düsseldorf
+30,Wed Apr 28 1982,VfB Stuttgart,2-3,Arminia Bielefeld
+30,Wed Apr 28 1982,Borussia Dortmund,4-0,Karlsruher SC
+30,Wed Apr 28 1982,Eintracht Frankfurt,2-1,SV Darmstadt 98
+30,Wed Apr 28 1982,Bor. Mönchengladbach,4-2,VfL Bochum
+30,Wed Apr 28 1982,1. FC Köln,4-2,Werder Bremen
+30,Wed Apr 28 1982,MSV Duisburg,2-3,Bayern München
+19,Fri Apr 30 1982,Hamburger SV,4-0,1. FC Kaiserslautern
+31,Sat May 8 1982,Fortuna Düsseldorf,1-1,1. FC Köln
+31,Sat May 8 1982,Eintracht Braunschweig,0-1,Borussia Dortmund
+31,Sat May 8 1982,Karlsruher SC,3-2,1. FC Nürnberg
+31,Sat May 8 1982,VfL Bochum,1-2,1. FC Kaiserslautern
+31,Sat May 8 1982,Arminia Bielefeld,5-0,Bor. Mönchengladbach
+31,Sat May 8 1982,Bayern München,1-0,VfB Stuttgart
+31,Sat May 8 1982,Bayer 04 Leverkusen,2-1,MSV Duisburg
+31,Sat May 8 1982,SV Darmstadt 98,2-2,Hamburger SV
+31,Sat May 8 1982,Werder Bremen,2-1,Eintracht Frankfurt
+32,Fri May 14 1982,1. FC Kaiserslautern,2-1,Borussia Dortmund
+32,Sat May 15 1982,VfL Bochum,1-1,Arminia Bielefeld
+32,Sat May 15 1982,1. FC Nürnberg,4-0,Eintracht Braunschweig
+32,Sat May 15 1982,Bor. Mönchengladbach,3-0,Bayern München
+32,Sat May 15 1982,Hamburger SV,5-0,Werder Bremen
+32,Sat May 15 1982,MSV Duisburg,0-2,SV Darmstadt 98
+32,Sat May 15 1982,1. FC Köln,2-0,Karlsruher SC
+32,Sat May 15 1982,Eintracht Frankfurt,4-0,Fortuna Düsseldorf
+32,Sat May 15 1982,VfB Stuttgart,4-2,Bayer 04 Leverkusen
+20,Tue May 18 1982,Werder Bremen,2-0,Bayern München
+33,Fri May 21 1982,Bayern München,3-2,Arminia Bielefeld
+33,Sat May 22 1982,1. FC Kaiserslautern,2-1,1. FC Nürnberg
+33,Sat May 22 1982,Bayer 04 Leverkusen,0-0,Bor. Mönchengladbach
+33,Sat May 22 1982,SV Darmstadt 98,3-3,VfB Stuttgart
+33,Sat May 22 1982,Werder Bremen,5-1,MSV Duisburg
+33,Sat May 22 1982,Fortuna Düsseldorf,3-3,Hamburger SV
+33,Sat May 22 1982,Karlsruher SC,2-2,Eintracht Frankfurt
+33,Sat May 22 1982,Eintracht Braunschweig,4-4,1. FC Köln
+33,Sat May 22 1982,Borussia Dortmund,3-2,VfL Bochum
+34,Sat May 29 1982,VfL Bochum,3-1,Bayern München
+34,Sat May 29 1982,1. FC Köln,3-4,1. FC Kaiserslautern
+34,Sat May 29 1982,Eintracht Frankfurt,4-2,Eintracht Braunschweig
+34,Sat May 29 1982,Hamburger SV,3-3,Karlsruher SC
+34,Sat May 29 1982,MSV Duisburg,2-1,Fortuna Düsseldorf
+34,Sat May 29 1982,VfB Stuttgart,2-4,Werder Bremen
+34,Sat May 29 1982,Bor. Mönchengladbach,6-1,SV Darmstadt 98
+34,Sat May 29 1982,Arminia Bielefeld,1-3,Bayer 04 Leverkusen
+34,Sat May 29 1982,1. FC Nürnberg,3-0,Borussia Dortmund

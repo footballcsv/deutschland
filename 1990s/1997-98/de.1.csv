@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Aug 1 1997,FC Schalke 04,2-1,Bayer 04 Leverkusen
+1,Fri Aug 1 1997,VfB Stuttgart,1-1,TSV 1860 München
+1,Sat Aug 2 1997,VfL Bochum,1-0,Arminia Bielefeld
+1,Sat Aug 2 1997,Bayern München,0-1,1. FC Kaiserslautern
+1,Sat Aug 2 1997,1. FC Köln,3-2,MSV Duisburg
+1,Sat Aug 2 1997,Hansa Rostock,0-1,VfL Wolfsburg
+1,Sat Aug 2 1997,Karlsruher SC,3-1,Werder Bremen
+1,Sun Aug 3 1997,Hamburger SV,2-2,Bor. Mönchengladbach
+1,Sun Aug 3 1997,Hertha BSC,1-1,Borussia Dortmund
+2,Tue Aug 5 1997,MSV Duisburg,1-0,FC Schalke 04
+2,Tue Aug 5 1997,Arminia Bielefeld,2-1,VfB Stuttgart
+2,Tue Aug 5 1997,Bayer 04 Leverkusen,3-2,VfL Bochum
+2,Tue Aug 5 1997,Werder Bremen,1-1,Hansa Rostock
+2,Tue Aug 5 1997,TSV 1860 München,2-2,Karlsruher SC
+2,Wed Aug 6 1997,Borussia Dortmund,3-0,1. FC Köln
+2,Wed Aug 6 1997,1. FC Kaiserslautern,1-0,Hertha BSC
+2,Wed Aug 6 1997,VfL Wolfsburg,1-1,Hamburger SV
+2,Wed Aug 6 1997,Bor. Mönchengladbach,1-1,Bayern München
+3,Fri Aug 8 1997,VfL Bochum,0-0,MSV Duisburg
+3,Fri Aug 8 1997,VfB Stuttgart,1-0,Bayer 04 Leverkusen
+3,Sat Aug 9 1997,Bayern München,5-2,VfL Wolfsburg
+3,Sat Aug 9 1997,Werder Bremen,3-3,TSV 1860 München
+3,Sat Aug 9 1997,Hansa Rostock,2-1,Hamburger SV
+3,Sat Aug 9 1997,Karlsruher SC,3-1,Arminia Bielefeld
+3,Sat Aug 9 1997,FC Schalke 04,1-0,Borussia Dortmund
+3,Sat Aug 9 1997,1. FC Köln,0-0,1. FC Kaiserslautern
+3,Sun Aug 10 1997,Hertha BSC,2-2,Bor. Mönchengladbach
+4,Fri Aug 22 1997,TSV 1860 München,0-1,Hansa Rostock
+4,Fri Aug 22 1997,VfL Wolfsburg,2-1,Hertha BSC
+4,Sat Aug 23 1997,Borussia Dortmund,5-2,VfL Bochum
+4,Sat Aug 23 1997,Arminia Bielefeld,3-0,Werder Bremen
+4,Sat Aug 23 1997,MSV Duisburg,0-3,VfB Stuttgart
+4,Sat Aug 23 1997,1. FC Kaiserslautern,3-0,FC Schalke 04
+4,Sat Aug 23 1997,Bayer 04 Leverkusen,6-1,Karlsruher SC
+4,Sat Aug 23 1997,Bor. Mönchengladbach,4-1,1. FC Köln
+4,Sun Aug 24 1997,Hamburger SV,0-2,Bayern München
+5,Fri Aug 29 1997,VfL Bochum,1-3,1. FC Kaiserslautern
+5,Fri Aug 29 1997,Hertha BSC,0-2,Hamburger SV
+5,Sat Aug 30 1997,1. FC Köln,5-3,VfL Wolfsburg
+5,Sat Aug 30 1997,Werder Bremen,2-1,Bayer 04 Leverkusen
+5,Sat Aug 30 1997,FC Schalke 04,2-0,Bor. Mönchengladbach
+5,Sat Aug 30 1997,VfB Stuttgart,0-0,Borussia Dortmund
+5,Sat Aug 30 1997,Hansa Rostock,1-3,Bayern München
+5,Sun Aug 31 1997,Karlsruher SC,1-2,MSV Duisburg
+5,Mon Sep 1 1997,TSV 1860 München,1-0,Arminia Bielefeld
+6,Fri Sep 12 1997,Arminia Bielefeld,0-1,Hansa Rostock
+6,Fri Sep 12 1997,Hamburger SV,2-1,1. FC Köln
+6,Sat Sep 13 1997,Bayern München,3-0,Hertha BSC
+6,Sat Sep 13 1997,Borussia Dortmund,2-2,Karlsruher SC
+6,Sat Sep 13 1997,MSV Duisburg,2-1,Werder Bremen
+6,Sat Sep 13 1997,Bayer 04 Leverkusen,2-2,TSV 1860 München
+6,Sat Sep 13 1997,Bor. Mönchengladbach,2-1,VfL Bochum
+6,Sat Sep 13 1997,VfL Wolfsburg,0-0,FC Schalke 04
+6,Sun Sep 14 1997,1. FC Kaiserslautern,4-3,VfB Stuttgart
+7,Fri Sep 19 1997,Karlsruher SC,2-4,1. FC Kaiserslautern
+7,Fri Sep 19 1997,TSV 1860 München,0-1,MSV Duisburg
+7,Sat Sep 20 1997,VfL Bochum,2-1,VfL Wolfsburg
+7,Sat Sep 20 1997,Arminia Bielefeld,2-1,Bayer 04 Leverkusen
+7,Sat Sep 20 1997,1. FC Köln,1-3,Bayern München
+7,Sat Sep 20 1997,Hansa Rostock,4-0,Hertha BSC
+7,Sat Sep 20 1997,FC Schalke 04,2-2,Hamburger SV
+7,Sat Sep 20 1997,Werder Bremen,2-1,Borussia Dortmund
+7,Sun Sep 21 1997,VfB Stuttgart,3-0,Bor. Mönchengladbach
+8,Fri Sep 26 1997,Bayern München,1-1,FC Schalke 04
+8,Fri Sep 26 1997,MSV Duisburg,2-1,Arminia Bielefeld
+8,Sat Sep 27 1997,Hamburger SV,2-1,VfL Bochum
+8,Sat Sep 27 1997,Borussia Dortmund,2-3,TSV 1860 München
+8,Sat Sep 27 1997,1. FC Kaiserslautern,1-3,Werder Bremen
+8,Sat Sep 27 1997,Bayer 04 Leverkusen,1-1,Hansa Rostock
+8,Sat Sep 27 1997,Bor. Mönchengladbach,1-1,Karlsruher SC
+8,Sat Sep 27 1997,VfL Wolfsburg,1-0,VfB Stuttgart
+8,Sun Sep 28 1997,Hertha BSC,1-0,1. FC Köln
+9,Fri Oct 3 1997,TSV 1860 München,1-3,1. FC Kaiserslautern
+9,Fri Oct 3 1997,Werder Bremen,1-0,Bor. Mönchengladbach
+9,Sat Oct 4 1997,VfL Bochum,2-3,Bayern München
+9,Sat Oct 4 1997,Arminia Bielefeld,3-1,Borussia Dortmund
+9,Sat Oct 4 1997,FC Schalke 04,1-0,Hertha BSC
+9,Sat Oct 4 1997,Karlsruher SC,2-1,VfL Wolfsburg
+9,Sat Oct 4 1997,Bayer 04 Leverkusen,2-1,MSV Duisburg
+9,Sat Oct 4 1997,Hansa Rostock,1-2,1. FC Köln
+9,Sun Oct 5 1997,VfB Stuttgart,5-2,Hamburger SV
+10,Tue Oct 14 1997,Borussia Dortmund,0-1,Bayer 04 Leverkusen
+10,Tue Oct 14 1997,1. FC Köln,0-2,FC Schalke 04
+10,Tue Oct 14 1997,Hamburger SV,3-1,Karlsruher SC
+10,Tue Oct 14 1997,VfL Wolfsburg,1-0,Werder Bremen
+10,Tue Oct 14 1997,Hertha BSC,2-2,VfL Bochum
+10,Wed Oct 15 1997,Bayern München,3-3,VfB Stuttgart
+10,Wed Oct 15 1997,MSV Duisburg,0-1,Hansa Rostock
+10,Wed Oct 15 1997,1. FC Kaiserslautern,3-1,Arminia Bielefeld
+10,Wed Oct 15 1997,Bor. Mönchengladbach,5-1,TSV 1860 München
+11,Fri Oct 17 1997,VfL Bochum,2-1,1. FC Köln
+11,Fri Oct 17 1997,Werder Bremen,0-0,Hamburger SV
+11,Sat Oct 18 1997,Karlsruher SC,1-1,Bayern München
+11,Sat Oct 18 1997,Hansa Rostock,4-1,FC Schalke 04
+11,Sat Oct 18 1997,MSV Duisburg,0-0,Borussia Dortmund
+11,Sat Oct 18 1997,Bayer 04 Leverkusen,1-1,1. FC Kaiserslautern
+11,Sat Oct 18 1997,TSV 1860 München,2-1,VfL Wolfsburg
+11,Sat Oct 18 1997,VfB Stuttgart,4-1,Hertha BSC
+11,Sun Oct 19 1997,Arminia Bielefeld,3-1,Bor. Mönchengladbach
+12,Fri Oct 24 1997,1. FC Kaiserslautern,1-0,MSV Duisburg
+12,Fri Oct 24 1997,FC Schalke 04,2-0,VfL Bochum
+12,Sat Oct 25 1997,Hamburger SV,1-2,TSV 1860 München
+12,Sat Oct 25 1997,Borussia Dortmund,3-2,Hansa Rostock
+12,Sat Oct 25 1997,Bayern München,2-0,Werder Bremen
+12,Sat Oct 25 1997,Hertha BSC,3-1,Karlsruher SC
+12,Sat Oct 25 1997,Bor. Mönchengladbach,2-2,Bayer 04 Leverkusen
+12,Sat Oct 25 1997,VfL Wolfsburg,2-0,Arminia Bielefeld
+12,Sun Oct 26 1997,1. FC Köln,4-2,VfB Stuttgart
+13,Fri Oct 31 1997,Borussia Dortmund,2-2,1. FC Kaiserslautern
+13,Fri Oct 31 1997,MSV Duisburg,4-5,Bor. Mönchengladbach
+13,Fri Oct 31 1997,Bayer 04 Leverkusen,2-1,VfL Wolfsburg
+13,Sat Nov 1 1997,Karlsruher SC,3-1,1. FC Köln
+13,Sat Nov 1 1997,Hansa Rostock,2-2,VfL Bochum
+13,Sat Nov 1 1997,TSV 1860 München,2-2,Bayern München
+13,Sat Nov 1 1997,VfB Stuttgart,0-0,FC Schalke 04
+13,Sat Nov 1 1997,Werder Bremen,0-2,Hertha BSC
+13,Sun Nov 2 1997,Arminia Bielefeld,0-3,Hamburger SV
+14,Fri Nov 7 1997,1. FC Kaiserslautern,4-3,Hansa Rostock
+14,Fri Nov 7 1997,VfL Wolfsburg,0-2,MSV Duisburg
+14,Sat Nov 8 1997,1. FC Köln,2-0,Werder Bremen
+14,Sat Nov 8 1997,Bayern München,1-0,Arminia Bielefeld
+14,Sat Nov 8 1997,Hamburger SV,0-1,Bayer 04 Leverkusen
+14,Sat Nov 8 1997,Hertha BSC,2-0,TSV 1860 München
+14,Sat Nov 8 1997,Bor. Mönchengladbach,1-1,Borussia Dortmund
+14,Sat Nov 8 1997,FC Schalke 04,2-0,Karlsruher SC
+14,Sun Nov 9 1997,VfL Bochum,0-2,VfB Stuttgart
+17,Tue Nov 11 1997,Borussia Dortmund,0-2,Bayern München
+17,Tue Nov 11 1997,Bayer 04 Leverkusen,4-0,1. FC Köln
+15,Tue Nov 18 1997,Werder Bremen,2-1,FC Schalke 04
+15,Tue Nov 18 1997,Karlsruher SC,1-1,VfL Bochum
+15,Tue Nov 18 1997,MSV Duisburg,3-0,Hamburger SV
+15,Tue Nov 18 1997,Borussia Dortmund,2-1,VfL Wolfsburg
+15,Wed Nov 19 1997,VfB Stuttgart,2-1,Hansa Rostock
+15,Wed Nov 19 1997,Arminia Bielefeld,1-3,Hertha BSC
+15,Wed Nov 19 1997,Bor. Mönchengladbach,1-3,1. FC Kaiserslautern
+15,Wed Nov 19 1997,TSV 1860 München,1-0,1. FC Köln
+16,Fri Nov 21 1997,VfL Bochum,0-1,Werder Bremen
+16,Fri Nov 21 1997,Hamburger SV,1-3,Borussia Dortmund
+16,Sat Nov 22 1997,1. FC Köln,3-5,Arminia Bielefeld
+16,Sat Nov 22 1997,Hertha BSC,2-2,Bayer 04 Leverkusen
+16,Sat Nov 22 1997,FC Schalke 04,2-0,TSV 1860 München
+16,Sat Nov 22 1997,VfB Stuttgart,3-0,Karlsruher SC
+16,Sat Nov 22 1997,VfL Wolfsburg,2-1,1. FC Kaiserslautern
+16,Sat Nov 22 1997,Bayern München,3-0,MSV Duisburg
+16,Sun Nov 23 1997,Hansa Rostock,2-0,Bor. Mönchengladbach
+17,Fri Nov 28 1997,MSV Duisburg,0-1,Hertha BSC
+17,Fri Nov 28 1997,Karlsruher SC,3-0,Hansa Rostock
+17,Sat Nov 29 1997,Arminia Bielefeld,1-1,FC Schalke 04
+17,Sat Nov 29 1997,Bor. Mönchengladbach,0-2,VfL Wolfsburg
+17,Sat Nov 29 1997,TSV 1860 München,0-2,VfL Bochum
+17,Sat Nov 29 1997,Werder Bremen,2-2,VfB Stuttgart
+17,Sat Nov 29 1997,1. FC Kaiserslautern,2-1,Hamburger SV
+15,Sun Nov 30 1997,Bayer 04 Leverkusen,4-2,Bayern München
+18,Fri Dec 5 1997,1. FC Kaiserslautern,2-0,Bayern München
+18,Sat Dec 6 1997,Arminia Bielefeld,0-2,VfL Bochum
+18,Sat Dec 6 1997,MSV Duisburg,2-2,1. FC Köln
+18,Sat Dec 6 1997,Bayer 04 Leverkusen,0-0,FC Schalke 04
+18,Sat Dec 6 1997,Bor. Mönchengladbach,1-1,Hamburger SV
+18,Sat Dec 6 1997,Werder Bremen,2-4,Karlsruher SC
+18,Sat Dec 6 1997,TSV 1860 München,1-3,VfB Stuttgart
+18,Sun Dec 7 1997,VfL Wolfsburg,1-1,Hansa Rostock
+19,Fri Dec 12 1997,Hertha BSC,2-0,1. FC Kaiserslautern
+19,Fri Dec 12 1997,Hansa Rostock,1-2,Werder Bremen
+19,Sat Dec 13 1997,VfB Stuttgart,1-0,Arminia Bielefeld
+19,Sat Dec 13 1997,Bayern München,3-2,Bor. Mönchengladbach
+19,Sat Dec 13 1997,1. FC Köln,4-2,Borussia Dortmund
+19,Sat Dec 13 1997,FC Schalke 04,1-1,MSV Duisburg
+19,Sat Dec 13 1997,Karlsruher SC,0-0,TSV 1860 München
+19,Sat Dec 13 1997,Hamburger SV,1-2,VfL Wolfsburg
+19,Sun Dec 14 1997,VfL Bochum,0-0,Bayer 04 Leverkusen
+18,Tue Dec 16 1997,Borussia Dortmund,3-0,Hertha BSC
+20,Fri Dec 19 1997,Borussia Dortmund,2-2,FC Schalke 04
+20,Fri Dec 19 1997,Bor. Mönchengladbach,4-2,Hertha BSC
+20,Sat Dec 20 1997,Arminia Bielefeld,2-1,Karlsruher SC
+20,Sat Dec 20 1997,MSV Duisburg,2-0,VfL Bochum
+20,Sat Dec 20 1997,VfL Wolfsburg,2-3,Bayern München
+20,Sat Dec 20 1997,Bayer 04 Leverkusen,6-1,VfB Stuttgart
+20,Sat Dec 20 1997,TSV 1860 München,0-1,Werder Bremen
+20,Sat Dec 20 1997,1. FC Kaiserslautern,3-2,1. FC Köln
+20,Sun Dec 21 1997,Hamburger SV,0-1,Hansa Rostock
+21,Fri Jan 30 1998,VfL Bochum,2-1,Borussia Dortmund
+21,Fri Jan 30 1998,VfB Stuttgart,1-1,MSV Duisburg
+21,Sat Jan 31 1998,1. FC Köln,3-2,Bor. Mönchengladbach
+21,Sat Jan 31 1998,Bayern München,3-0,Hamburger SV
+21,Sat Jan 31 1998,Hansa Rostock,3-0,TSV 1860 München
+21,Sat Jan 31 1998,Hertha BSC,1-0,VfL Wolfsburg
+21,Sat Jan 31 1998,FC Schalke 04,1-1,1. FC Kaiserslautern
+21,Sat Jan 31 1998,Werder Bremen,2-1,Arminia Bielefeld
+21,Sun Feb 1 1998,Karlsruher SC,1-1,Bayer 04 Leverkusen
+22,Fri Feb 6 1998,MSV Duisburg,1-0,Karlsruher SC
+22,Fri Feb 6 1998,1. FC Kaiserslautern,3-0,VfL Bochum
+22,Sat Feb 7 1998,Arminia Bielefeld,1-1,TSV 1860 München
+22,Sat Feb 7 1998,Bayern München,2-0,Hansa Rostock
+22,Sat Feb 7 1998,Bor. Mönchengladbach,0-1,FC Schalke 04
+22,Sat Feb 7 1998,Hamburger SV,1-1,Hertha BSC
+22,Sat Feb 7 1998,Bayer 04 Leverkusen,4-1,Werder Bremen
+22,Sat Feb 7 1998,Borussia Dortmund,3-1,VfB Stuttgart
+22,Sun Feb 8 1998,VfL Wolfsburg,1-1,1. FC Köln
+23,Fri Feb 13 1998,Karlsruher SC,0-1,Borussia Dortmund
+23,Fri Feb 13 1998,1. FC Köln,1-2,Hamburger SV
+23,Fri Feb 13 1998,Werder Bremen,2-2,MSV Duisburg
+23,Sat Feb 14 1998,VfL Bochum,3-1,Bor. Mönchengladbach
+23,Sat Feb 14 1998,Hansa Rostock,2-1,Arminia Bielefeld
+23,Sat Feb 14 1998,Hertha BSC,2-1,Bayern München
+23,Sat Feb 14 1998,TSV 1860 München,3-4,Bayer 04 Leverkusen
+23,Sat Feb 14 1998,VfB Stuttgart,0-1,1. FC Kaiserslautern
+23,Sat Feb 14 1998,FC Schalke 04,1-1,VfL Wolfsburg
+24,Fri Feb 27 1998,Borussia Dortmund,2-2,Werder Bremen
+24,Fri Feb 27 1998,1. FC Kaiserslautern,0-0,Karlsruher SC
+24,Sat Feb 28 1998,MSV Duisburg,0-2,TSV 1860 München
+24,Sat Feb 28 1998,Bayern München,0-2,1. FC Köln
+24,Sat Feb 28 1998,Hamburger SV,1-1,FC Schalke 04
+24,Sat Feb 28 1998,Bayer 04 Leverkusen,0-0,Arminia Bielefeld
+24,Sat Feb 28 1998,Bor. Mönchengladbach,0-0,VfB Stuttgart
+24,Sat Feb 28 1998,VfL Wolfsburg,0-2,VfL Bochum
+24,Sun Mar 1 1998,Hertha BSC,1-1,Hansa Rostock
+25,Fri Mar 6 1998,VfL Bochum,0-0,Hamburger SV
+25,Fri Mar 6 1998,Werder Bremen,1-1,1. FC Kaiserslautern
+25,Sat Mar 7 1998,Arminia Bielefeld,3-3,MSV Duisburg
+25,Sat Mar 7 1998,TSV 1860 München,4-2,Borussia Dortmund
+25,Sat Mar 7 1998,Hansa Rostock,1-2,Bayer 04 Leverkusen
+25,Sat Mar 7 1998,Karlsruher SC,2-5,Bor. Mönchengladbach
+25,Sat Mar 7 1998,1. FC Köln,2-0,Hertha BSC
+25,Sun Mar 8 1998,VfB Stuttgart,2-1,VfL Wolfsburg
+25,Sun Mar 8 1998,FC Schalke 04,1-0,Bayern München
+26,Fri Mar 13 1998,MSV Duisburg,1-1,Bayer 04 Leverkusen
+26,Fri Mar 13 1998,Hertha BSC,1-4,FC Schalke 04
+26,Sat Mar 14 1998,Borussia Dortmund,3-2,Arminia Bielefeld
+26,Sat Mar 14 1998,Bayern München,0-0,VfL Bochum
+26,Sat Mar 14 1998,Hamburger SV,0-0,VfB Stuttgart
+26,Sat Mar 14 1998,VfL Wolfsburg,1-2,Karlsruher SC
+26,Sat Mar 14 1998,Bor. Mönchengladbach,0-0,Werder Bremen
+26,Sat Mar 14 1998,1. FC Kaiserslautern,1-0,TSV 1860 München
+26,Sun Mar 15 1998,1. FC Köln,0-0,Hansa Rostock
+27,Sat Mar 21 1998,Hansa Rostock,2-1,MSV Duisburg
+27,Sat Mar 21 1998,Karlsruher SC,0-1,Hamburger SV
+27,Sat Mar 21 1998,TSV 1860 München,2-0,Bor. Mönchengladbach
+27,Sat Mar 21 1998,Werder Bremen,3-1,VfL Wolfsburg
+27,Sun Mar 22 1998,VfB Stuttgart,0-3,Bayern München
+28,Fri Mar 27 1998,VfL Wolfsburg,1-0,TSV 1860 München
+28,Fri Mar 27 1998,Hamburger SV,2-1,Werder Bremen
+28,Sat Mar 28 1998,FC Schalke 04,0-0,Hansa Rostock
+28,Sat Mar 28 1998,Hertha BSC,3-0,VfB Stuttgart
+28,Sat Mar 28 1998,Borussia Dortmund,3-0,MSV Duisburg
+28,Sat Mar 28 1998,1. FC Kaiserslautern,0-3,Bayer 04 Leverkusen
+28,Sat Mar 28 1998,Bayern München,1-1,Karlsruher SC
+28,Sat Mar 28 1998,Bor. Mönchengladbach,0-0,Arminia Bielefeld
+28,Sun Mar 29 1998,1. FC Köln,2-1,VfL Bochum
+29,Fri Apr 3 1998,MSV Duisburg,1-1,1. FC Kaiserslautern
+29,Fri Apr 3 1998,Karlsruher SC,0-2,Hertha BSC
+29,Sat Apr 4 1998,Hansa Rostock,3-1,Borussia Dortmund
+29,Sat Apr 4 1998,TSV 1860 München,1-1,Hamburger SV
+29,Sat Apr 4 1998,Bayer 04 Leverkusen,1-1,Bor. Mönchengladbach
+29,Sat Apr 4 1998,Werder Bremen,0-3,Bayern München
+29,Sat Apr 4 1998,Arminia Bielefeld,0-1,VfL Wolfsburg
+29,Sat Apr 4 1998,VfL Bochum,3-0,FC Schalke 04
+29,Sun Apr 5 1998,VfB Stuttgart,1-1,1. FC Köln
+30,Thu Apr 9 1998,1. FC Kaiserslautern,1-1,Borussia Dortmund
+30,Thu Apr 9 1998,VfL Bochum,1-3,Hansa Rostock
+30,Sat Apr 11 1998,Hertha BSC,0-2,Werder Bremen
+30,Sat Apr 11 1998,Hamburger SV,2-0,Arminia Bielefeld
+30,Sat Apr 11 1998,VfL Wolfsburg,1-0,Bayer 04 Leverkusen
+30,Sat Apr 11 1998,FC Schalke 04,3-4,VfB Stuttgart
+30,Sat Apr 11 1998,Bayern München,3-1,TSV 1860 München
+30,Sat Apr 11 1998,1. FC Köln,0-1,Karlsruher SC
+30,Sun Apr 12 1998,Bor. Mönchengladbach,0-3,MSV Duisburg
+31,Fri Apr 17 1998,Werder Bremen,3-0,1. FC Köln
+31,Fri Apr 17 1998,MSV Duisburg,2-2,VfL Wolfsburg
+31,Sat Apr 18 1998,Karlsruher SC,0-0,FC Schalke 04
+31,Sat Apr 18 1998,Bayer 04 Leverkusen,5-0,Hamburger SV
+31,Sat Apr 18 1998,TSV 1860 München,3-1,Hertha BSC
+31,Sat Apr 18 1998,Hansa Rostock,2-2,1. FC Kaiserslautern
+31,Sat Apr 18 1998,Arminia Bielefeld,4-4,Bayern München
+31,Sat Apr 18 1998,Borussia Dortmund,1-2,Bor. Mönchengladbach
+31,Sun Apr 19 1998,VfB Stuttgart,2-0,VfL Bochum
+32,Fri Apr 24 1998,1. FC Kaiserslautern,3-2,Bor. Mönchengladbach
+32,Fri Apr 24 1998,Hertha BSC,1-1,Arminia Bielefeld
+32,Sat Apr 25 1998,VfL Wolfsburg,1-4,Borussia Dortmund
+32,Sat Apr 25 1998,Hansa Rostock,1-1,VfB Stuttgart
+32,Sat Apr 25 1998,FC Schalke 04,0-1,Werder Bremen
+32,Sat Apr 25 1998,Hamburger SV,1-0,MSV Duisburg
+32,Sat Apr 25 1998,1. FC Köln,2-3,TSV 1860 München
+32,Sat Apr 25 1998,VfL Bochum,3-3,Karlsruher SC
+32,Sun Apr 26 1998,Bayern München,2-1,Bayer 04 Leverkusen
+27,Wed Apr 29 1998,FC Schalke 04,1-0,1. FC Köln
+27,Wed Apr 29 1998,VfL Bochum,2-1,Hertha BSC
+27,Wed Apr 29 1998,Arminia Bielefeld,2-2,1. FC Kaiserslautern
+27,Wed Apr 29 1998,Bayer 04 Leverkusen,2-2,Borussia Dortmund
+33,Sat May 2 1998,MSV Duisburg,0-0,Bayern München
+33,Sat May 2 1998,Borussia Dortmund,0-1,Hamburger SV
+33,Sat May 2 1998,Arminia Bielefeld,2-1,1. FC Köln
+33,Sat May 2 1998,1. FC Kaiserslautern,4-0,VfL Wolfsburg
+33,Sat May 2 1998,Karlsruher SC,4-2,VfB Stuttgart
+33,Sat May 2 1998,Bayer 04 Leverkusen,0-1,Hertha BSC
+33,Sat May 2 1998,Bor. Mönchengladbach,5-2,Hansa Rostock
+33,Sat May 2 1998,Werder Bremen,1-0,VfL Bochum
+33,Sat May 2 1998,TSV 1860 München,1-0,FC Schalke 04
+34,Sat May 9 1998,Bayern München,4-0,Borussia Dortmund
+34,Sat May 9 1998,VfL Bochum,1-0,TSV 1860 München
+34,Sat May 9 1998,1. FC Köln,2-2,Bayer 04 Leverkusen
+34,Sat May 9 1998,Hamburger SV,1-1,1. FC Kaiserslautern
+34,Sat May 9 1998,Hansa Rostock,4-2,Karlsruher SC
+34,Sat May 9 1998,Hertha BSC,1-3,MSV Duisburg
+34,Sat May 9 1998,FC Schalke 04,2-1,Arminia Bielefeld
+34,Sat May 9 1998,VfB Stuttgart,1-0,Werder Bremen
+34,Sat May 9 1998,VfL Wolfsburg,0-2,Bor. Mönchengladbach

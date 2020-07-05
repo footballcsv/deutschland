@@ -1,0 +1,381 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Jul 29 2016,MSV Duisburg,1-0,SC Paderborn 07
+1,Sat Jul 30 2016,SSV Jahn Regensburg,2-0,Hansa Rostock
+1,Sat Jul 30 2016,FC Rot-Weiß Erfurt,0-3,Hallescher FC
+1,Sat Jul 30 2016,Holstein Kiel,1-1,FSV Frankfurt
+1,Sat Jul 30 2016,1. FSV Mainz 05 II,2-2,FSV Zwickau
+1,Sat Jul 30 2016,SV Wehen Wiesbaden,1-2,VfR Aalen
+1,Sat Jul 30 2016,Chemnitzer FC,0-0,SG Großaspach
+1,Sun Jul 31 2016,Werder Bremen II,0-3,SF Lotte
+1,Sun Jul 31 2016,1. FC Magdeburg,0-3,Fortuna Köln
+1,Sun Jul 31 2016,Preußen Münster,0-1,VfL Osnabrück
+2,Fri Aug 5 2016,Hansa Rostock,1-0,Preußen Münster
+2,Fri Aug 5 2016,Fortuna Köln,2-0,Werder Bremen II
+2,Sat Aug 6 2016,SF Lotte,0-0,SV Wehen Wiesbaden
+2,Sat Aug 6 2016,FSV Frankfurt,0-1,FC Rot-Weiß Erfurt
+2,Sat Aug 6 2016,Hallescher FC,1-1,Chemnitzer FC
+2,Sat Aug 6 2016,VfR Aalen,1-0,Holstein Kiel
+2,Sat Aug 6 2016,SC Paderborn 07,3-1,1. FSV Mainz 05 II
+2,Sun Aug 7 2016,VfL Osnabrück,1-1,MSV Duisburg
+2,Sun Aug 7 2016,SG Großaspach,3-4,SSV Jahn Regensburg
+3,Tue Aug 9 2016,1. FC Magdeburg,3-0,SC Paderborn 07
+3,Tue Aug 9 2016,FC Rot-Weiß Erfurt,0-0,VfR Aalen
+3,Tue Aug 9 2016,Holstein Kiel,3-1,SF Lotte
+3,Tue Aug 9 2016,SV Wehen Wiesbaden,3-0,Fortuna Köln
+3,Wed Aug 10 2016,SSV Jahn Regensburg,2-0,Hallescher FC
+3,Wed Aug 10 2016,Hansa Rostock,0-0,SG Großaspach
+3,Wed Aug 10 2016,Chemnitzer FC,2-1,FSV Frankfurt
+3,Wed Aug 10 2016,1. FSV Mainz 05 II,2-2,VfL Osnabrück
+3,Wed Aug 10 2016,Preußen Münster,1-1,MSV Duisburg
+3,Wed Aug 10 2016,Werder Bremen II,1-3,FSV Zwickau
+4,Fri Aug 12 2016,SF Lotte,2-2,FC Rot-Weiß Erfurt
+4,Sat Aug 13 2016,FSV Zwickau,0-3,SV Wehen Wiesbaden
+4,Sat Aug 13 2016,VfL Osnabrück,3-2,1. FC Magdeburg
+4,Sat Aug 13 2016,FSV Frankfurt,1-1,SSV Jahn Regensburg
+4,Sat Aug 13 2016,SC Paderborn 07,1-2,Werder Bremen II
+4,Sat Aug 13 2016,SG Großaspach,2-0,Preußen Münster
+4,Sat Aug 13 2016,MSV Duisburg,4-0,1. FSV Mainz 05 II
+4,Sat Aug 13 2016,Fortuna Köln,1-0,Holstein Kiel
+4,Sat Aug 13 2016,Hallescher FC,0-0,Hansa Rostock
+4,Sun Aug 14 2016,VfR Aalen,2-2,Chemnitzer FC
+5,Fri Aug 26 2016,Werder Bremen II,4-2,VfL Osnabrück
+5,Fri Aug 26 2016,1. FC Magdeburg,1-2,MSV Duisburg
+5,Sat Aug 27 2016,Preußen Münster,1-0,1. FSV Mainz 05 II
+5,Sat Aug 27 2016,SG Großaspach,3-0,Hallescher FC
+5,Sat Aug 27 2016,Chemnitzer FC,0-1,SF Lotte
+5,Sat Aug 27 2016,SV Wehen Wiesbaden,1-2,SC Paderborn 07
+5,Sat Aug 27 2016,FC Rot-Weiß Erfurt,3-0,Fortuna Köln
+5,Sat Aug 27 2016,SSV Jahn Regensburg,0-2,VfR Aalen
+5,Sat Aug 27 2016,Holstein Kiel,3-0,FSV Zwickau
+5,Sat Aug 27 2016,Hansa Rostock,1-1,FSV Frankfurt
+2,Thu Sep 1 2016,FSV Zwickau,0-0,1. FC Magdeburg
+6,Fri Sep 9 2016,Hallescher FC,2-1,Preußen Münster
+6,Fri Sep 9 2016,VfR Aalen,1-1,Hansa Rostock
+6,Fri Sep 9 2016,VfL Osnabrück,1-0,SV Wehen Wiesbaden
+6,Sat Sep 10 2016,Fortuna Köln,1-0,Chemnitzer FC
+6,Sat Sep 10 2016,FSV Frankfurt,1-3,SG Großaspach
+6,Sat Sep 10 2016,1. FSV Mainz 05 II,1-0,1. FC Magdeburg
+6,Sat Sep 10 2016,SF Lotte,3-2,SSV Jahn Regensburg
+6,Sat Sep 10 2016,MSV Duisburg,1-0,Werder Bremen II
+6,Sun Sep 11 2016,FSV Zwickau,1-2,FC Rot-Weiß Erfurt
+6,Sun Sep 11 2016,SC Paderborn 07,1-3,Holstein Kiel
+7,Fri Sep 16 2016,Chemnitzer FC,1-0,FSV Zwickau
+7,Fri Sep 16 2016,SV Wehen Wiesbaden,3-0,MSV Duisburg
+7,Fri Sep 16 2016,Holstein Kiel,0-1,VfL Osnabrück
+7,Sat Sep 17 2016,Werder Bremen II,2-1,1. FSV Mainz 05 II
+7,Sat Sep 17 2016,Preußen Münster,2-3,1. FC Magdeburg
+7,Sat Sep 17 2016,SSV Jahn Regensburg,2-2,Fortuna Köln
+7,Sat Sep 17 2016,Hansa Rostock,1-3,SF Lotte
+7,Sat Sep 17 2016,FC Rot-Weiß Erfurt,1-3,SC Paderborn 07
+7,Sat Sep 17 2016,Hallescher FC,1-1,FSV Frankfurt
+7,Sat Sep 17 2016,SG Großaspach,2-2,VfR Aalen
+8,Tue Sep 20 2016,VfL Osnabrück,3-0,FC Rot-Weiß Erfurt
+8,Tue Sep 20 2016,VfR Aalen,1-1,Hallescher FC
+8,Tue Sep 20 2016,FSV Zwickau,4-0,SSV Jahn Regensburg
+8,Tue Sep 20 2016,MSV Duisburg,0-0,Holstein Kiel
+8,Wed Sep 21 2016,1. FSV Mainz 05 II,1-2,SV Wehen Wiesbaden
+8,Wed Sep 21 2016,SC Paderborn 07,4-2,Chemnitzer FC
+8,Wed Sep 21 2016,FSV Frankfurt,4-1,Preußen Münster
+8,Wed Sep 21 2016,Fortuna Köln,0-2,Hansa Rostock
+8,Wed Sep 21 2016,SF Lotte,2-1,SG Großaspach
+8,Wed Sep 21 2016,1. FC Magdeburg,2-0,Werder Bremen II
+9,Sat Sep 24 2016,SG Großaspach,2-3,Fortuna Köln
+9,Sat Sep 24 2016,Holstein Kiel,3-0,1. FSV Mainz 05 II
+9,Sat Sep 24 2016,FSV Frankfurt,2-1,VfR Aalen
+9,Sat Sep 24 2016,Chemnitzer FC,3-0,VfL Osnabrück
+9,Sat Sep 24 2016,Preußen Münster,4-0,Werder Bremen II
+9,Sat Sep 24 2016,SSV Jahn Regensburg,3-0,SC Paderborn 07
+9,Sat Sep 24 2016,Hallescher FC,2-0,SF Lotte
+9,Sun Sep 25 2016,FC Rot-Weiß Erfurt,0-1,MSV Duisburg
+9,Sun Sep 25 2016,Hansa Rostock,5-0,FSV Zwickau
+9,Sun Sep 25 2016,SV Wehen Wiesbaden,0-3,1. FC Magdeburg
+10,Fri Sep 30 2016,SC Paderborn 07,0-3,Hansa Rostock
+10,Fri Sep 30 2016,FSV Zwickau,0-2,SG Großaspach
+10,Sat Oct 1 2016,1. FC Magdeburg,1-0,Holstein Kiel
+10,Sat Oct 1 2016,VfR Aalen,1-0,Preußen Münster
+10,Sat Oct 1 2016,MSV Duisburg,1-0,Chemnitzer FC
+10,Sat Oct 1 2016,VfL Osnabrück,1-2,SSV Jahn Regensburg
+10,Sat Oct 1 2016,Fortuna Köln,1-1,Hallescher FC
+10,Sat Oct 1 2016,Werder Bremen II,0-1,SV Wehen Wiesbaden
+10,Sat Oct 1 2016,SF Lotte,0-1,FSV Frankfurt
+10,Sun Oct 2 2016,1. FSV Mainz 05 II,1-1,FC Rot-Weiß Erfurt
+11,Fri Oct 14 2016,SG Großaspach,2-3,SC Paderborn 07
+11,Sat Oct 15 2016,Hansa Rostock,1-2,VfL Osnabrück
+11,Sat Oct 15 2016,VfR Aalen,1-1,SF Lotte
+11,Sat Oct 15 2016,SSV Jahn Regensburg,1-2,MSV Duisburg
+11,Sat Oct 15 2016,Hallescher FC,3-2,FSV Zwickau
+11,Sat Oct 15 2016,Holstein Kiel,3-1,Werder Bremen II
+11,Sat Oct 15 2016,Preußen Münster,2-2,SV Wehen Wiesbaden
+11,Sat Oct 15 2016,FC Rot-Weiß Erfurt,1-0,1. FC Magdeburg
+11,Sun Oct 16 2016,Chemnitzer FC,4-1,1. FSV Mainz 05 II
+11,Sun Oct 16 2016,FSV Frankfurt,6-0,Fortuna Köln
+12,Sat Oct 22 2016,SF Lotte,1-0,Preußen Münster
+12,Sat Oct 22 2016,FSV Zwickau,1-1,FSV Frankfurt
+12,Sat Oct 22 2016,SC Paderborn 07,0-0,Hallescher FC
+12,Sat Oct 22 2016,VfL Osnabrück,1-0,SG Großaspach
+12,Sat Oct 22 2016,1. FC Magdeburg,2-4,Chemnitzer FC
+12,Sat Oct 22 2016,SV Wehen Wiesbaden,0-0,Holstein Kiel
+12,Sat Oct 22 2016,Fortuna Köln,0-2,VfR Aalen
+12,Sat Oct 22 2016,MSV Duisburg,0-1,Hansa Rostock
+12,Sun Oct 23 2016,1. FSV Mainz 05 II,2-0,SSV Jahn Regensburg
+12,Sun Oct 23 2016,Werder Bremen II,1-0,FC Rot-Weiß Erfurt
+13,Fri Oct 28 2016,VfR Aalen,0-1,FSV Zwickau
+13,Sat Oct 29 2016,SSV Jahn Regensburg,1-1,1. FC Magdeburg
+13,Sat Oct 29 2016,Hansa Rostock,1-1,1. FSV Mainz 05 II
+13,Sat Oct 29 2016,FC Rot-Weiß Erfurt,1-0,SV Wehen Wiesbaden
+13,Sat Oct 29 2016,Hallescher FC,1-0,VfL Osnabrück
+13,Sat Oct 29 2016,Preußen Münster,1-1,Holstein Kiel
+13,Sat Oct 29 2016,SG Großaspach,0-0,MSV Duisburg
+13,Sat Oct 29 2016,SF Lotte,0-1,Fortuna Köln
+13,Sat Oct 29 2016,FSV Frankfurt,3-0,SC Paderborn 07
+13,Sat Oct 29 2016,Chemnitzer FC,1-1,Werder Bremen II
+14,Sat Nov 5 2016,FSV Zwickau,1-1,SF Lotte
+14,Sat Nov 5 2016,MSV Duisburg,0-0,Hallescher FC
+14,Sat Nov 5 2016,1. FC Magdeburg,1-1,Hansa Rostock
+14,Sat Nov 5 2016,VfL Osnabrück,1-1,FSV Frankfurt
+14,Sat Nov 5 2016,Holstein Kiel,0-0,FC Rot-Weiß Erfurt
+14,Sat Nov 5 2016,SV Wehen Wiesbaden,0-3,Chemnitzer FC
+14,Sat Nov 5 2016,1. FSV Mainz 05 II,0-2,SG Großaspach
+14,Sat Nov 5 2016,Werder Bremen II,3-1,SSV Jahn Regensburg
+14,Sat Nov 5 2016,Fortuna Köln,0-1,Preußen Münster
+14,Sat Nov 5 2016,SC Paderborn 07,0-0,VfR Aalen
+15,Fri Nov 18 2016,VfR Aalen,1-1,VfL Osnabrück
+15,Fri Nov 18 2016,Preußen Münster,4-0,FC Rot-Weiß Erfurt
+15,Fri Nov 18 2016,Fortuna Köln,2-1,FSV Zwickau
+15,Sat Nov 19 2016,Hallescher FC,2-0,1. FSV Mainz 05 II
+15,Sat Nov 19 2016,Chemnitzer FC,2-2,Holstein Kiel
+15,Sat Nov 19 2016,Hansa Rostock,1-1,Werder Bremen II
+15,Sat Nov 19 2016,FSV Frankfurt,0-0,MSV Duisburg
+15,Sat Nov 19 2016,SSV Jahn Regensburg,3-1,SV Wehen Wiesbaden
+15,Sat Nov 19 2016,SF Lotte,6-0,SC Paderborn 07
+15,Sat Nov 19 2016,SG Großaspach,1-3,1. FC Magdeburg
+16,Fri Nov 25 2016,SV Wehen Wiesbaden,1-1,Hansa Rostock
+16,Sat Nov 26 2016,VfL Osnabrück,3-0,SF Lotte
+16,Sat Nov 26 2016,Holstein Kiel,2-1,SSV Jahn Regensburg
+16,Sat Nov 26 2016,FC Rot-Weiß Erfurt,1-2,Chemnitzer FC
+16,Sat Nov 26 2016,Werder Bremen II,1-0,SG Großaspach
+16,Sat Nov 26 2016,1. FC Magdeburg,1-0,Hallescher FC
+16,Sat Nov 26 2016,SC Paderborn 07,1-1,Fortuna Köln
+16,Sat Nov 26 2016,MSV Duisburg,2-2,VfR Aalen
+16,Sun Nov 27 2016,FSV Zwickau,0-1,Preußen Münster
+16,Sun Nov 27 2016,1. FSV Mainz 05 II,1-0,FSV Frankfurt
+17,Fri Dec 2 2016,SSV Jahn Regensburg,0-1,FC Rot-Weiß Erfurt
+17,Fri Dec 2 2016,Preußen Münster,1-0,Chemnitzer FC
+17,Fri Dec 2 2016,SG Großaspach,2-1,SV Wehen Wiesbaden
+17,Sat Dec 3 2016,FSV Zwickau,3-0,SC Paderborn 07
+17,Sat Dec 3 2016,Hansa Rostock,1-4,Holstein Kiel
+17,Sat Dec 3 2016,Hallescher FC,2-0,Werder Bremen II
+17,Sat Dec 3 2016,Fortuna Köln,1-1,VfL Osnabrück
+17,Sat Dec 3 2016,VfR Aalen,0-0,1. FSV Mainz 05 II
+17,Sun Dec 4 2016,FSV Frankfurt,0-1,1. FC Magdeburg
+17,Sun Dec 4 2016,SF Lotte,0-2,MSV Duisburg
+18,Sat Dec 10 2016,Werder Bremen II,0-0,FSV Frankfurt
+18,Sat Dec 10 2016,Chemnitzer FC,0-3,SSV Jahn Regensburg
+18,Sat Dec 10 2016,1. FC Magdeburg,3-0,VfR Aalen
+18,Sat Dec 10 2016,VfL Osnabrück,1-0,FSV Zwickau
+18,Sat Dec 10 2016,SV Wehen Wiesbaden,1-1,Hallescher FC
+18,Sat Dec 10 2016,FC Rot-Weiß Erfurt,1-2,Hansa Rostock
+18,Sat Dec 10 2016,MSV Duisburg,2-0,Fortuna Köln
+18,Sat Dec 10 2016,Holstein Kiel,1-2,SG Großaspach
+18,Sat Dec 10 2016,Preußen Münster,0-1,SC Paderborn 07
+18,Sun Dec 11 2016,1. FSV Mainz 05 II,0-2,SF Lotte
+19,Fri Dec 16 2016,SG Großaspach,2-1,FC Rot-Weiß Erfurt
+19,Sat Dec 17 2016,SC Paderborn 07,3-1,VfL Osnabrück
+19,Sat Dec 17 2016,VfR Aalen,3-0,Werder Bremen II
+19,Sat Dec 17 2016,FSV Frankfurt,3-1,SV Wehen Wiesbaden
+19,Sat Dec 17 2016,Hallescher FC,0-0,Holstein Kiel
+19,Sat Dec 17 2016,SSV Jahn Regensburg,3-1,Preußen Münster
+19,Sat Dec 17 2016,Fortuna Köln,1-0,1. FSV Mainz 05 II
+19,Sat Dec 17 2016,Hansa Rostock,1-3,Chemnitzer FC
+19,Sat Dec 17 2016,SF Lotte,1-3,1. FC Magdeburg
+19,Sun Dec 18 2016,FSV Zwickau,1-1,MSV Duisburg
+20,Sat Jan 28 2017,Hallescher FC,1-0,FC Rot-Weiß Erfurt
+20,Sat Jan 28 2017,Fortuna Köln,2-1,1. FC Magdeburg
+20,Sat Jan 28 2017,Hansa Rostock,0-0,SSV Jahn Regensburg
+20,Sat Jan 28 2017,SF Lotte,1-2,Werder Bremen II
+20,Sat Jan 28 2017,VfL Osnabrück,3-0,Preußen Münster
+20,Sat Jan 28 2017,FSV Frankfurt,0-0,Holstein Kiel
+20,Sat Jan 28 2017,SG Großaspach,2-2,Chemnitzer FC
+20,Sat Jan 28 2017,FSV Zwickau,1-0,1. FSV Mainz 05 II
+20,Sat Jan 28 2017,VfR Aalen,1-1,SV Wehen Wiesbaden
+20,Sat Jan 28 2017,SC Paderborn 07,0-1,MSV Duisburg
+21,Sat Feb 4 2017,Holstein Kiel,2-2,VfR Aalen
+21,Sat Feb 4 2017,MSV Duisburg,2-2,VfL Osnabrück
+21,Sat Feb 4 2017,Chemnitzer FC,1-1,Hallescher FC
+21,Sat Feb 4 2017,SSV Jahn Regensburg,1-1,SG Großaspach
+21,Sat Feb 4 2017,FC Rot-Weiß Erfurt,1-0,FSV Frankfurt
+21,Sat Feb 4 2017,SV Wehen Wiesbaden,0-3,SF Lotte
+21,Sat Feb 4 2017,1. FSV Mainz 05 II,0-1,SC Paderborn 07
+21,Sun Feb 5 2017,Preußen Münster,3-1,Hansa Rostock
+21,Sun Feb 5 2017,Werder Bremen II,1-1,Fortuna Köln
+21,Sun Feb 5 2017,1. FC Magdeburg,1-1,FSV Zwickau
+22,Fri Feb 10 2017,VfL Osnabrück,1-2,1. FSV Mainz 05 II
+22,Fri Feb 10 2017,VfR Aalen,1-1,FC Rot-Weiß Erfurt
+22,Sat Feb 11 2017,FSV Frankfurt,0-3,Chemnitzer FC
+22,Sat Feb 11 2017,SC Paderborn 07,1-1,1. FC Magdeburg
+22,Sat Feb 11 2017,Fortuna Köln,0-0,SV Wehen Wiesbaden
+22,Sat Feb 11 2017,FSV Zwickau,2-1,Werder Bremen II
+22,Sat Feb 11 2017,Hallescher FC,1-1,SSV Jahn Regensburg
+22,Sat Feb 11 2017,SG Großaspach,1-1,Hansa Rostock
+22,Sun Feb 12 2017,MSV Duisburg,3-2,Preußen Münster
+23,Fri Feb 17 2017,1. FSV Mainz 05 II,0-2,MSV Duisburg
+23,Sat Feb 18 2017,SSV Jahn Regensburg,2-1,FSV Frankfurt
+23,Sat Feb 18 2017,Preußen Münster,3-0,SG Großaspach
+23,Sat Feb 18 2017,Holstein Kiel,5-1,Fortuna Köln
+23,Sat Feb 18 2017,FC Rot-Weiß Erfurt,0-3,SF Lotte
+23,Sat Feb 18 2017,Werder Bremen II,1-0,SC Paderborn 07
+23,Sat Feb 18 2017,Chemnitzer FC,0-1,VfR Aalen
+23,Sat Feb 18 2017,1. FC Magdeburg,3-0,VfL Osnabrück
+23,Sat Feb 18 2017,SV Wehen Wiesbaden,3-0,FSV Zwickau
+23,Sun Feb 19 2017,Hansa Rostock,1-0,Hallescher FC
+24,Fri Feb 24 2017,MSV Duisburg,0-0,1. FC Magdeburg
+24,Fri Feb 24 2017,SC Paderborn 07,0-1,SV Wehen Wiesbaden
+24,Fri Feb 24 2017,VfL Osnabrück,0-1,Werder Bremen II
+24,Sat Feb 25 2017,1. FSV Mainz 05 II,3-1,Preußen Münster
+24,Sat Feb 25 2017,FSV Frankfurt,0-0,Hansa Rostock
+24,Sat Feb 25 2017,Hallescher FC,0-1,SG Großaspach
+24,Sat Feb 25 2017,VfR Aalen,1-2,SSV Jahn Regensburg
+24,Sat Feb 25 2017,Fortuna Köln,0-1,FC Rot-Weiß Erfurt
+24,Sun Feb 26 2017,FSV Zwickau,1-0,Holstein Kiel
+25,Fri Mar 3 2017,Chemnitzer FC,3-1,Fortuna Köln
+25,Sat Mar 4 2017,Holstein Kiel,2-1,SC Paderborn 07
+25,Sat Mar 4 2017,Preußen Münster,1-1,Hallescher FC
+25,Sat Mar 4 2017,Hansa Rostock,1-1,VfR Aalen
+25,Sat Mar 4 2017,FC Rot-Weiß Erfurt,1-3,FSV Zwickau
+25,Sat Mar 4 2017,SG Großaspach,3-1,FSV Frankfurt
+25,Sat Mar 4 2017,SSV Jahn Regensburg,2-0,SF Lotte
+25,Sat Mar 4 2017,1. FC Magdeburg,1-2,1. FSV Mainz 05 II
+25,Sat Mar 4 2017,SV Wehen Wiesbaden,2-1,VfL Osnabrück
+25,Sun Mar 5 2017,Werder Bremen II,0-0,MSV Duisburg
+24,Wed Mar 8 2017,SF Lotte,3-0,Chemnitzer FC
+26,Fri Mar 10 2017,VfL Osnabrück,2-1,Holstein Kiel
+26,Fri Mar 10 2017,1. FC Magdeburg,1-0,Preußen Münster
+26,Sat Mar 11 2017,Fortuna Köln,2-2,SSV Jahn Regensburg
+26,Sat Mar 11 2017,MSV Duisburg,0-1,SV Wehen Wiesbaden
+26,Sat Mar 11 2017,FSV Frankfurt,0-1,Hallescher FC
+26,Sat Mar 11 2017,SC Paderborn 07,0-1,FC Rot-Weiß Erfurt
+26,Sat Mar 11 2017,VfR Aalen,2-0,SG Großaspach
+26,Sat Mar 11 2017,1. FSV Mainz 05 II,0-1,Werder Bremen II
+26,Sat Mar 11 2017,SF Lotte,2-0,Hansa Rostock
+26,Sun Mar 12 2017,FSV Zwickau,1-0,Chemnitzer FC
+27,Tue Mar 14 2017,Hallescher FC,1-4,VfR Aalen
+27,Tue Mar 14 2017,Werder Bremen II,0-1,1. FC Magdeburg
+27,Tue Mar 14 2017,Preußen Münster,2-1,FSV Frankfurt
+27,Tue Mar 14 2017,Holstein Kiel,2-0,MSV Duisburg
+27,Tue Mar 14 2017,FC Rot-Weiß Erfurt,1-0,VfL Osnabrück
+27,Wed Mar 15 2017,Hansa Rostock,1-1,Fortuna Köln
+27,Wed Mar 15 2017,SV Wehen Wiesbaden,0-2,1. FSV Mainz 05 II
+27,Wed Mar 15 2017,Chemnitzer FC,2-1,SC Paderborn 07
+27,Wed Mar 15 2017,SSV Jahn Regensburg,1-2,FSV Zwickau
+28,Fri Mar 17 2017,Werder Bremen II,0-1,Preußen Münster
+28,Sat Mar 18 2017,1. FSV Mainz 05 II,0-3,Holstein Kiel
+28,Sat Mar 18 2017,MSV Duisburg,3-2,FC Rot-Weiß Erfurt
+28,Sat Mar 18 2017,VfL Osnabrück,3-0,Chemnitzer FC
+28,Sat Mar 18 2017,VfR Aalen,2-0,FSV Frankfurt
+28,Sat Mar 18 2017,SC Paderborn 07,0-2,SSV Jahn Regensburg
+28,Sat Mar 18 2017,Fortuna Köln,2-0,SG Großaspach
+28,Sun Mar 19 2017,SF Lotte,0-0,Hallescher FC
+28,Sun Mar 19 2017,1. FC Magdeburg,0-0,SV Wehen Wiesbaden
+28,Mon Mar 20 2017,FSV Zwickau,2-2,Hansa Rostock
+27,Wed Mar 22 2017,SG Großaspach,2-0,SF Lotte
+29,Sat Mar 25 2017,Preußen Münster,2-1,VfR Aalen
+29,Sat Mar 25 2017,Chemnitzer FC,2-3,MSV Duisburg
+29,Sat Mar 25 2017,SSV Jahn Regensburg,1-2,VfL Osnabrück
+29,Sat Mar 25 2017,Holstein Kiel,1-1,1. FC Magdeburg
+29,Sat Mar 25 2017,Hansa Rostock,1-1,SC Paderborn 07
+29,Sat Mar 25 2017,SG Großaspach,1-2,FSV Zwickau
+29,Sat Mar 25 2017,FC Rot-Weiß Erfurt,0-0,1. FSV Mainz 05 II
+29,Sat Mar 25 2017,FSV Frankfurt,2-0,SF Lotte
+29,Sat Mar 25 2017,Hallescher FC,0-0,Fortuna Köln
+22,Tue Mar 28 2017,SF Lotte,0-0,Holstein Kiel
+30,Fri Mar 31 2017,1. FSV Mainz 05 II,0-1,Chemnitzer FC
+30,Sat Apr 1 2017,1. FC Magdeburg,2-0,FC Rot-Weiß Erfurt
+30,Sat Apr 1 2017,SC Paderborn 07,1-2,SG Großaspach
+30,Sat Apr 1 2017,MSV Duisburg,1-1,SSV Jahn Regensburg
+30,Sat Apr 1 2017,SF Lotte,0-2,VfR Aalen
+30,Sat Apr 1 2017,Fortuna Köln,0-0,FSV Frankfurt
+30,Sat Apr 1 2017,Werder Bremen II,0-2,Holstein Kiel
+30,Sun Apr 2 2017,VfL Osnabrück,2-1,Hansa Rostock
+30,Sun Apr 2 2017,FSV Zwickau,2-0,Hallescher FC
+30,Sun Apr 2 2017,SV Wehen Wiesbaden,1-0,Preußen Münster
+31,Tue Apr 4 2017,FC Rot-Weiß Erfurt,1-1,Werder Bremen II
+31,Tue Apr 4 2017,Chemnitzer FC,1-1,1. FC Magdeburg
+31,Tue Apr 4 2017,SSV Jahn Regensburg,2-1,1. FSV Mainz 05 II
+31,Tue Apr 4 2017,VfR Aalen,3-0,Fortuna Köln
+31,Wed Apr 5 2017,Hansa Rostock,1-0,MSV Duisburg
+31,Wed Apr 5 2017,FSV Frankfurt,0-1,FSV Zwickau
+31,Wed Apr 5 2017,SG Großaspach,1-0,VfL Osnabrück
+31,Wed Apr 5 2017,Preußen Münster,1-0,SF Lotte
+31,Wed Apr 5 2017,Holstein Kiel,3-0,SV Wehen Wiesbaden
+31,Wed Apr 5 2017,Hallescher FC,1-1,SC Paderborn 07
+32,Sat Apr 8 2017,SV Wehen Wiesbaden,0-0,FC Rot-Weiß Erfurt
+32,Sat Apr 8 2017,VfL Osnabrück,1-2,Hallescher FC
+32,Sat Apr 8 2017,Fortuna Köln,3-0,SF Lotte
+32,Sat Apr 8 2017,MSV Duisburg,2-1,SG Großaspach
+32,Sat Apr 8 2017,SC Paderborn 07,3-0,FSV Frankfurt
+32,Sat Apr 8 2017,FSV Zwickau,2-1,VfR Aalen
+32,Sat Apr 8 2017,Werder Bremen II,0-0,Chemnitzer FC
+32,Sun Apr 9 2017,1. FC Magdeburg,1-2,SSV Jahn Regensburg
+32,Sun Apr 9 2017,Holstein Kiel,0-0,Preußen Münster
+32,Sun Apr 9 2017,1. FSV Mainz 05 II,2-4,Hansa Rostock
+33,Sat Apr 15 2017,Preußen Münster,4-2,Fortuna Köln
+33,Sat Apr 15 2017,VfR Aalen,4-0,SC Paderborn 07
+33,Sat Apr 15 2017,Hansa Rostock,1-1,1. FC Magdeburg
+33,Sat Apr 15 2017,SG Großaspach,2-1,1. FSV Mainz 05 II
+33,Sat Apr 15 2017,SSV Jahn Regensburg,3-1,Werder Bremen II
+33,Sat Apr 15 2017,FC Rot-Weiß Erfurt,1-1,Holstein Kiel
+33,Sat Apr 15 2017,Hallescher FC,1-1,MSV Duisburg
+33,Sat Apr 15 2017,SF Lotte,2-1,FSV Zwickau
+33,Sat Apr 15 2017,Chemnitzer FC,4-2,SV Wehen Wiesbaden
+33,Sun Apr 16 2017,FSV Frankfurt,1-1,VfL Osnabrück
+29,Wed Apr 19 2017,SV Wehen Wiesbaden,2-0,Werder Bremen II
+34,Sat Apr 22 2017,SC Paderborn 07,3-1,SF Lotte
+34,Sat Apr 22 2017,1. FSV Mainz 05 II,3-2,Hallescher FC
+34,Sat Apr 22 2017,Werder Bremen II,0-2,Hansa Rostock
+34,Sat Apr 22 2017,VfL Osnabrück,1-0,VfR Aalen
+34,Sat Apr 22 2017,SV Wehen Wiesbaden,1-1,SSV Jahn Regensburg
+34,Sat Apr 22 2017,1. FC Magdeburg,2-1,SG Großaspach
+34,Sat Apr 22 2017,MSV Duisburg,3-2,FSV Frankfurt
+34,Sat Apr 22 2017,Holstein Kiel,2-0,Chemnitzer FC
+34,Sun Apr 23 2017,FSV Zwickau,2-1,Fortuna Köln
+34,Sun Apr 23 2017,FC Rot-Weiß Erfurt,0-0,Preußen Münster
+35,Fri Apr 28 2017,Fortuna Köln,0-1,SC Paderborn 07
+35,Sat Apr 29 2017,Hallescher FC,1-1,1. FC Magdeburg
+35,Sat Apr 29 2017,VfR Aalen,2-1,MSV Duisburg
+35,Sat Apr 29 2017,SG Großaspach,0-0,Werder Bremen II
+35,Sat Apr 29 2017,Hansa Rostock,1-3,SV Wehen Wiesbaden
+35,Sat Apr 29 2017,Chemnitzer FC,1-1,FC Rot-Weiß Erfurt
+35,Sat Apr 29 2017,FSV Frankfurt,1-2,1. FSV Mainz 05 II
+35,Sat Apr 29 2017,SSV Jahn Regensburg,0-3,Holstein Kiel
+35,Sat Apr 29 2017,SF Lotte,0-0,VfL Osnabrück
+35,Sun Apr 30 2017,Preußen Münster,5-1,FSV Zwickau
+36,Fri May 5 2017,FC Rot-Weiß Erfurt,1-4,SSV Jahn Regensburg
+36,Fri May 5 2017,Werder Bremen II,1-1,Hallescher FC
+36,Sat May 6 2017,VfL Osnabrück,1-2,Fortuna Köln
+36,Sat May 6 2017,SC Paderborn 07,1-1,FSV Zwickau
+36,Sat May 6 2017,Holstein Kiel,2-1,Hansa Rostock
+36,Sat May 6 2017,1. FC Magdeburg,1-1,FSV Frankfurt
+36,Sat May 6 2017,MSV Duisburg,1-1,SF Lotte
+36,Sat May 6 2017,SV Wehen Wiesbaden,0-0,SG Großaspach
+36,Sat May 6 2017,1. FSV Mainz 05 II,2-0,VfR Aalen
+36,Sun May 7 2017,Chemnitzer FC,0-3,Preußen Münster
+37,Sat May 13 2017,SSV Jahn Regensburg,3-2,Chemnitzer FC
+37,Sat May 13 2017,FSV Frankfurt,0-4,Werder Bremen II
+37,Sat May 13 2017,FSV Zwickau,1-0,VfL Osnabrück
+37,Sat May 13 2017,Hansa Rostock,1-2,FC Rot-Weiß Erfurt
+37,Sat May 13 2017,Fortuna Köln,0-3,MSV Duisburg
+37,Sat May 13 2017,Hallescher FC,0-3,SV Wehen Wiesbaden
+37,Sat May 13 2017,SC Paderborn 07,1-0,Preußen Münster
+37,Sat May 13 2017,SG Großaspach,0-1,Holstein Kiel
+37,Sat May 13 2017,SF Lotte,3-3,1. FSV Mainz 05 II
+37,Sat May 13 2017,VfR Aalen,2-2,1. FC Magdeburg
+38,Sat May 20 2017,Holstein Kiel,3-0,Hallescher FC
+38,Sat May 20 2017,Werder Bremen II,1-0,VfR Aalen
+38,Sat May 20 2017,VfL Osnabrück,0-0,SC Paderborn 07
+38,Sat May 20 2017,Preußen Münster,0-1,SSV Jahn Regensburg
+38,Sat May 20 2017,MSV Duisburg,5-1,FSV Zwickau
+38,Sat May 20 2017,FC Rot-Weiß Erfurt,4-1,SG Großaspach
+38,Sat May 20 2017,Chemnitzer FC,2-0,Hansa Rostock
+38,Sat May 20 2017,1. FSV Mainz 05 II,4-0,Fortuna Köln
+38,Sat May 20 2017,1. FC Magdeburg,2-0,SF Lotte
+38,Sat May 20 2017,SV Wehen Wiesbaden,4-1,FSV Frankfurt

@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Aug 26 2016,Bayern München,6-0,Werder Bremen
+1,Sat Aug 27 2016,FC Augsburg,0-2,VfL Wolfsburg
+1,Sat Aug 27 2016,1. FC Köln,2-0,SV Darmstadt 98
+1,Sat Aug 27 2016,Hamburger SV,1-1,FC Ingolstadt 04
+1,Sat Aug 27 2016,Borussia Dortmund,2-1,1. FSV Mainz 05
+1,Sat Aug 27 2016,Eintracht Frankfurt,1-0,FC Schalke 04
+1,Sat Aug 27 2016,Bor. Mönchengladbach,2-1,Bayer 04 Leverkusen
+1,Sun Aug 28 2016,Hertha BSC,2-1,SC Freiburg
+1,Sun Aug 28 2016,TSG 1899 Hoffenheim,2-2,RB Leipzig
+2,Fri Sep 9 2016,FC Schalke 04,0-2,Bayern München
+2,Sat Sep 10 2016,SV Darmstadt 98,1-0,Eintracht Frankfurt
+2,Sat Sep 10 2016,SC Freiburg,3-1,Bor. Mönchengladbach
+2,Sat Sep 10 2016,FC Ingolstadt 04,0-2,Hertha BSC
+2,Sat Sep 10 2016,Bayer 04 Leverkusen,3-1,Hamburger SV
+2,Sat Sep 10 2016,VfL Wolfsburg,0-0,1. FC Köln
+2,Sat Sep 10 2016,RB Leipzig,1-0,Borussia Dortmund
+2,Sun Sep 11 2016,Werder Bremen,1-2,FC Augsburg
+2,Sun Sep 11 2016,1. FSV Mainz 05,4-4,TSG 1899 Hoffenheim
+3,Fri Sep 16 2016,1. FC Köln,3-0,SC Freiburg
+3,Sat Sep 17 2016,Hamburger SV,0-4,RB Leipzig
+3,Sat Sep 17 2016,Bayern München,3-1,FC Ingolstadt 04
+3,Sat Sep 17 2016,Eintracht Frankfurt,2-1,Bayer 04 Leverkusen
+3,Sat Sep 17 2016,Borussia Dortmund,6-0,SV Darmstadt 98
+3,Sat Sep 17 2016,TSG 1899 Hoffenheim,0-0,VfL Wolfsburg
+3,Sat Sep 17 2016,Bor. Mönchengladbach,4-1,Werder Bremen
+3,Sun Sep 18 2016,FC Augsburg,1-3,1. FSV Mainz 05
+3,Sun Sep 18 2016,Hertha BSC,2-0,FC Schalke 04
+4,Tue Sep 20 2016,VfL Wolfsburg,1-5,Borussia Dortmund
+4,Tue Sep 20 2016,FC Ingolstadt 04,0-2,Eintracht Frankfurt
+4,Tue Sep 20 2016,SC Freiburg,1-0,Hamburger SV
+4,Tue Sep 20 2016,SV Darmstadt 98,1-1,TSG 1899 Hoffenheim
+4,Wed Sep 21 2016,RB Leipzig,1-1,Bor. Mönchengladbach
+4,Wed Sep 21 2016,Bayer 04 Leverkusen,0-0,FC Augsburg
+4,Wed Sep 21 2016,Werder Bremen,1-2,1. FSV Mainz 05
+4,Wed Sep 21 2016,Bayern München,3-0,Hertha BSC
+4,Wed Sep 21 2016,FC Schalke 04,1-3,1. FC Köln
+5,Fri Sep 23 2016,Borussia Dortmund,3-1,SC Freiburg
+5,Sat Sep 24 2016,FC Augsburg,1-0,SV Darmstadt 98
+5,Sat Sep 24 2016,Eintracht Frankfurt,3-3,Hertha BSC
+5,Sat Sep 24 2016,Hamburger SV,0-1,Bayern München
+5,Sat Sep 24 2016,Bor. Mönchengladbach,2-0,FC Ingolstadt 04
+5,Sat Sep 24 2016,1. FSV Mainz 05,2-3,Bayer 04 Leverkusen
+5,Sat Sep 24 2016,Werder Bremen,2-1,VfL Wolfsburg
+5,Sun Sep 25 2016,TSG 1899 Hoffenheim,2-1,FC Schalke 04
+5,Sun Sep 25 2016,1. FC Köln,1-1,RB Leipzig
+6,Fri Sep 30 2016,RB Leipzig,2-1,FC Augsburg
+6,Sat Oct 1 2016,SC Freiburg,1-0,Eintracht Frankfurt
+6,Sat Oct 1 2016,FC Ingolstadt 04,1-2,TSG 1899 Hoffenheim
+6,Sat Oct 1 2016,Bayern München,1-1,1. FC Köln
+6,Sat Oct 1 2016,SV Darmstadt 98,2-2,Werder Bremen
+6,Sat Oct 1 2016,Hertha BSC,2-0,Hamburger SV
+6,Sat Oct 1 2016,Bayer 04 Leverkusen,2-0,Borussia Dortmund
+6,Sun Oct 2 2016,VfL Wolfsburg,0-0,1. FSV Mainz 05
+6,Sun Oct 2 2016,FC Schalke 04,4-0,Bor. Mönchengladbach
+7,Fri Oct 14 2016,Borussia Dortmund,1-1,Hertha BSC
+7,Sat Oct 15 2016,FC Augsburg,1-1,FC Schalke 04
+7,Sat Oct 15 2016,1. FC Köln,2-1,FC Ingolstadt 04
+7,Sat Oct 15 2016,Bor. Mönchengladbach,0-0,Hamburger SV
+7,Sat Oct 15 2016,Eintracht Frankfurt,2-2,Bayern München
+7,Sat Oct 15 2016,TSG 1899 Hoffenheim,2-1,SC Freiburg
+7,Sat Oct 15 2016,Werder Bremen,2-1,Bayer 04 Leverkusen
+7,Sun Oct 16 2016,1. FSV Mainz 05,2-1,SV Darmstadt 98
+7,Sun Oct 16 2016,VfL Wolfsburg,0-1,RB Leipzig
+8,Fri Oct 21 2016,Hamburger SV,0-3,Eintracht Frankfurt
+8,Sat Oct 22 2016,SV Darmstadt 98,3-1,VfL Wolfsburg
+8,Sat Oct 22 2016,SC Freiburg,2-1,FC Augsburg
+8,Sat Oct 22 2016,FC Ingolstadt 04,3-3,Borussia Dortmund
+8,Sat Oct 22 2016,Bayer 04 Leverkusen,0-3,TSG 1899 Hoffenheim
+8,Sat Oct 22 2016,Hertha BSC,2-1,1. FC Köln
+8,Sat Oct 22 2016,Bayern München,2-0,Bor. Mönchengladbach
+8,Sun Oct 23 2016,RB Leipzig,3-1,Werder Bremen
+8,Sun Oct 23 2016,FC Schalke 04,3-0,1. FSV Mainz 05
+9,Fri Oct 28 2016,Bor. Mönchengladbach,0-0,Eintracht Frankfurt
+9,Sat Oct 29 2016,1. FSV Mainz 05,2-0,FC Ingolstadt 04
+9,Sat Oct 29 2016,VfL Wolfsburg,1-2,Bayer 04 Leverkusen
+9,Sat Oct 29 2016,FC Augsburg,1-3,Bayern München
+9,Sat Oct 29 2016,SV Darmstadt 98,0-2,RB Leipzig
+9,Sat Oct 29 2016,Werder Bremen,1-3,SC Freiburg
+9,Sat Oct 29 2016,Borussia Dortmund,0-0,FC Schalke 04
+9,Sun Oct 30 2016,TSG 1899 Hoffenheim,1-0,Hertha BSC
+9,Sun Oct 30 2016,1. FC Köln,3-0,Hamburger SV
+10,Fri Nov 4 2016,Hertha BSC,3-0,Bor. Mönchengladbach
+10,Sat Nov 5 2016,Bayern München,1-1,TSG 1899 Hoffenheim
+10,Sat Nov 5 2016,FC Ingolstadt 04,0-2,FC Augsburg
+10,Sat Nov 5 2016,Bayer 04 Leverkusen,3-2,SV Darmstadt 98
+10,Sat Nov 5 2016,SC Freiburg,0-3,VfL Wolfsburg
+10,Sat Nov 5 2016,Hamburger SV,2-5,Borussia Dortmund
+10,Sat Nov 5 2016,Eintracht Frankfurt,1-0,1. FC Köln
+10,Sun Nov 6 2016,RB Leipzig,3-1,1. FSV Mainz 05
+10,Sun Nov 6 2016,FC Schalke 04,3-1,Werder Bremen
+11,Fri Nov 18 2016,Bayer 04 Leverkusen,2-3,RB Leipzig
+11,Sat Nov 19 2016,FC Augsburg,0-0,Hertha BSC
+11,Sat Nov 19 2016,1. FSV Mainz 05,4-2,SC Freiburg
+11,Sat Nov 19 2016,SV Darmstadt 98,0-1,FC Ingolstadt 04
+11,Sat Nov 19 2016,VfL Wolfsburg,0-1,FC Schalke 04
+11,Sat Nov 19 2016,Bor. Mönchengladbach,1-2,1. FC Köln
+11,Sat Nov 19 2016,Borussia Dortmund,1-0,Bayern München
+11,Sun Nov 20 2016,TSG 1899 Hoffenheim,2-2,Hamburger SV
+11,Sun Nov 20 2016,Werder Bremen,1-2,Eintracht Frankfurt
+12,Fri Nov 25 2016,SC Freiburg,1-4,RB Leipzig
+12,Sat Nov 26 2016,1. FC Köln,0-0,FC Augsburg
+12,Sat Nov 26 2016,FC Ingolstadt 04,1-1,VfL Wolfsburg
+12,Sat Nov 26 2016,Hamburger SV,2-2,Werder Bremen
+12,Sat Nov 26 2016,Eintracht Frankfurt,2-1,Borussia Dortmund
+12,Sat Nov 26 2016,Bor. Mönchengladbach,1-1,TSG 1899 Hoffenheim
+12,Sat Nov 26 2016,Bayern München,2-1,Bayer 04 Leverkusen
+12,Sun Nov 27 2016,FC Schalke 04,3-1,SV Darmstadt 98
+12,Sun Nov 27 2016,Hertha BSC,2-1,1. FSV Mainz 05
+13,Fri Dec 2 2016,1. FSV Mainz 05,1-3,Bayern München
+13,Sat Dec 3 2016,VfL Wolfsburg,2-3,Hertha BSC
+13,Sat Dec 3 2016,Bayer 04 Leverkusen,1-1,SC Freiburg
+13,Sat Dec 3 2016,TSG 1899 Hoffenheim,4-0,1. FC Köln
+13,Sat Dec 3 2016,Werder Bremen,2-1,FC Ingolstadt 04
+13,Sat Dec 3 2016,Borussia Dortmund,4-1,Bor. Mönchengladbach
+13,Sat Dec 3 2016,RB Leipzig,2-1,FC Schalke 04
+13,Sun Dec 4 2016,SV Darmstadt 98,0-2,Hamburger SV
+13,Sun Dec 4 2016,FC Augsburg,1-1,Eintracht Frankfurt
+14,Fri Dec 9 2016,Eintracht Frankfurt,0-0,TSG 1899 Hoffenheim
+14,Sat Dec 10 2016,SC Freiburg,1-0,SV Darmstadt 98
+14,Sat Dec 10 2016,FC Ingolstadt 04,1-0,RB Leipzig
+14,Sat Dec 10 2016,1. FC Köln,1-1,Borussia Dortmund
+14,Sat Dec 10 2016,Hamburger SV,1-0,FC Augsburg
+14,Sat Dec 10 2016,Bayern München,5-0,VfL Wolfsburg
+14,Sat Dec 10 2016,Hertha BSC,0-1,Werder Bremen
+14,Sun Dec 11 2016,Bor. Mönchengladbach,1-0,1. FSV Mainz 05
+14,Sun Dec 11 2016,FC Schalke 04,0-1,Bayer 04 Leverkusen
+15,Fri Dec 16 2016,TSG 1899 Hoffenheim,2-2,Borussia Dortmund
+15,Sat Dec 17 2016,1. FSV Mainz 05,3-1,Hamburger SV
+15,Sat Dec 17 2016,FC Augsburg,1-0,Bor. Mönchengladbach
+15,Sat Dec 17 2016,RB Leipzig,2-0,Hertha BSC
+15,Sat Dec 17 2016,Werder Bremen,1-1,1. FC Köln
+15,Sat Dec 17 2016,FC Schalke 04,1-1,SC Freiburg
+15,Sat Dec 17 2016,VfL Wolfsburg,1-0,Eintracht Frankfurt
+15,Sun Dec 18 2016,SV Darmstadt 98,0-1,Bayern München
+15,Sun Dec 18 2016,Bayer 04 Leverkusen,1-2,FC Ingolstadt 04
+16,Tue Dec 20 2016,Borussia Dortmund,1-1,FC Augsburg
+16,Tue Dec 20 2016,Eintracht Frankfurt,3-0,1. FSV Mainz 05
+16,Tue Dec 20 2016,Bor. Mönchengladbach,1-2,VfL Wolfsburg
+16,Tue Dec 20 2016,Hamburger SV,2-1,FC Schalke 04
+16,Wed Dec 21 2016,1. FC Köln,1-1,Bayer 04 Leverkusen
+16,Wed Dec 21 2016,Hertha BSC,2-0,SV Darmstadt 98
+16,Wed Dec 21 2016,FC Ingolstadt 04,1-2,SC Freiburg
+16,Wed Dec 21 2016,Bayern München,3-0,RB Leipzig
+16,Wed Dec 21 2016,TSG 1899 Hoffenheim,1-1,Werder Bremen
+17,Fri Jan 20 2017,SC Freiburg,1-2,Bayern München
+17,Sat Jan 21 2017,SV Darmstadt 98,0-0,Bor. Mönchengladbach
+17,Sat Jan 21 2017,FC Augsburg,0-2,TSG 1899 Hoffenheim
+17,Sat Jan 21 2017,FC Schalke 04,1-0,FC Ingolstadt 04
+17,Sat Jan 21 2017,VfL Wolfsburg,1-0,Hamburger SV
+17,Sat Jan 21 2017,Werder Bremen,1-2,Borussia Dortmund
+17,Sat Jan 21 2017,RB Leipzig,3-0,Eintracht Frankfurt
+17,Sun Jan 22 2017,Bayer 04 Leverkusen,3-1,Hertha BSC
+17,Sun Jan 22 2017,1. FSV Mainz 05,0-0,1. FC Köln
+18,Fri Jan 27 2017,FC Schalke 04,0-1,Eintracht Frankfurt
+18,Sat Jan 28 2017,FC Ingolstadt 04,3-1,Hamburger SV
+18,Sat Jan 28 2017,Werder Bremen,1-2,Bayern München
+18,Sat Jan 28 2017,SV Darmstadt 98,1-6,1. FC Köln
+18,Sat Jan 28 2017,RB Leipzig,2-1,TSG 1899 Hoffenheim
+18,Sat Jan 28 2017,VfL Wolfsburg,1-2,FC Augsburg
+18,Sat Jan 28 2017,Bayer 04 Leverkusen,2-3,Bor. Mönchengladbach
+18,Sun Jan 29 2017,SC Freiburg,2-1,Hertha BSC
+18,Sun Jan 29 2017,1. FSV Mainz 05,1-1,Borussia Dortmund
+19,Fri Feb 3 2017,Hamburger SV,1-0,Bayer 04 Leverkusen
+19,Sat Feb 4 2017,Bayern München,1-1,FC Schalke 04
+19,Sat Feb 4 2017,Bor. Mönchengladbach,3-0,SC Freiburg
+19,Sat Feb 4 2017,1. FC Köln,1-0,VfL Wolfsburg
+19,Sat Feb 4 2017,TSG 1899 Hoffenheim,4-0,1. FSV Mainz 05
+19,Sat Feb 4 2017,Hertha BSC,1-0,FC Ingolstadt 04
+19,Sat Feb 4 2017,Borussia Dortmund,1-0,RB Leipzig
+19,Sun Feb 5 2017,FC Augsburg,3-2,Werder Bremen
+19,Sun Feb 5 2017,Eintracht Frankfurt,2-0,SV Darmstadt 98
+20,Fri Feb 10 2017,1. FSV Mainz 05,2-0,FC Augsburg
+20,Sat Feb 11 2017,Bayer 04 Leverkusen,3-0,Eintracht Frankfurt
+20,Sat Feb 11 2017,FC Ingolstadt 04,0-2,Bayern München
+20,Sat Feb 11 2017,RB Leipzig,0-3,Hamburger SV
+20,Sat Feb 11 2017,Werder Bremen,0-1,Bor. Mönchengladbach
+20,Sat Feb 11 2017,SV Darmstadt 98,2-1,Borussia Dortmund
+20,Sat Feb 11 2017,FC Schalke 04,2-0,Hertha BSC
+20,Sun Feb 12 2017,VfL Wolfsburg,2-1,TSG 1899 Hoffenheim
+20,Sun Feb 12 2017,SC Freiburg,2-1,1. FC Köln
+21,Fri Feb 17 2017,FC Augsburg,1-3,Bayer 04 Leverkusen
+21,Sat Feb 18 2017,Borussia Dortmund,3-0,VfL Wolfsburg
+21,Sat Feb 18 2017,1. FSV Mainz 05,0-2,Werder Bremen
+21,Sat Feb 18 2017,Hertha BSC,1-1,Bayern München
+21,Sat Feb 18 2017,Eintracht Frankfurt,0-2,FC Ingolstadt 04
+21,Sat Feb 18 2017,TSG 1899 Hoffenheim,2-0,SV Darmstadt 98
+21,Sat Feb 18 2017,Hamburger SV,2-2,SC Freiburg
+21,Sun Feb 19 2017,Bor. Mönchengladbach,1-2,RB Leipzig
+21,Sun Feb 19 2017,1. FC Köln,1-1,FC Schalke 04
+22,Fri Feb 24 2017,VfL Wolfsburg,1-2,Werder Bremen
+22,Sat Feb 25 2017,SV Darmstadt 98,1-2,FC Augsburg
+22,Sat Feb 25 2017,SC Freiburg,0-3,Borussia Dortmund
+22,Sat Feb 25 2017,Bayern München,8-0,Hamburger SV
+22,Sat Feb 25 2017,Bayer 04 Leverkusen,0-2,1. FSV Mainz 05
+22,Sat Feb 25 2017,RB Leipzig,3-1,1. FC Köln
+22,Sat Feb 25 2017,Hertha BSC,2-0,Eintracht Frankfurt
+22,Sun Feb 26 2017,FC Ingolstadt 04,0-2,Bor. Mönchengladbach
+22,Sun Feb 26 2017,FC Schalke 04,1-1,TSG 1899 Hoffenheim
+23,Fri Mar 3 2017,FC Augsburg,2-2,RB Leipzig
+23,Sat Mar 4 2017,TSG 1899 Hoffenheim,5-2,FC Ingolstadt 04
+23,Sat Mar 4 2017,1. FSV Mainz 05,1-1,VfL Wolfsburg
+23,Sat Mar 4 2017,Borussia Dortmund,6-2,Bayer 04 Leverkusen
+23,Sat Mar 4 2017,Werder Bremen,2-0,SV Darmstadt 98
+23,Sat Mar 4 2017,1. FC Köln,0-3,Bayern München
+23,Sat Mar 4 2017,Bor. Mönchengladbach,4-2,FC Schalke 04
+23,Sun Mar 5 2017,Eintracht Frankfurt,1-2,SC Freiburg
+23,Sun Mar 5 2017,Hamburger SV,1-0,Hertha BSC
+24,Fri Mar 10 2017,Bayer 04 Leverkusen,1-1,Werder Bremen
+24,Sat Mar 11 2017,Hertha BSC,2-1,Borussia Dortmund
+24,Sat Mar 11 2017,RB Leipzig,0-1,VfL Wolfsburg
+24,Sat Mar 11 2017,SV Darmstadt 98,2-1,1. FSV Mainz 05
+24,Sat Mar 11 2017,Bayern München,3-0,Eintracht Frankfurt
+24,Sat Mar 11 2017,SC Freiburg,1-1,TSG 1899 Hoffenheim
+24,Sat Mar 11 2017,FC Ingolstadt 04,2-2,1. FC Köln
+24,Sun Mar 12 2017,FC Schalke 04,3-0,FC Augsburg
+24,Sun Mar 12 2017,Hamburger SV,2-1,Bor. Mönchengladbach
+25,Fri Mar 17 2017,Borussia Dortmund,1-0,FC Ingolstadt 04
+25,Sat Mar 18 2017,Werder Bremen,3-0,RB Leipzig
+25,Sat Mar 18 2017,1. FC Köln,4-2,Hertha BSC
+25,Sat Mar 18 2017,FC Augsburg,1-1,SC Freiburg
+25,Sat Mar 18 2017,TSG 1899 Hoffenheim,1-0,Bayer 04 Leverkusen
+25,Sat Mar 18 2017,VfL Wolfsburg,1-0,SV Darmstadt 98
+25,Sat Mar 18 2017,Eintracht Frankfurt,0-0,Hamburger SV
+25,Sun Mar 19 2017,1. FSV Mainz 05,0-1,FC Schalke 04
+25,Sun Mar 19 2017,Bor. Mönchengladbach,0-1,Bayern München
+26,Fri Mar 31 2017,Hertha BSC,1-3,TSG 1899 Hoffenheim
+26,Sat Apr 1 2017,Bayern München,6-0,FC Augsburg
+26,Sat Apr 1 2017,RB Leipzig,4-0,SV Darmstadt 98
+26,Sat Apr 1 2017,FC Schalke 04,1-1,Borussia Dortmund
+26,Sat Apr 1 2017,Hamburger SV,2-1,1. FC Köln
+26,Sat Apr 1 2017,SC Freiburg,2-5,Werder Bremen
+26,Sat Apr 1 2017,Eintracht Frankfurt,0-0,Bor. Mönchengladbach
+26,Sun Apr 2 2017,FC Ingolstadt 04,2-1,1. FSV Mainz 05
+26,Sun Apr 2 2017,Bayer 04 Leverkusen,3-3,VfL Wolfsburg
+27,Tue Apr 4 2017,Werder Bremen,3-0,FC Schalke 04
+27,Tue Apr 4 2017,1. FC Köln,1-0,Eintracht Frankfurt
+27,Tue Apr 4 2017,Borussia Dortmund,3-0,Hamburger SV
+27,Tue Apr 4 2017,TSG 1899 Hoffenheim,1-0,Bayern München
+27,Wed Apr 5 2017,SV Darmstadt 98,0-2,Bayer 04 Leverkusen
+27,Wed Apr 5 2017,Bor. Mönchengladbach,1-0,Hertha BSC
+27,Wed Apr 5 2017,1. FSV Mainz 05,2-3,RB Leipzig
+27,Wed Apr 5 2017,FC Augsburg,2-3,FC Ingolstadt 04
+27,Wed Apr 5 2017,VfL Wolfsburg,0-1,SC Freiburg
+28,Fri Apr 7 2017,Eintracht Frankfurt,2-2,Werder Bremen
+28,Sat Apr 8 2017,RB Leipzig,1-0,Bayer 04 Leverkusen
+28,Sat Apr 8 2017,FC Schalke 04,4-1,VfL Wolfsburg
+28,Sat Apr 8 2017,Hamburger SV,2-1,TSG 1899 Hoffenheim
+28,Sat Apr 8 2017,SC Freiburg,1-0,1. FSV Mainz 05
+28,Sat Apr 8 2017,1. FC Köln,2-3,Bor. Mönchengladbach
+28,Sat Apr 8 2017,Bayern München,4-1,Borussia Dortmund
+28,Sun Apr 9 2017,Hertha BSC,2-0,FC Augsburg
+28,Sun Apr 9 2017,FC Ingolstadt 04,3-2,SV Darmstadt 98
+29,Sat Apr 15 2017,RB Leipzig,4-0,SC Freiburg
+29,Sat Apr 15 2017,Borussia Dortmund,3-1,Eintracht Frankfurt
+29,Sat Apr 15 2017,TSG 1899 Hoffenheim,5-3,Bor. Mönchengladbach
+29,Sat Apr 15 2017,FC Augsburg,2-1,1. FC Köln
+29,Sat Apr 15 2017,VfL Wolfsburg,3-0,FC Ingolstadt 04
+29,Sat Apr 15 2017,1. FSV Mainz 05,1-0,Hertha BSC
+29,Sat Apr 15 2017,Bayer 04 Leverkusen,0-0,Bayern München
+29,Sun Apr 16 2017,Werder Bremen,2-1,Hamburger SV
+29,Sun Apr 16 2017,SV Darmstadt 98,2-1,FC Schalke 04
+30,Fri Apr 21 2017,1. FC Köln,1-1,TSG 1899 Hoffenheim
+30,Sat Apr 22 2017,Eintracht Frankfurt,3-1,FC Augsburg
+30,Sat Apr 22 2017,FC Ingolstadt 04,2-4,Werder Bremen
+30,Sat Apr 22 2017,Bayern München,2-2,1. FSV Mainz 05
+30,Sat Apr 22 2017,Hertha BSC,1-0,VfL Wolfsburg
+30,Sat Apr 22 2017,Hamburger SV,1-2,SV Darmstadt 98
+30,Sat Apr 22 2017,Bor. Mönchengladbach,2-3,Borussia Dortmund
+30,Sun Apr 23 2017,SC Freiburg,2-1,Bayer 04 Leverkusen
+30,Sun Apr 23 2017,FC Schalke 04,1-1,RB Leipzig
+31,Fri Apr 28 2017,Bayer 04 Leverkusen,1-4,FC Schalke 04
+31,Sat Apr 29 2017,RB Leipzig,0-0,FC Ingolstadt 04
+31,Sat Apr 29 2017,1. FSV Mainz 05,1-2,Bor. Mönchengladbach
+31,Sat Apr 29 2017,Borussia Dortmund,0-0,1. FC Köln
+31,Sat Apr 29 2017,SV Darmstadt 98,3-0,SC Freiburg
+31,Sat Apr 29 2017,Werder Bremen,2-0,Hertha BSC
+31,Sat Apr 29 2017,VfL Wolfsburg,0-6,Bayern München
+31,Sun Apr 30 2017,FC Augsburg,4-0,Hamburger SV
+31,Sun Apr 30 2017,TSG 1899 Hoffenheim,1-0,Eintracht Frankfurt
+32,Fri May 5 2017,1. FC Köln,4-3,Werder Bremen
+32,Sat May 6 2017,Eintracht Frankfurt,0-2,VfL Wolfsburg
+32,Sat May 6 2017,Bayern München,1-0,SV Darmstadt 98
+32,Sat May 6 2017,Bor. Mönchengladbach,1-1,FC Augsburg
+32,Sat May 6 2017,Borussia Dortmund,2-1,TSG 1899 Hoffenheim
+32,Sat May 6 2017,FC Ingolstadt 04,1-1,Bayer 04 Leverkusen
+32,Sat May 6 2017,Hertha BSC,1-4,RB Leipzig
+32,Sun May 7 2017,Hamburger SV,0-0,1. FSV Mainz 05
+32,Sun May 7 2017,SC Freiburg,2-0,FC Schalke 04
+33,Sat May 13 2017,SC Freiburg,1-1,FC Ingolstadt 04
+33,Sat May 13 2017,VfL Wolfsburg,1-1,Bor. Mönchengladbach
+33,Sat May 13 2017,1. FSV Mainz 05,4-2,Eintracht Frankfurt
+33,Sat May 13 2017,RB Leipzig,4-5,Bayern München
+33,Sat May 13 2017,SV Darmstadt 98,0-2,Hertha BSC
+33,Sat May 13 2017,FC Schalke 04,1-1,Hamburger SV
+33,Sat May 13 2017,FC Augsburg,1-1,Borussia Dortmund
+33,Sat May 13 2017,Bayer 04 Leverkusen,2-2,1. FC Köln
+33,Sat May 13 2017,Werder Bremen,3-5,TSG 1899 Hoffenheim
+34,Sat May 20 2017,Bayern München,4-1,SC Freiburg
+34,Sat May 20 2017,1. FC Köln,2-0,1. FSV Mainz 05
+34,Sat May 20 2017,TSG 1899 Hoffenheim,0-0,FC Augsburg
+34,Sat May 20 2017,Hertha BSC,2-6,Bayer 04 Leverkusen
+34,Sat May 20 2017,Eintracht Frankfurt,2-2,RB Leipzig
+34,Sat May 20 2017,Bor. Mönchengladbach,2-2,SV Darmstadt 98
+34,Sat May 20 2017,FC Ingolstadt 04,1-1,FC Schalke 04
+34,Sat May 20 2017,Borussia Dortmund,4-3,Werder Bremen
+34,Sat May 20 2017,Hamburger SV,2-1,VfL Wolfsburg

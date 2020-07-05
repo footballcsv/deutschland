@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Aug 24 2018,Bayern München,3-1,TSG 1899 Hoffenheim
+1,Sat Aug 25 2018,Hertha BSC,1-0,1. FC Nürnberg
+1,Sat Aug 25 2018,Werder Bremen,1-1,Hannover 96
+1,Sat Aug 25 2018,SC Freiburg,0-2,Eintracht Frankfurt
+1,Sat Aug 25 2018,VfL Wolfsburg,2-1,FC Schalke 04
+1,Sat Aug 25 2018,Fortuna Düsseldorf,1-2,FC Augsburg
+1,Sat Aug 25 2018,Bor. Mönchengladbach,2-0,Bayer 04 Leverkusen
+1,Sun Aug 26 2018,1. FSV Mainz 05,1-0,VfB Stuttgart
+1,Sun Aug 26 2018,Borussia Dortmund,4-1,RB Leipzig
+2,Fri Aug 31 2018,Hannover 96,0-0,Borussia Dortmund
+2,Sat Sep 1 2018,TSG 1899 Hoffenheim,3-1,SC Freiburg
+2,Sat Sep 1 2018,Bayer 04 Leverkusen,1-3,VfL Wolfsburg
+2,Sat Sep 1 2018,Eintracht Frankfurt,1-2,Werder Bremen
+2,Sat Sep 1 2018,FC Augsburg,1-1,Bor. Mönchengladbach
+2,Sat Sep 1 2018,1. FC Nürnberg,1-1,1. FSV Mainz 05
+2,Sat Sep 1 2018,VfB Stuttgart,0-3,Bayern München
+2,Sun Sep 2 2018,RB Leipzig,1-1,Fortuna Düsseldorf
+2,Sun Sep 2 2018,FC Schalke 04,0-2,Hertha BSC
+3,Fri Sep 14 2018,Borussia Dortmund,3-1,Eintracht Frankfurt
+3,Sat Sep 15 2018,RB Leipzig,3-2,Hannover 96
+3,Sat Sep 15 2018,1. FSV Mainz 05,2-1,FC Augsburg
+3,Sat Sep 15 2018,VfL Wolfsburg,2-2,Hertha BSC
+3,Sat Sep 15 2018,Fortuna Düsseldorf,2-1,TSG 1899 Hoffenheim
+3,Sat Sep 15 2018,Bayern München,3-1,Bayer 04 Leverkusen
+3,Sat Sep 15 2018,Bor. Mönchengladbach,2-1,FC Schalke 04
+3,Sun Sep 16 2018,Werder Bremen,1-1,1. FC Nürnberg
+3,Sun Sep 16 2018,SC Freiburg,3-3,VfB Stuttgart
+4,Fri Sep 21 2018,VfB Stuttgart,0-0,Fortuna Düsseldorf
+4,Sat Sep 22 2018,TSG 1899 Hoffenheim,1-1,Borussia Dortmund
+4,Sat Sep 22 2018,Hertha BSC,4-2,Bor. Mönchengladbach
+4,Sat Sep 22 2018,FC Augsburg,2-3,Werder Bremen
+4,Sat Sep 22 2018,VfL Wolfsburg,1-3,SC Freiburg
+4,Sat Sep 22 2018,1. FC Nürnberg,2-0,Hannover 96
+4,Sat Sep 22 2018,FC Schalke 04,0-2,Bayern München
+4,Sun Sep 23 2018,Bayer 04 Leverkusen,1-0,1. FSV Mainz 05
+4,Sun Sep 23 2018,Eintracht Frankfurt,1-1,RB Leipzig
+5,Tue Sep 25 2018,Werder Bremen,3-1,Hertha BSC
+5,Tue Sep 25 2018,Bayern München,1-1,FC Augsburg
+5,Tue Sep 25 2018,Hannover 96,1-3,TSG 1899 Hoffenheim
+5,Tue Sep 25 2018,SC Freiburg,1-0,FC Schalke 04
+5,Wed Sep 26 2018,Fortuna Düsseldorf,1-2,Bayer 04 Leverkusen
+5,Wed Sep 26 2018,Borussia Dortmund,7-0,1. FC Nürnberg
+5,Wed Sep 26 2018,RB Leipzig,2-0,VfB Stuttgart
+5,Wed Sep 26 2018,Bor. Mönchengladbach,3-1,Eintracht Frankfurt
+5,Wed Sep 26 2018,1. FSV Mainz 05,0-0,VfL Wolfsburg
+6,Fri Sep 28 2018,Hertha BSC,2-0,Bayern München
+6,Sat Sep 29 2018,FC Schalke 04,1-0,1. FSV Mainz 05
+6,Sat Sep 29 2018,TSG 1899 Hoffenheim,1-2,RB Leipzig
+6,Sat Sep 29 2018,VfB Stuttgart,2-1,Werder Bremen
+6,Sat Sep 29 2018,VfL Wolfsburg,2-2,Bor. Mönchengladbach
+6,Sat Sep 29 2018,1. FC Nürnberg,3-0,Fortuna Düsseldorf
+6,Sat Sep 29 2018,Bayer 04 Leverkusen,2-4,Borussia Dortmund
+6,Sun Sep 30 2018,Eintracht Frankfurt,4-1,Hannover 96
+6,Sun Sep 30 2018,FC Augsburg,4-1,SC Freiburg
+7,Fri Oct 5 2018,Werder Bremen,2-0,VfL Wolfsburg
+7,Sat Oct 6 2018,Bayern München,0-3,Bor. Mönchengladbach
+7,Sat Oct 6 2018,Borussia Dortmund,4-3,FC Augsburg
+7,Sat Oct 6 2018,Hannover 96,3-1,VfB Stuttgart
+7,Sat Oct 6 2018,1. FSV Mainz 05,0-0,Hertha BSC
+7,Sat Oct 6 2018,Fortuna Düsseldorf,0-2,FC Schalke 04
+7,Sun Oct 7 2018,SC Freiburg,0-0,Bayer 04 Leverkusen
+7,Sun Oct 7 2018,RB Leipzig,6-0,1. FC Nürnberg
+7,Sun Oct 7 2018,TSG 1899 Hoffenheim,1-2,Eintracht Frankfurt
+8,Fri Oct 19 2018,Eintracht Frankfurt,7-1,Fortuna Düsseldorf
+8,Sat Oct 20 2018,FC Schalke 04,0-2,Werder Bremen
+8,Sat Oct 20 2018,Bayer 04 Leverkusen,2-2,Hannover 96
+8,Sat Oct 20 2018,VfB Stuttgart,0-4,Borussia Dortmund
+8,Sat Oct 20 2018,FC Augsburg,0-0,RB Leipzig
+8,Sat Oct 20 2018,VfL Wolfsburg,1-3,Bayern München
+8,Sat Oct 20 2018,1. FC Nürnberg,1-3,TSG 1899 Hoffenheim
+8,Sun Oct 21 2018,Bor. Mönchengladbach,4-0,1. FSV Mainz 05
+8,Sun Oct 21 2018,Hertha BSC,1-1,SC Freiburg
+9,Fri Oct 26 2018,SC Freiburg,3-1,Bor. Mönchengladbach
+9,Sat Oct 27 2018,TSG 1899 Hoffenheim,4-0,VfB Stuttgart
+9,Sat Oct 27 2018,Borussia Dortmund,2-2,Hertha BSC
+9,Sat Oct 27 2018,Hannover 96,1-2,FC Augsburg
+9,Sat Oct 27 2018,1. FSV Mainz 05,1-2,Bayern München
+9,Sat Oct 27 2018,Fortuna Düsseldorf,0-3,VfL Wolfsburg
+9,Sun Oct 28 2018,RB Leipzig,0-0,FC Schalke 04
+9,Sun Oct 28 2018,Werder Bremen,2-6,Bayer 04 Leverkusen
+9,Sun Oct 28 2018,1. FC Nürnberg,1-1,Eintracht Frankfurt
+10,Fri Nov 2 2018,VfB Stuttgart,0-3,Eintracht Frankfurt
+10,Sat Nov 3 2018,Bayern München,1-1,SC Freiburg
+10,Sat Nov 3 2018,FC Schalke 04,3-1,Hannover 96
+10,Sat Nov 3 2018,Bayer 04 Leverkusen,1-4,TSG 1899 Hoffenheim
+10,Sat Nov 3 2018,Hertha BSC,0-3,RB Leipzig
+10,Sat Nov 3 2018,FC Augsburg,2-2,1. FC Nürnberg
+10,Sat Nov 3 2018,VfL Wolfsburg,0-1,Borussia Dortmund
+10,Sun Nov 4 2018,Bor. Mönchengladbach,3-0,Fortuna Düsseldorf
+10,Sun Nov 4 2018,1. FSV Mainz 05,2-1,Werder Bremen
+11,Fri Nov 9 2018,Hannover 96,2-1,VfL Wolfsburg
+11,Sat Nov 10 2018,TSG 1899 Hoffenheim,2-1,FC Augsburg
+11,Sat Nov 10 2018,Borussia Dortmund,3-2,Bayern München
+11,Sat Nov 10 2018,Werder Bremen,1-3,Bor. Mönchengladbach
+11,Sat Nov 10 2018,SC Freiburg,1-3,1. FSV Mainz 05
+11,Sat Nov 10 2018,Fortuna Düsseldorf,4-1,Hertha BSC
+11,Sat Nov 10 2018,1. FC Nürnberg,0-2,VfB Stuttgart
+11,Sun Nov 11 2018,RB Leipzig,3-0,Bayer 04 Leverkusen
+11,Sun Nov 11 2018,Eintracht Frankfurt,3-0,FC Schalke 04
+12,Fri Nov 23 2018,Bayer 04 Leverkusen,2-0,VfB Stuttgart
+12,Sat Nov 24 2018,Bayern München,3-3,Fortuna Düsseldorf
+12,Sat Nov 24 2018,FC Schalke 04,5-2,1. FC Nürnberg
+12,Sat Nov 24 2018,Hertha BSC,3-3,TSG 1899 Hoffenheim
+12,Sat Nov 24 2018,FC Augsburg,1-3,Eintracht Frankfurt
+12,Sat Nov 24 2018,1. FSV Mainz 05,1-2,Borussia Dortmund
+12,Sat Nov 24 2018,VfL Wolfsburg,1-0,RB Leipzig
+12,Sun Nov 25 2018,SC Freiburg,1-1,Werder Bremen
+12,Sun Nov 25 2018,Bor. Mönchengladbach,4-1,Hannover 96
+13,Fri Nov 30 2018,Fortuna Düsseldorf,0-1,1. FSV Mainz 05
+13,Sat Dec 1 2018,TSG 1899 Hoffenheim,1-1,FC Schalke 04
+13,Sat Dec 1 2018,Borussia Dortmund,2-0,SC Freiburg
+13,Sat Dec 1 2018,VfB Stuttgart,1-0,FC Augsburg
+13,Sat Dec 1 2018,Werder Bremen,1-2,Bayern München
+13,Sat Dec 1 2018,Hannover 96,0-2,Hertha BSC
+13,Sun Dec 2 2018,RB Leipzig,2-0,Bor. Mönchengladbach
+13,Sun Dec 2 2018,Eintracht Frankfurt,1-2,VfL Wolfsburg
+13,Mon Dec 3 2018,1. FC Nürnberg,1-1,Bayer 04 Leverkusen
+14,Fri Dec 7 2018,Werder Bremen,3-1,Fortuna Düsseldorf
+14,Sat Dec 8 2018,Bayern München,3-0,1. FC Nürnberg
+14,Sat Dec 8 2018,FC Schalke 04,1-2,Borussia Dortmund
+14,Sat Dec 8 2018,Bayer 04 Leverkusen,1-0,FC Augsburg
+14,Sat Dec 8 2018,Hertha BSC,1-0,Eintracht Frankfurt
+14,Sat Dec 8 2018,SC Freiburg,3-0,RB Leipzig
+14,Sat Dec 8 2018,VfL Wolfsburg,2-2,TSG 1899 Hoffenheim
+14,Sun Dec 9 2018,Bor. Mönchengladbach,3-0,VfB Stuttgart
+14,Sun Dec 9 2018,1. FSV Mainz 05,1-1,Hannover 96
+15,Fri Dec 14 2018,1. FC Nürnberg,0-2,VfL Wolfsburg
+15,Sat Dec 15 2018,TSG 1899 Hoffenheim,0-0,Bor. Mönchengladbach
+15,Sat Dec 15 2018,Borussia Dortmund,2-1,Werder Bremen
+15,Sat Dec 15 2018,VfB Stuttgart,2-1,Hertha BSC
+15,Sat Dec 15 2018,FC Augsburg,1-1,FC Schalke 04
+15,Sat Dec 15 2018,Hannover 96,0-4,Bayern München
+15,Sat Dec 15 2018,Fortuna Düsseldorf,2-0,SC Freiburg
+15,Sun Dec 16 2018,RB Leipzig,4-1,1. FSV Mainz 05
+15,Sun Dec 16 2018,Eintracht Frankfurt,2-1,Bayer 04 Leverkusen
+16,Tue Dec 18 2018,Bor. Mönchengladbach,2-0,1. FC Nürnberg
+16,Tue Dec 18 2018,Hertha BSC,2-2,FC Augsburg
+16,Tue Dec 18 2018,VfL Wolfsburg,2-0,VfB Stuttgart
+16,Tue Dec 18 2018,Fortuna Düsseldorf,2-1,Borussia Dortmund
+16,Wed Dec 19 2018,Bayern München,1-0,RB Leipzig
+16,Wed Dec 19 2018,FC Schalke 04,1-2,Bayer 04 Leverkusen
+16,Wed Dec 19 2018,Werder Bremen,1-1,TSG 1899 Hoffenheim
+16,Wed Dec 19 2018,SC Freiburg,1-1,Hannover 96
+16,Wed Dec 19 2018,1. FSV Mainz 05,2-2,Eintracht Frankfurt
+17,Fri Dec 21 2018,Borussia Dortmund,2-1,Bor. Mönchengladbach
+17,Sat Dec 22 2018,Bayer 04 Leverkusen,3-1,Hertha BSC
+17,Sat Dec 22 2018,RB Leipzig,3-2,Werder Bremen
+17,Sat Dec 22 2018,VfB Stuttgart,1-3,FC Schalke 04
+17,Sat Dec 22 2018,Eintracht Frankfurt,0-3,Bayern München
+17,Sat Dec 22 2018,Hannover 96,0-1,Fortuna Düsseldorf
+17,Sat Dec 22 2018,1. FC Nürnberg,0-1,SC Freiburg
+17,Sun Dec 23 2018,TSG 1899 Hoffenheim,1-1,1. FSV Mainz 05
+17,Sun Dec 23 2018,FC Augsburg,2-3,VfL Wolfsburg
+18,Fri Jan 18 2019,TSG 1899 Hoffenheim,1-3,Bayern München
+18,Sat Jan 19 2019,RB Leipzig,0-1,Borussia Dortmund
+18,Sat Jan 19 2019,Bayer 04 Leverkusen,0-1,Bor. Mönchengladbach
+18,Sat Jan 19 2019,Hannover 96,0-1,Werder Bremen
+18,Sat Jan 19 2019,Eintracht Frankfurt,3-1,SC Freiburg
+18,Sat Jan 19 2019,VfB Stuttgart,2-3,1. FSV Mainz 05
+18,Sat Jan 19 2019,FC Augsburg,1-2,Fortuna Düsseldorf
+18,Sun Jan 20 2019,1. FC Nürnberg,1-3,Hertha BSC
+18,Sun Jan 20 2019,FC Schalke 04,2-1,VfL Wolfsburg
+19,Fri Jan 25 2019,Hertha BSC,2-2,FC Schalke 04
+19,Sat Jan 26 2019,SC Freiburg,2-4,TSG 1899 Hoffenheim
+19,Sat Jan 26 2019,VfL Wolfsburg,0-3,Bayer 04 Leverkusen
+19,Sat Jan 26 2019,Werder Bremen,2-2,Eintracht Frankfurt
+19,Sat Jan 26 2019,Bor. Mönchengladbach,2-0,FC Augsburg
+19,Sat Jan 26 2019,Borussia Dortmund,5-1,Hannover 96
+19,Sat Jan 26 2019,1. FSV Mainz 05,2-1,1. FC Nürnberg
+19,Sun Jan 27 2019,Fortuna Düsseldorf,0-4,RB Leipzig
+19,Sun Jan 27 2019,Bayern München,4-1,VfB Stuttgart
+20,Fri Feb 1 2019,Hannover 96,0-3,RB Leipzig
+20,Sat Feb 2 2019,Eintracht Frankfurt,1-1,Borussia Dortmund
+20,Sat Feb 2 2019,FC Schalke 04,0-2,Bor. Mönchengladbach
+20,Sat Feb 2 2019,1. FC Nürnberg,1-1,Werder Bremen
+20,Sat Feb 2 2019,Hertha BSC,0-1,VfL Wolfsburg
+20,Sat Feb 2 2019,TSG 1899 Hoffenheim,1-1,Fortuna Düsseldorf
+20,Sat Feb 2 2019,Bayer 04 Leverkusen,3-1,Bayern München
+20,Sun Feb 3 2019,VfB Stuttgart,2-2,SC Freiburg
+20,Sun Feb 3 2019,FC Augsburg,3-0,1. FSV Mainz 05
+21,Fri Feb 8 2019,1. FSV Mainz 05,1-5,Bayer 04 Leverkusen
+21,Sat Feb 9 2019,Bayern München,3-1,FC Schalke 04
+21,Sat Feb 9 2019,Borussia Dortmund,3-3,TSG 1899 Hoffenheim
+21,Sat Feb 9 2019,RB Leipzig,0-0,Eintracht Frankfurt
+21,Sat Feb 9 2019,Bor. Mönchengladbach,0-3,Hertha BSC
+21,Sat Feb 9 2019,SC Freiburg,3-3,VfL Wolfsburg
+21,Sat Feb 9 2019,Hannover 96,2-0,1. FC Nürnberg
+21,Sun Feb 10 2019,Werder Bremen,4-0,FC Augsburg
+21,Sun Feb 10 2019,Fortuna Düsseldorf,3-0,VfB Stuttgart
+22,Fri Feb 15 2019,FC Augsburg,2-3,Bayern München
+22,Sat Feb 16 2019,VfB Stuttgart,1-3,RB Leipzig
+22,Sat Feb 16 2019,Hertha BSC,1-1,Werder Bremen
+22,Sat Feb 16 2019,TSG 1899 Hoffenheim,3-0,Hannover 96
+22,Sat Feb 16 2019,FC Schalke 04,0-0,SC Freiburg
+22,Sat Feb 16 2019,VfL Wolfsburg,3-0,1. FSV Mainz 05
+22,Sun Feb 17 2019,Eintracht Frankfurt,1-1,Bor. Mönchengladbach
+22,Sun Feb 17 2019,Bayer 04 Leverkusen,2-0,Fortuna Düsseldorf
+22,Mon Feb 18 2019,1. FC Nürnberg,0-0,Borussia Dortmund
+23,Fri Feb 22 2019,Werder Bremen,1-1,VfB Stuttgart
+23,Sat Feb 23 2019,1. FSV Mainz 05,3-0,FC Schalke 04
+23,Sat Feb 23 2019,Bayern München,1-0,Hertha BSC
+23,Sat Feb 23 2019,SC Freiburg,5-1,FC Augsburg
+23,Sat Feb 23 2019,Bor. Mönchengladbach,0-3,VfL Wolfsburg
+23,Sat Feb 23 2019,Fortuna Düsseldorf,2-1,1. FC Nürnberg
+23,Sun Feb 24 2019,Borussia Dortmund,3-2,Bayer 04 Leverkusen
+23,Sun Feb 24 2019,Hannover 96,0-3,Eintracht Frankfurt
+23,Mon Feb 25 2019,RB Leipzig,1-1,TSG 1899 Hoffenheim
+24,Fri Mar 1 2019,FC Augsburg,2-1,Borussia Dortmund
+24,Sat Mar 2 2019,Bor. Mönchengladbach,1-5,Bayern München
+24,Sat Mar 2 2019,Eintracht Frankfurt,3-2,TSG 1899 Hoffenheim
+24,Sat Mar 2 2019,1. FC Nürnberg,0-1,RB Leipzig
+24,Sat Mar 2 2019,Bayer 04 Leverkusen,2-0,SC Freiburg
+24,Sat Mar 2 2019,Hertha BSC,2-1,1. FSV Mainz 05
+24,Sat Mar 2 2019,FC Schalke 04,0-4,Fortuna Düsseldorf
+24,Sun Mar 3 2019,VfL Wolfsburg,1-1,Werder Bremen
+24,Sun Mar 3 2019,VfB Stuttgart,5-1,Hannover 96
+25,Fri Mar 8 2019,Werder Bremen,4-2,FC Schalke 04
+25,Sat Mar 9 2019,Borussia Dortmund,3-1,VfB Stuttgart
+25,Sat Mar 9 2019,1. FSV Mainz 05,0-1,Bor. Mönchengladbach
+25,Sat Mar 9 2019,SC Freiburg,2-1,Hertha BSC
+25,Sat Mar 9 2019,RB Leipzig,0-0,FC Augsburg
+25,Sat Mar 9 2019,Bayern München,6-0,VfL Wolfsburg
+25,Sun Mar 10 2019,TSG 1899 Hoffenheim,2-1,1. FC Nürnberg
+25,Sun Mar 10 2019,Hannover 96,2-3,Bayer 04 Leverkusen
+25,Mon Mar 11 2019,Fortuna Düsseldorf,0-3,Eintracht Frankfurt
+26,Fri Mar 15 2019,Bor. Mönchengladbach,1-1,SC Freiburg
+26,Sat Mar 16 2019,VfB Stuttgart,1-1,TSG 1899 Hoffenheim
+26,Sat Mar 16 2019,Hertha BSC,2-3,Borussia Dortmund
+26,Sat Mar 16 2019,FC Schalke 04,0-1,RB Leipzig
+26,Sat Mar 16 2019,FC Augsburg,3-1,Hannover 96
+26,Sat Mar 16 2019,VfL Wolfsburg,5-2,Fortuna Düsseldorf
+26,Sun Mar 17 2019,Bayer 04 Leverkusen,1-3,Werder Bremen
+26,Sun Mar 17 2019,Eintracht Frankfurt,1-0,1. FC Nürnberg
+26,Sun Mar 17 2019,Bayern München,6-0,1. FSV Mainz 05
+27,Fri Mar 29 2019,TSG 1899 Hoffenheim,4-1,Bayer 04 Leverkusen
+27,Sat Mar 30 2019,SC Freiburg,1-1,Bayern München
+27,Sat Mar 30 2019,Fortuna Düsseldorf,3-1,Bor. Mönchengladbach
+27,Sat Mar 30 2019,RB Leipzig,5-0,Hertha BSC
+27,Sat Mar 30 2019,1. FC Nürnberg,3-0,FC Augsburg
+27,Sat Mar 30 2019,Werder Bremen,3-1,1. FSV Mainz 05
+27,Sat Mar 30 2019,Borussia Dortmund,2-0,VfL Wolfsburg
+27,Sun Mar 31 2019,Hannover 96,0-1,FC Schalke 04
+27,Sun Mar 31 2019,Eintracht Frankfurt,3-0,VfB Stuttgart
+28,Fri Apr 5 2019,1. FSV Mainz 05,5-0,SC Freiburg
+28,Sat Apr 6 2019,Bayern München,5-0,Borussia Dortmund
+28,Sat Apr 6 2019,Bayer 04 Leverkusen,2-4,RB Leipzig
+28,Sat Apr 6 2019,FC Schalke 04,1-2,Eintracht Frankfurt
+28,Sat Apr 6 2019,VfL Wolfsburg,3-1,Hannover 96
+28,Sat Apr 6 2019,Hertha BSC,1-2,Fortuna Düsseldorf
+28,Sat Apr 6 2019,VfB Stuttgart,1-1,1. FC Nürnberg
+28,Sun Apr 7 2019,FC Augsburg,0-4,TSG 1899 Hoffenheim
+28,Sun Apr 7 2019,Bor. Mönchengladbach,1-1,Werder Bremen
+29,Fri Apr 12 2019,1. FC Nürnberg,1-1,FC Schalke 04
+29,Sat Apr 13 2019,RB Leipzig,2-0,VfL Wolfsburg
+29,Sat Apr 13 2019,VfB Stuttgart,0-1,Bayer 04 Leverkusen
+29,Sat Apr 13 2019,Werder Bremen,2-1,SC Freiburg
+29,Sat Apr 13 2019,Hannover 96,0-1,Bor. Mönchengladbach
+29,Sat Apr 13 2019,Borussia Dortmund,2-1,1. FSV Mainz 05
+29,Sun Apr 14 2019,TSG 1899 Hoffenheim,2-0,Hertha BSC
+29,Sun Apr 14 2019,Fortuna Düsseldorf,1-4,Bayern München
+29,Sun Apr 14 2019,Eintracht Frankfurt,1-3,FC Augsburg
+30,Sat Apr 20 2019,Bayern München,1-0,Werder Bremen
+30,Sat Apr 20 2019,Bayer 04 Leverkusen,2-0,1. FC Nürnberg
+30,Sat Apr 20 2019,FC Augsburg,6-0,VfB Stuttgart
+30,Sat Apr 20 2019,1. FSV Mainz 05,3-1,Fortuna Düsseldorf
+30,Sat Apr 20 2019,Bor. Mönchengladbach,1-2,RB Leipzig
+30,Sat Apr 20 2019,FC Schalke 04,2-5,TSG 1899 Hoffenheim
+30,Sun Apr 21 2019,SC Freiburg,0-4,Borussia Dortmund
+30,Sun Apr 21 2019,Hertha BSC,0-0,Hannover 96
+30,Mon Apr 22 2019,VfL Wolfsburg,1-1,Eintracht Frankfurt
+31,Fri Apr 26 2019,FC Augsburg,1-4,Bayer 04 Leverkusen
+31,Sat Apr 27 2019,Borussia Dortmund,2-4,FC Schalke 04
+31,Sat Apr 27 2019,RB Leipzig,2-1,SC Freiburg
+31,Sat Apr 27 2019,Eintracht Frankfurt,0-0,Hertha BSC
+31,Sat Apr 27 2019,Hannover 96,1-0,1. FSV Mainz 05
+31,Sat Apr 27 2019,Fortuna Düsseldorf,4-1,Werder Bremen
+31,Sat Apr 27 2019,VfB Stuttgart,1-0,Bor. Mönchengladbach
+31,Sun Apr 28 2019,TSG 1899 Hoffenheim,1-4,VfL Wolfsburg
+31,Sun Apr 28 2019,1. FC Nürnberg,1-1,Bayern München
+32,Fri May 3 2019,1. FSV Mainz 05,3-3,RB Leipzig
+32,Sat May 4 2019,Bayern München,3-1,Hannover 96
+32,Sat May 4 2019,Bor. Mönchengladbach,2-2,TSG 1899 Hoffenheim
+32,Sat May 4 2019,Hertha BSC,3-1,VfB Stuttgart
+32,Sat May 4 2019,VfL Wolfsburg,2-0,1. FC Nürnberg
+32,Sat May 4 2019,Werder Bremen,2-2,Borussia Dortmund
+32,Sun May 5 2019,FC Schalke 04,0-0,FC Augsburg
+32,Sun May 5 2019,SC Freiburg,1-1,Fortuna Düsseldorf
+32,Sun May 5 2019,Bayer 04 Leverkusen,6-1,Eintracht Frankfurt
+33,Sat May 11 2019,RB Leipzig,0-0,Bayern München
+33,Sat May 11 2019,Bayer 04 Leverkusen,1-1,FC Schalke 04
+33,Sat May 11 2019,1. FC Nürnberg,0-4,Bor. Mönchengladbach
+33,Sat May 11 2019,FC Augsburg,3-4,Hertha BSC
+33,Sat May 11 2019,TSG 1899 Hoffenheim,0-1,Werder Bremen
+33,Sat May 11 2019,Hannover 96,3-0,SC Freiburg
+33,Sat May 11 2019,VfB Stuttgart,3-0,VfL Wolfsburg
+33,Sat May 11 2019,Borussia Dortmund,3-2,Fortuna Düsseldorf
+33,Sun May 12 2019,Eintracht Frankfurt,0-2,1. FSV Mainz 05
+34,Sat May 18 2019,1. FSV Mainz 05,4-2,TSG 1899 Hoffenheim
+34,Sat May 18 2019,Bor. Mönchengladbach,0-2,Borussia Dortmund
+34,Sat May 18 2019,Hertha BSC,1-5,Bayer 04 Leverkusen
+34,Sat May 18 2019,Werder Bremen,2-1,RB Leipzig
+34,Sat May 18 2019,FC Schalke 04,0-0,VfB Stuttgart
+34,Sat May 18 2019,Bayern München,5-1,Eintracht Frankfurt
+34,Sat May 18 2019,VfL Wolfsburg,8-1,FC Augsburg
+34,Sat May 18 2019,Fortuna Düsseldorf,2-1,Hannover 96
+34,Sat May 18 2019,SC Freiburg,5-1,1. FC Nürnberg

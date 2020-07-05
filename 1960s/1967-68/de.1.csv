@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Aug 18 1967,MSV Duisburg,2-2,Borussia Dortmund
+1,Sat Aug 19 1967,TSV 1860 München,1-0,Eintracht Braunschweig
+1,Sat Aug 19 1967,FC Schalke 04,3-4,Bor. Mönchengladbach
+1,Sat Aug 19 1967,VfB Stuttgart,4-0,Eintracht Frankfurt
+1,Sat Aug 19 1967,Alemannia Aachen,0-4,Bayern München
+1,Sat Aug 19 1967,1. FC Nürnberg,2-0,Karlsruher SC
+1,Sat Aug 19 1967,Hannover 96,3-0,1. FC Köln
+1,Sat Aug 19 1967,1. FC Kaiserslautern,2-1,VfB Borussia Neunkirchen
+1,Sat Aug 19 1967,Werder Bremen,1-4,Hamburger SV
+2,Sat Aug 26 1967,Eintracht Frankfurt,5-3,Werder Bremen
+2,Sat Aug 26 1967,Karlsruher SC,0-2,MSV Duisburg
+2,Sat Aug 26 1967,VfB Borussia Neunkirchen,2-2,1. FC Nürnberg
+2,Sat Aug 26 1967,Eintracht Braunschweig,1-0,FC Schalke 04
+2,Sat Aug 26 1967,Hamburger SV,1-1,1. FC Kaiserslautern
+2,Sat Aug 26 1967,1. FC Köln,1-0,TSV 1860 München
+2,Sat Aug 26 1967,Bayern München,1-0,Hannover 96
+2,Sat Aug 26 1967,Bor. Mönchengladbach,1-1,VfB Stuttgart
+2,Sat Aug 26 1967,Borussia Dortmund,1-0,Alemannia Aachen
+3,Sat Sep 2 1967,MSV Duisburg,3-1,VfB Borussia Neunkirchen
+3,Sat Sep 2 1967,VfB Stuttgart,0-0,Eintracht Braunschweig
+3,Sat Sep 2 1967,Hannover 96,2-2,Borussia Dortmund
+3,Sat Sep 2 1967,Werder Bremen,0-4,Bor. Mönchengladbach
+3,Sat Sep 2 1967,1. FC Kaiserslautern,1-1,Eintracht Frankfurt
+3,Sat Sep 2 1967,1. FC Nürnberg,4-0,Hamburger SV
+3,Sat Sep 2 1967,Alemannia Aachen,2-1,Karlsruher SC
+3,Sat Sep 2 1967,FC Schalke 04,0-0,TSV 1860 München
+3,Sat Sep 2 1967,Bayern München,0-3,1. FC Köln
+4,Sat Sep 9 1967,VfB Borussia Neunkirchen,0-1,Alemannia Aachen
+4,Sat Sep 9 1967,Eintracht Braunschweig,0-3,Werder Bremen
+4,Sat Sep 9 1967,1. FC Köln,7-0,FC Schalke 04
+4,Sat Sep 9 1967,TSV 1860 München,3-3,VfB Stuttgart
+4,Sat Sep 9 1967,Eintracht Frankfurt,1-2,1. FC Nürnberg
+4,Sat Sep 9 1967,Hamburger SV,1-3,MSV Duisburg
+4,Sat Sep 9 1967,Bor. Mönchengladbach,8-2,1. FC Kaiserslautern
+4,Sat Sep 9 1967,Karlsruher SC,3-1,Hannover 96
+4,Sat Sep 9 1967,Borussia Dortmund,6-3,Bayern München
+5,Wed Sep 13 1967,Borussia Dortmund,2-0,1. FC Köln
+5,Wed Sep 13 1967,1. FC Kaiserslautern,2-2,Eintracht Braunschweig
+5,Wed Sep 13 1967,Hannover 96,2-0,VfB Borussia Neunkirchen
+5,Wed Sep 13 1967,1. FC Nürnberg,1-0,Bor. Mönchengladbach
+5,Wed Sep 13 1967,MSV Duisburg,0-1,Eintracht Frankfurt
+5,Wed Sep 13 1967,Alemannia Aachen,2-0,Hamburger SV
+5,Wed Sep 13 1967,Werder Bremen,2-2,TSV 1860 München
+5,Wed Sep 13 1967,Bayern München,3-0,Karlsruher SC
+5,Wed Sep 13 1967,VfB Stuttgart,2-0,FC Schalke 04
+6,Sat Sep 16 1967,Bor. Mönchengladbach,1-1,MSV Duisburg
+6,Sat Sep 16 1967,1. FC Köln,2-2,VfB Stuttgart
+6,Sat Sep 16 1967,Karlsruher SC,2-0,Borussia Dortmund
+6,Sat Sep 16 1967,FC Schalke 04,0-2,Werder Bremen
+6,Sat Sep 16 1967,VfB Borussia Neunkirchen,1-1,Bayern München
+6,Sat Sep 16 1967,TSV 1860 München,0-3,1. FC Kaiserslautern
+6,Sat Sep 16 1967,Eintracht Frankfurt,1-1,Alemannia Aachen
+6,Sat Sep 16 1967,Hamburger SV,2-3,Hannover 96
+6,Sat Sep 16 1967,Eintracht Braunschweig,0-3,1. FC Nürnberg
+7,Fri Sep 22 1967,MSV Duisburg,2-3,Eintracht Braunschweig
+7,Sat Sep 23 1967,Borussia Dortmund,6-0,VfB Borussia Neunkirchen
+7,Sat Sep 23 1967,Karlsruher SC,0-1,1. FC Köln
+7,Sat Sep 23 1967,Werder Bremen,3-1,VfB Stuttgart
+7,Sat Sep 23 1967,1. FC Kaiserslautern,1-0,FC Schalke 04
+7,Sat Sep 23 1967,Bayern München,1-0,Hamburger SV
+7,Sat Sep 23 1967,1. FC Nürnberg,1-1,TSV 1860 München
+7,Sat Sep 23 1967,Alemannia Aachen,0-0,Bor. Mönchengladbach
+7,Sat Sep 23 1967,Hannover 96,2-1,Eintracht Frankfurt
+8,Sat Sep 30 1967,TSV 1860 München,0-1,MSV Duisburg
+8,Sat Sep 30 1967,1. FC Köln,1-4,Werder Bremen
+8,Sat Sep 30 1967,VfB Borussia Neunkirchen,3-2,Karlsruher SC
+8,Sat Sep 30 1967,Hamburger SV,3-2,Borussia Dortmund
+8,Sat Sep 30 1967,FC Schalke 04,0-0,1. FC Nürnberg
+8,Sat Sep 30 1967,Eintracht Frankfurt,2-3,Bayern München
+8,Sat Sep 30 1967,Bor. Mönchengladbach,5-1,Hannover 96
+8,Sat Sep 30 1967,Eintracht Braunschweig,2-0,Alemannia Aachen
+8,Fri Oct 6 1967,VfB Stuttgart,0-1,1. FC Kaiserslautern
+9,Sat Oct 14 1967,Bayern München,3-1,Bor. Mönchengladbach
+9,Sat Oct 14 1967,MSV Duisburg,1-1,FC Schalke 04
+9,Sat Oct 14 1967,Hannover 96,1-1,Eintracht Braunschweig
+9,Sat Oct 14 1967,Borussia Dortmund,2-1,Eintracht Frankfurt
+9,Sat Oct 14 1967,1. FC Nürnberg,5-1,VfB Stuttgart
+9,Sat Oct 14 1967,Karlsruher SC,2-1,Hamburger SV
+9,Sat Oct 14 1967,1. FC Kaiserslautern,2-2,Werder Bremen
+9,Sat Oct 14 1967,VfB Borussia Neunkirchen,2-1,1. FC Köln
+9,Sat Oct 14 1967,Alemannia Aachen,3-3,TSV 1860 München
+10,Sat Oct 21 1967,Werder Bremen,0-4,1. FC Nürnberg
+10,Sat Oct 21 1967,TSV 1860 München,3-1,Hannover 96
+10,Sat Oct 21 1967,Eintracht Braunschweig,1-0,Bayern München
+10,Sat Oct 21 1967,1. FC Köln,5-0,1. FC Kaiserslautern
+10,Sat Oct 21 1967,Hamburger SV,0-0,VfB Borussia Neunkirchen
+10,Sat Oct 21 1967,Eintracht Frankfurt,2-0,Karlsruher SC
+10,Sat Oct 21 1967,VfB Stuttgart,3-0,MSV Duisburg
+10,Sat Oct 21 1967,Bor. Mönchengladbach,2-2,Borussia Dortmund
+10,Sat Oct 21 1967,FC Schalke 04,2-1,Alemannia Aachen
+11,Sat Oct 28 1967,Bayern München,2-2,TSV 1860 München
+11,Sat Oct 28 1967,Borussia Dortmund,0-1,Eintracht Braunschweig
+11,Sat Oct 28 1967,Hannover 96,2-1,FC Schalke 04
+11,Sat Oct 28 1967,Karlsruher SC,3-2,Bor. Mönchengladbach
+11,Sat Oct 28 1967,MSV Duisburg,1-1,Werder Bremen
+11,Sat Oct 28 1967,VfB Borussia Neunkirchen,2-2,Eintracht Frankfurt
+11,Sat Oct 28 1967,1. FC Nürnberg,4-1,1. FC Kaiserslautern
+11,Sat Oct 28 1967,Hamburger SV,3-1,1. FC Köln
+11,Sat Oct 28 1967,Alemannia Aachen,3-2,VfB Stuttgart
+12,Sat Nov 4 1967,FC Schalke 04,0-1,Bayern München
+12,Sat Nov 4 1967,Eintracht Frankfurt,1-1,Hamburger SV
+12,Sat Nov 4 1967,Eintracht Braunschweig,1-0,Karlsruher SC
+12,Sat Nov 4 1967,Bor. Mönchengladbach,10-0,VfB Borussia Neunkirchen
+12,Sat Nov 4 1967,VfB Stuttgart,2-0,Hannover 96
+12,Sat Nov 4 1967,1. FC Kaiserslautern,0-1,MSV Duisburg
+12,Sat Nov 4 1967,TSV 1860 München,3-0,Borussia Dortmund
+12,Sat Nov 4 1967,Werder Bremen,0-1,Alemannia Aachen
+12,Sat Nov 4 1967,1. FC Köln,3-3,1. FC Nürnberg
+13,Sat Nov 11 1967,VfB Borussia Neunkirchen,1-2,Eintracht Braunschweig
+13,Sat Nov 11 1967,Hamburger SV,2-3,Bor. Mönchengladbach
+13,Sat Nov 11 1967,Borussia Dortmund,2-1,FC Schalke 04
+13,Sat Nov 11 1967,Bayern München,3-1,VfB Stuttgart
+13,Sat Nov 11 1967,Karlsruher SC,0-3,TSV 1860 München
+13,Sat Nov 11 1967,Alemannia Aachen,1-1,1. FC Kaiserslautern
+13,Sat Nov 11 1967,MSV Duisburg,2-0,1. FC Nürnberg
+13,Sat Nov 11 1967,Hannover 96,4-2,Werder Bremen
+13,Sat Nov 11 1967,Eintracht Frankfurt,1-2,1. FC Köln
+14,Sat Nov 18 1967,VfB Stuttgart,4-1,Borussia Dortmund
+14,Sat Nov 18 1967,Eintracht Braunschweig,0-1,Hamburger SV
+14,Sat Nov 18 1967,Bor. Mönchengladbach,1-1,Eintracht Frankfurt
+14,Sat Nov 18 1967,1. FC Kaiserslautern,0-0,Hannover 96
+14,Sat Nov 18 1967,FC Schalke 04,2-0,Karlsruher SC
+14,Sat Nov 18 1967,1. FC Köln,3-0,MSV Duisburg
+14,Sat Nov 18 1967,1. FC Nürnberg,4-1,Alemannia Aachen
+14,Sat Nov 18 1967,TSV 1860 München,5-0,VfB Borussia Neunkirchen
+14,Sat Nov 18 1967,Werder Bremen,4-1,Bayern München
+15,Sat Nov 25 1967,Bayern München,4-1,1. FC Kaiserslautern
+15,Sat Nov 25 1967,Karlsruher SC,1-4,VfB Stuttgart
+15,Sat Nov 25 1967,Eintracht Frankfurt,2-0,Eintracht Braunschweig
+15,Sat Nov 25 1967,Hannover 96,1-1,1. FC Nürnberg
+15,Sat Nov 25 1967,MSV Duisburg,3-0,Alemannia Aachen
+15,Sat Nov 25 1967,1. FC Köln,2-5,Bor. Mönchengladbach
+15,Sat Nov 25 1967,Borussia Dortmund,1-1,Werder Bremen
+15,Sat Nov 25 1967,Hamburger SV,2-2,TSV 1860 München
+15,Sat Nov 25 1967,VfB Borussia Neunkirchen,1-5,FC Schalke 04
+16,Sat Dec 2 1967,1. FC Kaiserslautern,2-2,Borussia Dortmund
+16,Sat Dec 2 1967,FC Schalke 04,3-0,Hamburger SV
+16,Sat Dec 2 1967,TSV 1860 München,5-0,Eintracht Frankfurt
+16,Sat Dec 2 1967,MSV Duisburg,1-2,Hannover 96
+16,Sat Dec 2 1967,Eintracht Braunschweig,2-1,Bor. Mönchengladbach
+16,Sat Dec 2 1967,1. FC Nürnberg,7-3,Bayern München
+16,Sat Dec 2 1967,Werder Bremen,6-1,Karlsruher SC
+16,Sat Dec 2 1967,Alemannia Aachen,4-2,1. FC Köln
+17,Sat Dec 9 1967,1. FC Köln,1-0,Eintracht Braunschweig
+17,Sat Dec 9 1967,Bor. Mönchengladbach,1-1,TSV 1860 München
+17,Sat Dec 9 1967,Borussia Dortmund,1-2,1. FC Nürnberg
+17,Sat Dec 9 1967,VfB Borussia Neunkirchen,0-0,Werder Bremen
+17,Sat Dec 9 1967,Eintracht Frankfurt,2-2,FC Schalke 04
+17,Sat Dec 9 1967,Hamburger SV,1-1,VfB Stuttgart
+17,Sat Dec 9 1967,Hannover 96,1-1,Alemannia Aachen
+17,Sat Dec 9 1967,Bayern München,0-4,MSV Duisburg
+17,Sat Dec 9 1967,Karlsruher SC,2-2,1. FC Kaiserslautern
+16,Sat Dec 16 1967,VfB Stuttgart,2-1,VfB Borussia Neunkirchen
+18,Sat Jan 6 1968,Hamburger SV,2-1,Werder Bremen
+18,Sat Jan 6 1968,VfB Borussia Neunkirchen,2-1,1. FC Kaiserslautern
+18,Sat Jan 6 1968,Karlsruher SC,1-1,1. FC Nürnberg
+18,Sat Jan 6 1968,1. FC Köln,2-1,Hannover 96
+18,Sat Jan 6 1968,Bor. Mönchengladbach,1-6,FC Schalke 04
+18,Sat Jan 6 1968,Borussia Dortmund,4-3,MSV Duisburg
+18,Sat Jan 6 1968,Bayern München,4-1,Alemannia Aachen
+19,Sat Jan 13 1968,VfB Stuttgart,1-3,Bor. Mönchengladbach
+19,Sat Jan 13 1968,MSV Duisburg,2-1,Karlsruher SC
+19,Sat Jan 13 1968,Werder Bremen,2-0,Eintracht Frankfurt
+19,Sat Jan 13 1968,Alemannia Aachen,3-0,Borussia Dortmund
+19,Sat Jan 13 1968,TSV 1860 München,0-1,1. FC Köln
+19,Sat Jan 13 1968,1. FC Nürnberg,3-0,VfB Borussia Neunkirchen
+19,Sat Jan 13 1968,FC Schalke 04,0-2,Eintracht Braunschweig
+19,Sat Jan 13 1968,Hannover 96,2-1,Bayern München
+20,Sat Jan 20 1968,Hamburger SV,3-1,1. FC Nürnberg
+20,Sat Jan 20 1968,Bor. Mönchengladbach,3-1,Werder Bremen
+20,Sat Jan 20 1968,VfB Borussia Neunkirchen,2-1,MSV Duisburg
+20,Sat Jan 20 1968,Eintracht Braunschweig,2-1,VfB Stuttgart
+20,Sat Jan 20 1968,Borussia Dortmund,3-1,Hannover 96
+20,Sat Jan 20 1968,TSV 1860 München,1-2,FC Schalke 04
+20,Sat Jan 20 1968,Eintracht Frankfurt,5-2,1. FC Kaiserslautern
+20,Sat Jan 20 1968,Karlsruher SC,2-4,Alemannia Aachen
+20,Sat Jan 20 1968,1. FC Köln,3-3,Bayern München
+21,Sat Feb 3 1968,VfB Stuttgart,2-1,TSV 1860 München
+21,Sat Feb 3 1968,Werder Bremen,3-2,Eintracht Braunschweig
+21,Sat Feb 3 1968,Hannover 96,2-0,Karlsruher SC
+21,Sat Feb 3 1968,1. FC Kaiserslautern,0-1,Bor. Mönchengladbach
+21,Sat Feb 3 1968,MSV Duisburg,1-2,Hamburger SV
+21,Sat Feb 3 1968,1. FC Nürnberg,0-2,Eintracht Frankfurt
+21,Sat Feb 3 1968,Alemannia Aachen,5-1,VfB Borussia Neunkirchen
+21,Sat Feb 3 1968,FC Schalke 04,1-1,1. FC Köln
+22,Sat Feb 10 1968,TSV 1860 München,1-3,Werder Bremen
+22,Sat Feb 10 1968,Eintracht Braunschweig,1-0,1. FC Kaiserslautern
+22,Sat Feb 10 1968,1. FC Köln,3-0,Borussia Dortmund
+22,Sat Feb 10 1968,FC Schalke 04,2-1,VfB Stuttgart
+22,Sat Feb 10 1968,VfB Borussia Neunkirchen,3-1,Hannover 96
+22,Sat Feb 10 1968,Hamburger SV,5-1,Alemannia Aachen
+22,Sat Feb 10 1968,Eintracht Frankfurt,3-2,MSV Duisburg
+22,Sat Feb 10 1968,Bor. Mönchengladbach,1-1,1. FC Nürnberg
+22,Sat Feb 10 1968,Karlsruher SC,0-2,Bayern München
+23,Sat Feb 17 1968,Alemannia Aachen,2-1,Eintracht Frankfurt
+23,Sat Feb 17 1968,MSV Duisburg,2-2,Bor. Mönchengladbach
+23,Sat Feb 17 1968,1. FC Kaiserslautern,0-0,TSV 1860 München
+23,Sat Feb 17 1968,Hannover 96,2-2,Hamburger SV
+23,Sat Feb 17 1968,Borussia Dortmund,5-0,Karlsruher SC
+23,Sat Feb 17 1968,1. FC Nürnberg,3-1,Eintracht Braunschweig
+23,Sat Feb 17 1968,Bayern München,4-0,VfB Borussia Neunkirchen
+23,Sat Feb 17 1968,VfB Stuttgart,2-0,1. FC Köln
+23,Sat Feb 17 1968,Werder Bremen,2-0,FC Schalke 04
+19,Sat Feb 24 1968,1. FC Kaiserslautern,3-3,Hamburger SV
+24,Sat Mar 2 1968,VfB Stuttgart,0-3,Werder Bremen
+24,Sat Mar 2 1968,TSV 1860 München,1-2,1. FC Nürnberg
+24,Sat Mar 2 1968,Hamburger SV,2-1,Bayern München
+24,Sat Mar 2 1968,Eintracht Braunschweig,3-0,MSV Duisburg
+24,Sat Mar 2 1968,Eintracht Frankfurt,3-0,Hannover 96
+24,Sat Mar 2 1968,1. FC Köln,4-0,Karlsruher SC
+24,Sat Mar 2 1968,FC Schalke 04,2-1,1. FC Kaiserslautern
+24,Sat Mar 2 1968,VfB Borussia Neunkirchen,3-2,Borussia Dortmund
+24,Sat Mar 2 1968,Bor. Mönchengladbach,3-0,Alemannia Aachen
+25,Sat Mar 9 1968,1. FC Nürnberg,2-3,FC Schalke 04
+25,Sat Mar 9 1968,Alemannia Aachen,2-1,Eintracht Braunschweig
+25,Sat Mar 9 1968,Borussia Dortmund,2-2,Hamburger SV
+25,Sat Mar 9 1968,Bayern München,3-0,Eintracht Frankfurt
+25,Sat Mar 9 1968,Hannover 96,1-1,Bor. Mönchengladbach
+25,Sat Mar 9 1968,MSV Duisburg,2-1,TSV 1860 München
+25,Sat Mar 9 1968,1. FC Kaiserslautern,2-0,VfB Stuttgart
+25,Sat Mar 9 1968,Karlsruher SC,5-1,VfB Borussia Neunkirchen
+25,Sat Mar 9 1968,Werder Bremen,3-1,1. FC Köln
+26,Sat Mar 16 1968,VfB Stuttgart,1-1,1. FC Nürnberg
+26,Sat Mar 16 1968,Werder Bremen,2-1,1. FC Kaiserslautern
+26,Sat Mar 16 1968,Hamburger SV,0-0,Karlsruher SC
+26,Sat Mar 16 1968,Bor. Mönchengladbach,1-1,Bayern München
+26,Sat Mar 16 1968,Eintracht Frankfurt,4-1,Borussia Dortmund
+26,Sat Mar 16 1968,1. FC Köln,2-1,VfB Borussia Neunkirchen
+26,Sat Mar 16 1968,TSV 1860 München,6-0,Alemannia Aachen
+26,Sat Mar 16 1968,FC Schalke 04,0-3,MSV Duisburg
+26,Sat Mar 16 1968,Eintracht Braunschweig,0-1,Hannover 96
+27,Sat Mar 23 1968,Alemannia Aachen,2-1,FC Schalke 04
+27,Sat Mar 23 1968,1. FC Nürnberg,0-0,Werder Bremen
+27,Sat Mar 23 1968,Borussia Dortmund,3-1,Bor. Mönchengladbach
+27,Sat Mar 23 1968,Karlsruher SC,0-1,Eintracht Frankfurt
+27,Sat Mar 23 1968,Bayern München,3-0,Eintracht Braunschweig
+27,Sat Mar 23 1968,VfB Borussia Neunkirchen,0-3,Hamburger SV
+27,Sat Mar 23 1968,MSV Duisburg,3-3,VfB Stuttgart
+27,Sat Mar 23 1968,Hannover 96,1-2,TSV 1860 München
+27,Sat Mar 23 1968,1. FC Kaiserslautern,2-1,1. FC Köln
+28,Sat Mar 30 1968,Eintracht Braunschweig,2-0,Borussia Dortmund
+28,Sat Mar 30 1968,FC Schalke 04,1-1,Hannover 96
+28,Sat Mar 30 1968,1. FC Kaiserslautern,1-0,1. FC Nürnberg
+28,Sat Mar 30 1968,1. FC Köln,2-1,Hamburger SV
+28,Sat Mar 30 1968,TSV 1860 München,3-2,Bayern München
+28,Sat Mar 30 1968,VfB Stuttgart,4-1,Alemannia Aachen
+28,Sat Mar 30 1968,Eintracht Frankfurt,4-1,VfB Borussia Neunkirchen
+28,Sat Mar 30 1968,Werder Bremen,3-3,MSV Duisburg
+28,Sat Mar 30 1968,Bor. Mönchengladbach,0-0,Karlsruher SC
+21,Tue Apr 2 1968,Bayern München,2-0,Borussia Dortmund
+18,Wed Apr 3 1968,Eintracht Frankfurt,4-0,VfB Stuttgart
+18,Wed Apr 3 1968,Eintracht Braunschweig,0-1,TSV 1860 München
+29,Fri Apr 5 1968,Alemannia Aachen,1-1,Werder Bremen
+29,Sat Apr 6 1968,Borussia Dortmund,0-0,TSV 1860 München
+29,Sat Apr 6 1968,Hamburger SV,0-1,Eintracht Frankfurt
+29,Sat Apr 6 1968,1. FC Nürnberg,2-1,1. FC Köln
+29,Sat Apr 6 1968,Bayern München,2-0,FC Schalke 04
+29,Sat Apr 6 1968,MSV Duisburg,7-0,1. FC Kaiserslautern
+29,Sat Apr 6 1968,Hannover 96,2-1,VfB Stuttgart
+29,Sat Apr 6 1968,VfB Borussia Neunkirchen,0-3,Bor. Mönchengladbach
+29,Sat Apr 6 1968,Karlsruher SC,1-2,Eintracht Braunschweig
+30,Sat Apr 20 1968,Werder Bremen,1-0,Hannover 96
+30,Sat Apr 20 1968,Bor. Mönchengladbach,4-1,Hamburger SV
+30,Sat Apr 20 1968,1. FC Nürnberg,4-1,MSV Duisburg
+30,Sat Apr 20 1968,Eintracht Braunschweig,4-2,VfB Borussia Neunkirchen
+30,Sat Apr 20 1968,VfB Stuttgart,3-0,Bayern München
+30,Sat Apr 20 1968,1. FC Köln,5-1,Eintracht Frankfurt
+30,Sat Apr 20 1968,TSV 1860 München,3-0,Karlsruher SC
+30,Sat Apr 20 1968,FC Schalke 04,1-0,Borussia Dortmund
+30,Sat Apr 20 1968,1. FC Kaiserslautern,1-0,Alemannia Aachen
+31,Fri Apr 26 1968,MSV Duisburg,3-2,1. FC Köln
+31,Sat Apr 27 1968,Borussia Dortmund,2-1,VfB Stuttgart
+31,Sat Apr 27 1968,Hannover 96,2-0,1. FC Kaiserslautern
+31,Sat Apr 27 1968,VfB Borussia Neunkirchen,1-0,TSV 1860 München
+31,Sat Apr 27 1968,Bayern München,2-3,Werder Bremen
+31,Sat Apr 27 1968,Karlsruher SC,1-0,FC Schalke 04
+31,Sat Apr 27 1968,Eintracht Frankfurt,3-1,Bor. Mönchengladbach
+31,Sat Apr 27 1968,Alemannia Aachen,2-0,1. FC Nürnberg
+31,Sat Apr 27 1968,Hamburger SV,0-0,Eintracht Braunschweig
+32,Sat May 11 1968,1. FC Kaiserslautern,2-2,Bayern München
+32,Sat May 11 1968,Bor. Mönchengladbach,1-0,1. FC Köln
+32,Sat May 11 1968,Alemannia Aachen,4-4,MSV Duisburg
+32,Sat May 11 1968,Eintracht Braunschweig,0-0,Eintracht Frankfurt
+32,Sat May 11 1968,1. FC Nürnberg,2-1,Hannover 96
+32,Sat May 11 1968,VfB Stuttgart,3-2,Karlsruher SC
+32,Sat May 11 1968,Werder Bremen,2-1,Borussia Dortmund
+32,Sat May 11 1968,FC Schalke 04,2-0,VfB Borussia Neunkirchen
+32,Sat May 11 1968,TSV 1860 München,0-1,Hamburger SV
+33,Sat May 18 1968,Bor. Mönchengladbach,2-0,Eintracht Braunschweig
+33,Sat May 18 1968,Eintracht Frankfurt,2-1,TSV 1860 München
+33,Sat May 18 1968,Bayern München,0-2,1. FC Nürnberg
+33,Sat May 18 1968,Hamburger SV,1-1,FC Schalke 04
+33,Sat May 18 1968,Hannover 96,2-2,MSV Duisburg
+33,Sat May 18 1968,1. FC Köln,3-1,Alemannia Aachen
+33,Sat May 18 1968,Karlsruher SC,1-2,Werder Bremen
+33,Sat May 18 1968,VfB Borussia Neunkirchen,0-5,VfB Stuttgart
+33,Sat May 18 1968,Borussia Dortmund,4-0,1. FC Kaiserslautern
+34,Sat May 25 1968,FC Schalke 04,0-0,Eintracht Frankfurt
+34,Sat May 25 1968,MSV Duisburg,3-3,Bayern München
+34,Sat May 25 1968,TSV 1860 München,0-0,Bor. Mönchengladbach
+34,Sat May 25 1968,1. FC Nürnberg,2-1,Borussia Dortmund
+34,Sat May 25 1968,1. FC Kaiserslautern,1-1,Karlsruher SC
+34,Sat May 25 1968,Werder Bremen,2-1,VfB Borussia Neunkirchen
+34,Sat May 25 1968,Alemannia Aachen,2-2,Hannover 96
+34,Sat May 25 1968,Eintracht Braunschweig,1-2,1. FC Köln
+34,Tue May 28 1968,VfB Stuttgart,4-1,Hamburger SV

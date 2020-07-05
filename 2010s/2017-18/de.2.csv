@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Jul 28 2017,VfL Bochum,0-1,FC St. Pauli
+1,Sat Jul 29 2017,FC Ingolstadt 04,0-1,1. FC Union Berlin
+1,Sat Jul 29 2017,SV Darmstadt 98,1-0,SpVgg Greuther Fürth
+1,Sat Jul 29 2017,Arminia Bielefeld,2-1,SSV Jahn Regensburg
+1,Sun Jul 30 2017,1. FC Nürnberg,3-0,1. FC Kaiserslautern
+1,Sun Jul 30 2017,Holstein Kiel,2-2,SV Sandhausen
+1,Sun Jul 30 2017,Dynamo Dresden,1-0,MSV Duisburg
+1,Mon Jul 31 2017,Fortuna Düsseldorf,2-2,Eintracht Braunschweig
+2,Fri Aug 4 2017,SV Sandhausen,1-0,FC Ingolstadt 04
+2,Fri Aug 4 2017,1. FC Union Berlin,4-3,Holstein Kiel
+2,Fri Aug 4 2017,1. FC Kaiserslautern,1-1,SV Darmstadt 98
+2,Sat Aug 5 2017,Eintracht Braunschweig,2-0,1. FC Heidenheim
+2,Sat Aug 5 2017,MSV Duisburg,1-1,VfL Bochum
+2,Sun Aug 6 2017,FC Erzgebirge Aue,0-2,Fortuna Düsseldorf
+2,Sun Aug 6 2017,SpVgg Greuther Fürth,1-2,Arminia Bielefeld
+2,Sun Aug 6 2017,SSV Jahn Regensburg,0-1,1. FC Nürnberg
+2,Mon Aug 7 2017,FC St. Pauli,2-2,Dynamo Dresden
+1,Wed Aug 9 2017,1. FC Heidenheim,2-1,FC Erzgebirge Aue
+3,Fri Aug 18 2017,Eintracht Braunschweig,1-1,FC Erzgebirge Aue
+3,Fri Aug 18 2017,SV Darmstadt 98,3-0,FC St. Pauli
+3,Sat Aug 19 2017,Fortuna Düsseldorf,2-0,1. FC Kaiserslautern
+3,Sat Aug 19 2017,1. FC Heidenheim,1-2,MSV Duisburg
+3,Sat Aug 19 2017,Dynamo Dresden,0-4,SV Sandhausen
+3,Sun Aug 20 2017,Holstein Kiel,3-1,SpVgg Greuther Fürth
+3,Sun Aug 20 2017,FC Ingolstadt 04,2-4,SSV Jahn Regensburg
+3,Sun Aug 20 2017,1. FC Nürnberg,2-2,1. FC Union Berlin
+3,Mon Aug 21 2017,Arminia Bielefeld,2-0,VfL Bochum
+4,Fri Aug 25 2017,SpVgg Greuther Fürth,0-1,FC Ingolstadt 04
+4,Fri Aug 25 2017,MSV Duisburg,1-2,SV Darmstadt 98
+4,Sat Aug 26 2017,SSV Jahn Regensburg,1-2,Holstein Kiel
+4,Sat Aug 26 2017,FC St. Pauli,1-0,1. FC Heidenheim
+4,Sat Aug 26 2017,FC Erzgebirge Aue,3-1,1. FC Nürnberg
+4,Sun Aug 27 2017,1. FC Union Berlin,1-1,Arminia Bielefeld
+4,Sun Aug 27 2017,VfL Bochum,3-2,Dynamo Dresden
+4,Sun Aug 27 2017,SV Sandhausen,1-2,Fortuna Düsseldorf
+4,Mon Aug 28 2017,1. FC Kaiserslautern,1-1,Eintracht Braunschweig
+5,Fri Sep 8 2017,1. FC Heidenheim,1-3,SSV Jahn Regensburg
+5,Fri Sep 8 2017,Dynamo Dresden,1-1,SpVgg Greuther Fürth
+5,Sat Sep 9 2017,Arminia Bielefeld,0-4,MSV Duisburg
+5,Sat Sep 9 2017,Holstein Kiel,2-1,1. FC Kaiserslautern
+5,Sat Sep 9 2017,FC Ingolstadt 04,1-2,FC Erzgebirge Aue
+5,Sun Sep 10 2017,Eintracht Braunschweig,1-1,SV Sandhausen
+5,Sun Sep 10 2017,SV Darmstadt 98,1-2,VfL Bochum
+5,Sun Sep 10 2017,Fortuna Düsseldorf,3-2,1. FC Union Berlin
+5,Mon Sep 11 2017,1. FC Nürnberg,0-1,FC St. Pauli
+6,Fri Sep 15 2017,1. FC Union Berlin,1-1,Eintracht Braunschweig
+6,Fri Sep 15 2017,FC Erzgebirge Aue,0-3,Holstein Kiel
+6,Sat Sep 16 2017,FC St. Pauli,0-4,FC Ingolstadt 04
+6,Sat Sep 16 2017,MSV Duisburg,1-6,1. FC Nürnberg
+6,Sat Sep 16 2017,SV Sandhausen,1-0,1. FC Kaiserslautern
+6,Sun Sep 17 2017,SSV Jahn Regensburg,0-2,Dynamo Dresden
+6,Sun Sep 17 2017,SV Darmstadt 98,4-3,Arminia Bielefeld
+6,Sun Sep 17 2017,SpVgg Greuther Fürth,3-1,Fortuna Düsseldorf
+6,Sun Sep 17 2017,VfL Bochum,1-2,1. FC Heidenheim
+7,Tue Sep 19 2017,Holstein Kiel,0-1,FC St. Pauli
+7,Tue Sep 19 2017,FC Ingolstadt 04,2-2,MSV Duisburg
+7,Tue Sep 19 2017,1. FC Kaiserslautern,0-2,FC Erzgebirge Aue
+7,Tue Sep 19 2017,SV Sandhausen,1-0,1. FC Union Berlin
+7,Wed Sep 20 2017,Fortuna Düsseldorf,1-0,SSV Jahn Regensburg
+7,Wed Sep 20 2017,Eintracht Braunschweig,3-0,SpVgg Greuther Fürth
+7,Wed Sep 20 2017,1. FC Heidenheim,2-2,SV Darmstadt 98
+7,Wed Sep 20 2017,Dynamo Dresden,0-2,Arminia Bielefeld
+7,Thu Sep 21 2017,1. FC Nürnberg,3-1,VfL Bochum
+8,Fri Sep 22 2017,MSV Duisburg,1-3,Holstein Kiel
+8,Fri Sep 22 2017,FC Erzgebirge Aue,1-0,SV Sandhausen
+8,Sat Sep 23 2017,SSV Jahn Regensburg,2-1,Eintracht Braunschweig
+8,Sat Sep 23 2017,Arminia Bielefeld,1-1,1. FC Heidenheim
+8,Sat Sep 23 2017,FC St. Pauli,1-2,Fortuna Düsseldorf
+8,Sun Sep 24 2017,SpVgg Greuther Fürth,1-3,1. FC Nürnberg
+8,Sun Sep 24 2017,VfL Bochum,2-0,FC Ingolstadt 04
+8,Sun Sep 24 2017,SV Darmstadt 98,3-3,Dynamo Dresden
+8,Mon Sep 25 2017,1. FC Union Berlin,5-0,1. FC Kaiserslautern
+9,Fri Sep 29 2017,FC Ingolstadt 04,3-0,SV Darmstadt 98
+9,Fri Sep 29 2017,1. FC Kaiserslautern,3-0,SpVgg Greuther Fürth
+9,Sat Sep 30 2017,Holstein Kiel,3-0,VfL Bochum
+9,Sat Sep 30 2017,1. FC Nürnberg,1-2,Arminia Bielefeld
+9,Sat Sep 30 2017,FC Erzgebirge Aue,1-2,1. FC Union Berlin
+9,Sun Oct 1 2017,SV Sandhausen,2-0,SSV Jahn Regensburg
+9,Sun Oct 1 2017,Eintracht Braunschweig,0-2,FC St. Pauli
+9,Sun Oct 1 2017,1. FC Heidenheim,0-2,Dynamo Dresden
+9,Mon Oct 2 2017,Fortuna Düsseldorf,3-1,MSV Duisburg
+10,Fri Oct 13 2017,MSV Duisburg,0-0,Eintracht Braunschweig
+10,Fri Oct 13 2017,FC St. Pauli,1-1,1. FC Kaiserslautern
+10,Sat Oct 14 2017,Arminia Bielefeld,0-2,Fortuna Düsseldorf
+10,Sat Oct 14 2017,Dynamo Dresden,2-2,FC Ingolstadt 04
+10,Sat Oct 14 2017,VfL Bochum,2-0,SV Sandhausen
+10,Sun Oct 15 2017,1. FC Heidenheim,3-5,Holstein Kiel
+10,Sun Oct 15 2017,SSV Jahn Regensburg,0-2,1. FC Union Berlin
+10,Sun Oct 15 2017,SpVgg Greuther Fürth,2-1,FC Erzgebirge Aue
+10,Mon Oct 16 2017,SV Darmstadt 98,3-4,1. FC Nürnberg
+11,Fri Oct 20 2017,Fortuna Düsseldorf,1-0,SV Darmstadt 98
+11,Fri Oct 20 2017,FC Ingolstadt 04,3-0,1. FC Heidenheim
+11,Sat Oct 21 2017,Holstein Kiel,2-1,Arminia Bielefeld
+11,Sat Oct 21 2017,1. FC Union Berlin,3-1,SpVgg Greuther Fürth
+11,Sat Oct 21 2017,Eintracht Braunschweig,1-0,VfL Bochum
+11,Sun Oct 22 2017,1. FC Kaiserslautern,0-1,MSV Duisburg
+11,Sun Oct 22 2017,1. FC Nürnberg,2-1,Dynamo Dresden
+11,Sun Oct 22 2017,FC Erzgebirge Aue,1-0,SSV Jahn Regensburg
+11,Mon Oct 23 2017,SV Sandhausen,1-1,FC St. Pauli
+12,Fri Oct 27 2017,Arminia Bielefeld,1-3,FC Ingolstadt 04
+12,Fri Oct 27 2017,FC St. Pauli,1-1,FC Erzgebirge Aue
+12,Sat Oct 28 2017,SpVgg Greuther Fürth,2-1,SV Sandhausen
+12,Sat Oct 28 2017,SV Darmstadt 98,1-1,Holstein Kiel
+12,Sat Oct 28 2017,SSV Jahn Regensburg,3-1,1. FC Kaiserslautern
+12,Sun Oct 29 2017,1. FC Heidenheim,1-0,1. FC Nürnberg
+12,Sun Oct 29 2017,Dynamo Dresden,1-1,Eintracht Braunschweig
+12,Sun Oct 29 2017,MSV Duisburg,1-1,1. FC Union Berlin
+12,Mon Oct 30 2017,VfL Bochum,0-0,Fortuna Düsseldorf
+13,Fri Nov 3 2017,SV Sandhausen,0-1,MSV Duisburg
+13,Fri Nov 3 2017,1. FC Kaiserslautern,0-0,VfL Bochum
+13,Sat Nov 4 2017,1. FC Union Berlin,1-0,FC St. Pauli
+13,Sat Nov 4 2017,SSV Jahn Regensburg,3-2,SpVgg Greuther Fürth
+13,Sat Nov 4 2017,Eintracht Braunschweig,2-2,SV Darmstadt 98
+13,Sun Nov 5 2017,Holstein Kiel,3-0,Dynamo Dresden
+13,Sun Nov 5 2017,Fortuna Düsseldorf,2-2,1. FC Heidenheim
+13,Sun Nov 5 2017,FC Erzgebirge Aue,1-1,Arminia Bielefeld
+13,Mon Nov 6 2017,1. FC Nürnberg,1-2,FC Ingolstadt 04
+14,Fri Nov 17 2017,SV Darmstadt 98,1-2,SV Sandhausen
+14,Fri Nov 17 2017,Arminia Bielefeld,2-2,Eintracht Braunschweig
+14,Sat Nov 18 2017,VfL Bochum,1-1,SpVgg Greuther Fürth
+14,Sat Nov 18 2017,1. FC Nürnberg,2-2,Holstein Kiel
+14,Sat Nov 18 2017,1. FC Heidenheim,4-3,1. FC Union Berlin
+14,Sun Nov 19 2017,FC St. Pauli,2-2,SSV Jahn Regensburg
+14,Sun Nov 19 2017,MSV Duisburg,3-0,FC Erzgebirge Aue
+14,Sun Nov 19 2017,FC Ingolstadt 04,1-0,Fortuna Düsseldorf
+14,Mon Nov 20 2017,Dynamo Dresden,1-2,1. FC Kaiserslautern
+15,Fri Nov 24 2017,SV Sandhausen,1-2,1. FC Heidenheim
+15,Fri Nov 24 2017,1. FC Union Berlin,3-3,SV Darmstadt 98
+15,Sat Nov 25 2017,Holstein Kiel,0-0,FC Ingolstadt 04
+15,Sat Nov 25 2017,Eintracht Braunschweig,2-3,1. FC Nürnberg
+15,Sat Nov 25 2017,SSV Jahn Regensburg,4-0,MSV Duisburg
+15,Sun Nov 26 2017,FC Erzgebirge Aue,1-1,VfL Bochum
+15,Sun Nov 26 2017,SpVgg Greuther Fürth,4-0,FC St. Pauli
+15,Sun Nov 26 2017,1. FC Kaiserslautern,0-2,Arminia Bielefeld
+15,Mon Nov 27 2017,Fortuna Düsseldorf,1-3,Dynamo Dresden
+16,Fri Dec 1 2017,1. FC Heidenheim,3-2,1. FC Kaiserslautern
+16,Fri Dec 1 2017,Arminia Bielefeld,5-0,FC St. Pauli
+16,Sat Dec 2 2017,MSV Duisburg,2-0,SpVgg Greuther Fürth
+16,Sat Dec 2 2017,1. FC Nürnberg,1-0,SV Sandhausen
+16,Sat Dec 2 2017,Holstein Kiel,2-2,Fortuna Düsseldorf
+16,Sun Dec 3 2017,VfL Bochum,2-1,1. FC Union Berlin
+16,Sun Dec 3 2017,SV Darmstadt 98,0-1,SSV Jahn Regensburg
+16,Sun Dec 3 2017,Dynamo Dresden,4-0,FC Erzgebirge Aue
+16,Mon Dec 4 2017,FC Ingolstadt 04,0-2,Eintracht Braunschweig
+17,Fri Dec 8 2017,Eintracht Braunschweig,0-0,Holstein Kiel
+17,Fri Dec 8 2017,FC Erzgebirge Aue,1-0,SV Darmstadt 98
+17,Sat Dec 9 2017,SpVgg Greuther Fürth,1-0,1. FC Heidenheim
+17,Sat Dec 9 2017,1. FC Union Berlin,0-1,Dynamo Dresden
+17,Sat Dec 9 2017,SSV Jahn Regensburg,0-1,VfL Bochum
+17,Sun Dec 10 2017,FC St. Pauli,2-2,MSV Duisburg
+17,Sun Dec 10 2017,1. FC Kaiserslautern,1-1,FC Ingolstadt 04
+17,Sun Dec 10 2017,SV Sandhausen,3-1,Arminia Bielefeld
+17,Mon Dec 11 2017,Fortuna Düsseldorf,0-2,1. FC Nürnberg
+18,Fri Dec 15 2017,Eintracht Braunschweig,0-1,Fortuna Düsseldorf
+18,Fri Dec 15 2017,1. FC Union Berlin,1-2,FC Ingolstadt 04
+18,Sat Dec 16 2017,1. FC Kaiserslautern,1-1,1. FC Nürnberg
+18,Sat Dec 16 2017,FC Erzgebirge Aue,1-1,1. FC Heidenheim
+18,Sat Dec 16 2017,SSV Jahn Regensburg,3-2,Arminia Bielefeld
+18,Sun Dec 17 2017,SpVgg Greuther Fürth,1-1,SV Darmstadt 98
+18,Sun Dec 17 2017,SV Sandhausen,3-1,Holstein Kiel
+18,Sun Dec 17 2017,MSV Duisburg,2-0,Dynamo Dresden
+18,Mon Dec 18 2017,FC St. Pauli,2-1,VfL Bochum
+19,Tue Jan 23 2018,Holstein Kiel,2-2,1. FC Union Berlin
+19,Tue Jan 23 2018,VfL Bochum,0-2,MSV Duisburg
+19,Tue Jan 23 2018,1. FC Nürnberg,2-2,SSV Jahn Regensburg
+19,Tue Jan 23 2018,FC Ingolstadt 04,0-0,SV Sandhausen
+19,Wed Jan 24 2018,Arminia Bielefeld,0-0,SpVgg Greuther Fürth
+19,Wed Jan 24 2018,1. FC Heidenheim,2-0,Eintracht Braunschweig
+19,Wed Jan 24 2018,Fortuna Düsseldorf,2-1,FC Erzgebirge Aue
+19,Thu Jan 25 2018,Dynamo Dresden,1-3,FC St. Pauli
+20,Fri Jan 26 2018,SSV Jahn Regensburg,3-2,FC Ingolstadt 04
+20,Fri Jan 26 2018,1. FC Union Berlin,0-1,1. FC Nürnberg
+20,Sat Jan 27 2018,1. FC Kaiserslautern,1-3,Fortuna Düsseldorf
+20,Sat Jan 27 2018,SpVgg Greuther Fürth,0-0,Holstein Kiel
+20,Sat Jan 27 2018,MSV Duisburg,3-3,1. FC Heidenheim
+20,Sun Jan 28 2018,FC Erzgebirge Aue,1-3,Eintracht Braunschweig
+20,Sun Jan 28 2018,FC St. Pauli,0-1,SV Darmstadt 98
+20,Sun Jan 28 2018,SV Sandhausen,1-0,Dynamo Dresden
+20,Mon Jan 29 2018,VfL Bochum,0-1,Arminia Bielefeld
+21,Fri Feb 2 2018,1. FC Nürnberg,4-1,FC Erzgebirge Aue
+21,Fri Feb 2 2018,Fortuna Düsseldorf,1-0,SV Sandhausen
+21,Sat Feb 3 2018,1. FC Heidenheim,3-1,FC St. Pauli
+21,Sat Feb 3 2018,Holstein Kiel,1-1,SSV Jahn Regensburg
+21,Sat Feb 3 2018,FC Ingolstadt 04,3-0,SpVgg Greuther Fürth
+21,Sun Feb 4 2018,SV Darmstadt 98,1-2,MSV Duisburg
+21,Sun Feb 4 2018,Eintracht Braunschweig,1-2,1. FC Kaiserslautern
+21,Sun Feb 4 2018,Dynamo Dresden,2-0,VfL Bochum
+21,Mon Feb 5 2018,Arminia Bielefeld,1-1,1. FC Union Berlin
+22,Fri Feb 9 2018,VfL Bochum,2-1,SV Darmstadt 98
+22,Fri Feb 9 2018,1. FC Kaiserslautern,3-1,Holstein Kiel
+22,Sat Feb 10 2018,SSV Jahn Regensburg,2-0,1. FC Heidenheim
+22,Sat Feb 10 2018,MSV Duisburg,2-2,Arminia Bielefeld
+22,Sat Feb 10 2018,1. FC Union Berlin,3-1,Fortuna Düsseldorf
+22,Sun Feb 11 2018,FC Erzgebirge Aue,0-0,FC Ingolstadt 04
+22,Sun Feb 11 2018,SV Sandhausen,0-0,Eintracht Braunschweig
+22,Sun Feb 11 2018,SpVgg Greuther Fürth,1-0,Dynamo Dresden
+22,Mon Feb 12 2018,FC St. Pauli,0-0,1. FC Nürnberg
+23,Fri Feb 16 2018,1. FC Heidenheim,1-0,VfL Bochum
+23,Fri Feb 16 2018,1. FC Kaiserslautern,0-1,SV Sandhausen
+23,Sat Feb 17 2018,Fortuna Düsseldorf,1-1,SpVgg Greuther Fürth
+23,Sat Feb 17 2018,FC Ingolstadt 04,0-1,FC St. Pauli
+23,Sat Feb 17 2018,Arminia Bielefeld,2-0,SV Darmstadt 98
+23,Sat Feb 17 2018,Holstein Kiel,2-2,FC Erzgebirge Aue
+23,Sun Feb 18 2018,Eintracht Braunschweig,1-0,1. FC Union Berlin
+23,Sun Feb 18 2018,1. FC Nürnberg,3-1,MSV Duisburg
+23,Sun Feb 18 2018,Dynamo Dresden,1-0,SSV Jahn Regensburg
+19,Wed Feb 21 2018,SV Darmstadt 98,1-2,1. FC Kaiserslautern
+24,Fri Feb 23 2018,SSV Jahn Regensburg,4-3,Fortuna Düsseldorf
+24,Fri Feb 23 2018,Arminia Bielefeld,2-3,Dynamo Dresden
+24,Sat Feb 24 2018,MSV Duisburg,2-1,FC Ingolstadt 04
+24,Sat Feb 24 2018,1. FC Union Berlin,2-1,SV Sandhausen
+24,Sat Feb 24 2018,SpVgg Greuther Fürth,2-1,Eintracht Braunschweig
+24,Sat Feb 24 2018,FC Erzgebirge Aue,2-1,1. FC Kaiserslautern
+24,Sun Feb 25 2018,SV Darmstadt 98,1-1,1. FC Heidenheim
+24,Sun Feb 25 2018,VfL Bochum,0-0,1. FC Nürnberg
+24,Sun Feb 25 2018,FC St. Pauli,3-2,Holstein Kiel
+25,Fri Mar 2 2018,Dynamo Dresden,0-2,SV Darmstadt 98
+25,Fri Mar 2 2018,1. FC Kaiserslautern,4-3,1. FC Union Berlin
+25,Sat Mar 3 2018,SV Sandhausen,1-1,FC Erzgebirge Aue
+25,Sat Mar 3 2018,Holstein Kiel,5-0,MSV Duisburg
+25,Sat Mar 3 2018,1. FC Nürnberg,0-2,SpVgg Greuther Fürth
+25,Sun Mar 4 2018,1. FC Heidenheim,2-2,Arminia Bielefeld
+25,Sun Mar 4 2018,Fortuna Düsseldorf,2-1,FC St. Pauli
+25,Sun Mar 4 2018,Eintracht Braunschweig,2-1,SSV Jahn Regensburg
+25,Mon Mar 5 2018,FC Ingolstadt 04,0-1,VfL Bochum
+26,Fri Mar 9 2018,Arminia Bielefeld,1-0,1. FC Nürnberg
+26,Fri Mar 9 2018,Dynamo Dresden,3-2,1. FC Heidenheim
+26,Sat Mar 10 2018,VfL Bochum,1-1,Holstein Kiel
+26,Sat Mar 10 2018,SV Darmstadt 98,1-1,FC Ingolstadt 04
+26,Sat Mar 10 2018,FC St. Pauli,0-0,Eintracht Braunschweig
+26,Sat Mar 10 2018,SpVgg Greuther Fürth,2-1,1. FC Kaiserslautern
+26,Sun Mar 11 2018,1. FC Union Berlin,0-0,FC Erzgebirge Aue
+26,Sun Mar 11 2018,MSV Duisburg,1-2,Fortuna Düsseldorf
+26,Sun Mar 11 2018,SSV Jahn Regensburg,2-1,SV Sandhausen
+27,Fri Mar 16 2018,Fortuna Düsseldorf,4-2,Arminia Bielefeld
+27,Fri Mar 16 2018,Holstein Kiel,2-1,1. FC Heidenheim
+27,Sat Mar 17 2018,1. FC Union Berlin,2-2,SSV Jahn Regensburg
+27,Sat Mar 17 2018,1. FC Kaiserslautern,1-1,FC St. Pauli
+27,Sat Mar 17 2018,SV Sandhausen,2-3,VfL Bochum
+27,Sun Mar 18 2018,1. FC Nürnberg,1-1,SV Darmstadt 98
+27,Sun Mar 18 2018,FC Ingolstadt 04,4-2,Dynamo Dresden
+27,Sun Mar 18 2018,Eintracht Braunschweig,3-2,MSV Duisburg
+27,Mon Mar 19 2018,FC Erzgebirge Aue,2-1,SpVgg Greuther Fürth
+28,Sat Mar 31 2018,MSV Duisburg,1-4,1. FC Kaiserslautern
+28,Sat Mar 31 2018,Dynamo Dresden,1-1,1. FC Nürnberg
+28,Sat Mar 31 2018,1. FC Heidenheim,1-2,FC Ingolstadt 04
+28,Sun Apr 1 2018,FC St. Pauli,1-1,SV Sandhausen
+28,Sun Apr 1 2018,VfL Bochum,2-0,Eintracht Braunschweig
+28,Sun Apr 1 2018,SSV Jahn Regensburg,1-3,FC Erzgebirge Aue
+28,Sun Apr 1 2018,SpVgg Greuther Fürth,2-1,1. FC Union Berlin
+28,Sun Apr 1 2018,Arminia Bielefeld,1-1,Holstein Kiel
+28,Mon Apr 2 2018,SV Darmstadt 98,1-0,Fortuna Düsseldorf
+29,Fri Apr 6 2018,SV Sandhausen,0-0,SpVgg Greuther Fürth
+29,Fri Apr 6 2018,Fortuna Düsseldorf,1-2,VfL Bochum
+29,Sat Apr 7 2018,1. FC Nürnberg,3-2,1. FC Heidenheim
+29,Sat Apr 7 2018,FC Erzgebirge Aue,2-1,FC St. Pauli
+29,Sat Apr 7 2018,Holstein Kiel,0-0,SV Darmstadt 98
+29,Sat Apr 7 2018,1. FC Union Berlin,0-0,MSV Duisburg
+29,Sun Apr 8 2018,FC Ingolstadt 04,2-2,Arminia Bielefeld
+29,Sun Apr 8 2018,Eintracht Braunschweig,1-1,Dynamo Dresden
+29,Sun Apr 8 2018,1. FC Kaiserslautern,1-1,SSV Jahn Regensburg
+30,Fri Apr 13 2018,VfL Bochum,3-2,1. FC Kaiserslautern
+30,Fri Apr 13 2018,SpVgg Greuther Fürth,1-2,SSV Jahn Regensburg
+30,Sat Apr 14 2018,MSV Duisburg,0-2,SV Sandhausen
+30,Sat Apr 14 2018,FC St. Pauli,0-1,1. FC Union Berlin
+30,Sat Apr 14 2018,Arminia Bielefeld,2-0,FC Erzgebirge Aue
+30,Sat Apr 14 2018,Dynamo Dresden,0-4,Holstein Kiel
+30,Sun Apr 15 2018,FC Ingolstadt 04,1-1,1. FC Nürnberg
+30,Sun Apr 15 2018,1. FC Heidenheim,3-1,Fortuna Düsseldorf
+30,Sun Apr 15 2018,SV Darmstadt 98,1-1,Eintracht Braunschweig
+31,Fri Apr 20 2018,SpVgg Greuther Fürth,1-1,VfL Bochum
+31,Fri Apr 20 2018,Eintracht Braunschweig,0-0,Arminia Bielefeld
+31,Sat Apr 21 2018,SV Sandhausen,1-1,SV Darmstadt 98
+31,Sat Apr 21 2018,SSV Jahn Regensburg,3-1,FC St. Pauli
+31,Sat Apr 21 2018,1. FC Union Berlin,1-1,1. FC Heidenheim
+31,Sun Apr 22 2018,FC Erzgebirge Aue,1-3,MSV Duisburg
+31,Sun Apr 22 2018,Fortuna Düsseldorf,3-0,FC Ingolstadt 04
+31,Sun Apr 22 2018,1. FC Kaiserslautern,0-1,Dynamo Dresden
+31,Mon Apr 23 2018,Holstein Kiel,1-3,1. FC Nürnberg
+32,Fri Apr 27 2018,VfL Bochum,2-1,FC Erzgebirge Aue
+32,Fri Apr 27 2018,Arminia Bielefeld,3-2,1. FC Kaiserslautern
+32,Sat Apr 28 2018,FC St. Pauli,3-0,SpVgg Greuther Fürth
+32,Sat Apr 28 2018,SV Darmstadt 98,3-1,1. FC Union Berlin
+32,Sat Apr 28 2018,Dynamo Dresden,1-2,Fortuna Düsseldorf
+32,Sun Apr 29 2018,FC Ingolstadt 04,1-5,Holstein Kiel
+32,Sun Apr 29 2018,MSV Duisburg,4-1,SSV Jahn Regensburg
+32,Sun Apr 29 2018,1. FC Heidenheim,2-0,SV Sandhausen
+32,Mon Apr 30 2018,1. FC Nürnberg,2-0,Eintracht Braunschweig
+33,Sun May 6 2018,1. FC Kaiserslautern,1-0,1. FC Heidenheim
+33,Sun May 6 2018,1. FC Union Berlin,3-1,VfL Bochum
+33,Sun May 6 2018,Fortuna Düsseldorf,1-1,Holstein Kiel
+33,Sun May 6 2018,SV Sandhausen,0-2,1. FC Nürnberg
+33,Sun May 6 2018,SpVgg Greuther Fürth,2-2,MSV Duisburg
+33,Sun May 6 2018,SSV Jahn Regensburg,0-3,SV Darmstadt 98
+33,Sun May 6 2018,FC Erzgebirge Aue,0-0,Dynamo Dresden
+33,Sun May 6 2018,Eintracht Braunschweig,0-2,FC Ingolstadt 04
+33,Sun May 6 2018,FC St. Pauli,1-0,Arminia Bielefeld
+34,Sun May 13 2018,Dynamo Dresden,0-1,1. FC Union Berlin
+34,Sun May 13 2018,SV Darmstadt 98,1-0,FC Erzgebirge Aue
+34,Sun May 13 2018,MSV Duisburg,2-0,FC St. Pauli
+34,Sun May 13 2018,1. FC Heidenheim,1-1,SpVgg Greuther Fürth
+34,Sun May 13 2018,VfL Bochum,1-1,SSV Jahn Regensburg
+34,Sun May 13 2018,1. FC Nürnberg,2-3,Fortuna Düsseldorf
+34,Sun May 13 2018,Holstein Kiel,6-2,Eintracht Braunschweig
+34,Sun May 13 2018,Arminia Bielefeld,0-0,SV Sandhausen
+34,Sun May 13 2018,FC Ingolstadt 04,1-3,1. FC Kaiserslautern

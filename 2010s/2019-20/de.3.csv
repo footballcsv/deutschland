@@ -1,0 +1,381 @@
+Matchday,Date,Team 1,FT,Team 2
+37,Mon Jul 1 2019,SG Großaspach,,TSV 1860 München
+37,Mon Jul 1 2019,FSV Zwickau,,Chemnitzer FC
+37,Mon Jul 1 2019,SpVgg Unterhaching,,FC Carl Zeiss Jena
+37,Mon Jul 1 2019,Preußen Münster,,SV Meppen
+37,Mon Jul 1 2019,FC Viktoria Köln,,Würzburger Kickers
+37,Mon Jul 1 2019,FC Ingolstadt 04,,1. FC Magdeburg
+37,Mon Jul 1 2019,Bayern München II,,MSV Duisburg
+37,Mon Jul 1 2019,Eintracht Braunschweig,,SV Waldhof Mannheim
+37,Mon Jul 1 2019,Hallescher FC,,1. FC Kaiserslautern
+37,Mon Jul 1 2019,Hansa Rostock,,KFC Uerdingen
+38,Thu Jul 4 2019,SV Meppen,,Eintracht Braunschweig
+38,Thu Jul 4 2019,Chemnitzer FC,,Hansa Rostock
+38,Thu Jul 4 2019,1. FC Kaiserslautern,,Bayern München II
+38,Thu Jul 4 2019,TSV 1860 München,,FC Ingolstadt 04
+38,Thu Jul 4 2019,FC Carl Zeiss Jena,,SG Großaspach
+38,Thu Jul 4 2019,MSV Duisburg,,SpVgg Unterhaching
+38,Thu Jul 4 2019,Würzburger Kickers,,Hallescher FC
+38,Thu Jul 4 2019,KFC Uerdingen,,FC Viktoria Köln
+38,Thu Jul 4 2019,1. FC Magdeburg,,Preußen Münster
+38,Thu Jul 4 2019,SV Waldhof Mannheim,,FSV Zwickau
+1,Fri Jul 19 2019,TSV 1860 München,1-1,Preußen Münster
+1,Sat Jul 20 2019,1. FC Magdeburg,2-4,Eintracht Braunschweig
+1,Sat Jul 20 2019,Hansa Rostock,3-3,FC Viktoria Köln
+1,Sat Jul 20 2019,SV Meppen,0-2,FSV Zwickau
+1,Sat Jul 20 2019,1. FC Kaiserslautern,1-1,SpVgg Unterhaching
+1,Sat Jul 20 2019,Würzburger Kickers,3-1,Bayern München II
+1,Sat Jul 20 2019,MSV Duisburg,4-1,SG Großaspach
+1,Sun Jul 21 2019,Chemnitzer FC,1-1,SV Waldhof Mannheim
+1,Sun Jul 21 2019,KFC Uerdingen,1-0,Hallescher FC
+1,Mon Jul 22 2019,FC Carl Zeiss Jena,1-2,FC Ingolstadt 04
+2,Fri Jul 26 2019,Bayern München II,2-1,KFC Uerdingen
+2,Sat Jul 27 2019,SV Waldhof Mannheim,0-0,SV Meppen
+2,Sat Jul 27 2019,SpVgg Unterhaching,5-4,Würzburger Kickers
+2,Sat Jul 27 2019,Preußen Münster,2-0,FC Carl Zeiss Jena
+2,Sat Jul 27 2019,FC Ingolstadt 04,3-2,MSV Duisburg
+2,Sat Jul 27 2019,SG Großaspach,1-3,1. FC Kaiserslautern
+2,Sat Jul 27 2019,Eintracht Braunschweig,2-1,TSV 1860 München
+2,Sat Jul 27 2019,Hallescher FC,1-0,Hansa Rostock
+2,Sun Jul 28 2019,FC Viktoria Köln,3-2,Chemnitzer FC
+2,Sun Jul 28 2019,FSV Zwickau,0-0,1. FC Magdeburg
+3,Tue Jul 30 2019,Hansa Rostock,2-1,Bayern München II
+3,Tue Jul 30 2019,1. FC Kaiserslautern,0-0,FC Ingolstadt 04
+3,Tue Jul 30 2019,KFC Uerdingen,2-2,SpVgg Unterhaching
+3,Tue Jul 30 2019,FC Carl Zeiss Jena,0-2,Eintracht Braunschweig
+3,Tue Jul 30 2019,Würzburger Kickers,0-3,SG Großaspach
+3,Wed Jul 31 2019,1. FC Magdeburg,1-1,SV Waldhof Mannheim
+3,Wed Jul 31 2019,TSV 1860 München,3-0,FSV Zwickau
+3,Wed Jul 31 2019,FC Viktoria Köln,0-2,Hallescher FC
+3,Wed Jul 31 2019,MSV Duisburg,2-0,Preußen Münster
+3,Wed Jul 31 2019,Chemnitzer FC,2-4,SV Meppen
+4,Fri Aug 2 2019,FC Ingolstadt 04,3-0,Würzburger Kickers
+4,Sat Aug 3 2019,Bayern München II,2-5,FC Viktoria Köln
+4,Sat Aug 3 2019,Hallescher FC,3-1,Chemnitzer FC
+4,Sat Aug 3 2019,SV Meppen,1-3,1. FC Magdeburg
+4,Sat Aug 3 2019,Preußen Münster,3-2,1. FC Kaiserslautern
+4,Sat Aug 3 2019,SpVgg Unterhaching,1-0,Hansa Rostock
+4,Sat Aug 3 2019,SG Großaspach,2-2,KFC Uerdingen
+4,Sun Aug 4 2019,Eintracht Braunschweig,0-3,MSV Duisburg
+4,Sun Aug 4 2019,FSV Zwickau,2-0,FC Carl Zeiss Jena
+4,Mon Aug 5 2019,SV Waldhof Mannheim,4-0,TSV 1860 München
+5,Fri Aug 16 2019,Chemnitzer FC,0-0,1. FC Magdeburg
+5,Sat Aug 17 2019,Würzburger Kickers,3-2,Preußen Münster
+5,Sat Aug 17 2019,KFC Uerdingen,0-3,FC Ingolstadt 04
+5,Sat Aug 17 2019,TSV 1860 München,0-0,SV Meppen
+5,Sat Aug 17 2019,Hansa Rostock,0-1,SG Großaspach
+5,Sat Aug 17 2019,FC Viktoria Köln,0-2,SpVgg Unterhaching
+5,Sat Aug 17 2019,MSV Duisburg,3-1,FSV Zwickau
+5,Sun Aug 18 2019,FC Carl Zeiss Jena,1-2,SV Waldhof Mannheim
+5,Sun Aug 18 2019,1. FC Kaiserslautern,0-3,Eintracht Braunschweig
+5,Mon Aug 19 2019,Hallescher FC,1-2,Bayern München II
+6,Fri Aug 23 2019,FC Ingolstadt 04,2-2,Hansa Rostock
+6,Sat Aug 24 2019,SV Meppen,3-0,FC Carl Zeiss Jena
+6,Sat Aug 24 2019,Bayern München II,2-2,Chemnitzer FC
+6,Sat Aug 24 2019,SG Großaspach,0-3,FC Viktoria Köln
+6,Sat Aug 24 2019,Preußen Münster,1-1,KFC Uerdingen
+6,Sat Aug 24 2019,Eintracht Braunschweig,5-2,Würzburger Kickers
+6,Sat Aug 24 2019,1. FC Magdeburg,5-1,TSV 1860 München
+6,Sun Aug 25 2019,SV Waldhof Mannheim,4-3,MSV Duisburg
+6,Sun Aug 25 2019,SpVgg Unterhaching,0-3,Hallescher FC
+6,Mon Aug 26 2019,FSV Zwickau,3-5,1. FC Kaiserslautern
+7,Fri Aug 30 2019,Chemnitzer FC,0-1,TSV 1860 München
+7,Sat Aug 31 2019,Hallescher FC,4-0,SG Großaspach
+7,Sat Aug 31 2019,Hansa Rostock,1-0,Preußen Münster
+7,Sat Aug 31 2019,Würzburger Kickers,0-2,FSV Zwickau
+7,Sat Aug 31 2019,FC Viktoria Köln,3-0,FC Ingolstadt 04
+7,Sat Aug 31 2019,Bayern München II,1-2,SpVgg Unterhaching
+7,Sun Sep 1 2019,1. FC Kaiserslautern,1-1,SV Waldhof Mannheim
+7,Sun Sep 1 2019,KFC Uerdingen,1-2,Eintracht Braunschweig
+7,Mon Sep 2 2019,FC Carl Zeiss Jena,1-1,1. FC Magdeburg
+8,Fri Sep 13 2019,1. FC Magdeburg,1-1,MSV Duisburg
+8,Sat Sep 14 2019,SV Meppen,6-1,1. FC Kaiserslautern
+8,Sat Sep 14 2019,SV Waldhof Mannheim,1-2,Würzburger Kickers
+8,Sat Sep 14 2019,TSV 1860 München,3-1,FC Carl Zeiss Jena
+8,Sat Sep 14 2019,Preußen Münster,2-3,FC Viktoria Köln
+8,Sat Sep 14 2019,FSV Zwickau,1-2,KFC Uerdingen
+8,Sat Sep 14 2019,SG Großaspach,2-2,Bayern München II
+8,Sun Sep 15 2019,FC Ingolstadt 04,2-3,Hallescher FC
+8,Sun Sep 15 2019,Eintracht Braunschweig,1-2,Hansa Rostock
+8,Mon Sep 16 2019,SpVgg Unterhaching,2-1,Chemnitzer FC
+9,Fri Sep 20 2019,Würzburger Kickers,3-2,SV Meppen
+9,Sat Sep 21 2019,Chemnitzer FC,3-2,FC Carl Zeiss Jena
+9,Sat Sep 21 2019,Hallescher FC,2-2,Preußen Münster
+9,Sat Sep 21 2019,MSV Duisburg,2-1,TSV 1860 München
+9,Sat Sep 21 2019,FC Viktoria Köln,0-0,Eintracht Braunschweig
+9,Sat Sep 21 2019,SpVgg Unterhaching,2-0,SG Großaspach
+9,Sat Sep 21 2019,1. FC Kaiserslautern,1-1,1. FC Magdeburg
+9,Sun Sep 22 2019,Hansa Rostock,1-1,FSV Zwickau
+9,Sun Sep 22 2019,Bayern München II,2-1,FC Ingolstadt 04
+9,Mon Sep 23 2019,KFC Uerdingen,0-3,SV Waldhof Mannheim
+10,Fri Sep 27 2019,1. FC Magdeburg,3-0,Würzburger Kickers
+10,Sat Sep 28 2019,Eintracht Braunschweig,1-1,Hallescher FC
+10,Sat Sep 28 2019,Preußen Münster,1-4,Bayern München II
+10,Sat Sep 28 2019,SG Großaspach,2-0,Chemnitzer FC
+10,Sat Sep 28 2019,FSV Zwickau,4-0,FC Viktoria Köln
+10,Sat Sep 28 2019,FC Carl Zeiss Jena,1-2,MSV Duisburg
+10,Sat Sep 28 2019,TSV 1860 München,3-1,1. FC Kaiserslautern
+10,Sun Sep 29 2019,SV Meppen,1-2,KFC Uerdingen
+10,Sun Sep 29 2019,SV Waldhof Mannheim,1-1,Hansa Rostock
+10,Mon Sep 30 2019,FC Ingolstadt 04,0-0,SpVgg Unterhaching
+7,Wed Oct 2 2019,MSV Duisburg,1-3,SV Meppen
+11,Fri Oct 4 2019,KFC Uerdingen,0-0,1. FC Magdeburg
+11,Sat Oct 5 2019,Hansa Rostock,2-1,SV Meppen
+11,Sat Oct 5 2019,Hallescher FC,1-1,FSV Zwickau
+11,Sat Oct 5 2019,SG Großaspach,1-5,FC Ingolstadt 04
+11,Sat Oct 5 2019,1. FC Kaiserslautern,3-1,FC Carl Zeiss Jena
+11,Sat Oct 5 2019,FC Viktoria Köln,2-2,SV Waldhof Mannheim
+11,Sat Oct 5 2019,SpVgg Unterhaching,2-2,Preußen Münster
+11,Sun Oct 6 2019,Chemnitzer FC,3-1,MSV Duisburg
+11,Sun Oct 6 2019,Bayern München II,2-0,Eintracht Braunschweig
+11,Mon Oct 7 2019,Würzburger Kickers,2-1,TSV 1860 München
+12,Fri Oct 18 2019,MSV Duisburg,3-1,1. FC Kaiserslautern
+12,Sat Oct 19 2019,Eintracht Braunschweig,0-0,SpVgg Unterhaching
+12,Sat Oct 19 2019,SV Waldhof Mannheim,0-4,Hallescher FC
+12,Sat Oct 19 2019,TSV 1860 München,0-1,KFC Uerdingen
+12,Sat Oct 19 2019,FC Ingolstadt 04,1-1,Chemnitzer FC
+12,Sat Oct 19 2019,Preußen Münster,1-1,SG Großaspach
+12,Sat Oct 19 2019,1. FC Magdeburg,0-1,Hansa Rostock
+12,Sun Oct 20 2019,FC Carl Zeiss Jena,1-1,Würzburger Kickers
+12,Sun Oct 20 2019,FSV Zwickau,3-0,Bayern München II
+12,Mon Oct 21 2019,SV Meppen,1-1,FC Viktoria Köln
+13,Fri Oct 25 2019,FC Viktoria Köln,1-1,1. FC Magdeburg
+13,Sat Oct 26 2019,Hansa Rostock,2-1,TSV 1860 München
+13,Sat Oct 26 2019,Würzburger Kickers,0-2,MSV Duisburg
+13,Sat Oct 26 2019,Hallescher FC,3-3,SV Meppen
+13,Sat Oct 26 2019,SpVgg Unterhaching,0-0,FSV Zwickau
+13,Sat Oct 26 2019,KFC Uerdingen,2-0,FC Carl Zeiss Jena
+13,Sat Oct 26 2019,FC Ingolstadt 04,3-2,Preußen Münster
+13,Sun Oct 27 2019,Chemnitzer FC,3-1,1. FC Kaiserslautern
+13,Sun Oct 27 2019,SG Großaspach,1-3,Eintracht Braunschweig
+13,Mon Oct 28 2019,Bayern München II,2-2,SV Waldhof Mannheim
+14,Fri Nov 1 2019,FSV Zwickau,0-1,SG Großaspach
+14,Sat Nov 2 2019,1. FC Magdeburg,1-0,Hallescher FC
+14,Sat Nov 2 2019,Preußen Münster,3-3,Chemnitzer FC
+14,Sat Nov 2 2019,1. FC Kaiserslautern,2-3,Würzburger Kickers
+14,Sat Nov 2 2019,Eintracht Braunschweig,0-3,FC Ingolstadt 04
+14,Sat Nov 2 2019,SV Waldhof Mannheim,0-3,SpVgg Unterhaching
+14,Sat Nov 2 2019,TSV 1860 München,4-2,FC Viktoria Köln
+14,Sun Nov 3 2019,FC Carl Zeiss Jena,3-1,Hansa Rostock
+14,Sun Nov 3 2019,SV Meppen,5-3,Bayern München II
+14,Mon Nov 4 2019,MSV Duisburg,2-0,KFC Uerdingen
+15,Fri Nov 8 2019,FC Viktoria Köln,2-2,FC Carl Zeiss Jena
+15,Sat Nov 9 2019,KFC Uerdingen,0-3,1. FC Kaiserslautern
+15,Sat Nov 9 2019,SG Großaspach,0-3,SV Waldhof Mannheim
+15,Sat Nov 9 2019,Hansa Rostock,1-2,MSV Duisburg
+15,Sat Nov 9 2019,SpVgg Unterhaching,0-0,SV Meppen
+15,Sat Nov 9 2019,Hallescher FC,0-1,TSV 1860 München
+15,Sat Nov 9 2019,FC Ingolstadt 04,4-2,FSV Zwickau
+15,Sun Nov 10 2019,Chemnitzer FC,0-0,Würzburger Kickers
+15,Sun Nov 10 2019,Bayern München II,2-1,1. FC Magdeburg
+15,Mon Nov 11 2019,Preußen Münster,1-1,Eintracht Braunschweig
+16,Fri Nov 22 2019,FC Carl Zeiss Jena,0-3,Hallescher FC
+16,Sat Nov 23 2019,FSV Zwickau,4-2,Preußen Münster
+16,Sat Nov 23 2019,Eintracht Braunschweig,2-1,Chemnitzer FC
+16,Sat Nov 23 2019,1. FC Magdeburg,3-0,SpVgg Unterhaching
+16,Sat Nov 23 2019,Würzburger Kickers,1-2,KFC Uerdingen
+16,Sat Nov 23 2019,SV Waldhof Mannheim,0-0,FC Ingolstadt 04
+16,Sat Nov 23 2019,SV Meppen,2-1,SG Großaspach
+16,Sun Nov 24 2019,1. FC Kaiserslautern,2-0,Hansa Rostock
+16,Sun Nov 24 2019,TSV 1860 München,1-1,Bayern München II
+16,Mon Nov 25 2019,MSV Duisburg,2-1,FC Viktoria Köln
+17,Fri Nov 29 2019,Bayern München II,2-3,FC Carl Zeiss Jena
+17,Sat Nov 30 2019,Hallescher FC,1-0,MSV Duisburg
+17,Sat Nov 30 2019,FC Viktoria Köln,2-4,1. FC Kaiserslautern
+17,Sat Nov 30 2019,Hansa Rostock,1-0,Würzburger Kickers
+17,Sat Nov 30 2019,SG Großaspach,1-2,1. FC Magdeburg
+17,Sat Nov 30 2019,Preußen Münster,1-3,SV Waldhof Mannheim
+17,Sat Nov 30 2019,Chemnitzer FC,1-1,KFC Uerdingen
+17,Sun Dec 1 2019,FC Ingolstadt 04,1-1,SV Meppen
+17,Sun Dec 1 2019,SpVgg Unterhaching,2-3,TSV 1860 München
+17,Mon Dec 2 2019,Eintracht Braunschweig,3-1,FSV Zwickau
+18,Fri Dec 6 2019,Chemnitzer FC,2-2,FSV Zwickau
+18,Sat Dec 7 2019,FC Carl Zeiss Jena,0-3,SpVgg Unterhaching
+18,Sat Dec 7 2019,Würzburger Kickers,3-1,FC Viktoria Köln
+18,Sat Dec 7 2019,1. FC Magdeburg,0-2,FC Ingolstadt 04
+18,Sat Dec 7 2019,TSV 1860 München,1-1,SG Großaspach
+18,Sat Dec 7 2019,1. FC Kaiserslautern,1-0,Hallescher FC
+18,Sat Dec 7 2019,KFC Uerdingen,4-1,Hansa Rostock
+18,Sun Dec 8 2019,SV Waldhof Mannheim,0-0,Eintracht Braunschweig
+18,Sun Dec 8 2019,MSV Duisburg,3-2,Bayern München II
+18,Mon Dec 9 2019,SV Meppen,3-1,Preußen Münster
+19,Fri Dec 13 2019,Preußen Münster,2-0,1. FC Magdeburg
+19,Sat Dec 14 2019,Hallescher FC,2-5,Würzburger Kickers
+19,Sat Dec 14 2019,Hansa Rostock,1-2,Chemnitzer FC
+19,Sat Dec 14 2019,Bayern München II,1-3,1. FC Kaiserslautern
+19,Sat Dec 14 2019,FC Viktoria Köln,0-1,KFC Uerdingen
+19,Sat Dec 14 2019,FSV Zwickau,0-1,SV Waldhof Mannheim
+19,Sat Dec 14 2019,Eintracht Braunschweig,1-2,SV Meppen
+19,Sun Dec 15 2019,SG Großaspach,1-2,FC Carl Zeiss Jena
+19,Sun Dec 15 2019,SpVgg Unterhaching,2-2,MSV Duisburg
+19,Mon Dec 16 2019,FC Ingolstadt 04,2-2,TSV 1860 München
+20,Fri Dec 20 2019,FC Viktoria Köln,1-5,Hansa Rostock
+20,Sat Dec 21 2019,SG Großaspach,1-1,MSV Duisburg
+20,Sat Dec 21 2019,FSV Zwickau,2-2,SV Meppen
+20,Sat Dec 21 2019,SV Waldhof Mannheim,4-3,Chemnitzer FC
+20,Sat Dec 21 2019,Preußen Münster,0-1,TSV 1860 München
+20,Sat Dec 21 2019,SpVgg Unterhaching,1-1,1. FC Kaiserslautern
+20,Sat Dec 21 2019,Eintracht Braunschweig,2-2,1. FC Magdeburg
+20,Sun Dec 22 2019,FC Ingolstadt 04,5-1,FC Carl Zeiss Jena
+20,Sun Dec 22 2019,Bayern München II,1-1,Würzburger Kickers
+20,Sun Dec 22 2019,Hallescher FC,1-1,KFC Uerdingen
+21,Fri Jan 24 2020,Hansa Rostock,1-0,Hallescher FC
+21,Sat Jan 25 2020,Würzburger Kickers,1-2,SpVgg Unterhaching
+21,Sat Jan 25 2020,1. FC Magdeburg,1-2,FSV Zwickau
+21,Sat Jan 25 2020,FC Carl Zeiss Jena,1-2,Preußen Münster
+21,Sat Jan 25 2020,SV Meppen,0-1,SV Waldhof Mannheim
+21,Sat Jan 25 2020,MSV Duisburg,1-1,FC Ingolstadt 04
+21,Sat Jan 25 2020,Chemnitzer FC,2-2,FC Viktoria Köln
+21,Sun Jan 26 2020,TSV 1860 München,4-1,Eintracht Braunschweig
+21,Sun Jan 26 2020,KFC Uerdingen,0-3,Bayern München II
+21,Mon Jan 27 2020,1. FC Kaiserslautern,0-0,SG Großaspach
+22,Fri Jan 31 2020,Hallescher FC,3-4,FC Viktoria Köln
+22,Sat Feb 1 2020,SpVgg Unterhaching,1-0,KFC Uerdingen
+22,Sat Feb 1 2020,SV Meppen,1-2,Chemnitzer FC
+22,Sat Feb 1 2020,FC Ingolstadt 04,2-1,1. FC Kaiserslautern
+22,Sat Feb 1 2020,Preußen Münster,1-4,MSV Duisburg
+22,Sat Feb 1 2020,Bayern München II,1-0,Hansa Rostock
+22,Sat Feb 1 2020,Eintracht Braunschweig,1-1,FC Carl Zeiss Jena
+22,Sun Feb 2 2020,SV Waldhof Mannheim,1-1,1. FC Magdeburg
+22,Sun Feb 2 2020,FSV Zwickau,2-2,TSV 1860 München
+22,Mon Feb 3 2020,SG Großaspach,0-6,Würzburger Kickers
+23,Fri Feb 7 2020,MSV Duisburg,1-1,Eintracht Braunschweig
+23,Sat Feb 8 2020,KFC Uerdingen,2-1,SG Großaspach
+23,Sat Feb 8 2020,Hansa Rostock,1-1,SpVgg Unterhaching
+23,Sat Feb 8 2020,1. FC Magdeburg,0-2,SV Meppen
+23,Sat Feb 8 2020,1. FC Kaiserslautern,1-1,Preußen Münster
+23,Sat Feb 8 2020,TSV 1860 München,1-1,SV Waldhof Mannheim
+23,Sat Feb 8 2020,FC Viktoria Köln,2-4,Bayern München II
+23,Sun Feb 9 2020,Würzburger Kickers,3-1,FC Ingolstadt 04
+23,Sun Feb 9 2020,Chemnitzer FC,3-0,Hallescher FC
+23,Mon Feb 10 2020,FC Carl Zeiss Jena,2-1,FSV Zwickau
+24,Fri Feb 14 2020,Preußen Münster,0-0,Würzburger Kickers
+24,Sat Feb 15 2020,1. FC Magdeburg,1-1,Chemnitzer FC
+24,Sat Feb 15 2020,SpVgg Unterhaching,1-1,FC Viktoria Köln
+24,Sat Feb 15 2020,Eintracht Braunschweig,2-0,1. FC Kaiserslautern
+24,Sat Feb 15 2020,FC Ingolstadt 04,0-1,KFC Uerdingen
+24,Sat Feb 15 2020,SV Meppen,1-1,TSV 1860 München
+24,Sat Feb 15 2020,SG Großaspach,0-1,Hansa Rostock
+24,Sun Feb 16 2020,SV Waldhof Mannheim,1-1,FC Carl Zeiss Jena
+24,Sun Feb 16 2020,FSV Zwickau,1-0,MSV Duisburg
+24,Mon Feb 17 2020,Bayern München II,6-1,Hallescher FC
+25,Fri Feb 21 2020,FC Viktoria Köln,1-0,SG Großaspach
+25,Sat Feb 22 2020,FC Carl Zeiss Jena,0-2,SV Meppen
+25,Sat Feb 22 2020,Hansa Rostock,3-0,FC Ingolstadt 04
+25,Sat Feb 22 2020,Würzburger Kickers,3-1,Eintracht Braunschweig
+25,Sat Feb 22 2020,1. FC Kaiserslautern,0-0,FSV Zwickau
+25,Sat Feb 22 2020,MSV Duisburg,2-3,SV Waldhof Mannheim
+25,Sat Feb 22 2020,KFC Uerdingen,0-2,Preußen Münster
+25,Sun Feb 23 2020,Hallescher FC,3-5,SpVgg Unterhaching
+25,Sun Feb 23 2020,TSV 1860 München,1-1,1. FC Magdeburg
+25,Mon Feb 24 2020,Chemnitzer FC,1-0,Bayern München II
+26,Fri Feb 28 2020,SpVgg Unterhaching,0-1,Bayern München II
+26,Sat Feb 29 2020,1. FC Magdeburg,6-2,FC Carl Zeiss Jena
+26,Sat Feb 29 2020,FSV Zwickau,1-2,Würzburger Kickers
+26,Sat Feb 29 2020,SV Waldhof Mannheim,1-1,1. FC Kaiserslautern
+26,Sat Feb 29 2020,SG Großaspach,1-0,Hallescher FC
+26,Sat Feb 29 2020,TSV 1860 München,4-3,Chemnitzer FC
+26,Sat Feb 29 2020,Eintracht Braunschweig,4-1,KFC Uerdingen
+26,Sun Mar 1 2020,FC Ingolstadt 04,0-1,FC Viktoria Köln
+26,Sun Mar 1 2020,SV Meppen,1-0,MSV Duisburg
+26,Mon Mar 2 2020,Preußen Münster,1-0,Hansa Rostock
+27,Fri Mar 6 2020,MSV Duisburg,1-0,1. FC Magdeburg
+27,Sat Mar 7 2020,1. FC Kaiserslautern,3-3,SV Meppen
+27,Sat Mar 7 2020,Chemnitzer FC,1-0,SpVgg Unterhaching
+27,Sat Mar 7 2020,Würzburger Kickers,0-0,SV Waldhof Mannheim
+27,Sat Mar 7 2020,FC Viktoria Köln,2-1,Preußen Münster
+27,Sat Mar 7 2020,Bayern München II,2-0,SG Großaspach
+27,Sat Mar 7 2020,FC Carl Zeiss Jena,0-3,TSV 1860 München
+27,Sun Mar 8 2020,Hallescher FC,1-1,FC Ingolstadt 04
+27,Sun Mar 8 2020,KFC Uerdingen,4-2,FSV Zwickau
+27,Mon Mar 9 2020,Hansa Rostock,3-0,Eintracht Braunschweig
+28,Sat May 30 2020,FC Ingolstadt 04,1-2,Bayern München II
+28,Sat May 30 2020,SG Großaspach,0-2,SpVgg Unterhaching
+28,Sat May 30 2020,SV Waldhof Mannheim,1-2,KFC Uerdingen
+28,Sat May 30 2020,1. FC Magdeburg,0-1,1. FC Kaiserslautern
+28,Sat May 30 2020,FSV Zwickau,2-2,Hansa Rostock
+28,Sat May 30 2020,Eintracht Braunschweig,4-2,FC Viktoria Köln
+28,Sat May 30 2020,SV Meppen,1-3,Würzburger Kickers
+28,Sun May 31 2020,Preußen Münster,4-2,Hallescher FC
+28,Sun May 31 2020,TSV 1860 München,3-2,MSV Duisburg
+28,Sun May 31 2020,FC Carl Zeiss Jena,0-1,Chemnitzer FC
+29,Tue Jun 2 2020,Würzburger Kickers,0-1,1. FC Magdeburg
+29,Tue Jun 2 2020,Hansa Rostock,0-1,SV Waldhof Mannheim
+29,Tue Jun 2 2020,KFC Uerdingen,0-0,SV Meppen
+29,Tue Jun 2 2020,FC Viktoria Köln,3-0,FSV Zwickau
+29,Tue Jun 2 2020,SpVgg Unterhaching,1-2,FC Ingolstadt 04
+29,Wed Jun 3 2020,Hallescher FC,0-1,Eintracht Braunschweig
+29,Wed Jun 3 2020,Bayern München II,3-2,Preußen Münster
+29,Wed Jun 3 2020,Chemnitzer FC,0-1,SG Großaspach
+29,Wed Jun 3 2020,MSV Duisburg,1-1,FC Carl Zeiss Jena
+29,Wed Jun 3 2020,1. FC Kaiserslautern,1-1,TSV 1860 München
+30,Fri Jun 5 2020,1. FC Magdeburg,1-1,KFC Uerdingen
+30,Sat Jun 6 2020,MSV Duisburg,2-1,Chemnitzer FC
+30,Sat Jun 6 2020,FSV Zwickau,5-1,Hallescher FC
+30,Sat Jun 6 2020,TSV 1860 München,1-2,Würzburger Kickers
+30,Sat Jun 6 2020,Eintracht Braunschweig,1-1,Bayern München II
+30,Sat Jun 6 2020,SV Meppen,0-3,Hansa Rostock
+30,Sat Jun 6 2020,SV Waldhof Mannheim,2-1,FC Viktoria Köln
+30,Sun Jun 7 2020,1. FC Kaiserslautern,2-1,FC Carl Zeiss Jena
+30,Sun Jun 7 2020,FC Ingolstadt 04,1-1,SG Großaspach
+30,Sun Jun 7 2020,Preußen Münster,2-1,SpVgg Unterhaching
+31,Tue Jun 9 2020,FC Viktoria Köln,1-3,SV Meppen
+31,Tue Jun 9 2020,Hallescher FC,3-0,SV Waldhof Mannheim
+31,Tue Jun 9 2020,Hansa Rostock,3-1,1. FC Magdeburg
+31,Tue Jun 9 2020,Bayern München II,2-0,FSV Zwickau
+31,Tue Jun 9 2020,KFC Uerdingen,1-3,TSV 1860 München
+31,Wed Jun 10 2020,SpVgg Unterhaching,1-3,Eintracht Braunschweig
+31,Wed Jun 10 2020,Chemnitzer FC,0-1,FC Ingolstadt 04
+31,Wed Jun 10 2020,1. FC Kaiserslautern,1-3,MSV Duisburg
+31,Wed Jun 10 2020,Würzburger Kickers,4-2,FC Carl Zeiss Jena
+31,Wed Jun 10 2020,SG Großaspach,0-0,Preußen Münster
+32,Fri Jun 12 2020,SV Meppen,2-3,Hallescher FC
+32,Sat Jun 13 2020,MSV Duisburg,1-1,Würzburger Kickers
+32,Sat Jun 13 2020,Preußen Münster,0-0,FC Ingolstadt 04
+32,Sat Jun 13 2020,1. FC Magdeburg,2-0,FC Viktoria Köln
+32,Sat Jun 13 2020,Eintracht Braunschweig,2-1,SG Großaspach
+32,Sat Jun 13 2020,1. FC Kaiserslautern,2-0,Chemnitzer FC
+32,Sat Jun 13 2020,TSV 1860 München,0-1,Hansa Rostock
+32,Sun Jun 14 2020,FSV Zwickau,3-3,SpVgg Unterhaching
+32,Sun Jun 14 2020,SV Waldhof Mannheim,2-3,Bayern München II
+32,Sun Jun 14 2020,FC Carl Zeiss Jena,0-0,KFC Uerdingen
+33,Tue Jun 16 2020,FC Viktoria Köln,2-0,TSV 1860 München
+33,Tue Jun 16 2020,FC Ingolstadt 04,0-0,Eintracht Braunschweig
+33,Tue Jun 16 2020,Würzburger Kickers,2-0,1. FC Kaiserslautern
+33,Tue Jun 16 2020,Chemnitzer FC,1-0,Preußen Münster
+33,Tue Jun 16 2020,Hallescher FC,1-1,1. FC Magdeburg
+33,Wed Jun 17 2020,KFC Uerdingen,1-1,MSV Duisburg
+33,Wed Jun 17 2020,SG Großaspach,1-0,FSV Zwickau
+33,Wed Jun 17 2020,Bayern München II,5-1,SV Meppen
+33,Wed Jun 17 2020,Hansa Rostock,4-0,FC Carl Zeiss Jena
+33,Wed Jun 17 2020,SpVgg Unterhaching,0-0,SV Waldhof Mannheim
+34,Fri Jun 19 2020,Würzburger Kickers,3-0,Chemnitzer FC
+34,Sat Jun 20 2020,1. FC Kaiserslautern,4-0,KFC Uerdingen
+34,Sat Jun 20 2020,SV Waldhof Mannheim,3-2,SG Großaspach
+34,Sat Jun 20 2020,Eintracht Braunschweig,1-0,Preußen Münster
+34,Sat Jun 20 2020,1. FC Magdeburg,2-2,Bayern München II
+34,Sat Jun 20 2020,MSV Duisburg,0-0,Hansa Rostock
+34,Sat Jun 20 2020,FC Carl Zeiss Jena,2-3,FC Viktoria Köln
+34,Sun Jun 21 2020,SV Meppen,3-0,SpVgg Unterhaching
+34,Sun Jun 21 2020,TSV 1860 München,2-1,Hallescher FC
+34,Sun Jun 21 2020,FSV Zwickau,0-3,FC Ingolstadt 04
+35,Tue Jun 23 2020,KFC Uerdingen,1-2,Würzburger Kickers
+35,Tue Jun 23 2020,Chemnitzer FC,1-2,Eintracht Braunschweig
+35,Tue Jun 23 2020,Hansa Rostock,1-1,1. FC Kaiserslautern
+35,Tue Jun 23 2020,FC Viktoria Köln,1-0,MSV Duisburg
+35,Wed Jun 24 2020,Preußen Münster,2-1,FSV Zwickau
+35,Wed Jun 24 2020,SG Großaspach,1-2,SV Meppen
+35,Wed Jun 24 2020,SpVgg Unterhaching,0-0,1. FC Magdeburg
+35,Wed Jun 24 2020,Bayern München II,2-1,TSV 1860 München
+35,Wed Jun 24 2020,FC Ingolstadt 04,2-0,SV Waldhof Mannheim
+35,Wed Jun 24 2020,Hallescher FC,5-3,FC Carl Zeiss Jena
+36,Fri Jun 26 2020,KFC Uerdingen,1-1,Chemnitzer FC
+36,Sat Jun 27 2020,Würzburger Kickers,3-1,Hansa Rostock
+36,Sat Jun 27 2020,1. FC Kaiserslautern,3-0,FC Viktoria Köln
+36,Sat Jun 27 2020,TSV 1860 München,3-0,SpVgg Unterhaching
+36,Sat Jun 27 2020,MSV Duisburg,2-2,Hallescher FC
+36,Sat Jun 27 2020,FC Carl Zeiss Jena,1-2,Bayern München II
+36,Sat Jun 27 2020,SV Waldhof Mannheim,0-0,Preußen Münster
+36,Sat Jun 27 2020,FSV Zwickau,3-2,Eintracht Braunschweig
+36,Sun Jun 28 2020,SV Meppen,0-2,FC Ingolstadt 04
+36,Sun Jun 28 2020,1. FC Magdeburg,0-1,SG Großaspach

@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Aug 12 1983,Eintracht Frankfurt,2-2,Borussia Dortmund
+1,Sat Aug 13 1983,1. FC Köln,2-3,Arminia Bielefeld
+1,Sat Aug 13 1983,1. FC Nürnberg,2-4,KFC Uerdingen
+1,Sat Aug 13 1983,Bayern München,2-1,Bayer 04 Leverkusen
+1,Sat Aug 13 1983,Hamburger SV,3-2,1. FC Kaiserslautern
+1,Sat Aug 13 1983,Bor. Mönchengladbach,1-1,Fortuna Düsseldorf
+1,Sat Aug 13 1983,VfB Stuttgart,3-0,Eintracht Braunschweig
+1,Sat Aug 13 1983,SV Waldhof Mannheim,2-0,Werder Bremen
+1,Sat Aug 13 1983,VfL Bochum,1-0,Kickers Offenbach
+3,Tue Aug 16 1983,1. FC Kaiserslautern,2-2,Borussia Dortmund
+2,Wed Aug 17 1983,Fortuna Düsseldorf,2-0,1. FC Köln
+2,Fri Aug 19 1983,1. FC Kaiserslautern,2-2,VfB Stuttgart
+2,Fri Aug 19 1983,KFC Uerdingen,5-2,Eintracht Frankfurt
+2,Sat Aug 20 1983,Arminia Bielefeld,1-3,Bayern München
+2,Sat Aug 20 1983,Bayer 04 Leverkusen,3-0,1. FC Nürnberg
+2,Sat Aug 20 1983,Borussia Dortmund,1-2,Hamburger SV
+2,Sat Aug 20 1983,Eintracht Braunschweig,3-2,SV Waldhof Mannheim
+2,Sat Aug 20 1983,Werder Bremen,5-2,VfL Bochum
+2,Sat Aug 20 1983,Kickers Offenbach,4-3,Bor. Mönchengladbach
+3,Tue Aug 23 1983,1. FC Nürnberg,2-0,Arminia Bielefeld
+3,Tue Aug 23 1983,Bayern München,1-1,Fortuna Düsseldorf
+3,Tue Aug 23 1983,VfB Stuttgart,0-0,SV Waldhof Mannheim
+3,Tue Aug 23 1983,VfL Bochum,3-1,Eintracht Braunschweig
+3,Wed Aug 24 1983,1. FC Köln,1-0,Kickers Offenbach
+3,Wed Aug 24 1983,Eintracht Frankfurt,2-2,Bayer 04 Leverkusen
+3,Wed Aug 24 1983,Bor. Mönchengladbach,3-1,Werder Bremen
+3,Wed Aug 24 1983,Hamburger SV,2-2,KFC Uerdingen
+4,Tue Aug 30 1983,KFC Uerdingen,3-1,1. FC Kaiserslautern
+4,Tue Aug 30 1983,Werder Bremen,1-0,1. FC Köln
+4,Wed Aug 31 1983,SV Waldhof Mannheim,3-3,VfL Bochum
+4,Wed Aug 31 1983,Arminia Bielefeld,2-1,Eintracht Frankfurt
+4,Wed Aug 31 1983,Fortuna Düsseldorf,2-1,1. FC Nürnberg
+4,Wed Aug 31 1983,Kickers Offenbach,2-3,Bayern München
+4,Wed Aug 31 1983,Borussia Dortmund,0-3,VfB Stuttgart
+4,Wed Aug 31 1983,Eintracht Braunschweig,3-1,Bor. Mönchengladbach
+5,Fri Sep 2 1983,1. FC Kaiserslautern,3-0,Bayer 04 Leverkusen
+5,Sat Sep 3 1983,Eintracht Frankfurt,3-0,Fortuna Düsseldorf
+5,Sat Sep 3 1983,1. FC Nürnberg,4-0,Kickers Offenbach
+5,Sat Sep 3 1983,Hamburger SV,2-0,Arminia Bielefeld
+5,Sat Sep 3 1983,Bayern München,0-0,Werder Bremen
+5,Sat Sep 3 1983,Borussia Dortmund,2-1,KFC Uerdingen
+5,Sat Sep 3 1983,VfB Stuttgart,4-2,VfL Bochum
+5,Sat Sep 3 1983,1. FC Köln,2-1,Eintracht Braunschweig
+5,Sat Sep 3 1983,Bor. Mönchengladbach,3-0,SV Waldhof Mannheim
+6,Fri Sep 9 1983,Bayer 04 Leverkusen,4-2,Borussia Dortmund
+6,Sat Sep 10 1983,Kickers Offenbach,2-1,Eintracht Frankfurt
+6,Sat Sep 10 1983,Fortuna Düsseldorf,2-3,Hamburger SV
+6,Sat Sep 10 1983,Eintracht Braunschweig,1-2,Bayern München
+6,Sat Sep 10 1983,SV Waldhof Mannheim,2-2,1. FC Köln
+6,Sat Sep 10 1983,Werder Bremen,2-0,1. FC Nürnberg
+6,Sat Sep 10 1983,Arminia Bielefeld,3-2,1. FC Kaiserslautern
+6,Sat Sep 10 1983,KFC Uerdingen,3-2,VfB Stuttgart
+6,Sat Sep 10 1983,VfL Bochum,0-4,Bor. Mönchengladbach
+4,Tue Sep 13 1983,Bayer 04 Leverkusen,2-0,Hamburger SV
+7,Fri Sep 16 1983,1. FC Nürnberg,4-2,Eintracht Braunschweig
+7,Sat Sep 17 1983,Hamburger SV,6-0,Kickers Offenbach
+7,Sat Sep 17 1983,Eintracht Frankfurt,0-0,Werder Bremen
+7,Sat Sep 17 1983,Bayern München,6-0,SV Waldhof Mannheim
+7,Sat Sep 17 1983,1. FC Köln,3-0,VfL Bochum
+7,Sat Sep 17 1983,KFC Uerdingen,2-1,Bayer 04 Leverkusen
+7,Sat Sep 17 1983,Borussia Dortmund,1-0,Arminia Bielefeld
+7,Sat Sep 17 1983,1. FC Kaiserslautern,5-2,Fortuna Düsseldorf
+7,Sat Sep 17 1983,VfB Stuttgart,0-0,Bor. Mönchengladbach
+8,Fri Sep 23 1983,Kickers Offenbach,3-2,1. FC Kaiserslautern
+8,Fri Sep 23 1983,Fortuna Düsseldorf,7-0,Borussia Dortmund
+8,Fri Sep 23 1983,Werder Bremen,0-0,Hamburger SV
+8,Sat Sep 24 1983,Eintracht Braunschweig,4-3,Eintracht Frankfurt
+8,Sat Sep 24 1983,Arminia Bielefeld,3-1,KFC Uerdingen
+8,Sat Sep 24 1983,Bayer 04 Leverkusen,1-1,VfB Stuttgart
+8,Sat Sep 24 1983,Bor. Mönchengladbach,4-2,1. FC Köln
+8,Sat Sep 24 1983,VfL Bochum,3-1,Bayern München
+8,Sat Sep 24 1983,SV Waldhof Mannheim,1-0,1. FC Nürnberg
+9,Fri Sep 30 1983,1. FC Nürnberg,3-1,VfL Bochum
+9,Sat Oct 1 1983,Bayer 04 Leverkusen,0-0,Arminia Bielefeld
+9,Sat Oct 1 1983,Eintracht Frankfurt,1-3,SV Waldhof Mannheim
+9,Sat Oct 1 1983,Bayern München,4-0,Bor. Mönchengladbach
+9,Sat Oct 1 1983,VfB Stuttgart,3-2,1. FC Köln
+9,Sat Oct 1 1983,KFC Uerdingen,1-3,Fortuna Düsseldorf
+9,Sat Oct 1 1983,Borussia Dortmund,4-1,Kickers Offenbach
+9,Sat Oct 1 1983,1. FC Kaiserslautern,3-3,Werder Bremen
+9,Sat Oct 1 1983,Hamburger SV,3-0,Eintracht Braunschweig
+10,Fri Oct 14 1983,Kickers Offenbach,3-2,KFC Uerdingen
+10,Fri Oct 14 1983,Werder Bremen,2-1,Borussia Dortmund
+10,Sat Oct 15 1983,Eintracht Braunschweig,4-0,1. FC Kaiserslautern
+10,Sat Oct 15 1983,Fortuna Düsseldorf,2-2,Bayer 04 Leverkusen
+10,Sat Oct 15 1983,Arminia Bielefeld,0-0,VfB Stuttgart
+10,Sat Oct 15 1983,1. FC Köln,2-0,Bayern München
+10,Sat Oct 15 1983,Bor. Mönchengladbach,2-0,1. FC Nürnberg
+10,Sat Oct 15 1983,VfL Bochum,4-1,Eintracht Frankfurt
+10,Sat Oct 15 1983,SV Waldhof Mannheim,0-1,Hamburger SV
+11,Sat Oct 22 1983,Hamburger SV,2-1,VfL Bochum
+11,Sat Oct 22 1983,Eintracht Frankfurt,1-1,Bor. Mönchengladbach
+11,Sat Oct 22 1983,1. FC Nürnberg,1-3,1. FC Köln
+11,Sat Oct 22 1983,Arminia Bielefeld,1-3,Fortuna Düsseldorf
+11,Sat Oct 22 1983,Bayer 04 Leverkusen,3-1,Kickers Offenbach
+11,Sat Oct 22 1983,KFC Uerdingen,0-3,Werder Bremen
+11,Sat Oct 22 1983,Borussia Dortmund,0-2,Eintracht Braunschweig
+11,Sat Oct 22 1983,1. FC Kaiserslautern,2-0,SV Waldhof Mannheim
+11,Sat Oct 22 1983,VfB Stuttgart,1-0,Bayern München
+12,Sat Oct 29 1983,SV Waldhof Mannheim,4-1,Borussia Dortmund
+12,Sat Oct 29 1983,Eintracht Braunschweig,1-2,KFC Uerdingen
+12,Sat Oct 29 1983,Kickers Offenbach,2-2,Arminia Bielefeld
+12,Sat Oct 29 1983,Fortuna Düsseldorf,3-0,VfB Stuttgart
+12,Sat Oct 29 1983,Bayern München,4-2,1. FC Nürnberg
+12,Sat Oct 29 1983,1. FC Köln,7-0,Eintracht Frankfurt
+12,Sat Oct 29 1983,Bor. Mönchengladbach,4-0,Hamburger SV
+12,Sat Oct 29 1983,VfL Bochum,4-1,1. FC Kaiserslautern
+12,Sat Oct 29 1983,Werder Bremen,3-0,Bayer 04 Leverkusen
+13,Fri Nov 4 1983,KFC Uerdingen,1-1,SV Waldhof Mannheim
+13,Fri Nov 4 1983,Borussia Dortmund,1-1,VfL Bochum
+13,Sat Nov 5 1983,Hamburger SV,2-2,1. FC Köln
+13,Sat Nov 5 1983,Eintracht Frankfurt,0-0,Bayern München
+13,Sat Nov 5 1983,Fortuna Düsseldorf,5-0,Kickers Offenbach
+13,Sat Nov 5 1983,Arminia Bielefeld,2-0,Werder Bremen
+13,Sat Nov 5 1983,Bayer 04 Leverkusen,3-0,Eintracht Braunschweig
+13,Sat Nov 5 1983,1. FC Kaiserslautern,0-2,Bor. Mönchengladbach
+13,Sat Nov 5 1983,VfB Stuttgart,7-0,1. FC Nürnberg
+14,Fri Nov 11 1983,Werder Bremen,2-0,Fortuna Düsseldorf
+14,Sat Nov 12 1983,SV Waldhof Mannheim,0-3,Bayer 04 Leverkusen
+14,Sat Nov 12 1983,Eintracht Braunschweig,2-0,Arminia Bielefeld
+14,Sat Nov 12 1983,Kickers Offenbach,1-2,VfB Stuttgart
+14,Sat Nov 12 1983,1. FC Nürnberg,0-0,Eintracht Frankfurt
+14,Sat Nov 12 1983,Bayern München,1-0,Hamburger SV
+14,Sat Nov 12 1983,1. FC Köln,1-4,1. FC Kaiserslautern
+14,Sat Nov 12 1983,Bor. Mönchengladbach,2-1,Borussia Dortmund
+14,Sat Nov 12 1983,VfL Bochum,2-2,KFC Uerdingen
+15,Fri Nov 25 1983,KFC Uerdingen,1-1,Bor. Mönchengladbach
+15,Sat Nov 26 1983,Werder Bremen,8-1,Kickers Offenbach
+15,Sat Nov 26 1983,Eintracht Frankfurt,1-3,VfB Stuttgart
+15,Sat Nov 26 1983,Hamburger SV,4-0,1. FC Nürnberg
+15,Sat Nov 26 1983,Bayer 04 Leverkusen,3-0,VfL Bochum
+15,Sat Nov 26 1983,Borussia Dortmund,0-0,1. FC Köln
+15,Sat Nov 26 1983,1. FC Kaiserslautern,0-1,Bayern München
+15,Sat Nov 26 1983,Fortuna Düsseldorf,4-0,Eintracht Braunschweig
+16,Fri Dec 2 1983,1. FC Köln,3-0,KFC Uerdingen
+16,Fri Dec 2 1983,Bor. Mönchengladbach,3-1,Bayer 04 Leverkusen
+16,Fri Dec 2 1983,VfL Bochum,2-3,Arminia Bielefeld
+16,Sat Dec 3 1983,Eintracht Frankfurt,0-0,Hamburger SV
+16,Sat Dec 3 1983,VfB Stuttgart,3-0,Werder Bremen
+16,Sat Dec 3 1983,SV Waldhof Mannheim,1-1,Fortuna Düsseldorf
+16,Sat Dec 3 1983,1. FC Nürnberg,3-4,1. FC Kaiserslautern
+16,Sat Dec 3 1983,Bayern München,1-0,Borussia Dortmund
+16,Sat Dec 3 1983,Eintracht Braunschweig,4-4,Kickers Offenbach
+17,Wed Dec 7 1983,Hamburger SV,0-2,VfB Stuttgart
+17,Fri Dec 9 1983,Bayer 04 Leverkusen,2-1,1. FC Köln
+17,Sat Dec 10 1983,Borussia Dortmund,3-1,1. FC Nürnberg
+17,Sat Dec 10 1983,1. FC Kaiserslautern,1-0,Eintracht Frankfurt
+17,Sat Dec 10 1983,Kickers Offenbach,0-2,SV Waldhof Mannheim
+17,Sat Dec 10 1983,Fortuna Düsseldorf,1-1,VfL Bochum
+17,Sat Dec 10 1983,Arminia Bielefeld,2-2,Bor. Mönchengladbach
+17,Sat Dec 10 1983,KFC Uerdingen,1-1,Bayern München
+17,Sat Dec 10 1983,Werder Bremen,4-0,Eintracht Braunschweig
+15,Sat Dec 17 1983,Arminia Bielefeld,1-1,SV Waldhof Mannheim
+18,Fri Jan 20 1984,Fortuna Düsseldorf,4-1,Bor. Mönchengladbach
+18,Sat Jan 21 1984,1. FC Kaiserslautern,0-2,Hamburger SV
+18,Sat Jan 21 1984,Borussia Dortmund,2-0,Eintracht Frankfurt
+18,Sat Jan 21 1984,KFC Uerdingen,1-0,1. FC Nürnberg
+18,Sat Jan 21 1984,Bayer 04 Leverkusen,1-5,Bayern München
+18,Sat Jan 21 1984,Arminia Bielefeld,1-2,1. FC Köln
+18,Sat Jan 21 1984,Kickers Offenbach,2-2,VfL Bochum
+18,Sat Jan 21 1984,Werder Bremen,5-0,SV Waldhof Mannheim
+18,Sat Jan 21 1984,Eintracht Braunschweig,1-0,VfB Stuttgart
+19,Sat Jan 28 1984,SV Waldhof Mannheim,2-2,Eintracht Braunschweig
+19,Sat Jan 28 1984,Bor. Mönchengladbach,3-2,Kickers Offenbach
+19,Sat Jan 28 1984,Bayern München,3-1,Arminia Bielefeld
+19,Sat Jan 28 1984,1. FC Nürnberg,2-3,Bayer 04 Leverkusen
+19,Sat Jan 28 1984,Eintracht Frankfurt,2-2,KFC Uerdingen
+19,Sat Jan 28 1984,Hamburger SV,7-2,Borussia Dortmund
+19,Sat Jan 28 1984,VfB Stuttgart,5-1,1. FC Kaiserslautern
+19,Sat Jan 28 1984,VfL Bochum,3-3,Werder Bremen
+20,Fri Feb 3 1984,Fortuna Düsseldorf,4-1,Bayern München
+20,Sat Feb 4 1984,Werder Bremen,2-0,Bor. Mönchengladbach
+20,Sat Feb 4 1984,Bayer 04 Leverkusen,2-2,Eintracht Frankfurt
+20,Sat Feb 4 1984,SV Waldhof Mannheim,2-2,VfB Stuttgart
+20,Sat Feb 4 1984,Arminia Bielefeld,1-0,1. FC Nürnberg
+20,Sat Feb 4 1984,Borussia Dortmund,1-0,1. FC Kaiserslautern
+20,Sat Feb 4 1984,Eintracht Braunschweig,3-1,VfL Bochum
+20,Sat Feb 4 1984,Kickers Offenbach,2-0,1. FC Köln
+20,Sat Feb 4 1984,KFC Uerdingen,3-1,Hamburger SV
+19,Tue Feb 7 1984,1. FC Köln,1-0,Fortuna Düsseldorf
+21,Sat Feb 11 1984,Bor. Mönchengladbach,6-2,Eintracht Braunschweig
+21,Sat Feb 11 1984,1. FC Nürnberg,2-1,Fortuna Düsseldorf
+21,Sat Feb 11 1984,Eintracht Frankfurt,1-1,Arminia Bielefeld
+21,Sat Feb 11 1984,Hamburger SV,3-0,Bayer 04 Leverkusen
+21,Sat Feb 11 1984,1. FC Kaiserslautern,5-2,KFC Uerdingen
+21,Sat Feb 11 1984,VfB Stuttgart,3-1,Borussia Dortmund
+21,Sat Feb 11 1984,VfL Bochum,1-0,SV Waldhof Mannheim
+21,Sat Feb 11 1984,1. FC Köln,1-4,Werder Bremen
+23,Sat Feb 25 1984,Eintracht Frankfurt,3-0,Kickers Offenbach
+23,Sat Feb 25 1984,Hamburger SV,5-2,Fortuna Düsseldorf
+23,Sat Feb 25 1984,Bayern München,6-0,Eintracht Braunschweig
+23,Sat Feb 25 1984,1. FC Nürnberg,2-0,Werder Bremen
+23,Sat Feb 25 1984,1. FC Köln,2-0,SV Waldhof Mannheim
+23,Sat Feb 25 1984,1. FC Kaiserslautern,6-0,Arminia Bielefeld
+23,Sat Feb 25 1984,Borussia Dortmund,3-0,Bayer 04 Leverkusen
+23,Sat Feb 25 1984,Bor. Mönchengladbach,4-2,VfL Bochum
+24,Fri Mar 9 1984,Werder Bremen,2-3,Eintracht Frankfurt
+24,Fri Mar 9 1984,Kickers Offenbach,0-4,Hamburger SV
+24,Sat Mar 10 1984,Eintracht Braunschweig,1-0,1. FC Nürnberg
+24,Sat Mar 10 1984,Arminia Bielefeld,0-0,Borussia Dortmund
+24,Sat Mar 10 1984,Bayer 04 Leverkusen,3-1,KFC Uerdingen
+24,Sat Mar 10 1984,SV Waldhof Mannheim,0-0,Bayern München
+24,Sat Mar 10 1984,VfL Bochum,2-3,1. FC Köln
+24,Sat Mar 10 1984,Bor. Mönchengladbach,2-0,VfB Stuttgart
+24,Sat Mar 10 1984,Fortuna Düsseldorf,1-5,1. FC Kaiserslautern
+21,Tue Mar 13 1984,Bayern München,9-0,Kickers Offenbach
+25,Fri Mar 16 1984,KFC Uerdingen,1-3,Arminia Bielefeld
+25,Fri Mar 16 1984,VfB Stuttgart,2-2,Bayer 04 Leverkusen
+25,Fri Mar 16 1984,1. FC Kaiserslautern,1-1,Kickers Offenbach
+25,Sat Mar 17 1984,Eintracht Frankfurt,1-2,Eintracht Braunschweig
+25,Sat Mar 17 1984,1. FC Nürnberg,0-0,SV Waldhof Mannheim
+25,Sat Mar 17 1984,Hamburger SV,4-0,Werder Bremen
+25,Sat Mar 17 1984,Borussia Dortmund,6-0,Fortuna Düsseldorf
+25,Sat Mar 17 1984,1. FC Köln,1-2,Bor. Mönchengladbach
+25,Sat Mar 17 1984,Bayern München,5-1,VfL Bochum
+23,Tue Mar 20 1984,VfB Stuttgart,4-0,KFC Uerdingen
+26,Fri Mar 23 1984,Kickers Offenbach,0-0,Borussia Dortmund
+26,Fri Mar 23 1984,Werder Bremen,1-1,1. FC Kaiserslautern
+26,Fri Mar 23 1984,Fortuna Düsseldorf,1-1,KFC Uerdingen
+26,Sat Mar 24 1984,SV Waldhof Mannheim,1-1,Eintracht Frankfurt
+26,Sat Mar 24 1984,Bor. Mönchengladbach,3-0,Bayern München
+26,Sat Mar 24 1984,Eintracht Braunschweig,0-0,Hamburger SV
+26,Sat Mar 24 1984,1. FC Köln,2-2,VfB Stuttgart
+26,Sat Mar 24 1984,VfL Bochum,2-0,1. FC Nürnberg
+26,Sat Mar 24 1984,Arminia Bielefeld,3-0,Bayer 04 Leverkusen
+27,Fri Mar 30 1984,KFC Uerdingen,4-2,Kickers Offenbach
+27,Sat Mar 31 1984,Eintracht Frankfurt,1-0,VfL Bochum
+27,Sat Mar 31 1984,Hamburger SV,2-3,SV Waldhof Mannheim
+27,Sat Mar 31 1984,1. FC Kaiserslautern,3-1,Eintracht Braunschweig
+27,Sat Mar 31 1984,Bayer 04 Leverkusen,2-0,Fortuna Düsseldorf
+27,Sat Mar 31 1984,Borussia Dortmund,2-3,Werder Bremen
+27,Sat Mar 31 1984,VfB Stuttgart,1-0,Arminia Bielefeld
+27,Sat Mar 31 1984,Bayern München,4-2,1. FC Köln
+27,Sat Mar 31 1984,1. FC Nürnberg,1-3,Bor. Mönchengladbach
+28,Fri Apr 6 1984,Eintracht Braunschweig,5-0,Borussia Dortmund
+28,Fri Apr 6 1984,Fortuna Düsseldorf,0-0,Arminia Bielefeld
+28,Fri Apr 6 1984,VfL Bochum,1-1,Hamburger SV
+28,Sat Apr 7 1984,1. FC Köln,3-1,1. FC Nürnberg
+28,Sat Apr 7 1984,Kickers Offenbach,0-2,Bayer 04 Leverkusen
+28,Sat Apr 7 1984,Bor. Mönchengladbach,1-1,Eintracht Frankfurt
+28,Sat Apr 7 1984,Bayern München,2-2,VfB Stuttgart
+28,Sat Apr 7 1984,Werder Bremen,5-2,KFC Uerdingen
+28,Sat Apr 7 1984,SV Waldhof Mannheim,2-0,1. FC Kaiserslautern
+29,Fri Apr 13 1984,VfB Stuttgart,6-0,Fortuna Düsseldorf
+29,Fri Apr 13 1984,1. FC Kaiserslautern,2-0,VfL Bochum
+29,Fri Apr 13 1984,KFC Uerdingen,4-0,Eintracht Braunschweig
+29,Sat Apr 14 1984,Borussia Dortmund,4-1,SV Waldhof Mannheim
+29,Sat Apr 14 1984,Arminia Bielefeld,3-1,Kickers Offenbach
+29,Sat Apr 14 1984,Bayer 04 Leverkusen,0-0,Werder Bremen
+29,Sat Apr 14 1984,Eintracht Frankfurt,0-2,1. FC Köln
+29,Sat Apr 14 1984,Hamburger SV,2-1,Bor. Mönchengladbach
+29,Sat Apr 14 1984,1. FC Nürnberg,2-4,Bayern München
+22,Thu Apr 19 1984,Kickers Offenbach,3-1,1. FC Nürnberg
+22,Sat Apr 21 1984,Arminia Bielefeld,0-1,Hamburger SV
+22,Sat Apr 21 1984,Fortuna Düsseldorf,4-2,Eintracht Frankfurt
+22,Sat Apr 21 1984,Eintracht Braunschweig,2-2,1. FC Köln
+22,Sat Apr 21 1984,Werder Bremen,3-2,Bayern München
+22,Sat Apr 21 1984,KFC Uerdingen,2-1,Borussia Dortmund
+22,Sat Apr 21 1984,Bayer 04 Leverkusen,2-0,1. FC Kaiserslautern
+22,Sat Apr 21 1984,VfL Bochum,0-1,VfB Stuttgart
+22,Sat Apr 21 1984,SV Waldhof Mannheim,2-3,Bor. Mönchengladbach
+30,Fri Apr 27 1984,Kickers Offenbach,5-1,Fortuna Düsseldorf
+30,Fri Apr 27 1984,Werder Bremen,3-0,Arminia Bielefeld
+30,Fri Apr 27 1984,1. FC Nürnberg,0-6,VfB Stuttgart
+30,Sat Apr 28 1984,1. FC Köln,1-4,Hamburger SV
+30,Sat Apr 28 1984,Bayern München,3-0,Eintracht Frankfurt
+30,Sat Apr 28 1984,Bor. Mönchengladbach,3-2,1. FC Kaiserslautern
+30,Sat Apr 28 1984,SV Waldhof Mannheim,1-4,KFC Uerdingen
+30,Sat Apr 28 1984,VfL Bochum,2-2,Borussia Dortmund
+30,Sat Apr 28 1984,Eintracht Braunschweig,0-0,Bayer 04 Leverkusen
+31,Fri May 4 1984,KFC Uerdingen,1-2,VfL Bochum
+31,Fri May 4 1984,1. FC Kaiserslautern,2-2,1. FC Köln
+31,Fri May 4 1984,VfB Stuttgart,5-1,Kickers Offenbach
+31,Sat May 5 1984,Fortuna Düsseldorf,3-4,Werder Bremen
+31,Sat May 5 1984,Arminia Bielefeld,0-0,Eintracht Braunschweig
+31,Sat May 5 1984,Hamburger SV,2-1,Bayern München
+31,Sat May 5 1984,Eintracht Frankfurt,3-1,1. FC Nürnberg
+31,Sat May 5 1984,Bayer 04 Leverkusen,0-1,SV Waldhof Mannheim
+31,Sat May 5 1984,Borussia Dortmund,4-1,Bor. Mönchengladbach
+32,Fri May 11 1984,Kickers Offenbach,3-7,Werder Bremen
+32,Sat May 12 1984,Bayern München,5-2,1. FC Kaiserslautern
+32,Sat May 12 1984,VfB Stuttgart,2-2,Eintracht Frankfurt
+32,Sat May 12 1984,Eintracht Braunschweig,4-1,Fortuna Düsseldorf
+32,Sat May 12 1984,1. FC Nürnberg,1-6,Hamburger SV
+32,Sat May 12 1984,SV Waldhof Mannheim,0-2,Arminia Bielefeld
+32,Sat May 12 1984,Bor. Mönchengladbach,7-1,KFC Uerdingen
+32,Sat May 12 1984,1. FC Köln,5-2,Borussia Dortmund
+32,Sat May 12 1984,VfL Bochum,2-1,Bayer 04 Leverkusen
+33,Sat May 19 1984,Kickers Offenbach,1-2,Eintracht Braunschweig
+33,Sat May 19 1984,Werder Bremen,1-2,VfB Stuttgart
+33,Sat May 19 1984,1. FC Kaiserslautern,4-2,1. FC Nürnberg
+33,Sat May 19 1984,Borussia Dortmund,1-1,Bayern München
+33,Sat May 19 1984,KFC Uerdingen,4-6,1. FC Köln
+33,Sat May 19 1984,Bayer 04 Leverkusen,1-2,Bor. Mönchengladbach
+33,Sat May 19 1984,Arminia Bielefeld,2-1,VfL Bochum
+33,Sat May 19 1984,Fortuna Düsseldorf,1-2,SV Waldhof Mannheim
+33,Sat May 19 1984,Hamburger SV,0-2,Eintracht Frankfurt
+34,Sat May 26 1984,VfB Stuttgart,0-1,Hamburger SV
+34,Sat May 26 1984,SV Waldhof Mannheim,6-1,Kickers Offenbach
+34,Sat May 26 1984,VfL Bochum,6-1,Fortuna Düsseldorf
+34,Sat May 26 1984,Bor. Mönchengladbach,3-0,Arminia Bielefeld
+34,Sat May 26 1984,1. FC Köln,2-0,Bayer 04 Leverkusen
+34,Sat May 26 1984,Bayern München,3-2,KFC Uerdingen
+34,Sat May 26 1984,1. FC Nürnberg,0-2,Borussia Dortmund
+34,Sat May 26 1984,Eintracht Frankfurt,3-0,1. FC Kaiserslautern
+34,Sat May 26 1984,Eintracht Braunschweig,1-2,Werder Bremen

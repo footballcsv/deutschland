@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Sat Aug 14 1971,Bayern München,3-1,Fortuna Düsseldorf
+1,Sat Aug 14 1971,1. FC Köln,0-0,Werder Bremen
+1,Sat Aug 14 1971,MSV Duisburg,2-1,Borussia Dortmund
+1,Sat Aug 14 1971,VfL Bochum,1-0,Eintracht Braunschweig
+1,Sat Aug 14 1971,Arminia Bielefeld,0-1,Rot-Weiß Oberhausen
+1,Sat Aug 14 1971,Hamburger SV,5-1,Eintracht Frankfurt
+1,Sat Aug 14 1971,VfB Stuttgart,3-0,Hertha BSC
+1,Sat Aug 14 1971,Hannover 96,1-5,FC Schalke 04
+1,Sat Aug 14 1971,1. FC Kaiserslautern,1-0,Bor. Mönchengladbach
+2,Sat Aug 21 1971,Borussia Dortmund,1-1,Hamburger SV
+2,Sat Aug 21 1971,Werder Bremen,2-2,1. FC Kaiserslautern
+2,Sat Aug 21 1971,Fortuna Düsseldorf,2-0,Hannover 96
+2,Sat Aug 21 1971,Hertha BSC,2-2,Bayern München
+2,Sat Aug 21 1971,Eintracht Braunschweig,1-1,VfB Stuttgart
+2,Sat Aug 21 1971,Rot-Weiß Oberhausen,2-3,VfL Bochum
+2,Sat Aug 21 1971,FC Schalke 04,2-0,MSV Duisburg
+2,Sat Aug 21 1971,Eintracht Frankfurt,2-2,1. FC Köln
+2,Sat Aug 21 1971,Bor. Mönchengladbach,5-1,Arminia Bielefeld
+3,Sat Aug 28 1971,Eintracht Frankfurt,4-0,Werder Bremen
+3,Sat Aug 28 1971,VfL Bochum,0-2,Bor. Mönchengladbach
+3,Sat Aug 28 1971,Hannover 96,1-1,Hertha BSC
+3,Sat Aug 28 1971,Arminia Bielefeld,1-1,1. FC Kaiserslautern
+3,Sat Aug 28 1971,MSV Duisburg,0-0,Fortuna Düsseldorf
+3,Sat Aug 28 1971,VfB Stuttgart,1-1,Rot-Weiß Oberhausen
+3,Sat Aug 28 1971,Bayern München,4-1,Eintracht Braunschweig
+3,Sat Aug 28 1971,Hamburger SV,0-1,FC Schalke 04
+3,Sat Aug 28 1971,1. FC Köln,2-1,Borussia Dortmund
+4,Wed Sep 1 1971,Rot-Weiß Oberhausen,1-1,Bayern München
+4,Wed Sep 1 1971,Borussia Dortmund,3-1,Eintracht Frankfurt
+4,Wed Sep 1 1971,Bor. Mönchengladbach,0-0,VfB Stuttgart
+4,Wed Sep 1 1971,Eintracht Braunschweig,3-0,Hannover 96
+4,Wed Sep 1 1971,Werder Bremen,4-0,Arminia Bielefeld
+4,Wed Sep 1 1971,1. FC Kaiserslautern,4-1,VfL Bochum
+4,Wed Sep 1 1971,Hertha BSC,1-0,MSV Duisburg
+4,Wed Sep 1 1971,Fortuna Düsseldorf,0-0,Hamburger SV
+4,Wed Sep 1 1971,FC Schalke 04,6-2,1. FC Köln
+5,Sat Sep 4 1971,Bayern München,2-0,Bor. Mönchengladbach
+5,Sat Sep 4 1971,1. FC Köln,1-2,Fortuna Düsseldorf
+5,Sat Sep 4 1971,MSV Duisburg,0-0,Eintracht Braunschweig
+5,Sat Sep 4 1971,VfB Stuttgart,3-1,1. FC Kaiserslautern
+5,Sat Sep 4 1971,Eintracht Frankfurt,2-0,FC Schalke 04
+5,Sat Sep 4 1971,VfL Bochum,2-1,Arminia Bielefeld
+5,Sat Sep 4 1971,Borussia Dortmund,1-5,Werder Bremen
+5,Sat Sep 4 1971,Hamburger SV,1-2,Hertha BSC
+5,Sat Sep 4 1971,Hannover 96,1-0,Rot-Weiß Oberhausen
+6,Sat Sep 11 1971,Bor. Mönchengladbach,3-0,Hannover 96
+6,Sat Sep 11 1971,Eintracht Braunschweig,1-1,Hamburger SV
+6,Sat Sep 11 1971,Rot-Weiß Oberhausen,0-1,MSV Duisburg
+6,Sat Sep 11 1971,Hertha BSC,1-1,1. FC Köln
+6,Sat Sep 11 1971,Werder Bremen,2-0,VfL Bochum
+6,Sat Sep 11 1971,Arminia Bielefeld,1-0,VfB Stuttgart
+6,Sat Sep 11 1971,FC Schalke 04,1-0,Borussia Dortmund
+6,Sat Sep 11 1971,1. FC Kaiserslautern,0-2,Bayern München
+6,Sat Sep 11 1971,Fortuna Düsseldorf,1-0,Eintracht Frankfurt
+7,Sat Sep 18 1971,Hamburger SV,3-0,Rot-Weiß Oberhausen
+7,Sat Sep 18 1971,MSV Duisburg,1-5,Bor. Mönchengladbach
+7,Sat Sep 18 1971,1. FC Köln,2-0,Eintracht Braunschweig
+7,Sat Sep 18 1971,Hannover 96,1-2,1. FC Kaiserslautern
+7,Sat Sep 18 1971,Eintracht Frankfurt,1-1,Hertha BSC
+7,Sat Sep 18 1971,FC Schalke 04,2-0,Werder Bremen
+7,Sat Sep 18 1971,VfB Stuttgart,3-2,VfL Bochum
+7,Sat Sep 18 1971,Borussia Dortmund,1-0,Fortuna Düsseldorf
+7,Sat Sep 18 1971,Bayern München,1-1,Arminia Bielefeld
+8,Sat Sep 25 1971,1. FC Kaiserslautern,1-0,MSV Duisburg
+8,Sat Sep 25 1971,Bor. Mönchengladbach,1-0,Hamburger SV
+8,Sat Sep 25 1971,VfL Bochum,0-2,Bayern München
+8,Sat Sep 25 1971,Rot-Weiß Oberhausen,1-1,1. FC Köln
+8,Sat Sep 25 1971,Eintracht Braunschweig,2-0,Eintracht Frankfurt
+8,Sat Sep 25 1971,Arminia Bielefeld,1-0,Hannover 96
+8,Sat Sep 25 1971,Hertha BSC,2-1,Borussia Dortmund
+8,Sat Sep 25 1971,Werder Bremen,2-3,VfB Stuttgart
+8,Sat Sep 25 1971,Fortuna Düsseldorf,0-2,FC Schalke 04
+9,Sat Oct 2 1971,FC Schalke 04,4-0,Hertha BSC
+9,Sat Oct 2 1971,1. FC Köln,4-3,Bor. Mönchengladbach
+9,Sat Oct 2 1971,MSV Duisburg,4-0,Arminia Bielefeld
+9,Sat Oct 2 1971,Fortuna Düsseldorf,1-3,Werder Bremen
+9,Sat Oct 2 1971,Bayern München,2-2,VfB Stuttgart
+9,Sat Oct 2 1971,Eintracht Frankfurt,3-0,Rot-Weiß Oberhausen
+9,Sat Oct 2 1971,Hannover 96,4-0,VfL Bochum
+9,Sat Oct 2 1971,Borussia Dortmund,2-2,Eintracht Braunschweig
+9,Sat Oct 2 1971,Hamburger SV,4-0,1. FC Kaiserslautern
+10,Wed Oct 13 1971,Rot-Weiß Oberhausen,1-1,Borussia Dortmund
+10,Wed Oct 13 1971,Hertha BSC,1-1,Fortuna Düsseldorf
+10,Wed Oct 13 1971,VfL Bochum,3-1,MSV Duisburg
+10,Wed Oct 13 1971,1. FC Kaiserslautern,2-0,1. FC Köln
+10,Wed Oct 13 1971,Bor. Mönchengladbach,6-2,Eintracht Frankfurt
+10,Wed Oct 13 1971,Eintracht Braunschweig,0-0,FC Schalke 04
+10,Wed Oct 13 1971,VfB Stuttgart,3-2,Hannover 96
+10,Wed Oct 13 1971,Arminia Bielefeld,2-2,Hamburger SV
+10,Wed Oct 13 1971,Werder Bremen,1-2,Bayern München
+11,Sat Oct 16 1971,Borussia Dortmund,0-0,Bor. Mönchengladbach
+11,Sat Oct 16 1971,1. FC Köln,1-0,Arminia Bielefeld
+11,Sat Oct 16 1971,Eintracht Frankfurt,1-0,1. FC Kaiserslautern
+11,Sat Oct 16 1971,Hamburger SV,3-2,VfL Bochum
+11,Sat Oct 16 1971,Hannover 96,1-3,Bayern München
+11,Sat Oct 16 1971,Hertha BSC,2-1,Werder Bremen
+11,Sat Oct 16 1971,FC Schalke 04,4-0,Rot-Weiß Oberhausen
+11,Sat Oct 16 1971,MSV Duisburg,1-2,VfB Stuttgart
+11,Sat Oct 16 1971,Fortuna Düsseldorf,0-0,Eintracht Braunschweig
+12,Sat Oct 23 1971,1. FC Kaiserslautern,6-0,Borussia Dortmund
+12,Sat Oct 23 1971,Bor. Mönchengladbach,7-0,FC Schalke 04
+12,Sat Oct 23 1971,VfL Bochum,1-5,1. FC Köln
+12,Sat Oct 23 1971,Rot-Weiß Oberhausen,2-0,Fortuna Düsseldorf
+12,Sat Oct 23 1971,Bayern München,5-1,MSV Duisburg
+12,Sat Oct 23 1971,Werder Bremen,2-1,Hannover 96
+12,Sat Oct 23 1971,VfB Stuttgart,0-3,Hamburger SV
+12,Sat Oct 23 1971,Arminia Bielefeld,3-4,Eintracht Frankfurt
+12,Sat Oct 23 1971,Eintracht Braunschweig,1-1,Hertha BSC
+13,Sat Oct 30 1971,MSV Duisburg,2-1,Hannover 96
+13,Sat Oct 30 1971,Borussia Dortmund,1-0,Arminia Bielefeld
+13,Sat Oct 30 1971,Fortuna Düsseldorf,0-2,Bor. Mönchengladbach
+13,Sat Oct 30 1971,Eintracht Frankfurt,3-2,VfL Bochum
+13,Sat Oct 30 1971,FC Schalke 04,3-0,1. FC Kaiserslautern
+13,Sat Oct 30 1971,Hamburger SV,1-4,Bayern München
+13,Sat Oct 30 1971,Eintracht Braunschweig,1-1,Werder Bremen
+13,Sat Oct 30 1971,Hertha BSC,2-0,Rot-Weiß Oberhausen
+13,Sat Oct 30 1971,1. FC Köln,4-1,VfB Stuttgart
+14,Sat Nov 6 1971,Arminia Bielefeld,1-1,FC Schalke 04
+14,Sat Nov 6 1971,Rot-Weiß Oberhausen,1-1,Eintracht Braunschweig
+14,Sat Nov 6 1971,Bayern München,1-1,1. FC Köln
+14,Sat Nov 6 1971,VfB Stuttgart,4-4,Eintracht Frankfurt
+14,Sat Nov 6 1971,1. FC Kaiserslautern,3-1,Fortuna Düsseldorf
+14,Sat Nov 6 1971,Hannover 96,2-3,Hamburger SV
+14,Sat Nov 6 1971,Werder Bremen,1-1,MSV Duisburg
+14,Sat Nov 6 1971,VfL Bochum,4-2,Borussia Dortmund
+14,Sat Nov 6 1971,Bor. Mönchengladbach,5-2,Hertha BSC
+15,Sat Nov 13 1971,Borussia Dortmund,0-4,VfB Stuttgart
+15,Sat Nov 13 1971,MSV Duisburg,2-4,Hamburger SV
+15,Sat Nov 13 1971,FC Schalke 04,4-1,VfL Bochum
+15,Sat Nov 13 1971,Fortuna Düsseldorf,3-2,Arminia Bielefeld
+15,Sat Nov 13 1971,Eintracht Frankfurt,3-2,Bayern München
+15,Sat Nov 13 1971,Hertha BSC,2-1,1. FC Kaiserslautern
+15,Sat Nov 13 1971,1. FC Köln,3-1,Hannover 96
+15,Sat Nov 13 1971,Werder Bremen,4-0,Rot-Weiß Oberhausen
+15,Sat Nov 13 1971,Eintracht Braunschweig,2-1,Bor. Mönchengladbach
+16,Sat Nov 27 1971,MSV Duisburg,1-1,1. FC Köln
+16,Sat Nov 27 1971,Bor. Mönchengladbach,5-2,Rot-Weiß Oberhausen
+16,Sat Nov 27 1971,Bayern München,11-1,Borussia Dortmund
+16,Sat Nov 27 1971,VfL Bochum,3-1,Fortuna Düsseldorf
+16,Sat Nov 27 1971,VfB Stuttgart,0-1,FC Schalke 04
+16,Sat Nov 27 1971,Arminia Bielefeld,1-1,Hertha BSC
+16,Sat Nov 27 1971,Hamburger SV,2-1,Werder Bremen
+16,Sat Nov 27 1971,1. FC Kaiserslautern,2-2,Eintracht Braunschweig
+16,Sat Nov 27 1971,Hannover 96,3-1,Eintracht Frankfurt
+17,Sat Dec 11 1971,Rot-Weiß Oberhausen,2-5,1. FC Kaiserslautern
+17,Sat Dec 11 1971,Hertha BSC,1-2,VfL Bochum
+17,Sat Dec 11 1971,Borussia Dortmund,1-1,Hannover 96
+17,Sat Dec 11 1971,Eintracht Frankfurt,2-1,MSV Duisburg
+17,Sat Dec 11 1971,Eintracht Braunschweig,3-2,Arminia Bielefeld
+17,Sat Dec 11 1971,1. FC Köln,3-0,Hamburger SV
+17,Sat Dec 11 1971,Werder Bremen,2-2,Bor. Mönchengladbach
+17,Sat Dec 11 1971,FC Schalke 04,1-0,Bayern München
+17,Sat Dec 11 1971,Fortuna Düsseldorf,4-0,VfB Stuttgart
+18,Fri Jan 21 1972,Rot-Weiß Oberhausen,2-0,Arminia Bielefeld
+18,Sat Jan 22 1972,Eintracht Frankfurt,4-0,Hamburger SV
+18,Sat Jan 22 1972,Fortuna Düsseldorf,0-1,Bayern München
+18,Sat Jan 22 1972,Werder Bremen,2-2,1. FC Köln
+18,Sat Jan 22 1972,Borussia Dortmund,2-3,MSV Duisburg
+18,Sat Jan 22 1972,Eintracht Braunschweig,0-2,VfL Bochum
+18,Sat Jan 22 1972,Hertha BSC,2-1,VfB Stuttgart
+18,Sat Jan 22 1972,FC Schalke 04,5-0,Hannover 96
+18,Sat Jan 22 1972,Bor. Mönchengladbach,2-1,1. FC Kaiserslautern
+19,Sat Jan 29 1972,VfB Stuttgart,3-1,Eintracht Braunschweig
+19,Sat Jan 29 1972,VfL Bochum,2-0,Rot-Weiß Oberhausen
+19,Sat Jan 29 1972,Hamburger SV,0-0,Borussia Dortmund
+19,Sat Jan 29 1972,Hannover 96,5-0,Fortuna Düsseldorf
+19,Sat Jan 29 1972,Bayern München,1-0,Hertha BSC
+19,Sat Jan 29 1972,MSV Duisburg,2-0,FC Schalke 04
+19,Sat Jan 29 1972,Arminia Bielefeld,2-3,Bor. Mönchengladbach
+20,Sat Feb 5 1972,1. FC Kaiserslautern,2-1,Arminia Bielefeld
+20,Sat Feb 5 1972,Eintracht Braunschweig,1-1,Bayern München
+20,Sat Feb 5 1972,Hertha BSC,3-1,Hannover 96
+20,Sat Feb 5 1972,FC Schalke 04,3-0,Hamburger SV
+20,Sat Feb 5 1972,Werder Bremen,3-1,Eintracht Frankfurt
+20,Sat Feb 5 1972,Fortuna Düsseldorf,0-0,MSV Duisburg
+20,Tue Feb 8 1972,Bor. Mönchengladbach,1-1,VfL Bochum
+21,Sat Feb 19 1972,VfB Stuttgart,0-1,Bor. Mönchengladbach
+21,Sat Feb 19 1972,1. FC Köln,0-1,FC Schalke 04
+21,Sat Feb 19 1972,Eintracht Frankfurt,5-2,Borussia Dortmund
+21,Sat Feb 19 1972,Bayern München,7-0,Rot-Weiß Oberhausen
+21,Sat Feb 19 1972,Arminia Bielefeld,1-0,Werder Bremen
+21,Sat Feb 19 1972,Hannover 96,3-0,Eintracht Braunschweig
+21,Sat Feb 19 1972,Hamburger SV,3-3,Fortuna Düsseldorf
+21,Sat Feb 19 1972,MSV Duisburg,2-0,Hertha BSC
+21,Sat Feb 19 1972,VfL Bochum,4-2,1. FC Kaiserslautern
+22,Sat Feb 26 1972,1. FC Kaiserslautern,3-1,VfB Stuttgart
+22,Sat Feb 26 1972,Fortuna Düsseldorf,1-1,1. FC Köln
+22,Sat Feb 26 1972,Eintracht Braunschweig,2-0,MSV Duisburg
+22,Sat Feb 26 1972,FC Schalke 04,2-0,Eintracht Frankfurt
+22,Sat Feb 26 1972,Hertha BSC,2-0,Hamburger SV
+22,Sat Feb 26 1972,Arminia Bielefeld,3-1,VfL Bochum
+22,Sat Feb 26 1972,Werder Bremen,3-1,Borussia Dortmund
+22,Sat Feb 26 1972,Rot-Weiß Oberhausen,3-2,Hannover 96
+22,Sat Feb 26 1972,Bor. Mönchengladbach,2-2,Bayern München
+23,Sat Mar 4 1972,VfL Bochum,4-2,Werder Bremen
+23,Sat Mar 4 1972,MSV Duisburg,0-0,Rot-Weiß Oberhausen
+23,Sat Mar 4 1972,1. FC Köln,3-0,Hertha BSC
+23,Sat Mar 4 1972,Hamburger SV,3-1,Eintracht Braunschweig
+23,Sat Mar 4 1972,Borussia Dortmund,0-3,FC Schalke 04
+23,Sat Mar 4 1972,Eintracht Frankfurt,4-2,Fortuna Düsseldorf
+23,Sat Mar 4 1972,Hannover 96,2-0,Bor. Mönchengladbach
+23,Sat Mar 4 1972,VfB Stuttgart,2-2,Arminia Bielefeld
+23,Sat Mar 4 1972,Bayern München,3-1,1. FC Kaiserslautern
+19,Tue Mar 7 1972,1. FC Kaiserslautern,2-1,Werder Bremen
+20,Tue Mar 7 1972,Rot-Weiß Oberhausen,1-1,VfB Stuttgart
+19,Tue Mar 7 1972,1. FC Köln,1-1,Eintracht Frankfurt
+24,Fri Mar 10 1972,1. FC Kaiserslautern,2-0,Hannover 96
+24,Sat Mar 11 1972,Werder Bremen,2-0,FC Schalke 04
+24,Sat Mar 11 1972,VfL Bochum,1-1,VfB Stuttgart
+24,Sat Mar 11 1972,Arminia Bielefeld,0-1,Bayern München
+24,Sat Mar 11 1972,Fortuna Düsseldorf,4-1,Borussia Dortmund
+24,Sat Mar 11 1972,Eintracht Braunschweig,0-1,1. FC Köln
+24,Sat Mar 11 1972,Hertha BSC,0-0,Eintracht Frankfurt
+24,Sat Mar 11 1972,Bor. Mönchengladbach,3-0,MSV Duisburg
+24,Sat Mar 11 1972,Rot-Weiß Oberhausen,1-0,Hamburger SV
+25,Sat Mar 18 1972,VfB Stuttgart,1-0,Werder Bremen
+25,Sat Mar 18 1972,FC Schalke 04,3-0,Fortuna Düsseldorf
+25,Sat Mar 18 1972,MSV Duisburg,1-0,1. FC Kaiserslautern
+25,Sat Mar 18 1972,Hamburger SV,1-0,Bor. Mönchengladbach
+25,Sat Mar 18 1972,Bayern München,5-1,VfL Bochum
+25,Sat Mar 18 1972,1. FC Köln,4-0,Rot-Weiß Oberhausen
+25,Sat Mar 18 1972,Eintracht Frankfurt,1-1,Eintracht Braunschweig
+25,Sat Mar 18 1972,Hannover 96,3-1,Arminia Bielefeld
+25,Sat Mar 18 1972,Borussia Dortmund,1-2,Hertha BSC
+20,Tue Mar 21 1972,Borussia Dortmund,0-0,1. FC Köln
+26,Fri Mar 24 1972,1. FC Kaiserslautern,2-1,Hamburger SV
+26,Sat Mar 25 1972,Hertha BSC,3-0,FC Schalke 04
+26,Sat Mar 25 1972,Bor. Mönchengladbach,3-0,1. FC Köln
+26,Sat Mar 25 1972,Arminia Bielefeld,2-0,MSV Duisburg
+26,Sat Mar 25 1972,Werder Bremen,1-1,Fortuna Düsseldorf
+26,Sat Mar 25 1972,VfB Stuttgart,1-4,Bayern München
+26,Sat Mar 25 1972,Rot-Weiß Oberhausen,1-0,Eintracht Frankfurt
+26,Sat Mar 25 1972,VfL Bochum,2-2,Hannover 96
+26,Sat Mar 25 1972,Eintracht Braunschweig,2-0,Borussia Dortmund
+27,Sat Apr 8 1972,Borussia Dortmund,2-1,Rot-Weiß Oberhausen
+27,Sat Apr 8 1972,Fortuna Düsseldorf,1-0,Hertha BSC
+27,Sat Apr 8 1972,MSV Duisburg,2-2,VfL Bochum
+27,Sat Apr 8 1972,1. FC Köln,4-2,1. FC Kaiserslautern
+27,Sat Apr 8 1972,Eintracht Frankfurt,3-0,Bor. Mönchengladbach
+27,Sat Apr 8 1972,FC Schalke 04,5-1,Eintracht Braunschweig
+27,Sat Apr 8 1972,Hannover 96,3-0,VfB Stuttgart
+27,Sat Apr 8 1972,Hamburger SV,1-0,Arminia Bielefeld
+27,Sat Apr 8 1972,Bayern München,6-2,Werder Bremen
+28,Sat Apr 15 1972,Bor. Mönchengladbach,7-1,Borussia Dortmund
+28,Sat Apr 15 1972,Arminia Bielefeld,2-3,1. FC Köln
+28,Sat Apr 15 1972,1. FC Kaiserslautern,1-1,Eintracht Frankfurt
+28,Sat Apr 15 1972,VfL Bochum,2-1,Hamburger SV
+28,Sat Apr 15 1972,Bayern München,3-1,Hannover 96
+28,Sat Apr 15 1972,Werder Bremen,5-0,Hertha BSC
+28,Sat Apr 15 1972,Rot-Weiß Oberhausen,2-3,FC Schalke 04
+28,Sat Apr 15 1972,VfB Stuttgart,1-0,MSV Duisburg
+28,Sat Apr 15 1972,Eintracht Braunschweig,1-1,Fortuna Düsseldorf
+29,Fri Apr 21 1972,Borussia Dortmund,2-1,1. FC Kaiserslautern
+29,Sat Apr 22 1972,FC Schalke 04,1-1,Bor. Mönchengladbach
+29,Sat Apr 22 1972,1. FC Köln,1-1,VfL Bochum
+29,Sat Apr 22 1972,Fortuna Düsseldorf,1-1,Rot-Weiß Oberhausen
+29,Sat Apr 22 1972,MSV Duisburg,3-0,Bayern München
+29,Sat Apr 22 1972,Hannover 96,5-1,Werder Bremen
+29,Sat Apr 22 1972,Hamburger SV,1-2,VfB Stuttgart
+29,Sat Apr 22 1972,Eintracht Frankfurt,5-2,Arminia Bielefeld
+29,Sat Apr 22 1972,Hertha BSC,1-0,Eintracht Braunschweig
+30,Fri May 5 1972,1. FC Kaiserslautern,2-2,FC Schalke 04
+30,Sat May 6 1972,Hannover 96,3-2,MSV Duisburg
+30,Sat May 6 1972,Arminia Bielefeld,3-1,Borussia Dortmund
+30,Sat May 6 1972,Bor. Mönchengladbach,1-2,Fortuna Düsseldorf
+30,Sat May 6 1972,VfL Bochum,3-1,Eintracht Frankfurt
+30,Sat May 6 1972,Bayern München,4-3,Hamburger SV
+30,Sat May 6 1972,Werder Bremen,2-4,Eintracht Braunschweig
+30,Sat May 6 1972,Rot-Weiß Oberhausen,5-2,Hertha BSC
+30,Sat May 6 1972,VfB Stuttgart,1-1,1. FC Köln
+31,Fri May 19 1972,Eintracht Braunschweig,0-0,Rot-Weiß Oberhausen
+31,Fri May 19 1972,Borussia Dortmund,1-1,VfL Bochum
+31,Sat May 20 1972,FC Schalke 04,6-2,Arminia Bielefeld
+31,Sat May 20 1972,1. FC Köln,1-4,Bayern München
+31,Sat May 20 1972,Eintracht Frankfurt,4-1,VfB Stuttgart
+31,Sat May 20 1972,Fortuna Düsseldorf,0-3,1. FC Kaiserslautern
+31,Sat May 20 1972,Hamburger SV,2-0,Hannover 96
+31,Sat May 20 1972,MSV Duisburg,2-0,Werder Bremen
+31,Sat May 27 1972,Hertha BSC,2-1,Bor. Mönchengladbach
+32,Sat Jun 3 1972,VfB Stuttgart,2-0,Borussia Dortmund
+32,Sat Jun 3 1972,Hamburger SV,2-0,MSV Duisburg
+32,Sat Jun 3 1972,VfL Bochum,0-2,FC Schalke 04
+32,Sat Jun 3 1972,Arminia Bielefeld,1-3,Fortuna Düsseldorf
+32,Sat Jun 3 1972,Bayern München,6-3,Eintracht Frankfurt
+32,Sat Jun 3 1972,1. FC Kaiserslautern,3-4,Hertha BSC
+32,Sat Jun 3 1972,Hannover 96,1-4,1. FC Köln
+32,Sat Jun 3 1972,Rot-Weiß Oberhausen,2-2,Werder Bremen
+32,Sat Jun 3 1972,Bor. Mönchengladbach,4-1,Eintracht Braunschweig
+33,Fri Jun 23 1972,1. FC Köln,4-1,MSV Duisburg
+33,Fri Jun 23 1972,Rot-Weiß Oberhausen,0-4,Bor. Mönchengladbach
+33,Sat Jun 24 1972,Borussia Dortmund,0-1,Bayern München
+33,Sat Jun 24 1972,Fortuna Düsseldorf,3-1,VfL Bochum
+33,Sat Jun 24 1972,FC Schalke 04,2-1,VfB Stuttgart
+33,Sat Jun 24 1972,Hertha BSC,1-1,Arminia Bielefeld
+33,Sat Jun 24 1972,Werder Bremen,4-0,Hamburger SV
+33,Sat Jun 24 1972,Eintracht Braunschweig,1-1,1. FC Kaiserslautern
+33,Sat Jun 24 1972,Eintracht Frankfurt,3-1,Hannover 96
+34,Wed Jun 28 1972,1. FC Kaiserslautern,0-0,Rot-Weiß Oberhausen
+34,Wed Jun 28 1972,VfL Bochum,4-2,Hertha BSC
+34,Wed Jun 28 1972,Hannover 96,2-3,Borussia Dortmund
+34,Wed Jun 28 1972,MSV Duisburg,0-1,Eintracht Frankfurt
+34,Wed Jun 28 1972,Arminia Bielefeld,1-7,Eintracht Braunschweig
+34,Wed Jun 28 1972,Hamburger SV,1-1,1. FC Köln
+34,Wed Jun 28 1972,Bor. Mönchengladbach,2-2,Werder Bremen
+34,Wed Jun 28 1972,Bayern München,5-1,FC Schalke 04
+34,Wed Jun 28 1972,VfB Stuttgart,3-1,Fortuna Düsseldorf

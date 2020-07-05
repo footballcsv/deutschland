@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Sat Aug 24 1974,FC Schalke 04,2-1,1. FC Kaiserslautern
+1,Sat Aug 24 1974,Wuppertaler SV,1-4,MSV Duisburg
+1,Sat Aug 24 1974,1. FC Köln,0-1,Rot-Weiss Essen
+1,Sat Aug 24 1974,Bor. Mönchengladbach,1-3,Hamburger SV
+1,Sat Aug 24 1974,Kickers Offenbach,6-0,Bayern München
+1,Sat Aug 24 1974,Werder Bremen,0-3,Eintracht Frankfurt
+1,Sat Aug 24 1974,Hertha BSC,3-3,Fortuna Düsseldorf
+1,Sat Aug 24 1974,Eintracht Braunschweig,5-0,Tennis Borussia Berlin
+1,Sat Aug 24 1974,VfB Stuttgart,1-0,VfL Bochum
+2,Fri Aug 30 1974,Hamburger SV,1-0,Kickers Offenbach
+2,Fri Aug 30 1974,1. FC Kaiserslautern,2-0,Eintracht Braunschweig
+2,Fri Aug 30 1974,Fortuna Düsseldorf,4-0,VfB Stuttgart
+2,Sat Aug 31 1974,Tennis Borussia Berlin,4-0,Werder Bremen
+2,Sat Aug 31 1974,Bayern München,2-1,Hertha BSC
+2,Sat Aug 31 1974,Eintracht Frankfurt,1-1,Bor. Mönchengladbach
+2,Sat Aug 31 1974,VfL Bochum,3-2,1. FC Köln
+2,Sat Aug 31 1974,MSV Duisburg,2-0,FC Schalke 04
+2,Sat Aug 31 1974,Rot-Weiss Essen,2-0,Wuppertaler SV
+3,Tue Sep 10 1974,Bor. Mönchengladbach,3-1,Tennis Borussia Berlin
+3,Wed Sep 11 1974,VfB Stuttgart,1-2,Bayern München
+3,Wed Sep 11 1974,Hertha BSC,4-1,Kickers Offenbach
+3,Wed Sep 11 1974,Eintracht Frankfurt,1-3,Hamburger SV
+3,Wed Sep 11 1974,FC Schalke 04,3-0,Rot-Weiss Essen
+3,Wed Sep 11 1974,Wuppertaler SV,1-1,VfL Bochum
+3,Wed Sep 11 1974,Eintracht Braunschweig,4-1,MSV Duisburg
+3,Wed Sep 11 1974,1. FC Köln,2-2,Fortuna Düsseldorf
+3,Wed Sep 11 1974,Werder Bremen,3-1,1. FC Kaiserslautern
+4,Sat Sep 14 1974,Fortuna Düsseldorf,2-0,Wuppertaler SV
+4,Sat Sep 14 1974,Rot-Weiss Essen,1-2,Eintracht Braunschweig
+4,Sat Sep 14 1974,Bayern München,6-3,1. FC Köln
+4,Sat Sep 14 1974,Tennis Borussia Berlin,1-4,Eintracht Frankfurt
+4,Sat Sep 14 1974,Hamburger SV,1-1,Hertha BSC
+4,Sat Sep 14 1974,MSV Duisburg,4-0,Werder Bremen
+4,Sat Sep 14 1974,1. FC Kaiserslautern,1-3,Bor. Mönchengladbach
+4,Sat Sep 14 1974,Kickers Offenbach,3-1,VfB Stuttgart
+4,Sat Sep 14 1974,VfL Bochum,2-1,FC Schalke 04
+5,Sat Sep 21 1974,Wuppertaler SV,3-1,Bayern München
+5,Sat Sep 21 1974,Eintracht Frankfurt,5-1,1. FC Kaiserslautern
+5,Sat Sep 21 1974,Tennis Borussia Berlin,0-3,Hamburger SV
+5,Sat Sep 21 1974,VfB Stuttgart,1-2,Hertha BSC
+5,Sat Sep 21 1974,1. FC Köln,0-1,Kickers Offenbach
+5,Sat Sep 21 1974,Werder Bremen,0-0,Rot-Weiss Essen
+5,Sat Sep 21 1974,Eintracht Braunschweig,2-0,VfL Bochum
+5,Sat Sep 21 1974,FC Schalke 04,3-0,Fortuna Düsseldorf
+5,Sat Sep 21 1974,Bor. Mönchengladbach,4-1,MSV Duisburg
+6,Fri Sep 27 1974,Kickers Offenbach,3-1,Wuppertaler SV
+6,Fri Sep 27 1974,1. FC Kaiserslautern,4-0,Tennis Borussia Berlin
+6,Sat Sep 28 1974,Rot-Weiss Essen,1-3,Bor. Mönchengladbach
+6,Sat Sep 28 1974,Hertha BSC,1-1,1. FC Köln
+6,Sat Sep 28 1974,MSV Duisburg,1-3,Eintracht Frankfurt
+6,Sat Sep 28 1974,Fortuna Düsseldorf,2-2,Eintracht Braunschweig
+6,Sat Sep 28 1974,VfL Bochum,3-1,Werder Bremen
+6,Sat Sep 28 1974,Hamburger SV,1-0,VfB Stuttgart
+6,Sat Sep 28 1974,Bayern München,0-2,FC Schalke 04
+7,Fri Oct 4 1974,Werder Bremen,0-0,Fortuna Düsseldorf
+7,Sat Oct 5 1974,Bor. Mönchengladbach,3-0,VfL Bochum
+7,Sat Oct 5 1974,Eintracht Braunschweig,3-1,Bayern München
+7,Sat Oct 5 1974,FC Schalke 04,2-0,Kickers Offenbach
+7,Sat Oct 5 1974,Eintracht Frankfurt,9-1,Rot-Weiss Essen
+7,Sat Oct 5 1974,Wuppertaler SV,0-0,Hertha BSC
+7,Sat Oct 5 1974,Tennis Borussia Berlin,2-3,MSV Duisburg
+7,Sat Oct 5 1974,1. FC Köln,4-2,VfB Stuttgart
+7,Sat Oct 5 1974,1. FC Kaiserslautern,1-0,Hamburger SV
+8,Wed Oct 9 1974,Kickers Offenbach,2-1,Eintracht Braunschweig
+8,Wed Oct 9 1974,Hamburger SV,3-1,1. FC Köln
+8,Wed Oct 9 1974,MSV Duisburg,3-2,1. FC Kaiserslautern
+8,Wed Oct 9 1974,VfB Stuttgart,5-1,Wuppertaler SV
+8,Wed Oct 9 1974,Rot-Weiss Essen,3-2,Tennis Borussia Berlin
+8,Wed Oct 9 1974,Hertha BSC,1-0,FC Schalke 04
+8,Wed Oct 9 1974,VfL Bochum,3-1,Eintracht Frankfurt
+8,Wed Oct 9 1974,Bayern München,2-0,Werder Bremen
+8,Wed Oct 9 1974,Fortuna Düsseldorf,3-2,Bor. Mönchengladbach
+9,Sat Oct 12 1974,Tennis Borussia Berlin,2-0,VfL Bochum
+9,Sat Oct 12 1974,Wuppertaler SV,1-4,1. FC Köln
+9,Sat Oct 12 1974,MSV Duisburg,2-0,Hamburger SV
+9,Sat Oct 12 1974,Eintracht Frankfurt,4-0,Fortuna Düsseldorf
+9,Sat Oct 12 1974,Bor. Mönchengladbach,1-2,Bayern München
+9,Sat Oct 12 1974,Werder Bremen,3-6,Kickers Offenbach
+9,Sat Oct 12 1974,1. FC Kaiserslautern,2-0,Rot-Weiss Essen
+9,Sat Oct 12 1974,Eintracht Braunschweig,2-1,Hertha BSC
+9,Sat Oct 12 1974,FC Schalke 04,2-0,VfB Stuttgart
+10,Fri Oct 18 1974,Kickers Offenbach,4-3,Bor. Mönchengladbach
+10,Sat Oct 19 1974,Hamburger SV,4-1,Wuppertaler SV
+10,Sat Oct 19 1974,Rot-Weiss Essen,3-0,MSV Duisburg
+10,Sat Oct 19 1974,1. FC Köln,4-2,FC Schalke 04
+10,Sat Oct 19 1974,VfB Stuttgart,0-0,Eintracht Braunschweig
+10,Sat Oct 19 1974,Bayern München,2-1,Eintracht Frankfurt
+10,Sat Oct 19 1974,Hertha BSC,2-0,Werder Bremen
+10,Sat Oct 19 1974,Fortuna Düsseldorf,3-2,Tennis Borussia Berlin
+10,Sat Oct 19 1974,VfL Bochum,4-0,1. FC Kaiserslautern
+11,Thu Oct 31 1974,1. FC Kaiserslautern,1-0,Fortuna Düsseldorf
+11,Sat Nov 2 1974,Eintracht Braunschweig,1-4,1. FC Köln
+11,Sat Nov 2 1974,FC Schalke 04,1-0,Wuppertaler SV
+11,Sat Nov 2 1974,Rot-Weiss Essen,0-0,Hamburger SV
+11,Sat Nov 2 1974,Tennis Borussia Berlin,2-2,Bayern München
+11,Sat Nov 2 1974,MSV Duisburg,3-1,VfL Bochum
+11,Sat Nov 2 1974,Bor. Mönchengladbach,1-1,Hertha BSC
+11,Sat Nov 2 1974,Eintracht Frankfurt,0-0,Kickers Offenbach
+12,Fri Nov 8 1974,Kickers Offenbach,3-2,Tennis Borussia Berlin
+12,Sat Nov 9 1974,Wuppertaler SV,0-1,Eintracht Braunschweig
+12,Sat Nov 9 1974,1. FC Köln,3-1,Werder Bremen
+12,Sat Nov 9 1974,VfL Bochum,2-2,Rot-Weiss Essen
+12,Sat Nov 9 1974,Bayern München,2-5,1. FC Kaiserslautern
+12,Sat Nov 9 1974,Hamburger SV,1-1,FC Schalke 04
+12,Sat Nov 9 1974,VfB Stuttgart,1-2,Bor. Mönchengladbach
+12,Sat Nov 9 1974,Fortuna Düsseldorf,1-1,MSV Duisburg
+12,Sat Nov 9 1974,Hertha BSC,2-1,Eintracht Frankfurt
+13,Sat Nov 16 1974,Rot-Weiss Essen,1-2,Fortuna Düsseldorf
+13,Sat Nov 16 1974,Eintracht Frankfurt,5-5,VfB Stuttgart
+13,Sat Nov 16 1974,MSV Duisburg,2-1,Bayern München
+13,Sat Nov 16 1974,Werder Bremen,2-1,Wuppertaler SV
+13,Sat Nov 16 1974,Tennis Borussia Berlin,0-3,Hertha BSC
+13,Sat Nov 16 1974,Eintracht Braunschweig,1-0,FC Schalke 04
+13,Sat Nov 16 1974,VfL Bochum,4-2,Hamburger SV
+13,Sat Nov 16 1974,Bor. Mönchengladbach,1-1,1. FC Köln
+13,Sun Nov 17 1974,1. FC Kaiserslautern,1-2,Kickers Offenbach
+14,Fri Nov 22 1974,Hamburger SV,0-0,Eintracht Braunschweig
+14,Sat Nov 23 1974,Bayern München,2-2,Rot-Weiss Essen
+14,Sat Nov 23 1974,Hertha BSC,2-1,1. FC Kaiserslautern
+14,Sat Nov 23 1974,VfB Stuttgart,2-1,Tennis Borussia Berlin
+14,Sat Nov 23 1974,FC Schalke 04,2-0,Werder Bremen
+14,Sat Nov 23 1974,Fortuna Düsseldorf,0-1,VfL Bochum
+14,Sat Nov 23 1974,1. FC Köln,0-0,Eintracht Frankfurt
+14,Sat Nov 23 1974,Wuppertaler SV,1-5,Bor. Mönchengladbach
+14,Sat Nov 23 1974,Kickers Offenbach,3-3,MSV Duisburg
+11,Tue Nov 26 1974,Werder Bremen,5-2,VfB Stuttgart
+15,Fri Nov 29 1974,VfL Bochum,3-0,Bayern München
+15,Sat Nov 30 1974,Tennis Borussia Berlin,2-3,1. FC Köln
+15,Sat Nov 30 1974,MSV Duisburg,1-3,Hertha BSC
+15,Sat Nov 30 1974,Eintracht Frankfurt,5-0,Wuppertaler SV
+15,Sat Nov 30 1974,Rot-Weiss Essen,5-1,Kickers Offenbach
+15,Sat Nov 30 1974,Eintracht Braunschweig,0-0,Werder Bremen
+15,Sat Nov 30 1974,Hamburger SV,2-1,Fortuna Düsseldorf
+15,Sat Nov 30 1974,1. FC Kaiserslautern,6-0,VfB Stuttgart
+16,Fri Dec 6 1974,Kickers Offenbach,2-0,VfL Bochum
+16,Sat Dec 7 1974,VfB Stuttgart,2-1,MSV Duisburg
+16,Sat Dec 7 1974,Bayern München,4-0,Fortuna Düsseldorf
+16,Tue Dec 10 1974,FC Schalke 04,1-1,Eintracht Frankfurt
+17,Sat Dec 14 1974,Eintracht Frankfurt,2-0,Eintracht Braunschweig
+17,Sat Dec 14 1974,Bor. Mönchengladbach,4-2,Werder Bremen
+17,Sat Dec 14 1974,Hamburger SV,1-0,Bayern München
+17,Sat Dec 14 1974,Rot-Weiss Essen,3-1,VfB Stuttgart
+17,Sat Dec 14 1974,Tennis Borussia Berlin,0-2,FC Schalke 04
+17,Sat Dec 14 1974,VfL Bochum,4-0,Hertha BSC
+17,Sat Dec 14 1974,1. FC Kaiserslautern,2-0,Wuppertaler SV
+16,Sat Dec 21 1974,Werder Bremen,1-0,Hamburger SV
+16,Sat Dec 21 1974,Hertha BSC,4-2,Rot-Weiss Essen
+16,Sat Dec 21 1974,Wuppertaler SV,2-0,Tennis Borussia Berlin
+16,Sat Jan 18 1975,1. FC Köln,2-0,1. FC Kaiserslautern
+17,Sat Jan 18 1975,Fortuna Düsseldorf,3-2,Kickers Offenbach
+16,Sat Jan 18 1975,Eintracht Braunschweig,1-3,Bor. Mönchengladbach
+15,Wed Jan 22 1975,Bor. Mönchengladbach,1-0,FC Schalke 04
+17,Wed Jan 22 1975,MSV Duisburg,1-3,1. FC Köln
+18,Sat Jan 25 1975,VfL Bochum,1-0,VfB Stuttgart
+18,Sat Jan 25 1975,MSV Duisburg,2-2,Wuppertaler SV
+18,Sat Jan 25 1975,Rot-Weiss Essen,1-1,1. FC Köln
+18,Sat Jan 25 1975,1. FC Kaiserslautern,1-1,FC Schalke 04
+18,Sat Jan 25 1975,Bayern München,2-3,Kickers Offenbach
+18,Sat Jan 25 1975,Eintracht Frankfurt,2-1,Werder Bremen
+18,Sat Jan 25 1975,Fortuna Düsseldorf,0-0,Hertha BSC
+18,Sat Jan 25 1975,Tennis Borussia Berlin,2-2,Eintracht Braunschweig
+18,Sat Jan 25 1975,Hamburger SV,1-1,Bor. Mönchengladbach
+19,Sat Feb 1 1975,Kickers Offenbach,4-1,Hamburger SV
+19,Sat Feb 1 1975,Eintracht Braunschweig,3-2,1. FC Kaiserslautern
+19,Sat Feb 1 1975,VfB Stuttgart,1-1,Fortuna Düsseldorf
+19,Sat Feb 1 1975,Wuppertaler SV,0-2,Rot-Weiss Essen
+19,Sat Feb 1 1975,Werder Bremen,1-1,Tennis Borussia Berlin
+19,Sat Feb 1 1975,Bor. Mönchengladbach,3-0,Eintracht Frankfurt
+19,Sat Feb 1 1975,1. FC Köln,4-1,VfL Bochum
+19,Sat Feb 1 1975,FC Schalke 04,5-0,MSV Duisburg
+19,Sat Feb 1 1975,Hertha BSC,4-1,Bayern München
+22,Sat Feb 1 1975,VfL Bochum,1-0,Eintracht Braunschweig
+22,Sat Feb 1 1975,Rot-Weiss Essen,1-1,Werder Bremen
+22,Sat Feb 1 1975,Kickers Offenbach,1-4,1. FC Köln
+22,Sat Feb 1 1975,Fortuna Düsseldorf,2-1,FC Schalke 04
+22,Sat Feb 1 1975,1. FC Kaiserslautern,2-2,Eintracht Frankfurt
+22,Sat Feb 1 1975,MSV Duisburg,1-1,Bor. Mönchengladbach
+22,Sat Feb 1 1975,Hertha BSC,4-0,VfB Stuttgart
+20,Sat Feb 15 1975,Fortuna Düsseldorf,3-0,1. FC Köln
+20,Sat Feb 15 1975,Bayern München,1-1,VfB Stuttgart
+20,Sat Feb 15 1975,Hamburger SV,3-1,Eintracht Frankfurt
+20,Sat Feb 15 1975,Rot-Weiss Essen,4-4,FC Schalke 04
+20,Sat Feb 15 1975,VfL Bochum,4-2,Wuppertaler SV
+20,Sat Feb 15 1975,Tennis Borussia Berlin,1-4,Bor. Mönchengladbach
+20,Sat Feb 15 1975,1. FC Kaiserslautern,4-1,Werder Bremen
+20,Sat Feb 15 1975,Kickers Offenbach,3-1,Hertha BSC
+20,Sat Feb 15 1975,MSV Duisburg,3-2,Eintracht Braunschweig
+21,Sat Feb 22 1975,Eintracht Frankfurt,7-1,Tennis Borussia Berlin
+21,Sat Feb 22 1975,Bor. Mönchengladbach,3-0,1. FC Kaiserslautern
+21,Sat Feb 22 1975,VfB Stuttgart,3-1,Kickers Offenbach
+21,Sat Feb 22 1975,FC Schalke 04,1-0,VfL Bochum
+21,Sat Feb 22 1975,Werder Bremen,3-1,MSV Duisburg
+21,Sat Feb 22 1975,Eintracht Braunschweig,4-2,Rot-Weiss Essen
+21,Sat Feb 22 1975,Wuppertaler SV,2-3,Fortuna Düsseldorf
+21,Sat Feb 22 1975,1. FC Köln,1-0,Bayern München
+21,Sat Feb 22 1975,Hertha BSC,1-0,Hamburger SV
+22,Fri Feb 28 1975,Hamburger SV,4-0,Tennis Borussia Berlin
+22,Sat Mar 1 1975,Bayern München,3-1,Wuppertaler SV
+23,Fri Mar 7 1975,Wuppertaler SV,0-0,Kickers Offenbach
+23,Fri Mar 7 1975,Eintracht Frankfurt,4-1,MSV Duisburg
+23,Sat Mar 8 1975,Tennis Borussia Berlin,3-2,1. FC Kaiserslautern
+23,Sat Mar 8 1975,Bor. Mönchengladbach,1-1,Rot-Weiss Essen
+23,Sat Mar 8 1975,1. FC Köln,2-1,Hertha BSC
+23,Sat Mar 8 1975,Eintracht Braunschweig,3-0,Fortuna Düsseldorf
+23,Sat Mar 8 1975,Werder Bremen,3-0,VfL Bochum
+23,Sat Mar 8 1975,VfB Stuttgart,1-2,Hamburger SV
+23,Sat Mar 8 1975,FC Schalke 04,2-2,Bayern München
+24,Fri Mar 21 1975,MSV Duisburg,2-3,Tennis Borussia Berlin
+24,Sat Mar 22 1975,Fortuna Düsseldorf,4-1,Werder Bremen
+24,Sat Mar 22 1975,VfL Bochum,0-0,Bor. Mönchengladbach
+24,Sat Mar 22 1975,Bayern München,1-0,Eintracht Braunschweig
+24,Sat Mar 22 1975,Kickers Offenbach,3-0,FC Schalke 04
+24,Sat Mar 22 1975,Rot-Weiss Essen,0-5,Eintracht Frankfurt
+24,Sat Mar 22 1975,Hertha BSC,2-0,Wuppertaler SV
+24,Sat Mar 22 1975,VfB Stuttgart,2-0,1. FC Köln
+24,Sat Mar 22 1975,Hamburger SV,2-0,1. FC Kaiserslautern
+25,Wed Mar 26 1975,1. FC Köln,4-0,Hamburger SV
+25,Wed Mar 26 1975,Bor. Mönchengladbach,3-1,Fortuna Düsseldorf
+25,Thu Mar 27 1975,Tennis Borussia Berlin,1-0,Rot-Weiss Essen
+25,Thu Mar 27 1975,1. FC Kaiserslautern,2-0,MSV Duisburg
+25,Thu Mar 27 1975,FC Schalke 04,1-0,Hertha BSC
+25,Thu Mar 27 1975,Werder Bremen,0-2,Bayern München
+26,Tue Apr 1 1975,1. FC Köln,4-0,Wuppertaler SV
+26,Tue Apr 1 1975,Rot-Weiss Essen,3-1,1. FC Kaiserslautern
+26,Tue Apr 1 1975,Fortuna Düsseldorf,2-2,Eintracht Frankfurt
+26,Tue Apr 1 1975,Kickers Offenbach,5-1,Werder Bremen
+26,Tue Apr 1 1975,VfB Stuttgart,3-1,FC Schalke 04
+26,Tue Apr 1 1975,Hertha BSC,3-1,Eintracht Braunschweig
+26,Tue Apr 1 1975,VfL Bochum,0-0,Tennis Borussia Berlin
+26,Tue Apr 1 1975,Hamburger SV,2-3,MSV Duisburg
+27,Sat Apr 5 1975,Bor. Mönchengladbach,5-2,Kickers Offenbach
+27,Sat Apr 5 1975,Wuppertaler SV,0-4,Hamburger SV
+27,Sat Apr 5 1975,MSV Duisburg,3-3,Rot-Weiss Essen
+27,Sat Apr 5 1975,Eintracht Braunschweig,6-0,VfB Stuttgart
+27,Sat Apr 5 1975,Eintracht Frankfurt,2-0,Bayern München
+27,Sat Apr 5 1975,Werder Bremen,4-0,Hertha BSC
+27,Sat Apr 5 1975,Tennis Borussia Berlin,1-4,Fortuna Düsseldorf
+27,Sat Apr 5 1975,1. FC Kaiserslautern,1-0,VfL Bochum
+25,Sat Apr 12 1975,Eintracht Braunschweig,1-0,Kickers Offenbach
+25,Sat Apr 12 1975,Wuppertaler SV,2-2,VfB Stuttgart
+26,Sun Apr 13 1975,Bayern München,1-1,Bor. Mönchengladbach
+27,Tue Apr 15 1975,FC Schalke 04,1-1,1. FC Köln
+28,Fri Apr 18 1975,Fortuna Düsseldorf,2-0,1. FC Kaiserslautern
+28,Sat Apr 19 1975,Kickers Offenbach,2-1,Eintracht Frankfurt
+28,Sat Apr 19 1975,Hertha BSC,2-1,Bor. Mönchengladbach
+28,Sat Apr 19 1975,VfB Stuttgart,2-2,Werder Bremen
+28,Sat Apr 19 1975,Wuppertaler SV,0-1,FC Schalke 04
+28,Sat Apr 19 1975,1. FC Köln,3-0,Eintracht Braunschweig
+28,Sat Apr 19 1975,Bayern München,3-1,Tennis Borussia Berlin
+28,Sat Apr 19 1975,Hamburger SV,2-2,Rot-Weiss Essen
+28,Sat Apr 19 1975,VfL Bochum,1-2,MSV Duisburg
+25,Tue Apr 22 1975,Eintracht Frankfurt,4-1,VfL Bochum
+29,Sat May 3 1975,1. FC Kaiserslautern,0-1,Bayern München
+29,Sat May 3 1975,Rot-Weiss Essen,1-1,VfL Bochum
+29,Sat May 3 1975,Eintracht Frankfurt,1-2,Hertha BSC
+29,Sat May 3 1975,FC Schalke 04,3-1,Hamburger SV
+29,Sat May 3 1975,Bor. Mönchengladbach,5-1,VfB Stuttgart
+29,Sat May 3 1975,MSV Duisburg,0-3,Fortuna Düsseldorf
+29,Sat May 3 1975,Eintracht Braunschweig,1-1,Wuppertaler SV
+29,Sat May 3 1975,Werder Bremen,4-1,1. FC Köln
+29,Sat May 3 1975,Tennis Borussia Berlin,0-2,Kickers Offenbach
+30,Fri May 9 1975,Kickers Offenbach,2-2,1. FC Kaiserslautern
+30,Sat May 10 1975,Bayern München,2-1,MSV Duisburg
+30,Sat May 10 1975,Wuppertaler SV,2-4,Werder Bremen
+30,Sat May 10 1975,Hertha BSC,2-1,Tennis Borussia Berlin
+30,Sat May 10 1975,1. FC Köln,1-2,Bor. Mönchengladbach
+30,Sat May 10 1975,Fortuna Düsseldorf,4-0,Rot-Weiss Essen
+30,Sat May 10 1975,FC Schalke 04,1-1,Eintracht Braunschweig
+30,Sat May 10 1975,Hamburger SV,3-2,VfL Bochum
+30,Sat May 10 1975,VfB Stuttgart,3-4,Eintracht Frankfurt
+31,Fri May 23 1975,MSV Duisburg,2-1,Kickers Offenbach
+31,Fri May 23 1975,Eintracht Frankfurt,3-2,1. FC Köln
+31,Fri May 23 1975,1. FC Kaiserslautern,3-0,Hertha BSC
+31,Sat May 24 1975,Eintracht Braunschweig,1-2,Hamburger SV
+31,Sat May 24 1975,Tennis Borussia Berlin,1-1,VfB Stuttgart
+31,Sat May 24 1975,Werder Bremen,0-1,FC Schalke 04
+31,Sat May 24 1975,Rot-Weiss Essen,2-2,Bayern München
+31,Sat May 24 1975,Bor. Mönchengladbach,6-2,Wuppertaler SV
+31,Sat May 24 1975,VfL Bochum,4-2,Fortuna Düsseldorf
+32,Thu May 29 1975,Kickers Offenbach,1-3,Rot-Weiss Essen
+32,Fri May 30 1975,Hertha BSC,3-0,MSV Duisburg
+32,Sat May 31 1975,Bayern München,2-1,VfL Bochum
+32,Sat May 31 1975,1. FC Köln,7-1,Tennis Borussia Berlin
+32,Sat May 31 1975,Wuppertaler SV,2-3,Eintracht Frankfurt
+32,Sat May 31 1975,Werder Bremen,0-0,Eintracht Braunschweig
+32,Sat May 31 1975,Fortuna Düsseldorf,0-0,Hamburger SV
+32,Sat May 31 1975,VfB Stuttgart,0-1,1. FC Kaiserslautern
+32,Sat May 31 1975,FC Schalke 04,1-3,Bor. Mönchengladbach
+33,Sat Jun 7 1975,VfL Bochum,3-1,Kickers Offenbach
+33,Sat Jun 7 1975,Eintracht Frankfurt,2-1,FC Schalke 04
+33,Sat Jun 7 1975,MSV Duisburg,3-3,VfB Stuttgart
+33,Sat Jun 7 1975,Fortuna Düsseldorf,6-5,Bayern München
+33,Sat Jun 7 1975,Rot-Weiss Essen,2-1,Hertha BSC
+33,Sat Jun 7 1975,Tennis Borussia Berlin,0-0,Wuppertaler SV
+33,Sat Jun 7 1975,Hamburger SV,2-0,Werder Bremen
+33,Sat Jun 7 1975,1. FC Kaiserslautern,1-1,1. FC Köln
+33,Sat Jun 7 1975,Bor. Mönchengladbach,2-0,Eintracht Braunschweig
+34,Sat Jun 14 1975,Bayern München,0-1,Hamburger SV
+34,Sat Jun 14 1975,Werder Bremen,1-4,Bor. Mönchengladbach
+34,Sat Jun 14 1975,Eintracht Braunschweig,2-0,Eintracht Frankfurt
+34,Sat Jun 14 1975,Hertha BSC,4-2,VfL Bochum
+34,Sat Jun 14 1975,FC Schalke 04,3-0,Tennis Borussia Berlin
+34,Sat Jun 14 1975,VfB Stuttgart,3-2,Rot-Weiss Essen
+34,Sat Jun 14 1975,Wuppertaler SV,3-3,1. FC Kaiserslautern
+34,Sat Jun 14 1975,1. FC Köln,4-2,MSV Duisburg
+34,Sat Jun 14 1975,Kickers Offenbach,2-3,Fortuna Düsseldorf

@@ -1,0 +1,307 @@
+Matchday,Date,Team 1,FT,Team 2
+1,Fri Aug 14 1998,MSV Duisburg,2-1,Eintracht Frankfurt
+1,Fri Aug 14 1998,VfB Stuttgart,2-1,Borussia Dortmund
+1,Sat Aug 15 1998,Bor. Mönchengladbach,3-0,FC Schalke 04
+1,Sat Aug 15 1998,Bayer 04 Leverkusen,3-1,Hansa Rostock
+1,Sat Aug 15 1998,VfL Bochum,1-2,SC Freiburg
+1,Sat Aug 15 1998,TSV 1860 München,1-2,1. FC Kaiserslautern
+1,Sat Aug 15 1998,1. FC Nürnberg,1-1,Hamburger SV
+1,Sat Aug 15 1998,VfL Wolfsburg,0-1,Bayern München
+1,Sun Aug 16 1998,Hertha BSC,1-0,Werder Bremen
+2,Fri Aug 21 1998,Hansa Rostock,3-3,VfL Wolfsburg
+2,Fri Aug 21 1998,Werder Bremen,2-3,1. FC Nürnberg
+2,Sat Aug 22 1998,Borussia Dortmund,3-0,Hertha BSC
+2,Sat Aug 22 1998,FC Schalke 04,1-0,VfB Stuttgart
+2,Sat Aug 22 1998,Eintracht Frankfurt,2-3,TSV 1860 München
+2,Sat Aug 22 1998,SC Freiburg,1-1,Bayer 04 Leverkusen
+2,Sat Aug 22 1998,1. FC Kaiserslautern,2-1,Bor. Mönchengladbach
+2,Sat Aug 22 1998,Bayern München,3-1,MSV Duisburg
+2,Sun Aug 23 1998,Hamburger SV,1-0,VfL Bochum
+3,Tue Sep 8 1998,MSV Duisburg,1-1,TSV 1860 München
+3,Tue Sep 8 1998,VfL Bochum,2-0,Werder Bremen
+3,Tue Sep 8 1998,Bor. Mönchengladbach,1-1,Eintracht Frankfurt
+3,Tue Sep 8 1998,VfL Wolfsburg,1-1,SC Freiburg
+3,Tue Sep 8 1998,VfB Stuttgart,4-0,1. FC Kaiserslautern
+3,Wed Sep 9 1998,Bayern München,6-1,Hansa Rostock
+3,Wed Sep 9 1998,Hertha BSC,2-0,FC Schalke 04
+3,Wed Sep 9 1998,1. FC Nürnberg,0-0,Borussia Dortmund
+3,Wed Sep 9 1998,Bayer 04 Leverkusen,1-2,Hamburger SV
+4,Fri Sep 11 1998,Eintracht Frankfurt,1-1,VfB Stuttgart
+4,Fri Sep 11 1998,TSV 1860 München,3-1,Bor. Mönchengladbach
+4,Sat Sep 12 1998,SC Freiburg,0-2,Bayern München
+4,Sat Sep 12 1998,Hamburger SV,1-1,VfL Wolfsburg
+4,Sat Sep 12 1998,Hansa Rostock,3-0,MSV Duisburg
+4,Sat Sep 12 1998,Werder Bremen,2-2,Bayer 04 Leverkusen
+4,Sat Sep 12 1998,FC Schalke 04,2-2,1. FC Nürnberg
+4,Sat Sep 12 1998,1. FC Kaiserslautern,4-3,Hertha BSC
+4,Sun Sep 13 1998,Borussia Dortmund,0-1,VfL Bochum
+5,Fri Sep 18 1998,Hansa Rostock,0-2,SC Freiburg
+5,Fri Sep 18 1998,Hertha BSC,3-1,Eintracht Frankfurt
+5,Sat Sep 19 1998,VfL Bochum,1-2,FC Schalke 04
+5,Sat Sep 19 1998,VfL Wolfsburg,2-4,Werder Bremen
+5,Sat Sep 19 1998,1. FC Nürnberg,1-1,1. FC Kaiserslautern
+5,Sat Sep 19 1998,VfB Stuttgart,0-1,TSV 1860 München
+5,Sat Sep 19 1998,Bayer 04 Leverkusen,3-1,Borussia Dortmund
+5,Sun Sep 20 1998,Bayern München,5-3,Hamburger SV
+5,Sun Sep 20 1998,MSV Duisburg,2-2,Bor. Mönchengladbach
+6,Fri Sep 25 1998,Hamburger SV,1-0,Hansa Rostock
+6,Fri Sep 25 1998,TSV 1860 München,2-0,Hertha BSC
+6,Sat Sep 26 1998,Borussia Dortmund,2-1,VfL Wolfsburg
+6,Sat Sep 26 1998,SC Freiburg,2-2,MSV Duisburg
+6,Sat Sep 26 1998,1. FC Kaiserslautern,2-3,VfL Bochum
+6,Sat Sep 26 1998,Bor. Mönchengladbach,2-3,VfB Stuttgart
+6,Sat Sep 26 1998,Werder Bremen,0-1,Bayern München
+6,Sat Sep 26 1998,FC Schalke 04,0-1,Bayer 04 Leverkusen
+6,Sun Sep 27 1998,Eintracht Frankfurt,3-2,1. FC Nürnberg
+7,Fri Oct 2 1998,Hertha BSC,4-1,Bor. Mönchengladbach
+7,Fri Oct 2 1998,VfL Wolfsburg,0-0,FC Schalke 04
+7,Sat Oct 3 1998,VfL Bochum,0-0,Eintracht Frankfurt
+7,Sat Oct 3 1998,SC Freiburg,0-0,Hamburger SV
+7,Sat Oct 3 1998,Hansa Rostock,2-1,Werder Bremen
+7,Sat Oct 3 1998,Bayer 04 Leverkusen,2-2,1. FC Kaiserslautern
+7,Sat Oct 3 1998,1. FC Nürnberg,1-5,TSV 1860 München
+7,Sun Oct 4 1998,Bayern München,2-2,Borussia Dortmund
+7,Sun Oct 4 1998,MSV Duisburg,2-0,VfB Stuttgart
+8,Fri Oct 16 1998,1. FC Kaiserslautern,1-1,VfL Wolfsburg
+8,Fri Oct 16 1998,TSV 1860 München,2-1,VfL Bochum
+8,Sat Oct 17 1998,Eintracht Frankfurt,2-3,Bayer 04 Leverkusen
+8,Sat Oct 17 1998,Hamburger SV,4-1,MSV Duisburg
+8,Sat Oct 17 1998,Bor. Mönchengladbach,0-2,1. FC Nürnberg
+8,Sat Oct 17 1998,FC Schalke 04,1-3,Bayern München
+8,Sat Oct 17 1998,Werder Bremen,2-3,SC Freiburg
+8,Sat Oct 17 1998,VfB Stuttgart,0-0,Hertha BSC
+8,Sun Oct 18 1998,Borussia Dortmund,2-0,Hansa Rostock
+9,Fri Oct 23 1998,SC Freiburg,2-2,Borussia Dortmund
+9,Fri Oct 23 1998,Hamburger SV,1-1,Werder Bremen
+9,Sat Oct 24 1998,Bayern München,4-0,1. FC Kaiserslautern
+9,Sat Oct 24 1998,VfL Bochum,2-1,Bor. Mönchengladbach
+9,Sat Oct 24 1998,Hansa Rostock,2-2,FC Schalke 04
+9,Sat Oct 24 1998,VfL Wolfsburg,2-0,Eintracht Frankfurt
+9,Sat Oct 24 1998,1. FC Nürnberg,2-2,VfB Stuttgart
+9,Sun Oct 25 1998,MSV Duisburg,0-0,Hertha BSC
+9,Sun Oct 25 1998,Bayer 04 Leverkusen,1-1,TSV 1860 München
+10,Fri Oct 30 1998,1. FC Kaiserslautern,3-2,Hansa Rostock
+10,Fri Oct 30 1998,Bor. Mönchengladbach,2-8,Bayer 04 Leverkusen
+10,Sat Oct 31 1998,Eintracht Frankfurt,1-0,Bayern München
+10,Sat Oct 31 1998,TSV 1860 München,2-3,VfL Wolfsburg
+10,Sat Oct 31 1998,VfB Stuttgart,4-2,VfL Bochum
+10,Sat Oct 31 1998,Werder Bremen,1-1,MSV Duisburg
+10,Sun Nov 1 1998,Hertha BSC,3-0,1. FC Nürnberg
+10,Tue Nov 3 1998,FC Schalke 04,1-1,SC Freiburg
+11,Fri Nov 6 1998,Werder Bremen,1-1,Borussia Dortmund
+11,Fri Nov 6 1998,MSV Duisburg,1-1,1. FC Nürnberg
+11,Sat Nov 7 1998,Bayern München,3-1,TSV 1860 München
+11,Sat Nov 7 1998,VfL Wolfsburg,7-1,Bor. Mönchengladbach
+11,Sat Nov 7 1998,VfL Bochum,2-0,Hertha BSC
+11,Sat Nov 7 1998,SC Freiburg,0-1,1. FC Kaiserslautern
+11,Sat Nov 7 1998,Hamburger SV,2-2,FC Schalke 04
+11,Sat Nov 7 1998,Hansa Rostock,2-2,Eintracht Frankfurt
+11,Sun Nov 8 1998,Bayer 04 Leverkusen,0-0,VfB Stuttgart
+12,Tue Nov 10 1998,TSV 1860 München,2-1,Hansa Rostock
+12,Tue Nov 10 1998,1. FC Kaiserslautern,1-0,Hamburger SV
+12,Wed Nov 11 1998,VfB Stuttgart,1-2,VfL Wolfsburg
+12,Wed Nov 11 1998,Borussia Dortmund,2-0,MSV Duisburg
+12,Wed Nov 11 1998,1. FC Nürnberg,2-2,VfL Bochum
+12,Wed Nov 11 1998,Hertha BSC,0-1,Bayer 04 Leverkusen
+12,Wed Nov 11 1998,Eintracht Frankfurt,3-1,SC Freiburg
+13,Fri Nov 13 1998,Werder Bremen,0-1,1. FC Kaiserslautern
+13,Fri Nov 13 1998,Hansa Rostock,1-1,Bor. Mönchengladbach
+13,Sat Nov 14 1998,Hamburger SV,0-1,Eintracht Frankfurt
+13,Sat Nov 14 1998,VfL Wolfsburg,2-1,Hertha BSC
+13,Sat Nov 14 1998,Bayer 04 Leverkusen,3-0,1. FC Nürnberg
+13,Sat Nov 14 1998,Bayern München,2-0,VfB Stuttgart
+13,Sat Nov 14 1998,Borussia Dortmund,3-0,FC Schalke 04
+13,Sat Nov 14 1998,MSV Duisburg,2-0,VfL Bochum
+13,Sun Nov 15 1998,SC Freiburg,1-2,TSV 1860 München
+14,Fri Nov 20 1998,Eintracht Frankfurt,0-2,Werder Bremen
+14,Fri Nov 20 1998,FC Schalke 04,2-0,MSV Duisburg
+14,Sat Nov 21 1998,1. FC Nürnberg,1-1,VfL Wolfsburg
+14,Sat Nov 21 1998,TSV 1860 München,0-0,Hamburger SV
+14,Sat Nov 21 1998,VfB Stuttgart,1-1,Hansa Rostock
+14,Sat Nov 21 1998,VfL Bochum,1-5,Bayer 04 Leverkusen
+14,Sat Nov 21 1998,1. FC Kaiserslautern,1-0,Borussia Dortmund
+14,Sat Nov 21 1998,Hertha BSC,1-0,Bayern München
+14,Sun Nov 22 1998,Bor. Mönchengladbach,3-1,SC Freiburg
+10,Tue Nov 24 1998,Borussia Dortmund,2-1,Hamburger SV
+12,Tue Nov 24 1998,FC Schalke 04,1-2,Werder Bremen
+15,Fri Nov 27 1998,Hansa Rostock,1-2,Hertha BSC
+15,Fri Nov 27 1998,Borussia Dortmund,3-1,Eintracht Frankfurt
+15,Sat Nov 28 1998,Werder Bremen,4-1,TSV 1860 München
+15,Sat Nov 28 1998,Bayern München,2-0,1. FC Nürnberg
+15,Sat Nov 28 1998,SC Freiburg,2-0,VfB Stuttgart
+15,Sat Nov 28 1998,Hamburger SV,3-0,Bor. Mönchengladbach
+15,Sat Nov 28 1998,Bayer 04 Leverkusen,2-0,MSV Duisburg
+15,Sat Nov 28 1998,VfL Wolfsburg,4-1,VfL Bochum
+15,Sun Nov 29 1998,1. FC Kaiserslautern,4-1,FC Schalke 04
+16,Fri Dec 4 1998,VfL Bochum,2-2,Bayern München
+16,Fri Dec 4 1998,1. FC Nürnberg,2-2,Hansa Rostock
+16,Sat Dec 5 1998,Eintracht Frankfurt,1-2,FC Schalke 04
+16,Sat Dec 5 1998,Bayer 04 Leverkusen,3-0,VfL Wolfsburg
+16,Sat Dec 5 1998,VfB Stuttgart,3-1,Hamburger SV
+16,Sun Dec 6 1998,TSV 1860 München,2-0,Borussia Dortmund
+16,Tue Dec 8 1998,Bor. Mönchengladbach,0-1,Werder Bremen
+17,Fri Dec 11 1998,Hamburger SV,0-4,Hertha BSC
+17,Fri Dec 11 1998,Borussia Dortmund,1-1,Bor. Mönchengladbach
+17,Sat Dec 12 1998,Werder Bremen,2-2,VfB Stuttgart
+17,Sat Dec 12 1998,FC Schalke 04,2-2,TSV 1860 München
+17,Sat Dec 12 1998,VfL Wolfsburg,4-2,MSV Duisburg
+17,Sat Dec 12 1998,SC Freiburg,1-0,1. FC Nürnberg
+17,Sat Dec 12 1998,Hansa Rostock,3-0,VfL Bochum
+17,Sat Dec 12 1998,1. FC Kaiserslautern,2-1,Eintracht Frankfurt
+17,Sun Dec 13 1998,Bayern München,2-0,Bayer 04 Leverkusen
+16,Tue Dec 15 1998,Hertha BSC,1-0,SC Freiburg
+12,Wed Dec 16 1998,Bor. Mönchengladbach,0-2,Bayern München
+16,Wed Dec 16 1998,MSV Duisburg,3-1,1. FC Kaiserslautern
+18,Fri Dec 18 1998,SC Freiburg,1-1,VfL Bochum
+18,Fri Dec 18 1998,Borussia Dortmund,3-0,VfB Stuttgart
+18,Sat Dec 19 1998,Bayern München,3-0,VfL Wolfsburg
+18,Sat Dec 19 1998,Eintracht Frankfurt,0-0,MSV Duisburg
+18,Sat Dec 19 1998,Hamburger SV,2-0,1. FC Nürnberg
+18,Sat Dec 19 1998,Hansa Rostock,1-1,Bayer 04 Leverkusen
+18,Sat Dec 19 1998,1. FC Kaiserslautern,1-1,TSV 1860 München
+18,Sat Dec 19 1998,FC Schalke 04,1-0,Bor. Mönchengladbach
+18,Sun Dec 20 1998,Werder Bremen,2-1,Hertha BSC
+19,Fri Feb 19 1999,VfL Wolfsburg,1-1,Hansa Rostock
+19,Sat Feb 20 1999,Bayer 04 Leverkusen,1-1,SC Freiburg
+19,Sat Feb 20 1999,Hertha BSC,3-0,Borussia Dortmund
+19,Sat Feb 20 1999,MSV Duisburg,0-3,Bayern München
+19,Sat Feb 20 1999,VfB Stuttgart,2-1,FC Schalke 04
+19,Sat Feb 20 1999,1. FC Nürnberg,1-1,Werder Bremen
+19,Sat Feb 20 1999,TSV 1860 München,4-1,Eintracht Frankfurt
+19,Sun Feb 21 1999,Bor. Mönchengladbach,0-2,1. FC Kaiserslautern
+20,Fri Feb 26 1999,Werder Bremen,1-1,VfL Bochum
+20,Fri Feb 26 1999,1. FC Kaiserslautern,1-1,VfB Stuttgart
+20,Sat Feb 27 1999,Borussia Dortmund,3-0,1. FC Nürnberg
+20,Sat Feb 27 1999,TSV 1860 München,0-0,MSV Duisburg
+20,Sat Feb 27 1999,Eintracht Frankfurt,0-0,Bor. Mönchengladbach
+20,Sat Feb 27 1999,Hansa Rostock,0-4,Bayern München
+20,Sat Feb 27 1999,Hamburger SV,0-0,Bayer 04 Leverkusen
+20,Sat Feb 27 1999,SC Freiburg,0-0,VfL Wolfsburg
+20,Sun Feb 28 1999,FC Schalke 04,0-0,Hertha BSC
+21,Fri Mar 5 1999,1. FC Nürnberg,3-0,FC Schalke 04
+21,Fri Mar 5 1999,MSV Duisburg,4-1,Hansa Rostock
+21,Sat Mar 6 1999,Bayern München,2-0,SC Freiburg
+21,Sat Mar 6 1999,VfB Stuttgart,2-0,Eintracht Frankfurt
+21,Sat Mar 6 1999,VfL Bochum,0-1,Borussia Dortmund
+21,Sat Mar 6 1999,VfL Wolfsburg,4-1,Hamburger SV
+21,Sat Mar 6 1999,Bor. Mönchengladbach,2-0,TSV 1860 München
+21,Sat Mar 6 1999,Hertha BSC,1-1,1. FC Kaiserslautern
+21,Sun Mar 7 1999,Bayer 04 Leverkusen,2-0,Werder Bremen
+22,Fri Mar 12 1999,SC Freiburg,3-0,Hansa Rostock
+22,Fri Mar 12 1999,Borussia Dortmund,1-0,Bayer 04 Leverkusen
+22,Sat Mar 13 1999,Werder Bremen,0-1,VfL Wolfsburg
+22,Sat Mar 13 1999,Hamburger SV,0-2,Bayern München
+22,Sat Mar 13 1999,1. FC Kaiserslautern,2-0,1. FC Nürnberg
+22,Sat Mar 13 1999,Bor. Mönchengladbach,0-2,MSV Duisburg
+22,Sat Mar 13 1999,FC Schalke 04,2-2,VfL Bochum
+22,Sat Mar 13 1999,TSV 1860 München,1-1,VfB Stuttgart
+22,Sun Mar 14 1999,Eintracht Frankfurt,1-1,Hertha BSC
+19,Tue Mar 16 1999,VfL Bochum,2-0,Hamburger SV
+23,Fri Mar 19 1999,Bayer 04 Leverkusen,1-1,FC Schalke 04
+23,Fri Mar 19 1999,VfL Wolfsburg,0-0,Borussia Dortmund
+23,Sat Mar 20 1999,Bayern München,1-0,Werder Bremen
+23,Sat Mar 20 1999,VfL Bochum,1-2,1. FC Kaiserslautern
+23,Sat Mar 20 1999,MSV Duisburg,1-0,SC Freiburg
+23,Sat Mar 20 1999,Hertha BSC,2-1,TSV 1860 München
+23,Sat Mar 20 1999,1. FC Nürnberg,2-2,Eintracht Frankfurt
+23,Sat Mar 20 1999,VfB Stuttgart,2-2,Bor. Mönchengladbach
+23,Sun Mar 21 1999,Hansa Rostock,0-1,Hamburger SV
+24,Sat Apr 3 1999,Borussia Dortmund,2-2,Bayern München
+24,Sat Apr 3 1999,Hamburger SV,2-1,SC Freiburg
+24,Sat Apr 3 1999,1. FC Kaiserslautern,0-1,Bayer 04 Leverkusen
+24,Sat Apr 3 1999,Werder Bremen,0-3,Hansa Rostock
+24,Sat Apr 3 1999,FC Schalke 04,2-0,VfL Wolfsburg
+24,Sat Apr 3 1999,VfB Stuttgart,0-0,MSV Duisburg
+24,Sat Apr 3 1999,TSV 1860 München,1-2,1. FC Nürnberg
+24,Sun Apr 4 1999,Bor. Mönchengladbach,2-4,Hertha BSC
+24,Sun Apr 4 1999,Eintracht Frankfurt,1-0,VfL Bochum
+25,Fri Apr 9 1999,MSV Duisburg,2-3,Hamburger SV
+25,Fri Apr 9 1999,SC Freiburg,0-2,Werder Bremen
+25,Sat Apr 10 1999,Hertha BSC,2-0,VfB Stuttgart
+25,Sat Apr 10 1999,Hansa Rostock,2-0,Borussia Dortmund
+25,Sat Apr 10 1999,Bayern München,1-1,FC Schalke 04
+25,Sat Apr 10 1999,Bayer 04 Leverkusen,2-1,Eintracht Frankfurt
+25,Sat Apr 10 1999,1. FC Nürnberg,2-0,Bor. Mönchengladbach
+25,Sat Apr 10 1999,VfL Wolfsburg,2-1,1. FC Kaiserslautern
+25,Sun Apr 11 1999,VfL Bochum,2-0,TSV 1860 München
+26,Tue Apr 13 1999,Eintracht Frankfurt,0-1,VfL Wolfsburg
+26,Tue Apr 13 1999,1. FC Kaiserslautern,2-1,Bayern München
+26,Tue Apr 13 1999,FC Schalke 04,1-0,Hansa Rostock
+26,Tue Apr 13 1999,VfB Stuttgart,0-0,1. FC Nürnberg
+26,Tue Apr 13 1999,Werder Bremen,0-0,Hamburger SV
+26,Wed Apr 14 1999,TSV 1860 München,0-2,Bayer 04 Leverkusen
+26,Wed Apr 14 1999,Hertha BSC,1-3,MSV Duisburg
+26,Wed Apr 14 1999,Bor. Mönchengladbach,2-2,VfL Bochum
+26,Wed Apr 14 1999,Borussia Dortmund,2-1,SC Freiburg
+27,Fri Apr 16 1999,Bayern München,3-1,Eintracht Frankfurt
+27,Fri Apr 16 1999,Hansa Rostock,2-1,1. FC Kaiserslautern
+27,Sat Apr 17 1999,MSV Duisburg,2-0,Werder Bremen
+27,Sat Apr 17 1999,VfL Bochum,3-3,VfB Stuttgart
+27,Sat Apr 17 1999,SC Freiburg,0-2,FC Schalke 04
+27,Sat Apr 17 1999,VfL Wolfsburg,1-0,TSV 1860 München
+27,Sat Apr 17 1999,1. FC Nürnberg,0-0,Hertha BSC
+27,Sat Apr 17 1999,Bayer 04 Leverkusen,4-1,Bor. Mönchengladbach
+27,Sun Apr 18 1999,Hamburger SV,0-0,Borussia Dortmund
+28,Fri Apr 23 1999,VfB Stuttgart,0-1,Bayer 04 Leverkusen
+28,Fri Apr 23 1999,Borussia Dortmund,2-1,Werder Bremen
+28,Sat Apr 24 1999,Eintracht Frankfurt,2-2,Hansa Rostock
+28,Sat Apr 24 1999,Hertha BSC,4-1,VfL Bochum
+28,Sat Apr 24 1999,1. FC Kaiserslautern,0-2,SC Freiburg
+28,Sat Apr 24 1999,Bor. Mönchengladbach,5-2,VfL Wolfsburg
+28,Sat Apr 24 1999,FC Schalke 04,1-4,Hamburger SV
+28,Sat Apr 24 1999,1. FC Nürnberg,0-2,MSV Duisburg
+28,Sun Apr 25 1999,TSV 1860 München,1-1,Bayern München
+29,Fri Apr 30 1999,SC Freiburg,2-0,Eintracht Frankfurt
+29,Fri Apr 30 1999,VfL Bochum,0-3,1. FC Nürnberg
+29,Sat May 1 1999,Bayern München,4-2,Bor. Mönchengladbach
+29,Sat May 1 1999,Hamburger SV,2-0,1. FC Kaiserslautern
+29,Sat May 1 1999,Hansa Rostock,4-1,TSV 1860 München
+29,Sat May 1 1999,Bayer 04 Leverkusen,2-2,Hertha BSC
+29,Sat May 1 1999,VfL Wolfsburg,3-2,VfB Stuttgart
+29,Sun May 2 1999,MSV Duisburg,3-2,Borussia Dortmund
+30,Tue May 4 1999,Eintracht Frankfurt,2-2,Hamburger SV
+30,Tue May 4 1999,VfB Stuttgart,0-2,Bayern München
+30,Tue May 4 1999,Bor. Mönchengladbach,1-1,Hansa Rostock
+30,Tue May 4 1999,1. FC Kaiserslautern,4-0,Werder Bremen
+30,Wed May 5 1999,FC Schalke 04,1-1,Borussia Dortmund
+30,Wed May 5 1999,VfL Bochum,0-2,MSV Duisburg
+30,Wed May 5 1999,Hertha BSC,2-0,VfL Wolfsburg
+30,Wed May 5 1999,1. FC Nürnberg,2-2,Bayer 04 Leverkusen
+30,Wed May 5 1999,TSV 1860 München,2-0,SC Freiburg
+31,Fri May 7 1999,Werder Bremen,1-2,Eintracht Frankfurt
+31,Fri May 7 1999,Hansa Rostock,3-0,VfB Stuttgart
+31,Sat May 8 1999,VfL Wolfsburg,1-1,1. FC Nürnberg
+31,Sat May 8 1999,Borussia Dortmund,1-0,1. FC Kaiserslautern
+31,Sat May 8 1999,MSV Duisburg,1-2,FC Schalke 04
+31,Sat May 8 1999,Bayer 04 Leverkusen,2-0,VfL Bochum
+31,Sat May 8 1999,Hamburger SV,3-0,TSV 1860 München
+31,Sat May 8 1999,SC Freiburg,2-1,Bor. Mönchengladbach
+31,Sun May 9 1999,Bayern München,1-1,Hertha BSC
+29,Tue May 11 1999,Werder Bremen,1-0,FC Schalke 04
+32,Fri May 14 1999,Hertha BSC,2-0,Hansa Rostock
+32,Fri May 14 1999,Bor. Mönchengladbach,2-2,Hamburger SV
+32,Sat May 15 1999,MSV Duisburg,0-0,Bayer 04 Leverkusen
+32,Sat May 15 1999,VfL Bochum,0-2,VfL Wolfsburg
+32,Sat May 15 1999,VfB Stuttgart,3-1,SC Freiburg
+32,Sat May 15 1999,TSV 1860 München,1-3,Werder Bremen
+32,Sat May 15 1999,1. FC Nürnberg,2-0,Bayern München
+32,Sat May 15 1999,Eintracht Frankfurt,2-0,Borussia Dortmund
+32,Sun May 16 1999,FC Schalke 04,0-2,1. FC Kaiserslautern
+33,Sat May 22 1999,Hamburger SV,3-1,VfB Stuttgart
+33,Sat May 22 1999,Borussia Dortmund,3-1,TSV 1860 München
+33,Sat May 22 1999,SC Freiburg,0-2,Hertha BSC
+33,Sat May 22 1999,VfL Wolfsburg,1-0,Bayer 04 Leverkusen
+33,Sat May 22 1999,Hansa Rostock,1-1,1. FC Nürnberg
+33,Sat May 22 1999,1. FC Kaiserslautern,3-0,MSV Duisburg
+33,Sat May 22 1999,FC Schalke 04,2-3,Eintracht Frankfurt
+33,Sat May 22 1999,Werder Bremen,4-1,Bor. Mönchengladbach
+33,Sat May 22 1999,Bayern München,4-2,VfL Bochum
+34,Sat May 29 1999,VfL Bochum,2-3,Hansa Rostock
+34,Sat May 29 1999,MSV Duisburg,6-1,VfL Wolfsburg
+34,Sat May 29 1999,Eintracht Frankfurt,5-1,1. FC Kaiserslautern
+34,Sat May 29 1999,Hertha BSC,6-1,Hamburger SV
+34,Sat May 29 1999,Bayer 04 Leverkusen,1-2,Bayern München
+34,Sat May 29 1999,Bor. Mönchengladbach,0-2,Borussia Dortmund
+34,Sat May 29 1999,TSV 1860 München,4-5,FC Schalke 04
+34,Sat May 29 1999,1. FC Nürnberg,1-2,SC Freiburg
+34,Sat May 29 1999,VfB Stuttgart,1-0,Werder Bremen
