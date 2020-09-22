@@ -1,0 +1,307 @@
+Round,Date,Team 1,FT,Team 2
+1,Fri Sep 18 2020,Hamburger SV,,Fortuna Düsseldorf
+1,Fri Sep 18 2020,SSV Jahn Regensburg,,1. FC Nürnberg
+1,Sat Sep 19 2020,Hannover 96,,Karlsruher SC
+1,Sat Sep 19 2020,SV Sandhausen,,SV Darmstadt 98
+1,Sat Sep 19 2020,Würzburger Kickers,,FC Erzgebirge Aue
+1,Sun Sep 20 2020,1. FC Heidenheim,,Eintracht Braunschweig
+1,Sun Sep 20 2020,Holstein Kiel,,SC Paderborn 07
+1,Sun Sep 20 2020,SpVgg Greuther Fürth,,VfL Osnabrück
+1,Mon Sep 21 2020,VfL Bochum,,FC St. Pauli
+2,Fri Sep 25 2020,FC Erzgebirge Aue,,SpVgg Greuther Fürth
+2,Fri Sep 25 2020,VfL Osnabrück,,Hannover 96
+2,Sat Sep 26 2020,Fortuna Düsseldorf,,Würzburger Kickers
+2,Sat Sep 26 2020,SV Darmstadt 98,,SSV Jahn Regensburg
+2,Sat Sep 26 2020,Eintracht Braunschweig,,Holstein Kiel
+2,Sun Sep 27 2020,FC St. Pauli,,1. FC Heidenheim
+2,Sun Sep 27 2020,Karlsruher SC,,VfL Bochum
+2,Sun Sep 27 2020,1. FC Nürnberg,,SV Sandhausen
+2,Mon Sep 28 2020,SC Paderborn 07,,Hamburger SV
+3,Fri Oct 2 2020,VfL Bochum,,VfL Osnabrück
+3,Fri Oct 2 2020,SV Sandhausen,,FC St. Pauli
+3,Sat Oct 3 2020,1. FC Heidenheim,,SC Paderborn 07
+3,Sat Oct 3 2020,Hannover 96,,Eintracht Braunschweig
+3,Sat Oct 3 2020,SSV Jahn Regensburg,,Karlsruher SC
+3,Sun Oct 4 2020,Hamburger SV,,FC Erzgebirge Aue
+3,Sun Oct 4 2020,Holstein Kiel,,Fortuna Düsseldorf
+3,Sun Oct 4 2020,Würzburger Kickers,,SpVgg Greuther Fürth
+3,Mon Oct 5 2020,1. FC Nürnberg,,SV Darmstadt 98
+4,Sat Oct 17 2020,SpVgg Greuther Fürth,,Hamburger SV
+4,Sat Oct 17 2020,Karlsruher SC,,SV Sandhausen
+4,Sat Oct 17 2020,Eintracht Braunschweig,,VfL Bochum
+4,Sun Oct 18 2020,Fortuna Düsseldorf,,SSV Jahn Regensburg
+4,Sun Oct 18 2020,SC Paderborn 07,,Hannover 96
+4,Sun Oct 18 2020,FC Erzgebirge Aue,,1. FC Heidenheim
+4,Sun Oct 18 2020,VfL Osnabrück,,SV Darmstadt 98
+4,Sun Oct 18 2020,Würzburger Kickers,,Holstein Kiel
+4,Mon Oct 19 2020,FC St. Pauli,,1. FC Nürnberg
+5,Fri Oct 23 2020,SSV Jahn Regensburg,,Eintracht Braunschweig
+5,Fri Oct 23 2020,1. FC Nürnberg,,Karlsruher SC
+5,Sat Oct 24 2020,Hamburger SV,,Würzburger Kickers
+5,Sat Oct 24 2020,SV Darmstadt 98,,FC St. Pauli
+5,Sat Oct 24 2020,Hannover 96,,Fortuna Düsseldorf
+5,Sat Oct 24 2020,Holstein Kiel,,SpVgg Greuther Fürth
+5,Sun Oct 25 2020,1. FC Heidenheim,,VfL Osnabrück
+5,Sun Oct 25 2020,VfL Bochum,,FC Erzgebirge Aue
+5,Sun Oct 25 2020,SV Sandhausen,,SC Paderborn 07
+6,Fri Oct 30 2020,Fortuna Düsseldorf,,1. FC Heidenheim
+6,Fri Oct 30 2020,Hamburger SV,,FC St. Pauli
+6,Sat Oct 31 2020,SC Paderborn 07,,SSV Jahn Regensburg
+6,Sat Oct 31 2020,FC Erzgebirge Aue,,Holstein Kiel
+6,Sat Oct 31 2020,VfL Osnabrück,,SV Sandhausen
+6,Sat Oct 31 2020,Eintracht Braunschweig,,1. FC Nürnberg
+6,Sun Nov 1 2020,SpVgg Greuther Fürth,,Hannover 96
+6,Sun Nov 1 2020,Karlsruher SC,,SV Darmstadt 98
+6,Sun Nov 1 2020,Würzburger Kickers,,VfL Bochum
+7,Fri Nov 6 2020,1. FC Heidenheim,,Würzburger Kickers
+7,Fri Nov 6 2020,SV Sandhausen,,Eintracht Braunschweig
+7,Sat Nov 7 2020,Hannover 96,,FC Erzgebirge Aue
+7,Sat Nov 7 2020,VfL Bochum,,SpVgg Greuther Fürth
+7,Sat Nov 7 2020,1. FC Nürnberg,,Fortuna Düsseldorf
+7,Sun Nov 8 2020,SV Darmstadt 98,,SC Paderborn 07
+7,Sun Nov 8 2020,SSV Jahn Regensburg,,VfL Osnabrück
+7,Sun Nov 8 2020,FC St. Pauli,,Karlsruher SC
+7,Mon Nov 9 2020,Holstein Kiel,,Hamburger SV
+8,Sat Nov 21 2020,Fortuna Düsseldorf,,SV Sandhausen
+8,Sat Nov 21 2020,SC Paderborn 07,,FC St. Pauli
+8,Sat Nov 21 2020,Holstein Kiel,,1. FC Heidenheim
+8,Sat Nov 21 2020,Eintracht Braunschweig,,Karlsruher SC
+8,Sun Nov 22 2020,Hamburger SV,,VfL Bochum
+8,Sun Nov 22 2020,FC Erzgebirge Aue,,SV Darmstadt 98
+8,Sun Nov 22 2020,SpVgg Greuther Fürth,,SSV Jahn Regensburg
+8,Sun Nov 22 2020,Würzburger Kickers,,Hannover 96
+8,Mon Nov 23 2020,VfL Osnabrück,,1. FC Nürnberg
+9,Fri Nov 27 2020,1. FC Heidenheim,,Hamburger SV
+9,Fri Nov 27 2020,SV Darmstadt 98,,Eintracht Braunschweig
+9,Fri Nov 27 2020,Hannover 96,,Holstein Kiel
+9,Fri Nov 27 2020,VfL Bochum,,Fortuna Düsseldorf
+9,Fri Nov 27 2020,SV Sandhausen,,FC Erzgebirge Aue
+9,Fri Nov 27 2020,SSV Jahn Regensburg,,Würzburger Kickers
+9,Fri Nov 27 2020,FC St. Pauli,,VfL Osnabrück
+9,Fri Nov 27 2020,Karlsruher SC,,SC Paderborn 07
+9,Fri Nov 27 2020,1. FC Nürnberg,,SpVgg Greuther Fürth
+10,Fri Dec 4 2020,Fortuna Düsseldorf,,SV Darmstadt 98
+10,Fri Dec 4 2020,SC Paderborn 07,,1. FC Nürnberg
+10,Fri Dec 4 2020,Hamburger SV,,Hannover 96
+10,Fri Dec 4 2020,FC Erzgebirge Aue,,SSV Jahn Regensburg
+10,Fri Dec 4 2020,SpVgg Greuther Fürth,,1. FC Heidenheim
+10,Fri Dec 4 2020,Holstein Kiel,,VfL Bochum
+10,Fri Dec 4 2020,VfL Osnabrück,,Karlsruher SC
+10,Fri Dec 4 2020,Eintracht Braunschweig,,FC St. Pauli
+10,Fri Dec 4 2020,Würzburger Kickers,,SV Sandhausen
+11,Fri Dec 11 2020,1. FC Heidenheim,,Hannover 96
+11,Fri Dec 11 2020,SV Darmstadt 98,,Hamburger SV
+11,Fri Dec 11 2020,VfL Bochum,,SC Paderborn 07
+11,Fri Dec 11 2020,SV Sandhausen,,SpVgg Greuther Fürth
+11,Fri Dec 11 2020,SSV Jahn Regensburg,,Holstein Kiel
+11,Fri Dec 11 2020,FC St. Pauli,,FC Erzgebirge Aue
+11,Fri Dec 11 2020,Karlsruher SC,,Fortuna Düsseldorf
+11,Fri Dec 11 2020,1. FC Nürnberg,,Würzburger Kickers
+11,Fri Dec 11 2020,Eintracht Braunschweig,,VfL Osnabrück
+12,Tue Dec 15 2020,Fortuna Düsseldorf,,VfL Osnabrück
+12,Tue Dec 15 2020,SC Paderborn 07,,Eintracht Braunschweig
+12,Tue Dec 15 2020,1. FC Heidenheim,,SSV Jahn Regensburg
+12,Tue Dec 15 2020,Hamburger SV,,SV Sandhausen
+12,Tue Dec 15 2020,Hannover 96,,VfL Bochum
+12,Tue Dec 15 2020,FC Erzgebirge Aue,,Karlsruher SC
+12,Tue Dec 15 2020,SpVgg Greuther Fürth,,SV Darmstadt 98
+12,Tue Dec 15 2020,Holstein Kiel,,1. FC Nürnberg
+12,Tue Dec 15 2020,Würzburger Kickers,,FC St. Pauli
+13,Fri Dec 18 2020,SV Darmstadt 98,,Würzburger Kickers
+13,Fri Dec 18 2020,VfL Bochum,,1. FC Heidenheim
+13,Fri Dec 18 2020,SV Sandhausen,,Holstein Kiel
+13,Fri Dec 18 2020,SSV Jahn Regensburg,,Hannover 96
+13,Fri Dec 18 2020,VfL Osnabrück,,SC Paderborn 07
+13,Fri Dec 18 2020,FC St. Pauli,,Fortuna Düsseldorf
+13,Fri Dec 18 2020,Karlsruher SC,,Hamburger SV
+13,Fri Dec 18 2020,1. FC Nürnberg,,FC Erzgebirge Aue
+13,Fri Dec 18 2020,Eintracht Braunschweig,,SpVgg Greuther Fürth
+14,Sat Jan 2 2021,Fortuna Düsseldorf,,SC Paderborn 07
+14,Sat Jan 2 2021,1. FC Heidenheim,,1. FC Nürnberg
+14,Sat Jan 2 2021,Hamburger SV,,SSV Jahn Regensburg
+14,Sat Jan 2 2021,Hannover 96,,SV Sandhausen
+14,Sat Jan 2 2021,FC Erzgebirge Aue,,Eintracht Braunschweig
+14,Sat Jan 2 2021,VfL Bochum,,SV Darmstadt 98
+14,Sat Jan 2 2021,SpVgg Greuther Fürth,,FC St. Pauli
+14,Sat Jan 2 2021,Holstein Kiel,,VfL Osnabrück
+14,Sat Jan 2 2021,Würzburger Kickers,,Karlsruher SC
+15,Fri Jan 8 2021,SC Paderborn 07,,FC Erzgebirge Aue
+15,Fri Jan 8 2021,SV Darmstadt 98,,Hannover 96
+15,Fri Jan 8 2021,SV Sandhausen,,1. FC Heidenheim
+15,Fri Jan 8 2021,SSV Jahn Regensburg,,VfL Bochum
+15,Fri Jan 8 2021,VfL Osnabrück,,Würzburger Kickers
+15,Fri Jan 8 2021,FC St. Pauli,,Holstein Kiel
+15,Fri Jan 8 2021,Karlsruher SC,,SpVgg Greuther Fürth
+15,Fri Jan 8 2021,1. FC Nürnberg,,Hamburger SV
+15,Fri Jan 8 2021,Eintracht Braunschweig,,Fortuna Düsseldorf
+16,Fri Jan 15 2021,1. FC Heidenheim,,SV Darmstadt 98
+16,Fri Jan 15 2021,Hamburger SV,,VfL Osnabrück
+16,Fri Jan 15 2021,Hannover 96,,FC St. Pauli
+16,Fri Jan 15 2021,FC Erzgebirge Aue,,Fortuna Düsseldorf
+16,Fri Jan 15 2021,VfL Bochum,,1. FC Nürnberg
+16,Fri Jan 15 2021,SpVgg Greuther Fürth,,SC Paderborn 07
+16,Fri Jan 15 2021,Holstein Kiel,,Karlsruher SC
+16,Fri Jan 15 2021,SSV Jahn Regensburg,,SV Sandhausen
+16,Fri Jan 15 2021,Würzburger Kickers,,Eintracht Braunschweig
+17,Fri Jan 22 2021,Fortuna Düsseldorf,,SpVgg Greuther Fürth
+17,Fri Jan 22 2021,SC Paderborn 07,,Würzburger Kickers
+17,Fri Jan 22 2021,SV Darmstadt 98,,Holstein Kiel
+17,Fri Jan 22 2021,SV Sandhausen,,VfL Bochum
+17,Fri Jan 22 2021,VfL Osnabrück,,FC Erzgebirge Aue
+17,Fri Jan 22 2021,FC St. Pauli,,SSV Jahn Regensburg
+17,Fri Jan 22 2021,Karlsruher SC,,1. FC Heidenheim
+17,Fri Jan 22 2021,1. FC Nürnberg,,Hannover 96
+17,Fri Jan 22 2021,Eintracht Braunschweig,,Hamburger SV
+18,Tue Jan 26 2021,Fortuna Düsseldorf,,Hamburger SV
+18,Tue Jan 26 2021,1. FC Nürnberg,,SSV Jahn Regensburg
+18,Tue Jan 26 2021,Eintracht Braunschweig,,1. FC Heidenheim
+18,Tue Jan 26 2021,Karlsruher SC,,Hannover 96
+18,Tue Jan 26 2021,FC St. Pauli,,VfL Bochum
+18,Tue Jan 26 2021,SV Darmstadt 98,,SV Sandhausen
+18,Tue Jan 26 2021,SC Paderborn 07,,Holstein Kiel
+18,Tue Jan 26 2021,FC Erzgebirge Aue,,Würzburger Kickers
+18,Tue Jan 26 2021,VfL Osnabrück,,SpVgg Greuther Fürth
+19,Fri Jan 29 2021,Würzburger Kickers,,Fortuna Düsseldorf
+19,Fri Jan 29 2021,Hamburger SV,,SC Paderborn 07
+19,Fri Jan 29 2021,SSV Jahn Regensburg,,SV Darmstadt 98
+19,Fri Jan 29 2021,SpVgg Greuther Fürth,,FC Erzgebirge Aue
+19,Fri Jan 29 2021,Hannover 96,,VfL Osnabrück
+19,Fri Jan 29 2021,1. FC Heidenheim,,FC St. Pauli
+19,Fri Jan 29 2021,VfL Bochum,,Karlsruher SC
+19,Fri Jan 29 2021,SV Sandhausen,,1. FC Nürnberg
+19,Fri Jan 29 2021,Holstein Kiel,,Eintracht Braunschweig
+20,Fri Feb 5 2021,SC Paderborn 07,,1. FC Heidenheim
+20,Fri Feb 5 2021,FC Erzgebirge Aue,,Hamburger SV
+20,Fri Feb 5 2021,Eintracht Braunschweig,,Hannover 96
+20,Fri Feb 5 2021,VfL Osnabrück,,VfL Bochum
+20,Fri Feb 5 2021,FC St. Pauli,,SV Sandhausen
+20,Fri Feb 5 2021,Fortuna Düsseldorf,,Holstein Kiel
+20,Fri Feb 5 2021,Karlsruher SC,,SSV Jahn Regensburg
+20,Fri Feb 5 2021,SV Darmstadt 98,,1. FC Nürnberg
+20,Fri Feb 5 2021,SpVgg Greuther Fürth,,Würzburger Kickers
+21,Fri Feb 12 2021,SSV Jahn Regensburg,,Fortuna Düsseldorf
+21,Fri Feb 12 2021,Hannover 96,,SC Paderborn 07
+21,Fri Feb 12 2021,1. FC Heidenheim,,FC Erzgebirge Aue
+21,Fri Feb 12 2021,Hamburger SV,,SpVgg Greuther Fürth
+21,Fri Feb 12 2021,SV Darmstadt 98,,VfL Osnabrück
+21,Fri Feb 12 2021,1. FC Nürnberg,,FC St. Pauli
+21,Fri Feb 12 2021,SV Sandhausen,,Karlsruher SC
+21,Fri Feb 12 2021,VfL Bochum,,Eintracht Braunschweig
+21,Fri Feb 12 2021,Holstein Kiel,,Würzburger Kickers
+22,Fri Feb 19 2021,VfL Osnabrück,,1. FC Heidenheim
+22,Fri Feb 19 2021,Würzburger Kickers,,Hamburger SV
+22,Fri Feb 19 2021,FC St. Pauli,,SV Darmstadt 98
+22,Fri Feb 19 2021,Fortuna Düsseldorf,,Hannover 96
+22,Fri Feb 19 2021,FC Erzgebirge Aue,,VfL Bochum
+22,Fri Feb 19 2021,SC Paderborn 07,,SV Sandhausen
+22,Fri Feb 19 2021,SpVgg Greuther Fürth,,Holstein Kiel
+22,Fri Feb 19 2021,Eintracht Braunschweig,,SSV Jahn Regensburg
+22,Fri Feb 19 2021,Karlsruher SC,,1. FC Nürnberg
+23,Fri Feb 26 2021,1. FC Heidenheim,,Fortuna Düsseldorf
+23,Fri Feb 26 2021,SSV Jahn Regensburg,,SC Paderborn 07
+23,Fri Feb 26 2021,FC St. Pauli,,Hamburger SV
+23,Fri Feb 26 2021,Holstein Kiel,,FC Erzgebirge Aue
+23,Fri Feb 26 2021,Hannover 96,,SpVgg Greuther Fürth
+23,Fri Feb 26 2021,SV Sandhausen,,VfL Osnabrück
+23,Fri Feb 26 2021,SV Darmstadt 98,,Karlsruher SC
+23,Fri Feb 26 2021,1. FC Nürnberg,,Eintracht Braunschweig
+23,Fri Feb 26 2021,VfL Bochum,,Würzburger Kickers
+24,Fri Mar 5 2021,Würzburger Kickers,,1. FC Heidenheim
+24,Fri Mar 5 2021,SC Paderborn 07,,SV Darmstadt 98
+24,Fri Mar 5 2021,FC Erzgebirge Aue,,Hannover 96
+24,Fri Mar 5 2021,SpVgg Greuther Fürth,,VfL Bochum
+24,Fri Mar 5 2021,Eintracht Braunschweig,,SV Sandhausen
+24,Fri Mar 5 2021,Hamburger SV,,Holstein Kiel
+24,Fri Mar 5 2021,VfL Osnabrück,,SSV Jahn Regensburg
+24,Fri Mar 5 2021,Karlsruher SC,,FC St. Pauli
+24,Fri Mar 5 2021,Fortuna Düsseldorf,,1. FC Nürnberg
+25,Fri Mar 12 2021,SV Sandhausen,,Fortuna Düsseldorf
+25,Fri Mar 12 2021,FC St. Pauli,,SC Paderborn 07
+25,Fri Mar 12 2021,VfL Bochum,,Hamburger SV
+25,Fri Mar 12 2021,SV Darmstadt 98,,FC Erzgebirge Aue
+25,Fri Mar 12 2021,SSV Jahn Regensburg,,SpVgg Greuther Fürth
+25,Fri Mar 12 2021,1. FC Heidenheim,,Holstein Kiel
+25,Fri Mar 12 2021,1. FC Nürnberg,,VfL Osnabrück
+25,Fri Mar 12 2021,Karlsruher SC,,Eintracht Braunschweig
+25,Fri Mar 12 2021,Hannover 96,,Würzburger Kickers
+26,Fri Mar 19 2021,Hamburger SV,,1. FC Heidenheim
+26,Fri Mar 19 2021,Eintracht Braunschweig,,SV Darmstadt 98
+26,Fri Mar 19 2021,Holstein Kiel,,Hannover 96
+26,Fri Mar 19 2021,Fortuna Düsseldorf,,VfL Bochum
+26,Fri Mar 19 2021,FC Erzgebirge Aue,,SV Sandhausen
+26,Fri Mar 19 2021,Würzburger Kickers,,SSV Jahn Regensburg
+26,Fri Mar 19 2021,VfL Osnabrück,,FC St. Pauli
+26,Fri Mar 19 2021,SC Paderborn 07,,Karlsruher SC
+26,Fri Mar 19 2021,SpVgg Greuther Fürth,,1. FC Nürnberg
+27,Sat Apr 3 2021,SV Darmstadt 98,,Fortuna Düsseldorf
+27,Sat Apr 3 2021,1. FC Nürnberg,,SC Paderborn 07
+27,Sat Apr 3 2021,Hannover 96,,Hamburger SV
+27,Sat Apr 3 2021,SSV Jahn Regensburg,,FC Erzgebirge Aue
+27,Sat Apr 3 2021,1. FC Heidenheim,,SpVgg Greuther Fürth
+27,Sat Apr 3 2021,VfL Bochum,,Holstein Kiel
+27,Sat Apr 3 2021,Karlsruher SC,,VfL Osnabrück
+27,Sat Apr 3 2021,FC St. Pauli,,Eintracht Braunschweig
+27,Sat Apr 3 2021,SV Sandhausen,,Würzburger Kickers
+28,Fri Apr 9 2021,Hannover 96,,1. FC Heidenheim
+28,Fri Apr 9 2021,Hamburger SV,,SV Darmstadt 98
+28,Fri Apr 9 2021,SC Paderborn 07,,VfL Bochum
+28,Fri Apr 9 2021,SpVgg Greuther Fürth,,SV Sandhausen
+28,Fri Apr 9 2021,Holstein Kiel,,SSV Jahn Regensburg
+28,Fri Apr 9 2021,FC Erzgebirge Aue,,FC St. Pauli
+28,Fri Apr 9 2021,Fortuna Düsseldorf,,Karlsruher SC
+28,Fri Apr 9 2021,Würzburger Kickers,,1. FC Nürnberg
+28,Fri Apr 9 2021,VfL Osnabrück,,Eintracht Braunschweig
+29,Fri Apr 16 2021,VfL Osnabrück,,Fortuna Düsseldorf
+29,Fri Apr 16 2021,Eintracht Braunschweig,,SC Paderborn 07
+29,Fri Apr 16 2021,SSV Jahn Regensburg,,1. FC Heidenheim
+29,Fri Apr 16 2021,SV Sandhausen,,Hamburger SV
+29,Fri Apr 16 2021,VfL Bochum,,Hannover 96
+29,Fri Apr 16 2021,Karlsruher SC,,FC Erzgebirge Aue
+29,Fri Apr 16 2021,SV Darmstadt 98,,SpVgg Greuther Fürth
+29,Fri Apr 16 2021,1. FC Nürnberg,,Holstein Kiel
+29,Fri Apr 16 2021,FC St. Pauli,,Würzburger Kickers
+30,Tue Apr 20 2021,Würzburger Kickers,,SV Darmstadt 98
+30,Tue Apr 20 2021,1. FC Heidenheim,,VfL Bochum
+30,Tue Apr 20 2021,Holstein Kiel,,SV Sandhausen
+30,Tue Apr 20 2021,Hannover 96,,SSV Jahn Regensburg
+30,Tue Apr 20 2021,SC Paderborn 07,,VfL Osnabrück
+30,Tue Apr 20 2021,Fortuna Düsseldorf,,FC St. Pauli
+30,Tue Apr 20 2021,Hamburger SV,,Karlsruher SC
+30,Tue Apr 20 2021,FC Erzgebirge Aue,,1. FC Nürnberg
+30,Tue Apr 20 2021,SpVgg Greuther Fürth,,Eintracht Braunschweig
+31,Fri Apr 23 2021,SC Paderborn 07,,Fortuna Düsseldorf
+31,Fri Apr 23 2021,1. FC Nürnberg,,1. FC Heidenheim
+31,Fri Apr 23 2021,SSV Jahn Regensburg,,Hamburger SV
+31,Fri Apr 23 2021,SV Sandhausen,,Hannover 96
+31,Fri Apr 23 2021,Eintracht Braunschweig,,FC Erzgebirge Aue
+31,Fri Apr 23 2021,SV Darmstadt 98,,VfL Bochum
+31,Fri Apr 23 2021,FC St. Pauli,,SpVgg Greuther Fürth
+31,Fri Apr 23 2021,VfL Osnabrück,,Holstein Kiel
+31,Fri Apr 23 2021,Karlsruher SC,,Würzburger Kickers
+32,Fri May 7 2021,FC Erzgebirge Aue,,SC Paderborn 07
+32,Fri May 7 2021,Hannover 96,,SV Darmstadt 98
+32,Fri May 7 2021,1. FC Heidenheim,,SV Sandhausen
+32,Fri May 7 2021,VfL Bochum,,SSV Jahn Regensburg
+32,Fri May 7 2021,Würzburger Kickers,,VfL Osnabrück
+32,Fri May 7 2021,Holstein Kiel,,FC St. Pauli
+32,Fri May 7 2021,SpVgg Greuther Fürth,,Karlsruher SC
+32,Fri May 7 2021,Hamburger SV,,1. FC Nürnberg
+32,Fri May 7 2021,Fortuna Düsseldorf,,Eintracht Braunschweig
+33,Sun May 16 2021,SV Darmstadt 98,,1. FC Heidenheim
+33,Sun May 16 2021,VfL Osnabrück,,Hamburger SV
+33,Sun May 16 2021,FC St. Pauli,,Hannover 96
+33,Sun May 16 2021,Fortuna Düsseldorf,,FC Erzgebirge Aue
+33,Sun May 16 2021,1. FC Nürnberg,,VfL Bochum
+33,Sun May 16 2021,SC Paderborn 07,,SpVgg Greuther Fürth
+33,Sun May 16 2021,Karlsruher SC,,Holstein Kiel
+33,Sun May 16 2021,SV Sandhausen,,SSV Jahn Regensburg
+33,Sun May 16 2021,Eintracht Braunschweig,,Würzburger Kickers
+34,Sun May 23 2021,SpVgg Greuther Fürth,,Fortuna Düsseldorf
+34,Sun May 23 2021,Würzburger Kickers,,SC Paderborn 07
+34,Sun May 23 2021,Holstein Kiel,,SV Darmstadt 98
+34,Sun May 23 2021,VfL Bochum,,SV Sandhausen
+34,Sun May 23 2021,FC Erzgebirge Aue,,VfL Osnabrück
+34,Sun May 23 2021,SSV Jahn Regensburg,,FC St. Pauli
+34,Sun May 23 2021,1. FC Heidenheim,,Karlsruher SC
+34,Sun May 23 2021,Hannover 96,,1. FC Nürnberg
+34,Sun May 23 2021,Hamburger SV,,Eintracht Braunschweig
