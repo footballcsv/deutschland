@@ -1,124 +1,124 @@
 Round,Date,Team 1,FT,Team 2
-1,Fri Sep 18 2020,1. FC Kaiserslautern,,Dynamo Dresden
-1,Sat Sep 19 2020,Bayern München II,,Türkgücü München
-1,Sat Sep 19 2020,FC Ingolstadt 04,,KFC Uerdingen
-1,Sat Sep 19 2020,Hansa Rostock,,MSV Duisburg
-1,Sat Sep 19 2020,SV Meppen,,TSV 1860 München
-1,Sat Sep 19 2020,1. FC Magdeburg,,Hallescher FC
-1,Sat Sep 19 2020,FSV Zwickau,,SpVgg Unterhaching
-1,Sat Sep 19 2020,SV Wehen Wiesbaden,,SC Verl
-1,Sat Sep 19 2020,VfB Lübeck,,1. FC Saarbrücken
-1,Sat Sep 19 2020,SV Waldhof Mannheim,,FC Viktoria Köln
-2,Fri Sep 25 2020,Dynamo Dresden,,SV Waldhof Mannheim
-2,Fri Sep 25 2020,MSV Duisburg,,FSV Zwickau
+1,Fri Sep 18 2020,1. FC Kaiserslautern,0-1,Dynamo Dresden
+1,Sat Sep 19 2020,Bayern München II,2-2,Türkgücü München
+1,Sat Sep 19 2020,Hansa Rostock,3-1,MSV Duisburg
+1,Sat Sep 19 2020,SV Meppen,1-3,TSV 1860 München
+1,Sat Sep 19 2020,FSV Zwickau,2-1,SpVgg Unterhaching
+1,Sat Sep 19 2020,SV Wehen Wiesbaden,0-0,SC Verl
+1,Sat Sep 19 2020,VfB Lübeck,1-1,1. FC Saarbrücken
+1,Sun Sep 20 2020,FC Ingolstadt 04,2-1,KFC Uerdingen
+1,Sun Sep 20 2020,1. FC Magdeburg,0-2,Hallescher FC
+1,Mon Sep 21 2020,SV Waldhof Mannheim,2-2,FC Viktoria Köln
 2,Fri Sep 25 2020,SpVgg Unterhaching,,VfB Lübeck
-2,Fri Sep 25 2020,FC Viktoria Köln,,SV Wehen Wiesbaden
-2,Fri Sep 25 2020,1. FC Saarbrücken,,Hansa Rostock
-2,Fri Sep 25 2020,SC Verl,,Bayern München II
-2,Fri Sep 25 2020,Türkgücü München,,1. FC Kaiserslautern
-2,Fri Sep 25 2020,TSV 1860 München,,1. FC Magdeburg
-2,Fri Sep 25 2020,Hallescher FC,,FC Ingolstadt 04
-2,Fri Sep 25 2020,KFC Uerdingen,,SV Meppen
+2,Sat Sep 26 2020,MSV Duisburg,,FSV Zwickau
+2,Sat Sep 26 2020,FC Viktoria Köln,,SV Wehen Wiesbaden
+2,Sat Sep 26 2020,1. FC Saarbrücken,,Hansa Rostock
+2,Sat Sep 26 2020,SC Verl,,Bayern München II
+2,Sat Sep 26 2020,TSV 1860 München,,1. FC Magdeburg
+2,Sat Sep 26 2020,Hallescher FC,,FC Ingolstadt 04
+2,Sun Sep 27 2020,Dynamo Dresden,,SV Waldhof Mannheim
+2,Sun Sep 27 2020,Türkgücü München,,1. FC Kaiserslautern
+2,Mon Sep 28 2020,KFC Uerdingen,,SV Meppen
 3,Fri Oct 2 2020,Bayern München II,,Dynamo Dresden
-3,Fri Oct 2 2020,SV Wehen Wiesbaden,,1. FC Kaiserslautern
-3,Fri Oct 2 2020,Hansa Rostock,,KFC Uerdingen
-3,Fri Oct 2 2020,SV Meppen,,SC Verl
-3,Fri Oct 2 2020,1. FC Magdeburg,,FC Viktoria Köln
-3,Fri Oct 2 2020,FSV Zwickau,,TSV 1860 München
-3,Fri Oct 2 2020,1. FC Saarbrücken,,Hallescher FC
-3,Fri Oct 2 2020,FC Ingolstadt 04,,SpVgg Unterhaching
-3,Fri Oct 2 2020,SV Waldhof Mannheim,,Türkgücü München
-3,Fri Oct 2 2020,VfB Lübeck,,MSV Duisburg
-4,Fri Oct 9 2020,1. FC Kaiserslautern,,SV Waldhof Mannheim
+3,Sat Oct 3 2020,SV Meppen,,SC Verl
+3,Sat Oct 3 2020,1. FC Magdeburg,,FC Viktoria Köln
+3,Sat Oct 3 2020,FSV Zwickau,,TSV 1860 München
+3,Sat Oct 3 2020,FC Ingolstadt 04,,SpVgg Unterhaching
+3,Sat Oct 3 2020,SV Waldhof Mannheim,,Türkgücü München
+3,Sat Oct 3 2020,VfB Lübeck,,MSV Duisburg
+3,Sun Oct 4 2020,Hansa Rostock,,KFC Uerdingen
+3,Sun Oct 4 2020,1. FC Saarbrücken,,Hallescher FC
+3,Mon Oct 5 2020,SV Wehen Wiesbaden,,1. FC Kaiserslautern
 4,Fri Oct 9 2020,MSV Duisburg,,1. FC Saarbrücken
-4,Fri Oct 9 2020,TSV 1860 München,,VfB Lübeck
-4,Fri Oct 9 2020,KFC Uerdingen,,Bayern München II
-4,Fri Oct 9 2020,Hallescher FC,,FSV Zwickau
-4,Fri Oct 9 2020,SC Verl,,Hansa Rostock
-4,Fri Oct 9 2020,Türkgücü München,,SV Wehen Wiesbaden
-4,Fri Oct 9 2020,SpVgg Unterhaching,,SV Meppen
-4,Fri Oct 9 2020,FC Viktoria Köln,,FC Ingolstadt 04
-4,Fri Oct 9 2020,Dynamo Dresden,,1. FC Magdeburg
+4,Sat Oct 10 2020,1. FC Kaiserslautern,,SV Waldhof Mannheim
+4,Sat Oct 10 2020,TSV 1860 München,,VfB Lübeck
+4,Sat Oct 10 2020,KFC Uerdingen,,Bayern München II
+4,Sat Oct 10 2020,SC Verl,,Hansa Rostock
+4,Sat Oct 10 2020,Türkgücü München,,SV Wehen Wiesbaden
+4,Sat Oct 10 2020,Dynamo Dresden,,1. FC Magdeburg
+4,Sun Oct 11 2020,SpVgg Unterhaching,,SV Meppen
+4,Sun Oct 11 2020,FC Viktoria Köln,,FC Ingolstadt 04
+4,Mon Oct 12 2020,Hallescher FC,,FSV Zwickau
 5,Fri Oct 16 2020,1. FC Magdeburg,,Türkgücü München
-5,Fri Oct 16 2020,Bayern München II,,1. FC Kaiserslautern
-5,Fri Oct 16 2020,FC Ingolstadt 04,,SC Verl
-5,Fri Oct 16 2020,MSV Duisburg,,Hallescher FC
-5,Fri Oct 16 2020,Hansa Rostock,,TSV 1860 München
-5,Fri Oct 16 2020,SV Meppen,,FC Viktoria Köln
-5,Fri Oct 16 2020,VfB Lübeck,,Dynamo Dresden
-5,Fri Oct 16 2020,SV Wehen Wiesbaden,,SV Waldhof Mannheim
-5,Fri Oct 16 2020,FSV Zwickau,,KFC Uerdingen
-5,Fri Oct 16 2020,1. FC Saarbrücken,,SpVgg Unterhaching
-6,Tue Oct 20 2020,1. FC Kaiserslautern,,FC Ingolstadt 04
-6,Tue Oct 20 2020,FC Viktoria Köln,,Bayern München II
-6,Tue Oct 20 2020,Hallescher FC,,SV Meppen
+5,Sat Oct 17 2020,Bayern München II,,1. FC Kaiserslautern
+5,Sat Oct 17 2020,FC Ingolstadt 04,,SC Verl
+5,Sat Oct 17 2020,Hansa Rostock,,TSV 1860 München
+5,Sat Oct 17 2020,VfB Lübeck,,Dynamo Dresden
+5,Sat Oct 17 2020,SV Wehen Wiesbaden,,SV Waldhof Mannheim
+5,Sat Oct 17 2020,FSV Zwickau,,KFC Uerdingen
+5,Sun Oct 18 2020,1. FC Saarbrücken,,SpVgg Unterhaching
+5,Sun Oct 18 2020,MSV Duisburg,,Hallescher FC
+5,Sun Oct 18 2020,SV Meppen,,FC Viktoria Köln
 6,Tue Oct 20 2020,SC Verl,,1. FC Magdeburg
 6,Tue Oct 20 2020,Türkgücü München,,VfB Lübeck
 6,Tue Oct 20 2020,Dynamo Dresden,,FSV Zwickau
-6,Tue Oct 20 2020,TSV 1860 München,,1. FC Saarbrücken
 6,Tue Oct 20 2020,SV Waldhof Mannheim,,Hansa Rostock
-6,Tue Oct 20 2020,SpVgg Unterhaching,,MSV Duisburg
 6,Tue Oct 20 2020,KFC Uerdingen,,SV Wehen Wiesbaden
-7,Fri Oct 23 2020,SV Meppen,,1. FC Kaiserslautern
-7,Fri Oct 23 2020,Bayern München II,,SV Waldhof Mannheim
-7,Fri Oct 23 2020,FC Ingolstadt 04,,Dynamo Dresden
-7,Fri Oct 23 2020,Hansa Rostock,,FC Viktoria Köln
+6,Wed Oct 21 2020,1. FC Kaiserslautern,,FC Ingolstadt 04
+6,Wed Oct 21 2020,FC Viktoria Köln,,Bayern München II
+6,Wed Oct 21 2020,Hallescher FC,,SV Meppen
+6,Wed Oct 21 2020,TSV 1860 München,,1. FC Saarbrücken
+6,Wed Oct 21 2020,SpVgg Unterhaching,,MSV Duisburg
 7,Fri Oct 23 2020,FSV Zwickau,,Türkgücü München
-7,Fri Oct 23 2020,1. FC Saarbrücken,,SC Verl
-7,Fri Oct 23 2020,VfB Lübeck,,Hallescher FC
-7,Fri Oct 23 2020,SpVgg Unterhaching,,TSV 1860 München
-7,Fri Oct 23 2020,1. FC Magdeburg,,SV Wehen Wiesbaden
-7,Fri Oct 23 2020,MSV Duisburg,,KFC Uerdingen
-8,Fri Oct 30 2020,SC Verl,,FSV Zwickau
-8,Fri Oct 30 2020,SV Wehen Wiesbaden,,Bayern München II
-8,Fri Oct 30 2020,Dynamo Dresden,,SV Meppen
-8,Fri Oct 30 2020,SV Waldhof Mannheim,,1. FC Magdeburg
+7,Sat Oct 24 2020,SV Meppen,,1. FC Kaiserslautern
+7,Sat Oct 24 2020,FC Ingolstadt 04,,Dynamo Dresden
+7,Sat Oct 24 2020,Hansa Rostock,,FC Viktoria Köln
+7,Sat Oct 24 2020,VfB Lübeck,,Hallescher FC
+7,Sat Oct 24 2020,1. FC Magdeburg,,SV Wehen Wiesbaden
+7,Sat Oct 24 2020,MSV Duisburg,,KFC Uerdingen
+7,Sun Oct 25 2020,1. FC Saarbrücken,,SC Verl
+7,Sun Oct 25 2020,Bayern München II,,SV Waldhof Mannheim
+7,Mon Oct 26 2020,SpVgg Unterhaching,,TSV 1860 München
 8,Fri Oct 30 2020,FC Viktoria Köln,,VfB Lübeck
-8,Fri Oct 30 2020,KFC Uerdingen,,1. FC Saarbrücken
-8,Fri Oct 30 2020,Hallescher FC,,SpVgg Unterhaching
-8,Fri Oct 30 2020,TSV 1860 München,,MSV Duisburg
-8,Fri Oct 30 2020,1. FC Kaiserslautern,,Hansa Rostock
-8,Fri Oct 30 2020,Türkgücü München,,FC Ingolstadt 04
-9,Fri Nov 6 2020,MSV Duisburg,,FC Viktoria Köln
+8,Sat Oct 31 2020,SC Verl,,FSV Zwickau
+8,Sat Oct 31 2020,Dynamo Dresden,,SV Meppen
+8,Sat Oct 31 2020,SV Waldhof Mannheim,,1. FC Magdeburg
+8,Sat Oct 31 2020,KFC Uerdingen,,1. FC Saarbrücken
+8,Sat Oct 31 2020,Hallescher FC,,SpVgg Unterhaching
+8,Sat Oct 31 2020,TSV 1860 München,,MSV Duisburg
+8,Sun Nov 1 2020,SV Wehen Wiesbaden,,Bayern München II
+8,Sun Nov 1 2020,Türkgücü München,,FC Ingolstadt 04
+8,Mon Nov 2 2020,1. FC Kaiserslautern,,Hansa Rostock
 9,Fri Nov 6 2020,FC Ingolstadt 04,,SV Wehen Wiesbaden
-9,Fri Nov 6 2020,Hansa Rostock,,Türkgücü München
-9,Fri Nov 6 2020,SpVgg Unterhaching,,SC Verl
-9,Fri Nov 6 2020,1. FC Magdeburg,,Bayern München II
-9,Fri Nov 6 2020,FSV Zwickau,,1. FC Kaiserslautern
-9,Fri Nov 6 2020,TSV 1860 München,,Hallescher FC
-9,Fri Nov 6 2020,SV Meppen,,SV Waldhof Mannheim
-9,Fri Nov 6 2020,VfB Lübeck,,KFC Uerdingen
-9,Fri Nov 6 2020,1. FC Saarbrücken,,Dynamo Dresden
-10,Fri Nov 13 2020,Bayern München II,,SV Meppen
-10,Fri Nov 13 2020,SV Wehen Wiesbaden,,FSV Zwickau
-10,Fri Nov 13 2020,Dynamo Dresden,,TSV 1860 München
-10,Fri Nov 13 2020,1. FC Kaiserslautern,,1. FC Magdeburg
+9,Sat Nov 7 2020,Hansa Rostock,,Türkgücü München
+9,Sat Nov 7 2020,1. FC Magdeburg,,Bayern München II
+9,Sat Nov 7 2020,FSV Zwickau,,1. FC Kaiserslautern
+9,Sat Nov 7 2020,TSV 1860 München,,Hallescher FC
+9,Sat Nov 7 2020,SV Meppen,,SV Waldhof Mannheim
+9,Sat Nov 7 2020,1. FC Saarbrücken,,Dynamo Dresden
+9,Sun Nov 8 2020,SpVgg Unterhaching,,SC Verl
+9,Sun Nov 8 2020,VfB Lübeck,,KFC Uerdingen
+9,Mon Nov 9 2020,MSV Duisburg,,FC Viktoria Köln
 10,Fri Nov 13 2020,FC Viktoria Köln,,1. FC Saarbrücken
-10,Fri Nov 13 2020,KFC Uerdingen,,SpVgg Unterhaching
-10,Fri Nov 13 2020,Hallescher FC,,Hansa Rostock
-10,Fri Nov 13 2020,SC Verl,,VfB Lübeck
-10,Fri Nov 13 2020,Türkgücü München,,MSV Duisburg
-10,Fri Nov 13 2020,SV Waldhof Mannheim,,FC Ingolstadt 04
-11,Sat Nov 21 2020,VfB Lübeck,,Bayern München II
-11,Sat Nov 21 2020,FC Ingolstadt 04,,1. FC Magdeburg
-11,Sat Nov 21 2020,MSV Duisburg,,SC Verl
+10,Sat Nov 14 2020,SV Wehen Wiesbaden,,FSV Zwickau
+10,Sat Nov 14 2020,1. FC Kaiserslautern,,1. FC Magdeburg
+10,Sat Nov 14 2020,KFC Uerdingen,,SpVgg Unterhaching
+10,Sat Nov 14 2020,Hallescher FC,,Hansa Rostock
+10,Sat Nov 14 2020,Türkgücü München,,MSV Duisburg
+10,Sat Nov 14 2020,SV Waldhof Mannheim,,FC Ingolstadt 04
+10,Sun Nov 15 2020,Bayern München II,,SV Meppen
+10,Sun Nov 15 2020,Dynamo Dresden,,TSV 1860 München
+10,Mon Nov 16 2020,SC Verl,,VfB Lübeck
+11,Fri Nov 20 2020,MSV Duisburg,,SC Verl
 11,Sat Nov 21 2020,TSV 1860 München,,KFC Uerdingen
 11,Sat Nov 21 2020,SV Meppen,,Türkgücü München
 11,Sat Nov 21 2020,Hallescher FC,,1. FC Kaiserslautern
 11,Sat Nov 21 2020,1. FC Saarbrücken,,SV Wehen Wiesbaden
 11,Sat Nov 21 2020,Hansa Rostock,,Dynamo Dresden
-11,Sat Nov 21 2020,SpVgg Unterhaching,,FC Viktoria Köln
 11,Sat Nov 21 2020,FSV Zwickau,,SV Waldhof Mannheim
+11,Sun Nov 22 2020,VfB Lübeck,,Bayern München II
+11,Sun Nov 22 2020,SpVgg Unterhaching,,FC Viktoria Köln
+11,Sun Nov 22 2020,FC Ingolstadt 04,,1. FC Magdeburg
 12,Tue Nov 24 2020,SV Wehen Wiesbaden,,SV Meppen
-12,Tue Nov 24 2020,Bayern München II,,FC Ingolstadt 04
-12,Tue Nov 24 2020,1. FC Kaiserslautern,,VfB Lübeck
 12,Tue Nov 24 2020,KFC Uerdingen,,Hallescher FC
 12,Tue Nov 24 2020,SC Verl,,TSV 1860 München
-12,Tue Nov 24 2020,Dynamo Dresden,,SpVgg Unterhaching
 12,Tue Nov 24 2020,SV Waldhof Mannheim,,MSV Duisburg
-12,Tue Nov 24 2020,FC Viktoria Köln,,FSV Zwickau
-12,Tue Nov 24 2020,1. FC Magdeburg,,Hansa Rostock
 12,Tue Nov 24 2020,Türkgücü München,,1. FC Saarbrücken
+12,Wed Nov 25 2020,Bayern München II,,FC Ingolstadt 04
+12,Wed Nov 25 2020,1. FC Kaiserslautern,,VfB Lübeck
+12,Wed Nov 25 2020,Dynamo Dresden,,SpVgg Unterhaching
+12,Wed Nov 25 2020,FC Viktoria Köln,,FSV Zwickau
+12,Wed Nov 25 2020,1. FC Magdeburg,,Hansa Rostock
 13,Sat Nov 28 2020,KFC Uerdingen,,SC Verl
 13,Sat Nov 28 2020,Hansa Rostock,,Bayern München II
 13,Sat Nov 28 2020,SV Meppen,,FC Ingolstadt 04

@@ -1,13 +1,13 @@
 Round,Date,Team 1,FT,Team 2
-1,Fri Sep 18 2020,Hamburger SV,,Fortuna Düsseldorf
-1,Fri Sep 18 2020,SSV Jahn Regensburg,,1. FC Nürnberg
-1,Sat Sep 19 2020,Hannover 96,,Karlsruher SC
-1,Sat Sep 19 2020,SV Sandhausen,,SV Darmstadt 98
-1,Sat Sep 19 2020,Würzburger Kickers,,FC Erzgebirge Aue
-1,Sun Sep 20 2020,1. FC Heidenheim,,Eintracht Braunschweig
-1,Sun Sep 20 2020,Holstein Kiel,,SC Paderborn 07
-1,Sun Sep 20 2020,SpVgg Greuther Fürth,,VfL Osnabrück
-1,Mon Sep 21 2020,VfL Bochum,,FC St. Pauli
+1,Fri Sep 18 2020,Hamburger SV,2-1,Fortuna Düsseldorf
+1,Fri Sep 18 2020,SSV Jahn Regensburg,1-1,1. FC Nürnberg
+1,Sat Sep 19 2020,Hannover 96,2-0,Karlsruher SC
+1,Sat Sep 19 2020,SV Sandhausen,3-2,SV Darmstadt 98
+1,Sat Sep 19 2020,Würzburger Kickers,0-3,FC Erzgebirge Aue
+1,Sun Sep 20 2020,1. FC Heidenheim,2-0,Eintracht Braunschweig
+1,Sun Sep 20 2020,Holstein Kiel,1-0,SC Paderborn 07
+1,Sun Sep 20 2020,SpVgg Greuther Fürth,1-1,VfL Osnabrück
+1,Mon Sep 21 2020,VfL Bochum,2-2,FC St. Pauli
 2,Fri Sep 25 2020,FC Erzgebirge Aue,,SpVgg Greuther Fürth
 2,Fri Sep 25 2020,VfL Osnabrück,,Hannover 96
 2,Sat Sep 26 2020,Fortuna Düsseldorf,,Würzburger Kickers
