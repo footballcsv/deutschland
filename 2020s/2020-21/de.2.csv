@@ -8,23 +8,23 @@ Round,Date,Team 1,FT,Team 2
 1,Sun Sep 20 2020,Holstein Kiel,1-0,SC Paderborn 07
 1,Sun Sep 20 2020,SpVgg Greuther Fürth,1-1,VfL Osnabrück
 1,Mon Sep 21 2020,VfL Bochum,2-2,FC St. Pauli
-2,Fri Sep 25 2020,FC Erzgebirge Aue,,SpVgg Greuther Fürth
-2,Fri Sep 25 2020,VfL Osnabrück,,Hannover 96
-2,Sat Sep 26 2020,Fortuna Düsseldorf,,Würzburger Kickers
-2,Sat Sep 26 2020,SV Darmstadt 98,,SSV Jahn Regensburg
-2,Sat Sep 26 2020,Eintracht Braunschweig,,Holstein Kiel
-2,Sun Sep 27 2020,FC St. Pauli,,1. FC Heidenheim
-2,Sun Sep 27 2020,Karlsruher SC,,VfL Bochum
-2,Sun Sep 27 2020,1. FC Nürnberg,,SV Sandhausen
-2,Mon Sep 28 2020,SC Paderborn 07,,Hamburger SV
-3,Fri Oct 2 2020,VfL Bochum,,VfL Osnabrück
-3,Fri Oct 2 2020,SV Sandhausen,,FC St. Pauli
-3,Sat Oct 3 2020,1. FC Heidenheim,,SC Paderborn 07
-3,Sat Oct 3 2020,Hannover 96,,Eintracht Braunschweig
-3,Sat Oct 3 2020,SSV Jahn Regensburg,,Karlsruher SC
+2,Fri Sep 25 2020,FC Erzgebirge Aue,1-1,SpVgg Greuther Fürth
+2,Fri Sep 25 2020,VfL Osnabrück,2-1,Hannover 96
+2,Sat Sep 26 2020,Fortuna Düsseldorf,1-0,Würzburger Kickers
+2,Sat Sep 26 2020,SV Darmstadt 98,0-0,SSV Jahn Regensburg
+2,Sat Sep 26 2020,Eintracht Braunschweig,0-0,Holstein Kiel
+2,Sun Sep 27 2020,FC St. Pauli,4-2,1. FC Heidenheim
+2,Sun Sep 27 2020,Karlsruher SC,0-1,VfL Bochum
+2,Sun Sep 27 2020,1. FC Nürnberg,1-0,SV Sandhausen
+2,Mon Sep 28 2020,SC Paderborn 07,3-4,Hamburger SV
+3,Fri Oct 2 2020,VfL Bochum,0-0,VfL Osnabrück
+3,Fri Oct 2 2020,SV Sandhausen,1-0,FC St. Pauli
+3,Sat Oct 3 2020,1. FC Heidenheim,0-0,SC Paderborn 07
+3,Sat Oct 3 2020,Hannover 96,4-1,Eintracht Braunschweig
+3,Sat Oct 3 2020,SSV Jahn Regensburg,1-0,Karlsruher SC
 3,Sun Oct 4 2020,Hamburger SV,,FC Erzgebirge Aue
-3,Sun Oct 4 2020,Holstein Kiel,,Fortuna Düsseldorf
-3,Sun Oct 4 2020,Würzburger Kickers,,SpVgg Greuther Fürth
+3,Sun Oct 4 2020,Holstein Kiel,2-1,Fortuna Düsseldorf
+3,Sun Oct 4 2020,Würzburger Kickers,2-2,SpVgg Greuther Fürth
 3,Mon Oct 5 2020,1. FC Nürnberg,,SV Darmstadt 98
 4,Sat Oct 17 2020,SpVgg Greuther Fürth,,Hamburger SV
 4,Sat Oct 17 2020,Karlsruher SC,,SV Sandhausen

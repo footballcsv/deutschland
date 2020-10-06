@@ -9,25 +9,25 @@ Round,Date,Team 1,FT,Team 2
 1,Sun Sep 20 2020,FC Ingolstadt 04,2-1,KFC Uerdingen
 1,Sun Sep 20 2020,1. FC Magdeburg,0-2,Hallescher FC
 1,Mon Sep 21 2020,SV Waldhof Mannheim,2-2,FC Viktoria Köln
-2,Fri Sep 25 2020,SpVgg Unterhaching,,VfB Lübeck
-2,Sat Sep 26 2020,MSV Duisburg,,FSV Zwickau
-2,Sat Sep 26 2020,FC Viktoria Köln,,SV Wehen Wiesbaden
-2,Sat Sep 26 2020,1. FC Saarbrücken,,Hansa Rostock
-2,Sat Sep 26 2020,SC Verl,,Bayern München II
-2,Sat Sep 26 2020,TSV 1860 München,,1. FC Magdeburg
-2,Sat Sep 26 2020,Hallescher FC,,FC Ingolstadt 04
-2,Sun Sep 27 2020,Dynamo Dresden,,SV Waldhof Mannheim
-2,Sun Sep 27 2020,Türkgücü München,,1. FC Kaiserslautern
-2,Mon Sep 28 2020,KFC Uerdingen,,SV Meppen
-3,Fri Oct 2 2020,Bayern München II,,Dynamo Dresden
-3,Sat Oct 3 2020,SV Meppen,,SC Verl
-3,Sat Oct 3 2020,1. FC Magdeburg,,FC Viktoria Köln
-3,Sat Oct 3 2020,FSV Zwickau,,TSV 1860 München
-3,Sat Oct 3 2020,FC Ingolstadt 04,,SpVgg Unterhaching
-3,Sat Oct 3 2020,SV Waldhof Mannheim,,Türkgücü München
-3,Sat Oct 3 2020,VfB Lübeck,,MSV Duisburg
-3,Sun Oct 4 2020,Hansa Rostock,,KFC Uerdingen
-3,Sun Oct 4 2020,1. FC Saarbrücken,,Hallescher FC
+2,Fri Sep 25 2020,SpVgg Unterhaching,1-0,VfB Lübeck
+2,Sat Sep 26 2020,MSV Duisburg,1-1,FSV Zwickau
+2,Sat Sep 26 2020,FC Viktoria Köln,0-2,SV Wehen Wiesbaden
+2,Sat Sep 26 2020,1. FC Saarbrücken,2-0,Hansa Rostock
+2,Sat Sep 26 2020,SC Verl,3-0,Bayern München II
+2,Sat Sep 26 2020,TSV 1860 München,1-1,1. FC Magdeburg
+2,Sat Sep 26 2020,Hallescher FC,0-2,FC Ingolstadt 04
+2,Sun Sep 27 2020,Dynamo Dresden,1-1,SV Waldhof Mannheim
+2,Sun Sep 27 2020,Türkgücü München,3-0,1. FC Kaiserslautern
+2,Mon Sep 28 2020,KFC Uerdingen,0-2,SV Meppen
+3,Fri Oct 2 2020,Bayern München II,3-0,Dynamo Dresden
+3,Sat Oct 3 2020,SV Meppen,1-2,SC Verl
+3,Sat Oct 3 2020,1. FC Magdeburg,0-2,FC Viktoria Köln
+3,Sat Oct 3 2020,FSV Zwickau,1-2,TSV 1860 München
+3,Sat Oct 3 2020,FC Ingolstadt 04,0-1,SpVgg Unterhaching
+3,Sat Oct 3 2020,SV Waldhof Mannheim,4-4,Türkgücü München
+3,Sat Oct 3 2020,VfB Lübeck,1-1,MSV Duisburg
+3,Sun Oct 4 2020,Hansa Rostock,0-0,KFC Uerdingen
+3,Sun Oct 4 2020,1. FC Saarbrücken,4-0,Hallescher FC
 3,Mon Oct 5 2020,SV Wehen Wiesbaden,,1. FC Kaiserslautern
 4,Fri Oct 9 2020,MSV Duisburg,,1. FC Saarbrücken
 4,Sat Oct 10 2020,1. FC Kaiserslautern,,SV Waldhof Mannheim
