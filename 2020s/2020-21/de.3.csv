@@ -28,27 +28,27 @@ Round,Date,Team 1,FT,Team 2
 3,Sat Oct 3 2020,VfB Lübeck,1-1,MSV Duisburg
 3,Sun Oct 4 2020,Hansa Rostock,0-0,KFC Uerdingen
 3,Sun Oct 4 2020,1. FC Saarbrücken,4-0,Hallescher FC
-3,Mon Oct 5 2020,SV Wehen Wiesbaden,,1. FC Kaiserslautern
+3,Mon Oct 5 2020,SV Wehen Wiesbaden,2-2,1. FC Kaiserslautern
 4,Fri Oct 9 2020,MSV Duisburg,,1. FC Saarbrücken
-4,Sat Oct 10 2020,1. FC Kaiserslautern,,SV Waldhof Mannheim
-4,Sat Oct 10 2020,TSV 1860 München,,VfB Lübeck
-4,Sat Oct 10 2020,KFC Uerdingen,,Bayern München II
-4,Sat Oct 10 2020,SC Verl,,Hansa Rostock
-4,Sat Oct 10 2020,Türkgücü München,,SV Wehen Wiesbaden
-4,Sat Oct 10 2020,Dynamo Dresden,,1. FC Magdeburg
-4,Sun Oct 11 2020,SpVgg Unterhaching,,SV Meppen
-4,Sun Oct 11 2020,FC Viktoria Köln,,FC Ingolstadt 04
-4,Mon Oct 12 2020,Hallescher FC,,FSV Zwickau
-5,Fri Oct 16 2020,1. FC Magdeburg,,Türkgücü München
-5,Sat Oct 17 2020,Bayern München II,,1. FC Kaiserslautern
-5,Sat Oct 17 2020,FC Ingolstadt 04,,SC Verl
-5,Sat Oct 17 2020,Hansa Rostock,,TSV 1860 München
-5,Sat Oct 17 2020,VfB Lübeck,,Dynamo Dresden
-5,Sat Oct 17 2020,SV Wehen Wiesbaden,,SV Waldhof Mannheim
-5,Sat Oct 17 2020,FSV Zwickau,,KFC Uerdingen
-5,Sun Oct 18 2020,1. FC Saarbrücken,,SpVgg Unterhaching
+4,Sat Oct 10 2020,1. FC Kaiserslautern,1-1,SV Waldhof Mannheim
+4,Sat Oct 10 2020,TSV 1860 München,4-1,VfB Lübeck
+4,Sat Oct 10 2020,KFC Uerdingen,1-1,Bayern München II
+4,Sat Oct 10 2020,SC Verl,2-3,Hansa Rostock
+4,Sat Oct 10 2020,Türkgücü München,0-0,SV Wehen Wiesbaden
+4,Sat Oct 10 2020,Dynamo Dresden,1-0,1. FC Magdeburg
+4,Sun Oct 11 2020,SpVgg Unterhaching,2-1,SV Meppen
+4,Sun Oct 11 2020,FC Viktoria Köln,2-0,FC Ingolstadt 04
+4,Mon Oct 12 2020,Hallescher FC,0-2,FSV Zwickau
+5,Fri Oct 16 2020,1. FC Magdeburg,2-0,Türkgücü München
+5,Sat Oct 17 2020,Bayern München II,0-0,1. FC Kaiserslautern
+5,Sat Oct 17 2020,FC Ingolstadt 04,2-1,SC Verl
+5,Sat Oct 17 2020,Hansa Rostock,1-1,TSV 1860 München
+5,Sat Oct 17 2020,VfB Lübeck,0-1,Dynamo Dresden
+5,Sat Oct 17 2020,SV Wehen Wiesbaden,0-1,SV Waldhof Mannheim
+5,Sat Oct 17 2020,FSV Zwickau,1-2,KFC Uerdingen
 5,Sun Oct 18 2020,MSV Duisburg,,Hallescher FC
-5,Sun Oct 18 2020,SV Meppen,,FC Viktoria Köln
+5,Sun Oct 18 2020,1. FC Saarbrücken,2-1,SpVgg Unterhaching
+5,Sun Oct 18 2020,SV Meppen,0-1,FC Viktoria Köln
 6,Tue Oct 20 2020,SC Verl,,1. FC Magdeburg
 6,Tue Oct 20 2020,Türkgücü München,,VfB Lübeck
 6,Tue Oct 20 2020,Dynamo Dresden,,FSV Zwickau

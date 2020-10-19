@@ -22,28 +22,28 @@ Round,Date,Team 1,FT,Team 2
 3,Sat Oct 3 2020,1. FC Heidenheim,0-0,SC Paderborn 07
 3,Sat Oct 3 2020,Hannover 96,4-1,Eintracht Braunschweig
 3,Sat Oct 3 2020,SSV Jahn Regensburg,1-0,Karlsruher SC
-3,Sun Oct 4 2020,Hamburger SV,,FC Erzgebirge Aue
 3,Sun Oct 4 2020,Holstein Kiel,2-1,Fortuna Düsseldorf
 3,Sun Oct 4 2020,Würzburger Kickers,2-2,SpVgg Greuther Fürth
-3,Mon Oct 5 2020,1. FC Nürnberg,,SV Darmstadt 98
-4,Sat Oct 17 2020,SpVgg Greuther Fürth,,Hamburger SV
-4,Sat Oct 17 2020,Karlsruher SC,,SV Sandhausen
-4,Sat Oct 17 2020,Eintracht Braunschweig,,VfL Bochum
-4,Sun Oct 18 2020,Fortuna Düsseldorf,,SSV Jahn Regensburg
-4,Sun Oct 18 2020,SC Paderborn 07,,Hannover 96
-4,Sun Oct 18 2020,FC Erzgebirge Aue,,1. FC Heidenheim
-4,Sun Oct 18 2020,VfL Osnabrück,,SV Darmstadt 98
-4,Sun Oct 18 2020,Würzburger Kickers,,Holstein Kiel
+3,Mon Oct 5 2020,1. FC Nürnberg,2-3,SV Darmstadt 98
+4,Sat Oct 17 2020,Eintracht Braunschweig,2-1,VfL Bochum
+4,Sat Oct 17 2020,SpVgg Greuther Fürth,0-1,Hamburger SV
+4,Sat Oct 17 2020,Karlsruher SC,3-0,SV Sandhausen
+4,Sun Oct 18 2020,Würzburger Kickers,0-2,Holstein Kiel
+4,Sun Oct 18 2020,Fortuna Düsseldorf,2-2,SSV Jahn Regensburg
+4,Sun Oct 18 2020,SC Paderborn 07,1-0,Hannover 96
+4,Sun Oct 18 2020,FC Erzgebirge Aue,2-1,1. FC Heidenheim
 4,Mon Oct 19 2020,FC St. Pauli,,1. FC Nürnberg
-5,Fri Oct 23 2020,SSV Jahn Regensburg,,Eintracht Braunschweig
+3,Wed Oct 21 2020,Hamburger SV,,FC Erzgebirge Aue
 5,Fri Oct 23 2020,1. FC Nürnberg,,Karlsruher SC
+5,Fri Oct 23 2020,SSV Jahn Regensburg,,Eintracht Braunschweig
+5,Sat Oct 24 2020,Holstein Kiel,,SpVgg Greuther Fürth
 5,Sat Oct 24 2020,Hamburger SV,,Würzburger Kickers
 5,Sat Oct 24 2020,SV Darmstadt 98,,FC St. Pauli
 5,Sat Oct 24 2020,Hannover 96,,Fortuna Düsseldorf
-5,Sat Oct 24 2020,Holstein Kiel,,SpVgg Greuther Fürth
-5,Sun Oct 25 2020,1. FC Heidenheim,,VfL Osnabrück
 5,Sun Oct 25 2020,VfL Bochum,,FC Erzgebirge Aue
+5,Sun Oct 25 2020,1. FC Heidenheim,,VfL Osnabrück
 5,Sun Oct 25 2020,SV Sandhausen,,SC Paderborn 07
+4,Wed Oct 28 2020,VfL Osnabrück,,SV Darmstadt 98
 6,Fri Oct 30 2020,Fortuna Düsseldorf,,1. FC Heidenheim
 6,Fri Oct 30 2020,Hamburger SV,,FC St. Pauli
 6,Sat Oct 31 2020,SC Paderborn 07,,SSV Jahn Regensburg
@@ -71,42 +71,42 @@ Round,Date,Team 1,FT,Team 2
 8,Sun Nov 22 2020,SpVgg Greuther Fürth,,SSV Jahn Regensburg
 8,Sun Nov 22 2020,Würzburger Kickers,,Hannover 96
 8,Mon Nov 23 2020,VfL Osnabrück,,1. FC Nürnberg
-9,Fri Nov 27 2020,1. FC Heidenheim,,Hamburger SV
 9,Fri Nov 27 2020,SV Darmstadt 98,,Eintracht Braunschweig
-9,Fri Nov 27 2020,Hannover 96,,Holstein Kiel
-9,Fri Nov 27 2020,VfL Bochum,,Fortuna Düsseldorf
-9,Fri Nov 27 2020,SV Sandhausen,,FC Erzgebirge Aue
-9,Fri Nov 27 2020,SSV Jahn Regensburg,,Würzburger Kickers
 9,Fri Nov 27 2020,FC St. Pauli,,VfL Osnabrück
-9,Fri Nov 27 2020,Karlsruher SC,,SC Paderborn 07
-9,Fri Nov 27 2020,1. FC Nürnberg,,SpVgg Greuther Fürth
+9,Sat Nov 28 2020,SV Sandhausen,,FC Erzgebirge Aue
+9,Sat Nov 28 2020,SSV Jahn Regensburg,,Würzburger Kickers
+9,Sat Nov 28 2020,Karlsruher SC,,SC Paderborn 07
+9,Sun Nov 29 2020,1. FC Heidenheim,,Hamburger SV
+9,Sun Nov 29 2020,Hannover 96,,Holstein Kiel
+9,Sun Nov 29 2020,1. FC Nürnberg,,SpVgg Greuther Fürth
+9,Mon Nov 30 2020,VfL Bochum,,Fortuna Düsseldorf
 10,Fri Dec 4 2020,Fortuna Düsseldorf,,SV Darmstadt 98
-10,Fri Dec 4 2020,SC Paderborn 07,,1. FC Nürnberg
-10,Fri Dec 4 2020,Hamburger SV,,Hannover 96
-10,Fri Dec 4 2020,FC Erzgebirge Aue,,SSV Jahn Regensburg
-10,Fri Dec 4 2020,SpVgg Greuther Fürth,,1. FC Heidenheim
 10,Fri Dec 4 2020,Holstein Kiel,,VfL Bochum
-10,Fri Dec 4 2020,VfL Osnabrück,,Karlsruher SC
-10,Fri Dec 4 2020,Eintracht Braunschweig,,FC St. Pauli
-10,Fri Dec 4 2020,Würzburger Kickers,,SV Sandhausen
-11,Fri Dec 11 2020,1. FC Heidenheim,,Hannover 96
-11,Fri Dec 11 2020,SV Darmstadt 98,,Hamburger SV
+10,Sat Dec 5 2020,Hamburger SV,,Hannover 96
+10,Sat Dec 5 2020,SpVgg Greuther Fürth,,1. FC Heidenheim
+10,Sat Dec 5 2020,VfL Osnabrück,,Karlsruher SC
+10,Sat Dec 5 2020,Eintracht Braunschweig,,FC St. Pauli
+10,Sun Dec 6 2020,SC Paderborn 07,,1. FC Nürnberg
+10,Sun Dec 6 2020,FC Erzgebirge Aue,,SSV Jahn Regensburg
+10,Sun Dec 6 2020,Würzburger Kickers,,SV Sandhausen
 11,Fri Dec 11 2020,VfL Bochum,,SC Paderborn 07
 11,Fri Dec 11 2020,SV Sandhausen,,SpVgg Greuther Fürth
-11,Fri Dec 11 2020,SSV Jahn Regensburg,,Holstein Kiel
-11,Fri Dec 11 2020,FC St. Pauli,,FC Erzgebirge Aue
-11,Fri Dec 11 2020,Karlsruher SC,,Fortuna Düsseldorf
-11,Fri Dec 11 2020,1. FC Nürnberg,,Würzburger Kickers
-11,Fri Dec 11 2020,Eintracht Braunschweig,,VfL Osnabrück
-12,Tue Dec 15 2020,Fortuna Düsseldorf,,VfL Osnabrück
-12,Tue Dec 15 2020,SC Paderborn 07,,Eintracht Braunschweig
+11,Sat Dec 12 2020,1. FC Heidenheim,,Hannover 96
+11,Sat Dec 12 2020,SV Darmstadt 98,,Hamburger SV
+11,Sat Dec 12 2020,SSV Jahn Regensburg,,Holstein Kiel
+11,Sun Dec 13 2020,FC St. Pauli,,FC Erzgebirge Aue
+11,Sun Dec 13 2020,Karlsruher SC,,Fortuna Düsseldorf
+11,Sun Dec 13 2020,1. FC Nürnberg,,Würzburger Kickers
+11,Sun Dec 13 2020,Eintracht Braunschweig,,VfL Osnabrück
 12,Tue Dec 15 2020,1. FC Heidenheim,,SSV Jahn Regensburg
 12,Tue Dec 15 2020,Hamburger SV,,SV Sandhausen
 12,Tue Dec 15 2020,Hannover 96,,VfL Bochum
-12,Tue Dec 15 2020,FC Erzgebirge Aue,,Karlsruher SC
 12,Tue Dec 15 2020,SpVgg Greuther Fürth,,SV Darmstadt 98
-12,Tue Dec 15 2020,Holstein Kiel,,1. FC Nürnberg
-12,Tue Dec 15 2020,Würzburger Kickers,,FC St. Pauli
+12,Wed Dec 16 2020,Fortuna Düsseldorf,,VfL Osnabrück
+12,Wed Dec 16 2020,SC Paderborn 07,,Eintracht Braunschweig
+12,Wed Dec 16 2020,Holstein Kiel,,1. FC Nürnberg
+12,Wed Dec 16 2020,Würzburger Kickers,,FC St. Pauli
+12,Wed Dec 16 2020,FC Erzgebirge Aue,,Karlsruher SC
 13,Fri Dec 18 2020,SV Darmstadt 98,,Würzburger Kickers
 13,Fri Dec 18 2020,VfL Bochum,,1. FC Heidenheim
 13,Fri Dec 18 2020,SV Sandhausen,,Holstein Kiel
