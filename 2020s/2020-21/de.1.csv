@@ -44,14 +44,14 @@ Round,Date,Team 1,FT,Team 2
 5,Sun Oct 25 2020,VfL Wolfsburg,2-1,Arminia Bielefeld
 5,Sun Oct 25 2020,Werder Bremen,1-1,TSG 1899 Hoffenheim
 5,Mon Oct 26 2020,Bayer 04 Leverkusen,3-1,FC Augsburg
-6,Fri Oct 30 2020,FC Schalke 04,,VfB Stuttgart
-6,Sat Oct 31 2020,Eintracht Frankfurt,,Werder Bremen
-6,Sat Oct 31 2020,1. FC Köln,,Bayern München
-6,Sat Oct 31 2020,FC Augsburg,,1. FSV Mainz 05
-6,Sat Oct 31 2020,Arminia Bielefeld,,Borussia Dortmund
-6,Sat Oct 31 2020,Bor. Mönchengladbach,,RB Leipzig
-6,Sun Nov 1 2020,SC Freiburg,,Bayer 04 Leverkusen
-6,Sun Nov 1 2020,Hertha BSC,,VfL Wolfsburg
+6,Fri Oct 30 2020,FC Schalke 04,1-1,VfB Stuttgart
+6,Sat Oct 31 2020,Eintracht Frankfurt,1-1,Werder Bremen
+6,Sat Oct 31 2020,1. FC Köln,1-2,Bayern München
+6,Sat Oct 31 2020,FC Augsburg,3-1,1. FSV Mainz 05
+6,Sat Oct 31 2020,Arminia Bielefeld,0-2,Borussia Dortmund
+6,Sat Oct 31 2020,Bor. Mönchengladbach,1-0,RB Leipzig
+6,Sun Nov 1 2020,SC Freiburg,2-4,Bayer 04 Leverkusen
+6,Sun Nov 1 2020,Hertha BSC,1-1,VfL Wolfsburg
 6,Mon Nov 2 2020,TSG 1899 Hoffenheim,,1. FC Union Berlin
 7,Fri Nov 6 2020,Werder Bremen,,1. FC Köln
 7,Sat Nov 7 2020,RB Leipzig,,SC Freiburg
