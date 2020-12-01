@@ -62,22 +62,22 @@ Round,Date,Team 1,FT,Team 2
 7,Sat Nov 7 2020,Borussia Dortmund,2-3,Bayern München
 7,Sun Nov 8 2020,VfL Wolfsburg,2-1,TSG 1899 Hoffenheim
 7,Sun Nov 8 2020,Bayer 04 Leverkusen,4-3,Bor. Mönchengladbach
-8,Sat Nov 21 2020,Bayern München,1-1,Werder Bremen
-8,Sat Nov 21 2020,Bor. Mönchengladbach,1-1,FC Augsburg
-8,Sat Nov 21 2020,TSG 1899 Hoffenheim,3-3,VfB Stuttgart
-8,Sat Nov 21 2020,FC Schalke 04,0-2,VfL Wolfsburg
-8,Sat Nov 21 2020,Arminia Bielefeld,1-2,Bayer 04 Leverkusen
-8,Sat Nov 21 2020,Eintracht Frankfurt,1-1,RB Leipzig
-8,Sat Nov 21 2020,Hertha BSC,2-5,Borussia Dortmund
-8,Sun Nov 22 2020,SC Freiburg,1-3,1. FSV Mainz 05
-8,Sun Nov 22 2020,1. FC Köln,1-2,1. FC Union Berlin
-9,Fri Nov 27 2020,VfL Wolfsburg,5-3,Werder Bremen
-9,Sat Nov 28 2020,Borussia Dortmund,1-2,1. FC Köln
-9,Sat Nov 28 2020,RB Leipzig,2-1,Arminia Bielefeld
-9,Sat Nov 28 2020,1. FC Union Berlin,3-3,Eintracht Frankfurt
-9,Sat Nov 28 2020,FC Augsburg,1-1,SC Freiburg
-9,Sat Nov 28 2020,VfB Stuttgart,1-3,Bayern München
-9,Sat Nov 28 2020,Bor. Mönchengladbach,4-1,FC Schalke 04
+8,Sat Nov 21 2020,Bayern München,,Werder Bremen
+8,Sat Nov 21 2020,Bor. Mönchengladbach,,FC Augsburg
+8,Sat Nov 21 2020,TSG 1899 Hoffenheim,,VfB Stuttgart
+8,Sat Nov 21 2020,FC Schalke 04,,VfL Wolfsburg
+8,Sat Nov 21 2020,Arminia Bielefeld,,Bayer 04 Leverkusen
+8,Sat Nov 21 2020,Eintracht Frankfurt,,RB Leipzig
+8,Sat Nov 21 2020,Hertha BSC,,Borussia Dortmund
+8,Sun Nov 22 2020,SC Freiburg,,1. FSV Mainz 05
+8,Sun Nov 22 2020,1. FC Köln,,1. FC Union Berlin
+9,Fri Nov 27 2020,VfL Wolfsburg,,Werder Bremen
+9,Sat Nov 28 2020,Borussia Dortmund,,1. FC Köln
+9,Sat Nov 28 2020,RB Leipzig,,Arminia Bielefeld
+9,Sat Nov 28 2020,1. FC Union Berlin,,Eintracht Frankfurt
+9,Sat Nov 28 2020,FC Augsburg,,SC Freiburg
+9,Sat Nov 28 2020,VfB Stuttgart,,Bayern München
+9,Sat Nov 28 2020,Bor. Mönchengladbach,,FC Schalke 04
 9,Sun Nov 29 2020,Bayer 04 Leverkusen,,Hertha BSC
 9,Sun Nov 29 2020,1. FSV Mainz 05,,TSG 1899 Hoffenheim
 10,Fri Dec 4 2020,Hertha BSC,,1. FC Union Berlin
